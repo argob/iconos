@@ -107,6 +107,9 @@
               <div class="form-group">
                 <input class="form-control search" placeholder="Filtrá los íconos por nombre">
               </div>
+              <div class="text-center">
+                <p class="text-muted">Hacé clic en el ícono para copiar el nombre al portapapeles</p>
+              </div>
             </div>
           </div>
 
@@ -116,7 +119,6 @@
                 <i id="<%= selector[1..-1] %>" class="<%= selector[1..-1].gsub('.', ' ') %> icono-4x text-gray" data-clipboard-text="<%= selector[1..-1].gsub('.', ' ') %>"></i>
                 <br>
                 <p class="name m-b-0"><%= name.to_s %></p>
-                <!-- <small class="text-muted">.<%= selector[1..-1].gsub('.', ' ') %></small> -->
               </div>
             <% end %>
           </div>
