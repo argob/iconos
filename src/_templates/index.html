@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Poncho íconos</title>
+    <meta name="description" content="Íconos para utilizar en sitios web y productos de la Administración Pública Nacional de la República Argentina.">
+    <meta name="author" content="Presidencia de la Nación">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- Nav and address bar color -->
+    <meta name="theme-color" content="#0072b8">
+    <meta name="msapplication-navbutton-color" content="#0072b8">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#0072b8">
+
+    <meta property="og:url" content="/iconos">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Poncho íconos">
+    <meta property="og:description" content="Íconos para utilizar en sitios web y productos de la Administración Pública Nacional de la República Argentina.">
+    <!-- <meta property="og:image" content="/ejemplos/img/jumbotron.jpg"> -->
+    <meta property="og:locale" content="es_AR">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Poncho íconos">
+    <meta name="twitter:description" content="Íconos para utilizar en sitios web y productos de la Administración Pública Nacional de la República Argentina.">
+    <!-- <meta name="twitter:image" content="/ejemplos/img/jumbotron.jpg"> -->
+
+    <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="vendor/poncho/dist/css/roboto-fontface.css" rel="stylesheet">
+    <link href="vendor/poncho/dist/css/droid-serif.css" rel="stylesheet">
+    <link href="vendor/poncho/dist/css/poncho.css" rel="stylesheet">
+
+    <link href="dist/css/icono-arg.css" rel="stylesheet">
+    <style>
+
+      #icons .list i:active:before {
+        -ms-transform: scale(0.8, 0.8); /* IE 9 */
+        -webkit-transform: scale(0.8, 0.8); /* Safari */
+        transform: scale(0.8, 0.8);
+      }
+      #icons .list i.copy:before {
+        animation: copy 1.5s;
+      }
+
+      @keyframes copy { 
+        0% { 
+          -ms-transform: scale(0.8, 0.8); /* IE 9 */
+          -webkit-transform: scale(0.8, 0.8); /* Safari */
+          transform: scale(0.8, 0.8);
+        }
+        5% { 
+          -ms-transform: scale(1.2, 1.2); /* IE 9 */
+          -webkit-transform: scale(1.2, 1.2); /* Safari */
+          transform: scale(1.2, 1.2);
+          color: #46a948;
+        } 
+        100% { 
+          -ms-transform: scale(1, 1); /* IE 9 */
+          -webkit-transform: scale(1, 1); /* Safari */
+          transform: scale(1, 1);
+          color: #444;
+        }
+
+      }
+    </style>
+    <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+
+  <body>
+    <header>
+      <nav class="navbar navbar-top navbar-default" role="navigation">
+        <div class="container">
+          <div>
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <div class="navbar-brand">
+                <img alt="Poncho" src="img/poncho.gif" height="50">
+                <h1>Poncho <small>íconos</small></h1>
+              </div>
+            </div>
+            <div class="collapse navbar-collapse" id="main-navbar-collapse">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="/poncho">Poncho</a></li>
+                <li class="active"><a href="/iconos">Íconos</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="page" class="container">
+
+        <!-- <h1 class="text-center">Íconos de poncho</h1> -->
+
+        <div id="icons">
+
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">    
+              <div class="form-group">
+                <input class="form-control search" placeholder="Filtrá los íconos por nombre">
+              </div>
+            </div>
+          </div>
+
+          <div class="list row row-flex padding-40">
+            <% @glyphs.each do |name, value| selector = @options[:css_selector].sub('{{glyph}}', name.to_s) %>
+              <div class="col-xs-6 col-sm-4 col-md-3 text-center margin-40">
+                <i id="<%= selector[1..-1] %>" class="<%= selector[1..-1].gsub('.', ' ') %> icono-4x text-gray" data-clipboard-text="<%= selector[1..-1].gsub('.', ' ') %>"></i>
+                <br>
+                <p class="name m-b-0"><%= name.to_s %></p>
+                <!-- <small class="text-muted">.<%= selector[1..-1].gsub('.', ' ') %></small> -->
+              </div>
+            <% end %>
+          </div>
+
+        </div>
+
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="node_modules/list.js/dist/list.min.js"></script>
+        <script src="node_modules/clipboard/dist/clipboard.min.js"></script>
+        <script>
+          var options = { valueNames: [ 'name' ] };
+          var iconsList = new List('icons', options);
+          new Clipboard('#icons .list i');
+
+          $('#icons .list i').on('mouseup', function(){
+            console.log(this);
+
+            $(this).addClass('copy');
+            setTimeout(function(){
+              $(this).removeClass('copy');
+            }, 2000);
+          })
+        </script>
+
+      </section>
+    </main>
+    <footer class="main-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <img alt="Poncho" src="img/poncho.gif" height="100" class="pull-left m-r-1">
+            <h1 class="m-b-0">Poncho <small>íconos</small></h1>
+            <p class="text-muted small">Los íconos de poncho están licenciados bajo <a href="https://creativecommons.org/licenses/by/2.5/ar/">Creative Commons Reconocimiento 2.5 Argentina License</a>.</p>
+          </div>
+          <div class="col-sm-6 col-md-3 hidden">
+            <ul>
+              <li><a href="/poncho">Poncho</a></li>
+              <li class="active"><a href="/iconos">Íconos</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
