@@ -136,9 +136,10 @@
           $('#icons .list i').on('mouseup', function(){
             console.log(this);
 
-            $(this).addClass('copy');
+            var $el = $(this);
+            $el.addClass('copy');
             setTimeout(function(){
-              $(this).removeClass('copy');
+              $el.removeClass('copy');
             }, 2000);
           })
         </script>
