@@ -13,7 +13,7 @@ Algo importante, es que la relación de las carpetas css y fonts deben quedar co
 
 # Desarrollo
 
-El archivo editable con todos los íconos es [src/Iconos.ai](/argob/iconos/blob/master/src/Iconos.ai).
+El archivo editable con todos los íconos es [src/Iconos.ai](src/Iconos.ai).
 Los iconos exportados en svg van en **src/_icons/**
 
 ### Instalación de ambiente de desarrollo
