@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "2c333cd17fcdf3829e65782ea7de122a312c50e55c0135463e05ec368a22a12d",
-    "current": "2c333cd17fcdf3829e65782ea7de122a312c50e55c0135463e05ec368a22a12d"
+    "previous": "08b782f0104cc0e75f21f5281c85adbe79ededad918030dd2284ed3ffcdd8d76",
+    "current": "08b782f0104cc0e75f21f5281c85adbe79ededad918030dd2284ed3ffcdd8d76"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2c333cd17fcdf3829e65782ea7de122a.ttf",
-    "dist/fonts/icono-arg_2c333cd17fcdf3829e65782ea7de122a.svg",
-    "dist/fonts/icono-arg_2c333cd17fcdf3829e65782ea7de122a.woff",
-    "dist/fonts/icono-arg_2c333cd17fcdf3829e65782ea7de122a.eot"
+    "dist/fonts/icono-arg_08b782f0104cc0e75f21f5281c85adbe.ttf",
+    "dist/fonts/icono-arg_08b782f0104cc0e75f21f5281c85adbe.svg",
+    "dist/fonts/icono-arg_08b782f0104cc0e75f21f5281c85adbe.woff",
+    "dist/fonts/icono-arg_08b782f0104cc0e75f21f5281c85adbe.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -150,6 +150,10 @@
       "codepoint": 61730,
       "source": "src/_icons/deporte.svg"
     },
+    "digital": {
+      "codepoint": 61775,
+      "source": "src/_icons/digital.svg"
+    },
     "discapacidad": {
       "codepoint": 61731,
       "source": "src/_icons/discapacidad.svg"
@@ -198,6 +202,10 @@
       "codepoint": 61742,
       "source": "src/_icons/industria.svg"
     },
+    "institucion": {
+      "codepoint": 61776,
+      "source": "src/_icons/institucion.svg"
+    },
     "interes-cultural": {
       "codepoint": 61743,
       "source": "src/_icons/interes cultural.svg"
@@ -209,6 +217,10 @@
     "lampara": {
       "codepoint": 61745,
       "source": "src/_icons/lampara.svg"
+    },
+    "lupa": {
+      "codepoint": 61777,
+      "source": "src/_icons/lupa.svg"
     },
     "magnetometria": {
       "codepoint": 61746,
@@ -282,6 +294,10 @@
       "codepoint": 61763,
       "source": "src/_icons/seguridad.svg"
     },
+    "servidor": {
+      "codepoint": 61778,
+      "source": "src/_icons/servidor.svg"
+    },
     "social": {
       "codepoint": 61764,
       "source": "src/_icons/social.svg"
@@ -353,7 +369,6 @@
     },
     "preprocessor_path": "../fonts/",
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "index.html",
       "icono-arg.css"

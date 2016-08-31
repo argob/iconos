@@ -1,1 +1,14 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.46 50.46"><defs><style>.cls-1{fill:#00b5e4;}</style></defs><title>Iconos</title><polygon class="cls-1" points="25.61 11.92 24.85 11.92 24.62 15.01 25.81 15.01 25.61 11.92"/><polygon class="cls-1" points="26.57 26.41 23.77 26.41 22.87 38.54 27.76 38.54 26.57 26.41"/><polygon class="cls-1" points="26.37 23.48 26.37 23.48 26.37 23.48 25.92 16.59 24.5 16.59 23.99 23.48 23.99 23.48 23.99 23.48 26.37 23.48"/><path class="cls-1" d="M7.54,38.54l14-26.61H20.48l0,0L3.64,38.54h3.9Z"/><path class="cls-1" d="M43.68,38.54H46.8L29.31,12l0,0H28.21L42,38.54h1.71Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50.5 50.5" style="enable-background:new 0 0 50.5 50.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#65B4E1;}
+</style>
+<polygon class="st0" points="25.6,11.9 24.8,11.9 24.6,15 25.8,15 "/>
+<polygon class="st0" points="26.6,26.4 23.8,26.4 22.9,38.5 27.8,38.5 "/>
+<polygon class="st0" points="26.4,23.5 26.4,23.5 26.4,23.5 25.9,16.6 24.5,16.6 24,23.5 24,23.5 24,23.5 "/>
+<path class="st0" d="M7.5,38.5l14-26.6h-0.5h-0.6c0,0,0,0,0,0L3.6,38.5H6H7.5z"/>
+<path class="st0" d="M43.7,38.5h3.1L29.3,12c0,0,0,0,0,0h-0.6h-0.4L42,38.5H43.7z"/>
+</svg>

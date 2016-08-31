@@ -1,1 +1,14 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.46 50.46"><defs><style>.cls-1{fill:#00b5e4;}</style></defs><title>Iconos</title><path class="cls-1" d="M18.62,42.31H32.2a9.44,9.44,0,0,0,9.43-9.43V20l-2,2.24V32.88A7.43,7.43,0,0,1,32.2,40.3H18.62a7.43,7.43,0,0,1-7.42-7.42V19.3a7.43,7.43,0,0,1,7.42-7.42H32.2A7.37,7.37,0,0,1,36.12,13l1.55-1.38A9.37,9.37,0,0,0,32.2,9.87H18.62A9.44,9.44,0,0,0,9.19,19.3V32.88A9.44,9.44,0,0,0,18.62,42.31Z"/><polygon class="cls-1" points="25.37 25.01 18.38 17.97 14.47 21.42 25.54 35.17 25.54 35.17 25.54 35.17 39.62 19.5 41.45 17.46 45.3 13.16 42.16 10.12 39.07 12.86 37.57 14.19 25.37 25.01"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50.5 50.5" style="enable-background:new 0 0 50.5 50.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#65B4E1;}
+</style>
+<path class="st0" d="M18.6,42.3h13.6c5.2,0,9.4-4.2,9.4-9.4V20l-2,2.2v10.6c0,4.1-3.3,7.4-7.4,7.4H18.6c-4.1,0-7.4-3.3-7.4-7.4V19.3
+	c0-4.1,3.3-7.4,7.4-7.4h13.6c1.4,0,2.8,0.4,3.9,1.1l1.6-1.4c-1.5-1.1-3.4-1.8-5.5-1.8H18.6c-5.2,0-9.4,4.2-9.4,9.4v13.6
+	C9.2,38.1,13.4,42.3,18.6,42.3z"/>
+<polygon class="st0" points="25.4,25 18.4,18 14.5,21.4 25.5,35.2 25.5,35.2 25.5,35.2 39.6,19.5 41.4,17.5 45.3,13.2 42.2,10.1 
+	39.1,12.9 37.6,14.2 "/>
+</svg>
