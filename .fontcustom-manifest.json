@@ -1,345 +1,345 @@
 {
   "checksum": {
-    "previous": "1cd7ff4b5eaf6b748b68dcce7e9de175fd33ac57206772a234dde4a3716f8b33",
-    "current": "1cd7ff4b5eaf6b748b68dcce7e9de175fd33ac57206772a234dde4a3716f8b33"
+    "previous": "9ecabb00574dac2bec95e55fbe13e550b1b7303e3b00ae27870961e96d108314",
+    "current": "9ecabb00574dac2bec95e55fbe13e550b1b7303e3b00ae27870961e96d108314"
   },
   "fonts": [
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.ttf",
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.svg",
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.woff",
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.eot"
+    "dist/fonts/icono-arg_9ecabb00574dac2bec95e55fbe13e550.ttf",
+    "dist/fonts/icono-arg_9ecabb00574dac2bec95e55fbe13e550.svg",
+    "dist/fonts/icono-arg_9ecabb00574dac2bec95e55fbe13e550.woff",
+    "dist/fonts/icono-arg_9ecabb00574dac2bec95e55fbe13e550.eot"
   ],
   "glyphs": {
     "agricultura": {
-      "codepoint": 61696,
+      "codepoint": 62028,
       "source": "src/_icons/agricultura.svg"
     },
     "ambiente": {
-      "codepoint": 61697,
+      "codepoint": 62029,
       "source": "src/_icons/ambiente.svg"
     },
     "ambiente-cert": {
-      "codepoint": 61698,
+      "codepoint": 62030,
       "source": "src/_icons/ambiente cert.svg"
     },
     "animales-exp-imp": {
-      "codepoint": 61699,
+      "codepoint": 62031,
       "source": "src/_icons/animales exp imp.svg"
     },
     "antibalas": {
-      "codepoint": 61700,
+      "codepoint": 62032,
       "source": "src/_icons/antibalas.svg"
     },
     "apostilla": {
-      "codepoint": 61701,
+      "codepoint": 62033,
       "source": "src/_icons/apostilla.svg"
     },
     "arbitraje": {
-      "codepoint": 61702,
+      "codepoint": 62034,
       "source": "src/_icons/arbitraje.svg"
     },
     "arbol": {
-      "codepoint": 61703,
+      "codepoint": 62035,
       "source": "src/_icons/arbol.svg"
     },
     "archivo-consulta": {
-      "codepoint": 61704,
+      "codepoint": 62036,
       "source": "src/_icons/archivo consulta.svg"
     },
     "arma-imp": {
-      "codepoint": 61705,
+      "codepoint": 62037,
       "source": "src/_icons/arma imp.svg"
     },
     "arma-portacion": {
-      "codepoint": 61706,
+      "codepoint": 62038,
       "source": "src/_icons/arma portacion.svg"
     },
     "arma-tenencia": {
-      "codepoint": 61707,
+      "codepoint": 62039,
       "source": "src/_icons/arma tenencia.svg"
     },
     "arte-exp": {
-      "codepoint": 61708,
+      "codepoint": 62040,
       "source": "src/_icons/arte exp.svg"
     },
     "arte-imp": {
-      "codepoint": 61709,
+      "codepoint": 62041,
       "source": "src/_icons/arte imp.svg"
     },
     "auto": {
-      "codepoint": 61710,
+      "codepoint": 62042,
       "source": "src/_icons/auto.svg"
     },
     "auto-informe": {
-      "codepoint": 61711,
+      "codepoint": 62043,
       "source": "src/_icons/auto informe.svg"
     },
     "auto-licencia": {
-      "codepoint": 61712,
+      "codepoint": 62044,
       "source": "src/_icons/auto licencia.svg"
     },
     "auto-licencia-ok": {
-      "codepoint": 61713,
+      "codepoint": 62045,
       "source": "src/_icons/auto licencia ok.svg"
     },
     "avion": {
-      "codepoint": 61714,
+      "codepoint": 62046,
       "source": "src/_icons/avion.svg"
     },
     "buceo": {
-      "codepoint": 61715,
+      "codepoint": 62047,
       "source": "src/_icons/buceo.svg"
     },
     "caja-exp": {
-      "codepoint": 61716,
+      "codepoint": 62048,
       "source": "src/_icons/caja exp.svg"
     },
     "cajero": {
-      "codepoint": 61717,
+      "codepoint": 62049,
       "source": "src/_icons/cajero.svg"
     },
     "calendario": {
-      "codepoint": 61718,
+      "codepoint": 62050,
       "source": "src/_icons/calendario.svg"
     },
     "calidad-cert": {
-      "codepoint": 61719,
+      "codepoint": 62051,
       "source": "src/_icons/calidad cert.svg"
     },
     "cambio": {
-      "codepoint": 61720,
+      "codepoint": 62052,
       "source": "src/_icons/cambio.svg"
     },
     "capacitacion": {
-      "codepoint": 61721,
+      "codepoint": 62053,
       "source": "src/_icons/capacitacion.svg"
     },
     "ciencia-apoyo-economico": {
-      "codepoint": 61722,
+      "codepoint": 62054,
       "source": "src/_icons/ciencia apoyo economico.svg"
     },
     "ciencia-publicacion": {
-      "codepoint": 61723,
+      "codepoint": 62055,
       "source": "src/_icons/ciencia publicacion.svg"
     },
     "cluse": {
-      "codepoint": 61724,
+      "codepoint": 62056,
       "source": "src/_icons/cluse.svg"
     },
     "comunicacion": {
-      "codepoint": 61725,
+      "codepoint": 62057,
       "source": "src/_icons/comunicacion.svg"
     },
     "consulta": {
-      "codepoint": 61726,
+      "codepoint": 62058,
       "source": "src/_icons/consulta.svg"
     },
     "cultura": {
-      "codepoint": 61727,
+      "codepoint": 62059,
       "source": "src/_icons/cultura.svg"
     },
     "declaracion-jurada": {
-      "codepoint": 61728,
+      "codepoint": 62060,
       "source": "src/_icons/declaracion jurada.svg"
     },
     "denuncia": {
-      "codepoint": 61729,
+      "codepoint": 62061,
       "source": "src/_icons/denuncia.svg"
     },
     "deporte": {
-      "codepoint": 61730,
+      "codepoint": 62062,
       "source": "src/_icons/deporte.svg"
     },
     "digital": {
-      "codepoint": 61775,
+      "codepoint": 62063,
       "source": "src/_icons/digital.svg"
     },
     "discapacidad": {
-      "codepoint": 61731,
+      "codepoint": 62064,
       "source": "src/_icons/discapacidad.svg"
     },
     "educacion": {
-      "codepoint": 61732,
+      "codepoint": 62065,
       "source": "src/_icons/educacion.svg"
     },
     "eleccion": {
-      "codepoint": 61733,
+      "codepoint": 62066,
       "source": "src/_icons/eleccion.svg"
     },
     "embarcacion": {
-      "codepoint": 61734,
+      "codepoint": 62067,
       "source": "src/_icons/embarcacion.svg"
     },
     "embarcacion-pago": {
-      "codepoint": 61735,
+      "codepoint": 62068,
       "source": "src/_icons/embarcacion pago.svg"
     },
     "exterior": {
-      "codepoint": 61736,
+      "codepoint": 62069,
       "source": "src/_icons/exterior.svg"
     },
     "factor-pago": {
-      "codepoint": 61737,
+      "codepoint": 62070,
       "source": "src/_icons/factor pago.svg"
     },
     "factura": {
-      "codepoint": 61738,
+      "codepoint": 62071,
       "source": "src/_icons/factura.svg"
     },
     "ganaderia": {
-      "codepoint": 61739,
+      "codepoint": 62072,
       "source": "src/_icons/ganaderia.svg"
     },
     "genetica": {
-      "codepoint": 61740,
+      "codepoint": 62073,
       "source": "src/_icons/genetica.svg"
     },
     "genetica-exp-imp": {
-      "codepoint": 61741,
+      "codepoint": 62074,
       "source": "src/_icons/genetica exp imp.svg"
     },
     "industria": {
-      "codepoint": 61742,
+      "codepoint": 62075,
       "source": "src/_icons/industria.svg"
     },
     "institucion": {
-      "codepoint": 61776,
+      "codepoint": 62076,
       "source": "src/_icons/institucion.svg"
     },
     "interes-cultural": {
-      "codepoint": 61743,
+      "codepoint": 62077,
       "source": "src/_icons/interes cultural.svg"
     },
     "jubilado": {
-      "codepoint": 61744,
+      "codepoint": 62078,
       "source": "src/_icons/jubilado.svg"
     },
     "lampara": {
-      "codepoint": 61745,
+      "codepoint": 62079,
       "source": "src/_icons/lampara.svg"
     },
     "lupa": {
-      "codepoint": 61777,
+      "codepoint": 62080,
       "source": "src/_icons/lupa.svg"
     },
     "magnetometria": {
-      "codepoint": 61746,
+      "codepoint": 62081,
       "source": "src/_icons/magnetometria.svg"
     },
     "marcador-temporal": {
-      "codepoint": 61747,
+      "codepoint": 62082,
       "source": "src/_icons/marcador temporal.svg"
     },
     "medicamentos": {
-      "codepoint": 61748,
+      "codepoint": 62083,
       "source": "src/_icons/medicamentos.svg"
     },
     "medicina": {
-      "codepoint": 61749,
+      "codepoint": 62084,
       "source": "src/_icons/medicina.svg"
     },
     "museo": {
-      "codepoint": 61750,
+      "codepoint": 62085,
       "source": "src/_icons/museo.svg"
     },
     "natacion": {
-      "codepoint": 61751,
+      "codepoint": 62086,
       "source": "src/_icons/natacion.svg"
     },
     "nuclear": {
-      "codepoint": 61752,
+      "codepoint": 62087,
       "source": "src/_icons/nuclear.svg"
     },
     "ok": {
-      "codepoint": 61753,
+      "codepoint": 62088,
       "source": "src/_icons/ok.svg"
     },
     "pago": {
-      "codepoint": 61754,
+      "codepoint": 62089,
       "source": "src/_icons/pago.svg"
     },
     "pasaporte": {
-      "codepoint": 61755,
+      "codepoint": 62090,
       "source": "src/_icons/pasaporte.svg"
     },
     "pesos": {
-      "codepoint": 61756,
+      "codepoint": 62091,
       "source": "src/_icons/pesos.svg"
     },
     "petroleo": {
-      "codepoint": 61757,
+      "codepoint": 62092,
       "source": "src/_icons/petroleo.svg"
     },
     "reclamo-consulta": {
-      "codepoint": 61758,
+      "codepoint": 62093,
       "source": "src/_icons/reclamo consulta.svg"
     },
     "reclamo-demora": {
-      "codepoint": 61759,
+      "codepoint": 62094,
       "source": "src/_icons/reclamo demora.svg"
     },
     "reloj": {
-      "codepoint": 61760,
+      "codepoint": 62095,
       "source": "src/_icons/reloj.svg"
     },
     "residuos-peligrosos-transporte": {
-      "codepoint": 61761,
+      "codepoint": 62096,
       "source": "src/_icons/residuos peligrosos transporte.svg"
     },
     "ruta": {
-      "codepoint": 61762,
+      "codepoint": 62097,
       "source": "src/_icons/ruta.svg"
     },
     "seguridad": {
-      "codepoint": 61763,
+      "codepoint": 62098,
       "source": "src/_icons/seguridad.svg"
     },
     "servidor": {
-      "codepoint": 61778,
+      "codepoint": 62099,
       "source": "src/_icons/servidor.svg"
     },
     "social": {
-      "codepoint": 61764,
+      "codepoint": 62100,
       "source": "src/_icons/social.svg"
     },
     "solidaridad": {
-      "codepoint": 61765,
+      "codepoint": 62101,
       "source": "src/_icons/solidaridad.svg"
     },
     "sube": {
-      "codepoint": 61766,
+      "codepoint": 62102,
       "source": "src/_icons/sube.svg"
     },
     "teatro": {
-      "codepoint": 61767,
+      "codepoint": 62103,
       "source": "src/_icons/teatro.svg"
     },
     "teatro-archivo": {
-      "codepoint": 61768,
+      "codepoint": 62104,
       "source": "src/_icons/teatro archivo.svg"
     },
     "trabajador": {
-      "codepoint": 61769,
+      "codepoint": 62105,
       "source": "src/_icons/trabajador.svg"
     },
     "trabajador-temporal": {
-      "codepoint": 61770,
+      "codepoint": 62106,
       "source": "src/_icons/trabajador temporal.svg"
     },
     "transporte-licencia": {
-      "codepoint": 61771,
+      "codepoint": 62107,
       "source": "src/_icons/transporte licencia.svg"
     },
     "transporte-publico-licencia": {
-      "codepoint": 61772,
+      "codepoint": 62108,
       "source": "src/_icons/transporte publico licencia.svg"
     },
     "visa-negocios": {
-      "codepoint": 61773,
+      "codepoint": 62109,
       "source": "src/_icons/visa negocios.svg"
     },
     "vivienda": {
-      "codepoint": 61774,
+      "codepoint": 62110,
       "source": "src/_icons/vivienda.svg"
     }
   },
@@ -352,7 +352,7 @@
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 18,
-    "font_em": 512,
+    "font_em": 768,
     "font_name": "icono-arg",
     "force": false,
     "input": {
@@ -361,21 +361,22 @@
     },
     "no_hash": false,
     "output": {
-      "css": "dist/fonts",
+      "css": "dist/css",
       "fonts": "dist/fonts",
       "icono-arg.css": "dist/css",
       "index.html": ".",
       "preview": "dist/fonts"
     },
-    "preprocessor_path": "../fonts/",
+    "preprocessor_path": null,
     "quiet": false,
     "templates": [
+      "css",
       "index.html",
       "icono-arg.css"
     ]
   },
   "templates": [
-    "./index.html",
-    "dist/css/icono-arg.css"
+    "dist/css/icono-arg.css",
+    "./index.html"
   ]
 }

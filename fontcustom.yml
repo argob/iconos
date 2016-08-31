@@ -51,6 +51,7 @@ input:
 
 output:
  fonts: dist/fonts
+ css: dist/css
  icono-arg.css: dist/css
  index.html: .
 
@@ -70,10 +71,11 @@ output:
 # -----------------------------------------------------------------------------
 
 templates:
+- css
 - index.html
 - icono-arg.css
 
-preprocessor_path: ../fonts/
+# preprocessor_path: ../fonts/
 
 
 # -----------------------------------------------------------------------------
@@ -84,7 +86,7 @@ preprocessor_path: ../fonts/
 font_design_size: 18
 
 # The em size. Setting this will scale the entire font to the given size.
-#font_em: 512
+font_em: 768
 
 # The font's ascent and descent. Used to calculate the baseline.
 #font_ascent: 448
