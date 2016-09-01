@@ -1,5 +1,5 @@
 {
-  "name": "argob-icons",
+  "name": "argob-iconos",
   "version": "0.1.0",
   "description": "Sistema de iconos de Poncho",
   "main": "index.js",
@@ -16,10 +16,8 @@
   ],
   "author": "Dirección Nacional de Servicios Digitales de la Subsecretaría de Gobierno Digital.",
   "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "clipboard": "^1.5.12",
-    "jquery": "^3.1.0",
-    "list.js": "^1.2.0"
-  }
+  "bugs": {
+    "url": "https://github.com/argob/iconos/issues"
+  },
+  "homepage": "https://argob.github.io/iconos"
 }
