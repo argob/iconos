@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 50.5 50.5" style="enable-background:new 0 0 50.5 50.5;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#65B4E1;}
-</style>
-<path class="st0" d="M25.4,42.3c9.4,0,17.1-7.7,17.1-17.1c0-9.4-7.7-17.1-17.1-17.1S8.3,15.8,8.3,25.2C8.3,34.6,16,42.3,25.4,42.3z
-	 M25.4,10.6c8,0,14.6,6.5,14.6,14.6c0,8-6.5,14.6-14.6,14.6c-8,0-14.6-6.5-14.6-14.6C10.8,17.2,17.4,10.6,25.4,10.6z"/>
-<polygon class="st0" points="27.1,28.1 27.3,28.1 27.7,28.2 26.5,13.1 23.9,13.2 23.2,24.2 15.9,24.9 15.9,27.6 "/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.46 50.46">
+  <title>Iconos</title>
+  <g>
+    <path d="M25.42,42.31A17.08,17.08,0,1,0,8.33,25.23,17.1,17.1,0,0,0,25.42,42.31Zm0-31.67A14.58,14.58,0,1,1,10.83,25.23,14.6,14.6,0,0,1,25.42,10.65Z" fill="#00b5e4"/>
+    <polygon points="27.09 28.14 27.28 28.14 27.66 28.17 26.55 13.12 23.86 13.17 23.2 24.18 15.85 24.93 15.89 27.61 27.09 28.14" fill="#00b5e4"/>
+  </g>
 </svg>

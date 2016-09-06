@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 50.5 50.5" style="enable-background:new 0 0 50.5 50.5;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#65B4E1;}
-</style>
-<path class="st0" d="M6.7,17v23.1c0,2.5,2,4.6,4.5,4.6h22.6l-0.7-0.2c-0.8-0.2-2-1-2.3-1.5l0-0.1H11.3c-1.5,0-2.7-1.2-2.7-2.8V18.8
-	h31.6v9l1.8,1.3V17l-8-10.4l0,0H14.7L6.7,17L6.7,17z M25.6,8.4H33l6.4,8.5H25.6V8.4z M15.7,8.4l8.1,0v8.5H9.3L15.7,8.4z"/>
-<path class="st0" d="M47.8,37.6l-10.1-7.3v3.2c0,0.3-0.1,0.5-0.3,0.7c-0.2,0.2-0.5,0.3-0.7,0.3c-4.6,0-9.2,0-13.6-5.3
-	c0.7,5.4,3.6,10.9,13.6,11.4c0.6,0,1,0.5,1,1v3.2L47.8,37.6z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.46 50.46">
+  <title>Iconos</title>
+  <g>
+    <path d="M5.72,16.56V39.68a4.58,4.58,0,0,0,4.55,4.6H32.83l-0.73-.23a5.32,5.32,0,0,1-2.33-1.54l0-.05H10.26a2.75,2.75,0,0,1-2.73-2.77V18.31H39.08v9l1.81,1.32v-12l-8-10.4,0,0H13.73l-8,10.41ZM24.54,7.94H32l6.44,8.54H24.54V7.94Zm-9.9,0h8.08v8.54H8.28Z" fill="#00b5e4"/>
+    <path d="M46.74,37.12L36.61,29.84v3.22a1.06,1.06,0,0,1-.31.74,1,1,0,0,1-.74.31c-4.56,0-9.25,0-13.56-5.35,0.75,5.36,3.61,10.85,13.61,11.35a1,1,0,0,1,1,1v3.22Z" fill="#00b5e4"/>
+  </g>
 </svg>

@@ -1,22 +1,118 @@
 {
   "checksum": {
-    "previous": "1cd7ff4b5eaf6b748b68dcce7e9de175fd33ac57206772a234dde4a3716f8b33",
-    "current": "1cd7ff4b5eaf6b748b68dcce7e9de175fd33ac57206772a234dde4a3716f8b33"
+    "previous": "a9823cc10c7cde4c1634a7d1fb458c1c52b43882549f73eeb10589e24faf8713",
+    "current": "a9823cc10c7cde4c1634a7d1fb458c1c52b43882549f73eeb10589e24faf8713"
   },
   "fonts": [
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.ttf",
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.svg",
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.woff",
-    "dist/fonts/icono-arg_1cd7ff4b5eaf6b748b68dcce7e9de175.eot"
+    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.ttf",
+    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.svg",
+    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.woff",
+    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.eot"
   ],
   "glyphs": {
+    "Iconos_ambiente": {
+      "codepoint": 61784,
+      "source": "src/_icons/Iconos_ambiente.svg"
+    },
+    "Iconos_antibalas": {
+      "codepoint": 61785,
+      "source": "src/_icons/Iconos_antibalas.svg"
+    },
+    "Iconos_apostilla": {
+      "codepoint": 61786,
+      "source": "src/_icons/Iconos_apostilla.svg"
+    },
+    "Iconos_auto-licencia": {
+      "codepoint": 61787,
+      "source": "src/_icons/Iconos_auto licencia.svg"
+    },
+    "Iconos_buceo": {
+      "codepoint": 61788,
+      "source": "src/_icons/Iconos_buceo.svg"
+    },
+    "Iconos_cambio": {
+      "codepoint": 61789,
+      "source": "src/_icons/Iconos_cambio.svg"
+    },
+    "Iconos_ciencia-apoyo-economico": {
+      "codepoint": 61790,
+      "source": "src/_icons/Iconos_ciencia apoyo economico.svg"
+    },
+    "Iconos_consulta": {
+      "codepoint": 61791,
+      "source": "src/_icons/Iconos_consulta.svg"
+    },
+    "Iconos_digital": {
+      "codepoint": 61792,
+      "source": "src/_icons/Iconos_digital.svg"
+    },
+    "Iconos_embarcacion-pago": {
+      "codepoint": 61793,
+      "source": "src/_icons/Iconos_embarcacion pago.svg"
+    },
+    "Iconos_exterior": {
+      "codepoint": 61794,
+      "source": "src/_icons/Iconos_exterior.svg"
+    },
+    "Iconos_factura": {
+      "codepoint": 61795,
+      "source": "src/_icons/Iconos_factura.svg"
+    },
+    "Iconos_industria": {
+      "codepoint": 61796,
+      "source": "src/_icons/Iconos_industria.svg"
+    },
+    "Iconos_institucion": {
+      "codepoint": 61797,
+      "source": "src/_icons/Iconos_institucion.svg"
+    },
+    "Iconos_lupa": {
+      "codepoint": 61798,
+      "source": "src/_icons/Iconos_lupa.svg"
+    },
+    "Iconos_mano": {
+      "codepoint": 61799,
+      "source": "src/_icons/Iconos_mano.svg"
+    },
+    "Iconos_mano-alt": {
+      "codepoint": 61800,
+      "source": "src/_icons/Iconos_mano alt.svg"
+    },
+    "Iconos_medicamentos": {
+      "codepoint": 61801,
+      "source": "src/_icons/Iconos_medicamentos.svg"
+    },
+    "Iconos_medicina": {
+      "codepoint": 61802,
+      "source": "src/_icons/Iconos_medicina.svg"
+    },
+    "Iconos_natacion": {
+      "codepoint": 61803,
+      "source": "src/_icons/Iconos_natacion.svg"
+    },
+    "Iconos_servidor": {
+      "codepoint": 61804,
+      "source": "src/_icons/Iconos_servidor.svg"
+    },
+    "Iconos_sube": {
+      "codepoint": 61805,
+      "source": "src/_icons/Iconos_sube.svg"
+    },
+    "Iconos_transporte-licencia": {
+      "codepoint": 61806,
+      "source": "src/_icons/Iconos_transporte licencia.svg"
+    },
+    "Iconos_transporte-publico-licencia": {
+      "codepoint": 61807,
+      "source": "src/_icons/Iconos_transporte publico licencia.svg"
+    },
+    "Iconos_visa-negocios": {
+      "codepoint": 61808,
+      "source": "src/_icons/Iconos_visa negocios.svg"
+    },
     "agricultura": {
       "codepoint": 61696,
       "source": "src/_icons/agricultura.svg"
-    },
-    "ambiente": {
-      "codepoint": 61697,
-      "source": "src/_icons/ambiente.svg"
     },
     "ambiente-cert": {
       "codepoint": 61698,
@@ -25,14 +121,6 @@
     "animales-exp-imp": {
       "codepoint": 61699,
       "source": "src/_icons/animales exp imp.svg"
-    },
-    "antibalas": {
-      "codepoint": 61700,
-      "source": "src/_icons/antibalas.svg"
-    },
-    "apostilla": {
-      "codepoint": 61701,
-      "source": "src/_icons/apostilla.svg"
     },
     "arbitraje": {
       "codepoint": 61702,
@@ -58,14 +146,6 @@
       "codepoint": 61707,
       "source": "src/_icons/arma tenencia.svg"
     },
-    "arte-exp": {
-      "codepoint": 61708,
-      "source": "src/_icons/arte exp.svg"
-    },
-    "arte-imp": {
-      "codepoint": 61709,
-      "source": "src/_icons/arte imp.svg"
-    },
     "auto": {
       "codepoint": 61710,
       "source": "src/_icons/auto.svg"
@@ -74,10 +154,6 @@
       "codepoint": 61711,
       "source": "src/_icons/auto informe.svg"
     },
-    "auto-licencia": {
-      "codepoint": 61712,
-      "source": "src/_icons/auto licencia.svg"
-    },
     "auto-licencia-ok": {
       "codepoint": 61713,
       "source": "src/_icons/auto licencia ok.svg"
@@ -85,10 +161,6 @@
     "avion": {
       "codepoint": 61714,
       "source": "src/_icons/avion.svg"
-    },
-    "buceo": {
-      "codepoint": 61715,
-      "source": "src/_icons/buceo.svg"
     },
     "caja-exp": {
       "codepoint": 61716,
@@ -106,17 +178,13 @@
       "codepoint": 61719,
       "source": "src/_icons/calidad cert.svg"
     },
-    "cambio": {
-      "codepoint": 61720,
-      "source": "src/_icons/cambio.svg"
-    },
     "capacitacion": {
       "codepoint": 61721,
       "source": "src/_icons/capacitacion.svg"
     },
-    "ciencia-apoyo-economico": {
-      "codepoint": 61722,
-      "source": "src/_icons/ciencia apoyo economico.svg"
+    "chequeado": {
+      "codepoint": 61779,
+      "source": "src/_icons/chequeado.svg"
     },
     "ciencia-publicacion": {
       "codepoint": 61723,
@@ -130,29 +198,25 @@
       "codepoint": 61725,
       "source": "src/_icons/comunicacion.svg"
     },
-    "consulta": {
-      "codepoint": 61726,
-      "source": "src/_icons/consulta.svg"
-    },
     "cultura": {
       "codepoint": 61727,
       "source": "src/_icons/cultura.svg"
+    },
+    "cultura-exp": {
+      "codepoint": 61809,
+      "source": "src/_icons/cultura exp.svg"
+    },
+    "cultura-imp": {
+      "codepoint": 61810,
+      "source": "src/_icons/cultura imp.svg"
     },
     "declaracion-jurada": {
       "codepoint": 61728,
       "source": "src/_icons/declaracion jurada.svg"
     },
-    "denuncia": {
-      "codepoint": 61729,
-      "source": "src/_icons/denuncia.svg"
-    },
     "deporte": {
       "codepoint": 61730,
       "source": "src/_icons/deporte.svg"
-    },
-    "digital": {
-      "codepoint": 61775,
-      "source": "src/_icons/digital.svg"
     },
     "discapacidad": {
       "codepoint": 61731,
@@ -170,21 +234,9 @@
       "codepoint": 61734,
       "source": "src/_icons/embarcacion.svg"
     },
-    "embarcacion-pago": {
-      "codepoint": 61735,
-      "source": "src/_icons/embarcacion pago.svg"
-    },
-    "exterior": {
-      "codepoint": 61736,
-      "source": "src/_icons/exterior.svg"
-    },
     "factor-pago": {
       "codepoint": 61737,
       "source": "src/_icons/factor pago.svg"
-    },
-    "factura": {
-      "codepoint": 61738,
-      "source": "src/_icons/factura.svg"
     },
     "ganaderia": {
       "codepoint": 61739,
@@ -198,13 +250,9 @@
       "codepoint": 61741,
       "source": "src/_icons/genetica exp imp.svg"
     },
-    "industria": {
-      "codepoint": 61742,
-      "source": "src/_icons/industria.svg"
-    },
-    "institucion": {
-      "codepoint": 61776,
-      "source": "src/_icons/institucion.svg"
+    "inclusion-digital": {
+      "codepoint": 61780,
+      "source": "src/_icons/inclusion digital.svg"
     },
     "interes-cultural": {
       "codepoint": 61743,
@@ -218,10 +266,6 @@
       "codepoint": 61745,
       "source": "src/_icons/lampara.svg"
     },
-    "lupa": {
-      "codepoint": 61777,
-      "source": "src/_icons/lupa.svg"
-    },
     "magnetometria": {
       "codepoint": 61746,
       "source": "src/_icons/magnetometria.svg"
@@ -230,29 +274,13 @@
       "codepoint": 61747,
       "source": "src/_icons/marcador temporal.svg"
     },
-    "medicamentos": {
-      "codepoint": 61748,
-      "source": "src/_icons/medicamentos.svg"
-    },
-    "medicina": {
-      "codepoint": 61749,
-      "source": "src/_icons/medicina.svg"
-    },
     "museo": {
       "codepoint": 61750,
       "source": "src/_icons/museo.svg"
     },
-    "natacion": {
-      "codepoint": 61751,
-      "source": "src/_icons/natacion.svg"
-    },
     "nuclear": {
       "codepoint": 61752,
       "source": "src/_icons/nuclear.svg"
-    },
-    "ok": {
-      "codepoint": 61753,
-      "source": "src/_icons/ok.svg"
     },
     "pago": {
       "codepoint": 61754,
@@ -294,9 +322,9 @@
       "codepoint": 61763,
       "source": "src/_icons/seguridad.svg"
     },
-    "servidor": {
-      "codepoint": 61778,
-      "source": "src/_icons/servidor.svg"
+    "servicios": {
+      "codepoint": 61783,
+      "source": "src/_icons/servicios.svg"
     },
     "social": {
       "codepoint": 61764,
@@ -305,10 +333,6 @@
     "solidaridad": {
       "codepoint": 61765,
       "source": "src/_icons/solidaridad.svg"
-    },
-    "sube": {
-      "codepoint": 61766,
-      "source": "src/_icons/sube.svg"
     },
     "teatro": {
       "codepoint": 61767,
@@ -325,18 +349,6 @@
     "trabajador-temporal": {
       "codepoint": 61770,
       "source": "src/_icons/trabajador temporal.svg"
-    },
-    "transporte-licencia": {
-      "codepoint": 61771,
-      "source": "src/_icons/transporte licencia.svg"
-    },
-    "transporte-publico-licencia": {
-      "codepoint": 61772,
-      "source": "src/_icons/transporte publico licencia.svg"
-    },
-    "visa-negocios": {
-      "codepoint": 61773,
-      "source": "src/_icons/visa negocios.svg"
     },
     "vivienda": {
       "codepoint": 61774,
