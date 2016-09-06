@@ -1,357 +1,357 @@
 {
   "checksum": {
-    "previous": "a9823cc10c7cde4c1634a7d1fb458c1c52b43882549f73eeb10589e24faf8713",
-    "current": "a9823cc10c7cde4c1634a7d1fb458c1c52b43882549f73eeb10589e24faf8713"
+    "previous": "29506026b544b4f5dc30836c8a2ee07d335cdf896e1f82c44c9e6bee6261c1d6",
+    "current": "29506026b544b4f5dc30836c8a2ee07d335cdf896e1f82c44c9e6bee6261c1d6"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.ttf",
-    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.svg",
-    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.woff",
-    "dist/fonts/icono-arg_a9823cc10c7cde4c1634a7d1fb458c1c.eot"
+    "dist/fonts/icono-arg_29506026b544b4f5dc30836c8a2ee07d.ttf",
+    "dist/fonts/icono-arg_29506026b544b4f5dc30836c8a2ee07d.svg",
+    "dist/fonts/icono-arg_29506026b544b4f5dc30836c8a2ee07d.woff",
+    "dist/fonts/icono-arg_29506026b544b4f5dc30836c8a2ee07d.eot"
   ],
   "glyphs": {
     "Iconos_ambiente": {
-      "codepoint": 61784,
+      "codepoint": 62111,
       "source": "src/_icons/Iconos_ambiente.svg"
     },
     "Iconos_antibalas": {
-      "codepoint": 61785,
+      "codepoint": 62112,
       "source": "src/_icons/Iconos_antibalas.svg"
     },
     "Iconos_apostilla": {
-      "codepoint": 61786,
+      "codepoint": 62113,
       "source": "src/_icons/Iconos_apostilla.svg"
     },
+    "Iconos_arbitraje": {
+      "codepoint": 62114,
+      "source": "src/_icons/Iconos_arbitraje.svg"
+    },
+    "Iconos_archivo-consulta": {
+      "codepoint": 62115,
+      "source": "src/_icons/Iconos_archivo consulta.svg"
+    },
+    "Iconos_arma-imp": {
+      "codepoint": 62116,
+      "source": "src/_icons/Iconos_arma imp.svg"
+    },
+    "Iconos_arma-portacion": {
+      "codepoint": 62117,
+      "source": "src/_icons/Iconos_arma portacion.svg"
+    },
+    "Iconos_arma-tenencia": {
+      "codepoint": 62118,
+      "source": "src/_icons/Iconos_arma tenencia.svg"
+    },
+    "Iconos_auto-informe": {
+      "codepoint": 62119,
+      "source": "src/_icons/Iconos_auto informe.svg"
+    },
     "Iconos_auto-licencia": {
-      "codepoint": 61787,
+      "codepoint": 62120,
       "source": "src/_icons/Iconos_auto licencia.svg"
     },
+    "Iconos_auto-licencia-ok": {
+      "codepoint": 62121,
+      "source": "src/_icons/Iconos_auto licencia ok.svg"
+    },
     "Iconos_buceo": {
-      "codepoint": 61788,
+      "codepoint": 62122,
       "source": "src/_icons/Iconos_buceo.svg"
     },
+    "Iconos_caja-exp": {
+      "codepoint": 62123,
+      "source": "src/_icons/Iconos_caja exp.svg"
+    },
+    "Iconos_cajero": {
+      "codepoint": 62124,
+      "source": "src/_icons/Iconos_cajero.svg"
+    },
     "Iconos_cambio": {
-      "codepoint": 61789,
+      "codepoint": 62125,
       "source": "src/_icons/Iconos_cambio.svg"
     },
+    "Iconos_capacitacion": {
+      "codepoint": 62126,
+      "source": "src/_icons/Iconos_capacitacion.svg"
+    },
     "Iconos_ciencia-apoyo-economico": {
-      "codepoint": 61790,
+      "codepoint": 62127,
       "source": "src/_icons/Iconos_ciencia apoyo economico.svg"
     },
+    "Iconos_ciencia-publicacion": {
+      "codepoint": 62128,
+      "source": "src/_icons/Iconos_ciencia publicacion.svg"
+    },
+    "Iconos_cluse": {
+      "codepoint": 62129,
+      "source": "src/_icons/Iconos_cluse.svg"
+    },
     "Iconos_consulta": {
-      "codepoint": 61791,
+      "codepoint": 62130,
       "source": "src/_icons/Iconos_consulta.svg"
     },
+    "Iconos_cultura-exp": {
+      "codepoint": 62131,
+      "source": "src/_icons/Iconos_cultura exp.svg"
+    },
+    "Iconos_cultura-imp": {
+      "codepoint": 62132,
+      "source": "src/_icons/Iconos_cultura imp.svg"
+    },
+    "Iconos_declaracion-jurada": {
+      "codepoint": 62133,
+      "source": "src/_icons/Iconos_declaracion jurada.svg"
+    },
     "Iconos_digital": {
-      "codepoint": 61792,
+      "codepoint": 62134,
       "source": "src/_icons/Iconos_digital.svg"
     },
+    "Iconos_eleccion": {
+      "codepoint": 62135,
+      "source": "src/_icons/Iconos_eleccion.svg"
+    },
     "Iconos_embarcacion-pago": {
-      "codepoint": 61793,
+      "codepoint": 62136,
       "source": "src/_icons/Iconos_embarcacion pago.svg"
     },
     "Iconos_exterior": {
-      "codepoint": 61794,
+      "codepoint": 62137,
       "source": "src/_icons/Iconos_exterior.svg"
     },
+    "Iconos_factor-pago": {
+      "codepoint": 62138,
+      "source": "src/_icons/Iconos_factor pago.svg"
+    },
     "Iconos_factura": {
-      "codepoint": 61795,
+      "codepoint": 62139,
       "source": "src/_icons/Iconos_factura.svg"
     },
     "Iconos_industria": {
-      "codepoint": 61796,
+      "codepoint": 62140,
       "source": "src/_icons/Iconos_industria.svg"
     },
     "Iconos_institucion": {
-      "codepoint": 61797,
+      "codepoint": 62141,
       "source": "src/_icons/Iconos_institucion.svg"
     },
+    "Iconos_interes-cultural": {
+      "codepoint": 62142,
+      "source": "src/_icons/Iconos_interes cultural.svg"
+    },
+    "Iconos_jubilado": {
+      "codepoint": 62143,
+      "source": "src/_icons/Iconos_jubilado.svg"
+    },
     "Iconos_lupa": {
-      "codepoint": 61798,
+      "codepoint": 62144,
       "source": "src/_icons/Iconos_lupa.svg"
     },
     "Iconos_mano": {
-      "codepoint": 61799,
+      "codepoint": 62145,
       "source": "src/_icons/Iconos_mano.svg"
     },
     "Iconos_mano-alt": {
-      "codepoint": 61800,
+      "codepoint": 62146,
       "source": "src/_icons/Iconos_mano alt.svg"
     },
+    "Iconos_marcador-temporal": {
+      "codepoint": 62147,
+      "source": "src/_icons/Iconos_marcador temporal.svg"
+    },
     "Iconos_medicamentos": {
-      "codepoint": 61801,
+      "codepoint": 62148,
       "source": "src/_icons/Iconos_medicamentos.svg"
     },
     "Iconos_medicina": {
-      "codepoint": 61802,
+      "codepoint": 62149,
       "source": "src/_icons/Iconos_medicina.svg"
     },
     "Iconos_natacion": {
-      "codepoint": 61803,
+      "codepoint": 62150,
       "source": "src/_icons/Iconos_natacion.svg"
     },
+    "Iconos_pesos": {
+      "codepoint": 62151,
+      "source": "src/_icons/Iconos_pesos.svg"
+    },
+    "Iconos_petroleo": {
+      "codepoint": 62152,
+      "source": "src/_icons/Iconos_petroleo.svg"
+    },
+    "Iconos_reclamo-consulta": {
+      "codepoint": 62153,
+      "source": "src/_icons/Iconos_reclamo consulta.svg"
+    },
+    "Iconos_reclamo-demora": {
+      "codepoint": 62154,
+      "source": "src/_icons/Iconos_reclamo demora.svg"
+    },
     "Iconos_servidor": {
-      "codepoint": 61804,
+      "codepoint": 62155,
       "source": "src/_icons/Iconos_servidor.svg"
     },
+    "Iconos_social": {
+      "codepoint": 62156,
+      "source": "src/_icons/Iconos_social.svg"
+    },
+    "Iconos_solidaridad": {
+      "codepoint": 62157,
+      "source": "src/_icons/Iconos_solidaridad.svg"
+    },
     "Iconos_sube": {
-      "codepoint": 61805,
+      "codepoint": 62158,
       "source": "src/_icons/Iconos_sube.svg"
     },
+    "Iconos_teatro-archivo": {
+      "codepoint": 62159,
+      "source": "src/_icons/Iconos_teatro archivo.svg"
+    },
+    "Iconos_trabajador-temporal": {
+      "codepoint": 62160,
+      "source": "src/_icons/Iconos_trabajador temporal.svg"
+    },
     "Iconos_transporte-licencia": {
-      "codepoint": 61806,
+      "codepoint": 62161,
       "source": "src/_icons/Iconos_transporte licencia.svg"
     },
     "Iconos_transporte-publico-licencia": {
-      "codepoint": 61807,
+      "codepoint": 62162,
       "source": "src/_icons/Iconos_transporte publico licencia.svg"
     },
     "Iconos_visa-negocios": {
-      "codepoint": 61808,
+      "codepoint": 62163,
       "source": "src/_icons/Iconos_visa negocios.svg"
     },
     "agricultura": {
-      "codepoint": 61696,
+      "codepoint": 62028,
       "source": "src/_icons/agricultura.svg"
     },
     "ambiente-cert": {
-      "codepoint": 61698,
+      "codepoint": 62030,
       "source": "src/_icons/ambiente cert.svg"
     },
     "animales-exp-imp": {
-      "codepoint": 61699,
+      "codepoint": 62031,
       "source": "src/_icons/animales exp imp.svg"
     },
-    "arbitraje": {
-      "codepoint": 61702,
-      "source": "src/_icons/arbitraje.svg"
-    },
     "arbol": {
-      "codepoint": 61703,
+      "codepoint": 62035,
       "source": "src/_icons/arbol.svg"
     },
-    "archivo-consulta": {
-      "codepoint": 61704,
-      "source": "src/_icons/archivo consulta.svg"
-    },
-    "arma-imp": {
-      "codepoint": 61705,
-      "source": "src/_icons/arma imp.svg"
-    },
-    "arma-portacion": {
-      "codepoint": 61706,
-      "source": "src/_icons/arma portacion.svg"
-    },
-    "arma-tenencia": {
-      "codepoint": 61707,
-      "source": "src/_icons/arma tenencia.svg"
-    },
     "auto": {
-      "codepoint": 61710,
+      "codepoint": 62042,
       "source": "src/_icons/auto.svg"
     },
-    "auto-informe": {
-      "codepoint": 61711,
-      "source": "src/_icons/auto informe.svg"
-    },
-    "auto-licencia-ok": {
-      "codepoint": 61713,
-      "source": "src/_icons/auto licencia ok.svg"
-    },
     "avion": {
-      "codepoint": 61714,
+      "codepoint": 62046,
       "source": "src/_icons/avion.svg"
     },
-    "caja-exp": {
-      "codepoint": 61716,
-      "source": "src/_icons/caja exp.svg"
-    },
-    "cajero": {
-      "codepoint": 61717,
-      "source": "src/_icons/cajero.svg"
-    },
     "calendario": {
-      "codepoint": 61718,
+      "codepoint": 62050,
       "source": "src/_icons/calendario.svg"
     },
     "calidad-cert": {
-      "codepoint": 61719,
+      "codepoint": 62051,
       "source": "src/_icons/calidad cert.svg"
     },
-    "capacitacion": {
-      "codepoint": 61721,
-      "source": "src/_icons/capacitacion.svg"
-    },
     "chequeado": {
-      "codepoint": 61779,
+      "codepoint": 62164,
       "source": "src/_icons/chequeado.svg"
     },
-    "ciencia-publicacion": {
-      "codepoint": 61723,
-      "source": "src/_icons/ciencia publicacion.svg"
-    },
-    "cluse": {
-      "codepoint": 61724,
-      "source": "src/_icons/cluse.svg"
-    },
     "comunicacion": {
-      "codepoint": 61725,
+      "codepoint": 62057,
       "source": "src/_icons/comunicacion.svg"
     },
     "cultura": {
-      "codepoint": 61727,
+      "codepoint": 62059,
       "source": "src/_icons/cultura.svg"
     },
-    "cultura-exp": {
-      "codepoint": 61809,
-      "source": "src/_icons/cultura exp.svg"
-    },
-    "cultura-imp": {
-      "codepoint": 61810,
-      "source": "src/_icons/cultura imp.svg"
-    },
-    "declaracion-jurada": {
-      "codepoint": 61728,
-      "source": "src/_icons/declaracion jurada.svg"
-    },
     "deporte": {
-      "codepoint": 61730,
+      "codepoint": 62062,
       "source": "src/_icons/deporte.svg"
     },
     "discapacidad": {
-      "codepoint": 61731,
+      "codepoint": 62064,
       "source": "src/_icons/discapacidad.svg"
     },
     "educacion": {
-      "codepoint": 61732,
+      "codepoint": 62065,
       "source": "src/_icons/educacion.svg"
     },
-    "eleccion": {
-      "codepoint": 61733,
-      "source": "src/_icons/eleccion.svg"
-    },
     "embarcacion": {
-      "codepoint": 61734,
+      "codepoint": 62067,
       "source": "src/_icons/embarcacion.svg"
     },
-    "factor-pago": {
-      "codepoint": 61737,
-      "source": "src/_icons/factor pago.svg"
-    },
     "ganaderia": {
-      "codepoint": 61739,
+      "codepoint": 62072,
       "source": "src/_icons/ganaderia.svg"
     },
     "genetica": {
-      "codepoint": 61740,
+      "codepoint": 62073,
       "source": "src/_icons/genetica.svg"
     },
     "genetica-exp-imp": {
-      "codepoint": 61741,
+      "codepoint": 62074,
       "source": "src/_icons/genetica exp imp.svg"
     },
     "inclusion-digital": {
-      "codepoint": 61780,
+      "codepoint": 62165,
       "source": "src/_icons/inclusion digital.svg"
     },
-    "interes-cultural": {
-      "codepoint": 61743,
-      "source": "src/_icons/interes cultural.svg"
-    },
-    "jubilado": {
-      "codepoint": 61744,
-      "source": "src/_icons/jubilado.svg"
-    },
     "lampara": {
-      "codepoint": 61745,
+      "codepoint": 62079,
       "source": "src/_icons/lampara.svg"
     },
     "magnetometria": {
-      "codepoint": 61746,
+      "codepoint": 62081,
       "source": "src/_icons/magnetometria.svg"
     },
-    "marcador-temporal": {
-      "codepoint": 61747,
-      "source": "src/_icons/marcador temporal.svg"
-    },
     "museo": {
-      "codepoint": 61750,
+      "codepoint": 62085,
       "source": "src/_icons/museo.svg"
     },
     "nuclear": {
-      "codepoint": 61752,
+      "codepoint": 62087,
       "source": "src/_icons/nuclear.svg"
     },
     "pago": {
-      "codepoint": 61754,
+      "codepoint": 62089,
       "source": "src/_icons/pago.svg"
     },
     "pasaporte": {
-      "codepoint": 61755,
+      "codepoint": 62090,
       "source": "src/_icons/pasaporte.svg"
     },
-    "pesos": {
-      "codepoint": 61756,
-      "source": "src/_icons/pesos.svg"
-    },
-    "petroleo": {
-      "codepoint": 61757,
-      "source": "src/_icons/petroleo.svg"
-    },
-    "reclamo-consulta": {
-      "codepoint": 61758,
-      "source": "src/_icons/reclamo consulta.svg"
-    },
-    "reclamo-demora": {
-      "codepoint": 61759,
-      "source": "src/_icons/reclamo demora.svg"
-    },
     "reloj": {
-      "codepoint": 61760,
+      "codepoint": 62095,
       "source": "src/_icons/reloj.svg"
     },
     "residuos-peligrosos-transporte": {
-      "codepoint": 61761,
+      "codepoint": 62096,
       "source": "src/_icons/residuos peligrosos transporte.svg"
     },
     "ruta": {
-      "codepoint": 61762,
+      "codepoint": 62097,
       "source": "src/_icons/ruta.svg"
     },
     "seguridad": {
-      "codepoint": 61763,
+      "codepoint": 62098,
       "source": "src/_icons/seguridad.svg"
     },
     "servicios": {
-      "codepoint": 61783,
+      "codepoint": 62166,
       "source": "src/_icons/servicios.svg"
     },
-    "social": {
-      "codepoint": 61764,
-      "source": "src/_icons/social.svg"
-    },
-    "solidaridad": {
-      "codepoint": 61765,
-      "source": "src/_icons/solidaridad.svg"
-    },
     "teatro": {
-      "codepoint": 61767,
+      "codepoint": 62103,
       "source": "src/_icons/teatro.svg"
     },
-    "teatro-archivo": {
-      "codepoint": 61768,
-      "source": "src/_icons/teatro archivo.svg"
-    },
     "trabajador": {
-      "codepoint": 61769,
+      "codepoint": 62105,
       "source": "src/_icons/trabajador.svg"
     },
-    "trabajador-temporal": {
-      "codepoint": 61770,
-      "source": "src/_icons/trabajador temporal.svg"
-    },
     "vivienda": {
-      "codepoint": 61774,
+      "codepoint": 62110,
       "source": "src/_icons/vivienda.svg"
     }
   },
@@ -364,7 +364,7 @@
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 18,
-    "font_em": 512,
+    "font_em": 768,
     "font_name": "icono-arg",
     "force": false,
     "input": {
@@ -373,21 +373,22 @@
     },
     "no_hash": false,
     "output": {
-      "css": "dist/fonts",
+      "css": "dist/css",
       "fonts": "dist/fonts",
       "icono-arg.css": "dist/css",
       "index.html": ".",
       "preview": "dist/fonts"
     },
-    "preprocessor_path": "../fonts/",
+    "preprocessor_path": null,
     "quiet": false,
     "templates": [
+      "css",
       "index.html",
       "icono-arg.css"
     ]
   },
   "templates": [
-    "./index.html",
-    "dist/css/icono-arg.css"
+    "dist/css/icono-arg.css",
+    "./index.html"
   ]
 }
