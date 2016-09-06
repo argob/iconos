@@ -1,5 +1,7 @@
 ![Poncho](img/poncho.gif)
 
+###[Ver listado de íconos](//argob.github.io/iconos)
+
 # Uso
 
 Para utilizar los iconos son necesarios los archivos de la carpeta **dist**.
