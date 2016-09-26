@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "cdee3bcc98d9b85648ae1808f14f371f6d8db89fe96966b14b7023fedd5a7e86",
-    "current": "cdee3bcc98d9b85648ae1808f14f371f6d8db89fe96966b14b7023fedd5a7e86"
+    "previous": "54f446b54e707fdd40122b66d10856d13c8bffe9aee2f8249f89fce50f1bc47b",
+    "current": "54f446b54e707fdd40122b66d10856d13c8bffe9aee2f8249f89fce50f1bc47b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_cdee3bcc98d9b85648ae1808f14f371f.ttf",
-    "dist/fonts/icono-arg_cdee3bcc98d9b85648ae1808f14f371f.svg",
-    "dist/fonts/icono-arg_cdee3bcc98d9b85648ae1808f14f371f.woff",
-    "dist/fonts/icono-arg_cdee3bcc98d9b85648ae1808f14f371f.eot"
+    "dist/fonts/icono-arg_54f446b54e707fdd40122b66d10856d1.ttf",
+    "dist/fonts/icono-arg_54f446b54e707fdd40122b66d10856d1.svg",
+    "dist/fonts/icono-arg_54f446b54e707fdd40122b66d10856d1.woff",
+    "dist/fonts/icono-arg_54f446b54e707fdd40122b66d10856d1.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -269,6 +269,14 @@
     "pasaporte": {
       "codepoint": 62090,
       "source": "src/_icons/pasaporte.svg"
+    },
+    "pd-punto-digital": {
+      "codepoint": 62220,
+      "source": "src/_icons/pd punto digital.svg"
+    },
+    "pd-wifi": {
+      "codepoint": 62221,
+      "source": "src/_icons/pd wifi.svg"
     },
     "pesos": {
       "codepoint": 62207,
