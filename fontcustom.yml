@@ -53,6 +53,7 @@ output:
  fonts: dist/fonts
  css: dist/css
  icono-arg.css: dist/css
+ icono-arg.json: .
  index.html: .
 
 
@@ -73,6 +74,7 @@ output:
 templates:
 - css
 - index.html
+- icono-arg.json
 - icono-arg.css
 
 # preprocessor_path: ../fonts/
