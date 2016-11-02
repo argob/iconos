@@ -441,7 +441,6 @@
         "clase": "icono-arg-vivienda"
       },
     
-
     {
       "nombre": "fa-500px",
       "clase": "fa fa-500px"
@@ -3361,6 +3360,6 @@
     {
       "nombre": "fa-youtube-square",
       "clase": "fa fa-youtube-square"
-    },
+    }
   ]
 }

@@ -6,7 +6,6 @@
         "clase": "<%= selector[1..-1].gsub('.', ' ') %>"
       },
     <% end %>
-
     {
       "nombre": "fa-500px",
       "clase": "fa fa-500px"
@@ -2926,6 +2925,6 @@
     {
       "nombre": "fa-youtube-square",
       "clase": "fa fa-youtube-square"
-    },
+    }
   ]
 }
