@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "843ef23ee41d85373cb422f9af2679768b8c4736934aff656b40ff6e64f18fc4",
-    "current": "843ef23ee41d85373cb422f9af2679768b8c4736934aff656b40ff6e64f18fc4"
+    "previous": "09996e99859cfb49e901ba7ff1e4c4e1f117bcc46851b41a03b4b1345929faf7",
+    "current": "09996e99859cfb49e901ba7ff1e4c4e1f117bcc46851b41a03b4b1345929faf7"
   },
   "fonts": [
-    "dist/fonts/icono-arg_843ef23ee41d85373cb422f9af267976.ttf",
-    "dist/fonts/icono-arg_843ef23ee41d85373cb422f9af267976.svg",
-    "dist/fonts/icono-arg_843ef23ee41d85373cb422f9af267976.woff",
-    "dist/fonts/icono-arg_843ef23ee41d85373cb422f9af267976.eot"
+    "dist/fonts/icono-arg_09996e99859cfb49e901ba7ff1e4c4e1.ttf",
+    "dist/fonts/icono-arg_09996e99859cfb49e901ba7ff1e4c4e1.svg",
+    "dist/fonts/icono-arg_09996e99859cfb49e901ba7ff1e4c4e1.woff",
+    "dist/fonts/icono-arg_09996e99859cfb49e901ba7ff1e4c4e1.eot"
   ],
   "glyphs": {
     "agricultura": {
