@@ -21,9 +21,5 @@
   },
   "homepage": "https://argob.github.io/iconos",
   "dependencies": {
-    "bootstrap": "^3.3.7",
-    "clipboard": "^1.5.15",
-    "jquery": "^3.1.1",
-    "list.js": "^1.2.0"
   }
 }
