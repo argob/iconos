@@ -1,3 +1,0 @@
-[submodule "vendor/poncho"]
-	path = vendor/poncho
-	url = https://github.com/argob/poncho.git
