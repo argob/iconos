@@ -86,6 +86,7 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
     <link href="/poncho/node_modules/argob-poncho/dist/css/roboto-fontface.css" rel="stylesheet">
     <link href="/poncho/node_modules/argob-poncho/dist/css/droid-serif.css" rel="stylesheet">
     <link href="/poncho/node_modules/argob-poncho/dist/css/poncho.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="dist/css/icono-arg.css" rel="stylesheet">
     <style>
@@ -172,14 +173,8 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
             </div>
           </div>
 
-          <div class="list row row-flex padding-40">
-            <% @glyphs.each do |name, value| selector = @options[:css_selector].sub('{{glyph}}', name.to_s) %>
-              <div class="col-xs-6 col-sm-4 col-md-3 text-center margin-40">
-                <i id="<%= selector[1..-1] %>" class="<%= selector[1..-1].gsub('.', ' ') %> icono-4x text-gray" data-clipboard-text="<%= selector[1..-1].gsub('.', ' ') %>"></i>
-                <br>
-                <p class="name m-b-0"><%= name.to_s %></p>
-              </div>
-            <% end %>
+          <div class="list row row-flex padding-40 m-y-4" data-render="icons">
+            <h3 class="text-muted text-center" style="width: 100%;">Cargando...</h3>
           </div>
 
         </div>
@@ -188,19 +183,43 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
         <script src="js/list.min.js"></script>
         <script src="js/clipboard.min.js"></script>
         <script>
-          var options = { valueNames: [ 'name' ] };
-          var iconsList = new List('icons', options);
-          new Clipboard('#icons .list i');
 
-          $('#icons .list i').on('mouseup', function(){
-            // console.log(this);
 
-            var $el = $(this);
-            $el.addClass('copy');
-            setTimeout(function(){
-              $el.removeClass('copy');
-            }, 2000);
-          })
+          $('[data-render=icons]').html( '' );
+          $.ajax({
+            url: 'icono-arg.json',
+            dataType: 'json',
+            success: function(response){
+              $.each(response.iconos, function(i, icon){
+
+                var fa = icon.clase.split(' ')
+
+                if( fa[0] == 'fa' ){
+                  icon.nombre = icon.nombre + '<br><small class="text-muted">(Font Awesome)</small>'
+                }
+                var iconHtml = '<div class="col-xs-6 col-sm-4 col-md-3 text-center margin-40"> <i id="{clase}" class="{clase} icono-4x text-gray" data-clipboard-text="{nombre}"></i> <br> <p class="name m-b-0">{nombre}</p></div>';
+                iconHtml = iconHtml.replace(/{clase}/gi, icon.clase).replace(/{nombre}/gi, icon.nombre);
+
+                $('[data-render=icons]').append( iconHtml );
+
+                var options = { valueNames: [ 'name' ] };
+                var iconsList = new List('icons', options);
+                new Clipboard('#icons .list i');
+
+                $('#icons .list i').on('mouseup', function(){
+
+                  var $el = $(this);
+                  $el.addClass('copy');
+                  setTimeout(function(){
+                    $el.removeClass('copy');
+                  }, 2000);
+
+                });
+
+              });
+            }
+          });
+
         </script>
 
       </section>
