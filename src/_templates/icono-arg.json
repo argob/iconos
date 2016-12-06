@@ -10,6 +10,26 @@
       "nombre": "fa-500px",
       "clase": "fa fa-500px"
     },
+        {
+      "nombre": "fa-500px",
+      "clase": "fa fa-500px"
+    },
+    {
+      "nombre": "fa-address-book",
+      "clase": "fa fa-address-book"
+    },
+    {
+      "nombre": "fa-address-book-o",
+      "clase": "fa fa-address-book-o"
+    },
+    {
+      "nombre": "fa-address-card",
+      "clase": "fa fa-address-card"
+    },
+    {
+      "nombre": "fa-address-card-o",
+      "clase": "fa fa-address-card-o"
+    },
     {
       "nombre": "fa-adjust",
       "clase": "fa fa-adjust"
@@ -203,6 +223,10 @@
       "clase": "fa fa-ban"
     },
     {
+      "nombre": "fa-bandcamp",
+      "clase": "fa fa-bandcamp"
+    },
+    {
       "nombre": "fa-bank",
       "clase": "fa fa-bank"
     },
@@ -221,6 +245,18 @@
     {
       "nombre": "fa-bars",
       "clase": "fa fa-bars"
+    },
+    {
+      "nombre": "fa-bath",
+      "clase": "fa fa-bath"
+    },
+    {
+      "nombre": "fa-bathtub",
+      "clase": "fa fa-bathtub"
+    },
+    {
+      "nombre": "fa-battery",
+      "clase": "fa fa-battery"
     },
     {
       "nombre": "fa-battery-0",
@@ -819,6 +855,14 @@
       "clase": "fa fa-dribbble"
     },
     {
+      "nombre": "fa-drivers-license",
+      "clase": "fa fa-drivers-license"
+    },
+    {
+      "nombre": "fa-drivers-license-o",
+      "clase": "fa fa-drivers-license-o"
+    },
+    {
       "nombre": "fa-dropbox",
       "clase": "fa fa-dropbox"
     },
@@ -833,6 +877,10 @@
     {
       "nombre": "fa-edit",
       "clase": "fa fa-edit"
+    },
+    {
+      "nombre": "fa-eercast",
+      "clase": "fa fa-eercast"
     },
     {
       "nombre": "fa-eject",
@@ -859,6 +907,14 @@
       "clase": "fa fa-envelope-o"
     },
     {
+      "nombre": "fa-envelope-open",
+      "clase": "fa fa-envelope-open"
+    },
+    {
+      "nombre": "fa-envelope-open-o",
+      "clase": "fa fa-envelope-open-o"
+    },
+    {
       "nombre": "fa-envelope-square",
       "clase": "fa fa-envelope-square"
     },
@@ -869,6 +925,10 @@
     {
       "nombre": "fa-eraser",
       "clase": "fa fa-eraser"
+    },
+    {
+      "nombre": "fa-etsy",
+      "clase": "fa fa-etsy"
     },
     {
       "nombre": "fa-eur",
@@ -1139,6 +1199,10 @@
       "clase": "fa fa-foursquare"
     },
     {
+      "nombre": "fa-free-code-camp",
+      "clase": "fa fa-free-code-camp"
+    },
+    {
       "nombre": "fa-frown-o",
       "clase": "fa fa-frown-o"
     },
@@ -1267,6 +1331,10 @@
       "clase": "fa fa-gratipay"
     },
     {
+      "nombre": "fa-grav",
+      "clase": "fa fa-grav"
+    },
+    {
       "nombre": "fa-group",
       "clase": "fa fa-group"
     },
@@ -1329,6 +1397,10 @@
     {
       "nombre": "fa-hand-stop-o",
       "clase": "fa fa-hand-stop-o"
+    },
+    {
+      "nombre": "fa-handshake-o",
+      "clase": "fa fa-handshake-o"
     },
     {
       "nombre": "fa-hard-of-hearing",
@@ -1423,12 +1495,28 @@
       "clase": "fa fa-i-cursor"
     },
     {
+      "nombre": "fa-id-badge",
+      "clase": "fa fa-id-badge"
+    },
+    {
+      "nombre": "fa-id-card",
+      "clase": "fa fa-id-card"
+    },
+    {
+      "nombre": "fa-id-card-o",
+      "clase": "fa fa-id-card-o"
+    },
+    {
       "nombre": "fa-ils",
       "clase": "fa fa-ils"
     },
     {
       "nombre": "fa-image",
       "clase": "fa fa-image"
+    },
+    {
+      "nombre": "fa-imdb",
+      "clase": "fa fa-imdb"
     },
     {
       "nombre": "fa-inbox",
@@ -1579,6 +1667,10 @@
       "clase": "fa fa-linkedin-square"
     },
     {
+      "nombre": "fa-linode",
+      "clase": "fa fa-linode"
+    },
+    {
       "nombre": "fa-linux",
       "clase": "fa fa-linux"
     },
@@ -1707,12 +1799,20 @@
       "clase": "fa fa-medkit"
     },
     {
+      "nombre": "fa-meetup",
+      "clase": "fa fa-meetup"
+    },
+    {
       "nombre": "fa-meh-o",
       "clase": "fa fa-meh-o"
     },
     {
       "nombre": "fa-mercury",
       "clase": "fa fa-mercury"
+    },
+    {
+      "nombre": "fa-microchip",
+      "clase": "fa fa-microchip"
     },
     {
       "nombre": "fa-microphone",
@@ -1971,6 +2071,10 @@
       "clase": "fa fa-plus-square-o"
     },
     {
+      "nombre": "fa-podcast",
+      "clase": "fa fa-podcast"
+    },
+    {
       "nombre": "fa-power-off",
       "clase": "fa fa-power-off"
     },
@@ -2007,6 +2111,10 @@
       "clase": "fa fa-question-circle-o"
     },
     {
+      "nombre": "fa-quora",
+      "clase": "fa fa-quora"
+    },
+    {
       "nombre": "fa-quote-left",
       "clase": "fa fa-quote-left"
     },
@@ -2021,6 +2129,10 @@
     {
       "nombre": "fa-random",
       "clase": "fa fa-random"
+    },
+    {
+      "nombre": "fa-ravelry",
+      "clase": "fa fa-ravelry"
     },
     {
       "nombre": "fa-rebel",
@@ -2127,6 +2239,10 @@
       "clase": "fa fa-rupee"
     },
     {
+      "nombre": "fa-s15",
+      "clase": "fa fa-s15"
+    },
+    {
       "nombre": "fa-safari",
       "clase": "fa fa-safari"
     },
@@ -2223,6 +2339,10 @@
       "clase": "fa fa-shopping-cart"
     },
     {
+      "nombre": "fa-shower",
+      "clase": "fa fa-shower"
+    },
+    {
       "nombre": "fa-sign-in",
       "clase": "fa fa-sign-in"
     },
@@ -2285,6 +2405,10 @@
     {
       "nombre": "fa-snapchat-square",
       "clase": "fa fa-snapchat-square"
+    },
+    {
+      "nombre": "fa-snowflake-o",
+      "clase": "fa fa-snowflake-o"
     },
     {
       "nombre": "fa-soccer-ball-o",
@@ -2467,6 +2591,10 @@
       "clase": "fa fa-sun-o"
     },
     {
+      "nombre": "fa-superpowers",
+      "clase": "fa fa-superpowers"
+    },
+    {
       "nombre": "fa-superscript",
       "clase": "fa fa-superscript"
     },
@@ -2501,6 +2629,10 @@
     {
       "nombre": "fa-taxi",
       "clase": "fa fa-taxi"
+    },
+    {
+      "nombre": "fa-telegram",
+      "clase": "fa fa-telegram"
     },
     {
       "nombre": "fa-television",
@@ -2539,6 +2671,50 @@
       "clase": "fa fa-themeisle"
     },
     {
+      "nombre": "fa-thermometer",
+      "clase": "fa fa-thermometer"
+    },
+    {
+      "nombre": "fa-thermometer-0",
+      "clase": "fa fa-thermometer-0"
+    },
+    {
+      "nombre": "fa-thermometer-1",
+      "clase": "fa fa-thermometer-1"
+    },
+    {
+      "nombre": "fa-thermometer-2",
+      "clase": "fa fa-thermometer-2"
+    },
+    {
+      "nombre": "fa-thermometer-3",
+      "clase": "fa fa-thermometer-3"
+    },
+    {
+      "nombre": "fa-thermometer-4",
+      "clase": "fa fa-thermometer-4"
+    },
+    {
+      "nombre": "fa-thermometer-empty",
+      "clase": "fa fa-thermometer-empty"
+    },
+    {
+      "nombre": "fa-thermometer-full",
+      "clase": "fa fa-thermometer-full"
+    },
+    {
+      "nombre": "fa-thermometer-half",
+      "clase": "fa fa-thermometer-half"
+    },
+    {
+      "nombre": "fa-thermometer-quarter",
+      "clase": "fa fa-thermometer-quarter"
+    },
+    {
+      "nombre": "fa-thermometer-three-quarters",
+      "clase": "fa fa-thermometer-three-quarters"
+    },
+    {
       "nombre": "fa-thumb-tack",
       "clase": "fa fa-thumb-tack"
     },
@@ -2573,6 +2749,14 @@
     {
       "nombre": "fa-times-circle-o",
       "clase": "fa fa-times-circle-o"
+    },
+    {
+      "nombre": "fa-times-rectangle",
+      "clase": "fa fa-times-rectangle"
+    },
+    {
+      "nombre": "fa-times-rectangle-o",
+      "clase": "fa fa-times-rectangle-o"
     },
     {
       "nombre": "fa-tint",
@@ -2735,8 +2919,20 @@
       "clase": "fa fa-user"
     },
     {
+      "nombre": "fa-user-circle",
+      "clase": "fa fa-user-circle"
+    },
+    {
+      "nombre": "fa-user-circle-o",
+      "clase": "fa fa-user-circle-o"
+    },
+    {
       "nombre": "fa-user-md",
       "clase": "fa fa-user-md"
+    },
+    {
+      "nombre": "fa-user-o",
+      "clase": "fa fa-user-o"
     },
     {
       "nombre": "fa-user-plus",
@@ -2753,6 +2949,14 @@
     {
       "nombre": "fa-users",
       "clase": "fa fa-users"
+    },
+    {
+      "nombre": "fa-vcard",
+      "clase": "fa fa-vcard"
+    },
+    {
+      "nombre": "fa-vcard-o",
+      "clase": "fa fa-vcard-o"
     },
     {
       "nombre": "fa-venus",
@@ -2851,6 +3055,26 @@
       "clase": "fa fa-wikipedia-w"
     },
     {
+      "nombre": "fa-window-close",
+      "clase": "fa fa-window-close"
+    },
+    {
+      "nombre": "fa-window-close-o",
+      "clase": "fa fa-window-close-o"
+    },
+    {
+      "nombre": "fa-window-maximize",
+      "clase": "fa fa-window-maximize"
+    },
+    {
+      "nombre": "fa-window-minimize",
+      "clase": "fa fa-window-minimize"
+    },
+    {
+      "nombre": "fa-window-restore",
+      "clase": "fa fa-window-restore"
+    },
+    {
       "nombre": "fa-windows",
       "clase": "fa fa-windows"
     },
@@ -2865,6 +3089,10 @@
     {
       "nombre": "fa-wpbeginner",
       "clase": "fa fa-wpbeginner"
+    },
+    {
+      "nombre": "fa-wpexplorer",
+      "clase": "fa fa-wpexplorer"
     },
     {
       "nombre": "fa-wpforms",
