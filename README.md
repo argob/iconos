@@ -1,6 +1,6 @@
 ![Poncho](img/poncho.gif)
 
-###[Ver listado de íconos](//argob.github.io/iconos)
+### [Ver listado de íconos](//argob.github.io/iconos)
 
 # Uso
 
