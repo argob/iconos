@@ -2,443 +2,498 @@
   "iconos": [
     
       {
-        "nombre": "agricultura",
-        "clase": "icono-arg-agricultura"
+        "nombre": "Iconos_agricultura",
+        "clase": "icono-arg-Iconos_agricultura"
       },
     
       {
-        "nombre": "ambiente",
-        "clase": "icono-arg-ambiente"
+        "nombre": "Iconos_ambiente",
+        "clase": "icono-arg-Iconos_ambiente"
       },
     
       {
-        "nombre": "ambiente-cert",
-        "clase": "icono-arg-ambiente-cert"
+        "nombre": "Iconos_ambiente-cert",
+        "clase": "icono-arg-Iconos_ambiente-cert"
       },
     
       {
-        "nombre": "animales-exp-imp",
-        "clase": "icono-arg-animales-exp-imp"
+        "nombre": "Iconos_animales-exp-imp",
+        "clase": "icono-arg-Iconos_animales-exp-imp"
       },
     
       {
-        "nombre": "antibalas",
-        "clase": "icono-arg-antibalas"
+        "nombre": "Iconos_antibalas",
+        "clase": "icono-arg-Iconos_antibalas"
       },
     
       {
-        "nombre": "apostilla",
-        "clase": "icono-arg-apostilla"
+        "nombre": "Iconos_apostilla",
+        "clase": "icono-arg-Iconos_apostilla"
       },
     
       {
-        "nombre": "arbitraje",
-        "clase": "icono-arg-arbitraje"
+        "nombre": "Iconos_arbitraje",
+        "clase": "icono-arg-Iconos_arbitraje"
       },
     
       {
-        "nombre": "arbol",
-        "clase": "icono-arg-arbol"
+        "nombre": "Iconos_arbol",
+        "clase": "icono-arg-Iconos_arbol"
       },
     
       {
-        "nombre": "archivo-consulta",
-        "clase": "icono-arg-archivo-consulta"
+        "nombre": "Iconos_archivo-consulta",
+        "clase": "icono-arg-Iconos_archivo-consulta"
       },
     
       {
-        "nombre": "arma-imp",
-        "clase": "icono-arg-arma-imp"
+        "nombre": "Iconos_arma-imp",
+        "clase": "icono-arg-Iconos_arma-imp"
       },
     
       {
-        "nombre": "arma-portacion",
-        "clase": "icono-arg-arma-portacion"
+        "nombre": "Iconos_arma-portacion",
+        "clase": "icono-arg-Iconos_arma-portacion"
       },
     
       {
-        "nombre": "arma-tenencia",
-        "clase": "icono-arg-arma-tenencia"
+        "nombre": "Iconos_arma-tenencia",
+        "clase": "icono-arg-Iconos_arma-tenencia"
       },
     
       {
-        "nombre": "auto",
-        "clase": "icono-arg-auto"
+        "nombre": "Iconos_auto",
+        "clase": "icono-arg-Iconos_auto"
       },
     
       {
-        "nombre": "auto-informe",
-        "clase": "icono-arg-auto-informe"
+        "nombre": "Iconos_auto-informe",
+        "clase": "icono-arg-Iconos_auto-informe"
       },
     
       {
-        "nombre": "auto-licencia",
-        "clase": "icono-arg-auto-licencia"
+        "nombre": "Iconos_auto-licencia",
+        "clase": "icono-arg-Iconos_auto-licencia"
       },
     
       {
-        "nombre": "auto-licencia-ok",
-        "clase": "icono-arg-auto-licencia-ok"
+        "nombre": "Iconos_auto-licencia-ok",
+        "clase": "icono-arg-Iconos_auto-licencia-ok"
       },
     
       {
-        "nombre": "avion",
-        "clase": "icono-arg-avion"
+        "nombre": "Iconos_avion",
+        "clase": "icono-arg-Iconos_avion"
       },
     
       {
-        "nombre": "buceo",
-        "clase": "icono-arg-buceo"
+        "nombre": "Iconos_buceo",
+        "clase": "icono-arg-Iconos_buceo"
       },
     
       {
-        "nombre": "caja-exp",
-        "clase": "icono-arg-caja-exp"
+        "nombre": "Iconos_caja-exp",
+        "clase": "icono-arg-Iconos_caja-exp"
       },
     
       {
-        "nombre": "cajero",
-        "clase": "icono-arg-cajero"
+        "nombre": "Iconos_cajero",
+        "clase": "icono-arg-Iconos_cajero"
       },
     
       {
-        "nombre": "calendario",
-        "clase": "icono-arg-calendario"
+        "nombre": "Iconos_calendario",
+        "clase": "icono-arg-Iconos_calendario"
       },
     
       {
-        "nombre": "calidad-cert",
-        "clase": "icono-arg-calidad-cert"
+        "nombre": "Iconos_calidad-cert",
+        "clase": "icono-arg-Iconos_calidad-cert"
       },
     
       {
-        "nombre": "cambio",
-        "clase": "icono-arg-cambio"
+        "nombre": "Iconos_cambio",
+        "clase": "icono-arg-Iconos_cambio"
       },
     
       {
-        "nombre": "capacitacion",
-        "clase": "icono-arg-capacitacion"
+        "nombre": "Iconos_capacitacion",
+        "clase": "icono-arg-Iconos_capacitacion"
       },
     
       {
-        "nombre": "chequeado",
-        "clase": "icono-arg-chequeado"
+        "nombre": "Iconos_chequeado",
+        "clase": "icono-arg-Iconos_chequeado"
       },
     
       {
-        "nombre": "ciencia-apoyo-economico",
-        "clase": "icono-arg-ciencia-apoyo-economico"
+        "nombre": "Iconos_chupete",
+        "clase": "icono-arg-Iconos_chupete"
       },
     
       {
-        "nombre": "ciencia-publicacion",
-        "clase": "icono-arg-ciencia-publicacion"
+        "nombre": "Iconos_ciencia-apoyo-economico",
+        "clase": "icono-arg-Iconos_ciencia-apoyo-economico"
       },
     
       {
-        "nombre": "cluse",
-        "clase": "icono-arg-cluse"
+        "nombre": "Iconos_ciencia-publicacion",
+        "clase": "icono-arg-Iconos_ciencia-publicacion"
       },
     
       {
-        "nombre": "comunicacion",
-        "clase": "icono-arg-comunicacion"
+        "nombre": "Iconos_cluse",
+        "clase": "icono-arg-Iconos_cluse"
       },
     
       {
-        "nombre": "consulta",
-        "clase": "icono-arg-consulta"
+        "nombre": "Iconos_comunicacion",
+        "clase": "icono-arg-Iconos_comunicacion"
       },
     
       {
-        "nombre": "cultura",
-        "clase": "icono-arg-cultura"
+        "nombre": "Iconos_consulta",
+        "clase": "icono-arg-Iconos_consulta"
       },
     
       {
-        "nombre": "cultura-exp",
-        "clase": "icono-arg-cultura-exp"
+        "nombre": "Iconos_cultura",
+        "clase": "icono-arg-Iconos_cultura"
       },
     
       {
-        "nombre": "cultura-imp",
-        "clase": "icono-arg-cultura-imp"
+        "nombre": "Iconos_cultura-exp",
+        "clase": "icono-arg-Iconos_cultura-exp"
       },
     
       {
-        "nombre": "declaracion-jurada",
-        "clase": "icono-arg-declaracion-jurada"
+        "nombre": "Iconos_cultura-imp",
+        "clase": "icono-arg-Iconos_cultura-imp"
       },
     
       {
-        "nombre": "deporte",
-        "clase": "icono-arg-deporte"
+        "nombre": "Iconos_declaracion-jurada",
+        "clase": "icono-arg-Iconos_declaracion-jurada"
       },
     
       {
-        "nombre": "digital",
-        "clase": "icono-arg-digital"
+        "nombre": "Iconos_deporte",
+        "clase": "icono-arg-Iconos_deporte"
       },
     
       {
-        "nombre": "discapacidad",
-        "clase": "icono-arg-discapacidad"
+        "nombre": "Iconos_dialogo",
+        "clase": "icono-arg-Iconos_dialogo"
       },
     
       {
-        "nombre": "educacion",
-        "clase": "icono-arg-educacion"
+        "nombre": "Iconos_digital",
+        "clase": "icono-arg-Iconos_digital"
       },
     
       {
-        "nombre": "eleccion",
-        "clase": "icono-arg-eleccion"
+        "nombre": "Iconos_discapacidad",
+        "clase": "icono-arg-Iconos_discapacidad"
       },
     
       {
-        "nombre": "embarcacion",
-        "clase": "icono-arg-embarcacion"
+        "nombre": "Iconos_educacion",
+        "clase": "icono-arg-Iconos_educacion"
       },
     
       {
-        "nombre": "embarcacion-pago",
-        "clase": "icono-arg-embarcacion-pago"
+        "nombre": "Iconos_eleccion",
+        "clase": "icono-arg-Iconos_eleccion"
       },
     
       {
-        "nombre": "exterior",
-        "clase": "icono-arg-exterior"
+        "nombre": "Iconos_embarazo",
+        "clase": "icono-arg-Iconos_embarazo"
       },
     
       {
-        "nombre": "factor-pago",
-        "clase": "icono-arg-factor-pago"
+        "nombre": "Iconos_embarcacion",
+        "clase": "icono-arg-Iconos_embarcacion"
       },
     
       {
-        "nombre": "factura",
-        "clase": "icono-arg-factura"
+        "nombre": "Iconos_embarcacion-pago",
+        "clase": "icono-arg-Iconos_embarcacion-pago"
       },
     
       {
-        "nombre": "ganaderia",
-        "clase": "icono-arg-ganaderia"
+        "nombre": "Iconos_exterior",
+        "clase": "icono-arg-Iconos_exterior"
       },
     
       {
-        "nombre": "genetica",
-        "clase": "icono-arg-genetica"
+        "nombre": "Iconos_factor-pago",
+        "clase": "icono-arg-Iconos_factor-pago"
       },
     
       {
-        "nombre": "genetica-exp-imp",
-        "clase": "icono-arg-genetica-exp-imp"
+        "nombre": "Iconos_factura",
+        "clase": "icono-arg-Iconos_factura"
       },
     
       {
-        "nombre": "inclusion-digital",
-        "clase": "icono-arg-inclusion-digital"
+        "nombre": "Iconos_fallecimiento",
+        "clase": "icono-arg-Iconos_fallecimiento"
       },
     
       {
-        "nombre": "industria",
-        "clase": "icono-arg-industria"
+        "nombre": "Iconos_fertilizacion-asistida",
+        "clase": "icono-arg-Iconos_fertilizacion-asistida"
       },
     
       {
-        "nombre": "institucion",
-        "clase": "icono-arg-institucion"
+        "nombre": "Iconos_ganaderia",
+        "clase": "icono-arg-Iconos_ganaderia"
       },
     
       {
-        "nombre": "interes-cultural",
-        "clase": "icono-arg-interes-cultural"
+        "nombre": "Iconos_genetica",
+        "clase": "icono-arg-Iconos_genetica"
       },
     
       {
-        "nombre": "jubilado",
-        "clase": "icono-arg-jubilado"
+        "nombre": "Iconos_genetica-exp-imp",
+        "clase": "icono-arg-Iconos_genetica-exp-imp"
       },
     
       {
-        "nombre": "lampara",
-        "clase": "icono-arg-lampara"
+        "nombre": "Iconos_hogar-y-familia",
+        "clase": "icono-arg-Iconos_hogar-y-familia"
       },
     
       {
-        "nombre": "lupa",
-        "clase": "icono-arg-lupa"
+        "nombre": "Iconos_inclusion-digital",
+        "clase": "icono-arg-Iconos_inclusion-digital"
       },
     
       {
-        "nombre": "magnetometria",
-        "clase": "icono-arg-magnetometria"
+        "nombre": "Iconos_industria",
+        "clase": "icono-arg-Iconos_industria"
       },
     
       {
-        "nombre": "mano",
-        "clase": "icono-arg-mano"
+        "nombre": "Iconos_institucion",
+        "clase": "icono-arg-Iconos_institucion"
       },
     
       {
-        "nombre": "mano-alt",
-        "clase": "icono-arg-mano-alt"
+        "nombre": "Iconos_interes-cultural",
+        "clase": "icono-arg-Iconos_interes-cultural"
       },
     
       {
-        "nombre": "marcador-temporal",
-        "clase": "icono-arg-marcador-temporal"
+        "nombre": "Iconos_jubilado",
+        "clase": "icono-arg-Iconos_jubilado"
       },
     
       {
-        "nombre": "medicamentos",
-        "clase": "icono-arg-medicamentos"
+        "nombre": "Iconos_lampara",
+        "clase": "icono-arg-Iconos_lampara"
       },
     
       {
-        "nombre": "medicina",
-        "clase": "icono-arg-medicina"
+        "nombre": "Iconos_lupa",
+        "clase": "icono-arg-Iconos_lupa"
       },
     
       {
-        "nombre": "museo",
-        "clase": "icono-arg-museo"
+        "nombre": "Iconos_magnetometria",
+        "clase": "icono-arg-Iconos_magnetometria"
       },
     
       {
-        "nombre": "natacion",
-        "clase": "icono-arg-natacion"
+        "nombre": "Iconos_mano",
+        "clase": "icono-arg-Iconos_mano"
       },
     
       {
-        "nombre": "nuclear",
-        "clase": "icono-arg-nuclear"
+        "nombre": "Iconos_mano-alt",
+        "clase": "icono-arg-Iconos_mano-alt"
       },
     
       {
-        "nombre": "pago",
-        "clase": "icono-arg-pago"
+        "nombre": "Iconos_marcador-temporal",
+        "clase": "icono-arg-Iconos_marcador-temporal"
       },
     
       {
-        "nombre": "pasaporte",
-        "clase": "icono-arg-pasaporte"
+        "nombre": "Iconos_medicamentos",
+        "clase": "icono-arg-Iconos_medicamentos"
       },
     
       {
-        "nombre": "pd-punto-digital",
-        "clase": "icono-arg-pd-punto-digital"
+        "nombre": "Iconos_medicina",
+        "clase": "icono-arg-Iconos_medicina"
       },
     
       {
-        "nombre": "pd-wifi",
-        "clase": "icono-arg-pd-wifi"
+        "nombre": "Iconos_museo",
+        "clase": "icono-arg-Iconos_museo"
       },
     
       {
-        "nombre": "pesos",
-        "clase": "icono-arg-pesos"
+        "nombre": "Iconos_natacion",
+        "clase": "icono-arg-Iconos_natacion"
       },
     
       {
-        "nombre": "petroleo",
-        "clase": "icono-arg-petroleo"
+        "nombre": "Iconos_nuclear",
+        "clase": "icono-arg-Iconos_nuclear"
       },
     
       {
-        "nombre": "reclamo-consulta",
-        "clase": "icono-arg-reclamo-consulta"
+        "nombre": "Iconos_pago",
+        "clase": "icono-arg-Iconos_pago"
       },
     
       {
-        "nombre": "reclamo-demora",
-        "clase": "icono-arg-reclamo-demora"
+        "nombre": "Iconos_pareja",
+        "clase": "icono-arg-Iconos_pareja"
       },
     
       {
-        "nombre": "reloj",
-        "clase": "icono-arg-reloj"
+        "nombre": "Iconos_pasaporte",
+        "clase": "icono-arg-Iconos_pasaporte"
       },
     
       {
-        "nombre": "residuos-peligrosos-transporte",
-        "clase": "icono-arg-residuos-peligrosos-transporte"
+        "nombre": "Iconos_pd-punto-digital",
+        "clase": "icono-arg-Iconos_pd-punto-digital"
       },
     
       {
-        "nombre": "ruta",
-        "clase": "icono-arg-ruta"
+        "nombre": "Iconos_pd-wifi",
+        "clase": "icono-arg-Iconos_pd-wifi"
       },
     
       {
-        "nombre": "seguridad",
-        "clase": "icono-arg-seguridad"
+        "nombre": "Iconos_pesos",
+        "clase": "icono-arg-Iconos_pesos"
       },
     
       {
-        "nombre": "servicios",
-        "clase": "icono-arg-servicios"
+        "nombre": "Iconos_petroleo",
+        "clase": "icono-arg-Iconos_petroleo"
       },
     
       {
-        "nombre": "servidor",
-        "clase": "icono-arg-servidor"
+        "nombre": "Iconos_reclamo-consulta",
+        "clase": "icono-arg-Iconos_reclamo-consulta"
       },
     
       {
-        "nombre": "social",
-        "clase": "icono-arg-social"
+        "nombre": "Iconos_reclamo-demora",
+        "clase": "icono-arg-Iconos_reclamo-demora"
       },
     
       {
-        "nombre": "solidaridad",
-        "clase": "icono-arg-solidaridad"
+        "nombre": "Iconos_reloj",
+        "clase": "icono-arg-Iconos_reloj"
       },
     
       {
-        "nombre": "sube",
-        "clase": "icono-arg-sube"
+        "nombre": "Iconos_residuos-peligrosos-transporte",
+        "clase": "icono-arg-Iconos_residuos-peligrosos-transporte"
       },
     
       {
-        "nombre": "teatro",
-        "clase": "icono-arg-teatro"
+        "nombre": "Iconos_ruta",
+        "clase": "icono-arg-Iconos_ruta"
       },
     
       {
-        "nombre": "teatro-archivo",
-        "clase": "icono-arg-teatro-archivo"
+        "nombre": "Iconos_salud-reproductiva-y-sexual",
+        "clase": "icono-arg-Iconos_salud-reproductiva-y-sexual"
       },
     
       {
-        "nombre": "trabajador",
-        "clase": "icono-arg-trabajador"
+        "nombre": "Iconos_seguridad",
+        "clase": "icono-arg-Iconos_seguridad"
       },
     
       {
-        "nombre": "trabajador-temporal",
-        "clase": "icono-arg-trabajador-temporal"
+        "nombre": "Iconos_servicios",
+        "clase": "icono-arg-Iconos_servicios"
       },
     
       {
-        "nombre": "transporte-licencia",
-        "clase": "icono-arg-transporte-licencia"
+        "nombre": "Iconos_servidor",
+        "clase": "icono-arg-Iconos_servidor"
       },
     
       {
-        "nombre": "transporte-publico-licencia",
-        "clase": "icono-arg-transporte-publico-licencia"
+        "nombre": "Iconos_social",
+        "clase": "icono-arg-Iconos_social"
       },
     
       {
-        "nombre": "visa-negocios",
-        "clase": "icono-arg-visa-negocios"
+        "nombre": "Iconos_solidaridad",
+        "clase": "icono-arg-Iconos_solidaridad"
       },
     
       {
-        "nombre": "vivienda",
-        "clase": "icono-arg-vivienda"
+        "nombre": "Iconos_sube",
+        "clase": "icono-arg-Iconos_sube"
+      },
+    
+      {
+        "nombre": "Iconos_teatro",
+        "clase": "icono-arg-Iconos_teatro"
+      },
+    
+      {
+        "nombre": "Iconos_teatro-archivo",
+        "clase": "icono-arg-Iconos_teatro-archivo"
+      },
+    
+      {
+        "nombre": "Iconos_tener-un-hijo",
+        "clase": "icono-arg-Iconos_tener-un-hijo"
+      },
+    
+      {
+        "nombre": "Iconos_trabajador",
+        "clase": "icono-arg-Iconos_trabajador"
+      },
+    
+      {
+        "nombre": "Iconos_trabajador-temporal",
+        "clase": "icono-arg-Iconos_trabajador-temporal"
+      },
+    
+      {
+        "nombre": "Iconos_tramite-jubilacion",
+        "clase": "icono-arg-Iconos_tramite-jubilacion"
+      },
+    
+      {
+        "nombre": "Iconos_transporte-licencia",
+        "clase": "icono-arg-Iconos_transporte-licencia"
+      },
+    
+      {
+        "nombre": "Iconos_transporte-publico-licencia",
+        "clase": "icono-arg-Iconos_transporte-publico-licencia"
+      },
+    
+      {
+        "nombre": "Iconos_vacunas",
+        "clase": "icono-arg-Iconos_vacunas"
+      },
+    
+      {
+        "nombre": "Iconos_visa-negocios",
+        "clase": "icono-arg-Iconos_visa-negocios"
+      },
+    
+      {
+        "nombre": "Iconos_vivienda",
+        "clase": "icono-arg-Iconos_vivienda"
       },
     
     {
