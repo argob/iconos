@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "ee7e6b5a285bb95047fd9588d592385257e13e69a7c01fc645c227a78d09c5ca",
-    "current": "ee7e6b5a285bb95047fd9588d592385257e13e69a7c01fc645c227a78d09c5ca"
+    "previous": "173535c9eddfb6a62485ae9b42ed0b647218bf608f6ce135e93a57842247c825",
+    "current": "173535c9eddfb6a62485ae9b42ed0b647218bf608f6ce135e93a57842247c825"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.ttf",
-    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.svg",
-    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.woff",
-    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.eot"
+    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.ttf",
+    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.svg",
+    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.woff",
+    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -190,6 +190,10 @@
       "codepoint": 62364,
       "source": "src/_icons/embarcacion pago.svg"
     },
+    "estacion-trenes": {
+      "codepoint": 62425,
+      "source": "src/_icons/estacion-trenes.svg"
+    },
     "estacion_trenes": {
       "codepoint": 62421,
       "source": "src/_icons/estacion_trenes.svg"
@@ -305,6 +309,10 @@
     "pasaporte": {
       "codepoint": 62392,
       "source": "src/_icons/pasaporte.svg"
+    },
+    "paso-a-nivel": {
+      "codepoint": 62426,
+      "source": "src/_icons/paso-a-nivel.svg"
     },
     "paso_a_nivel": {
       "codepoint": 62422,

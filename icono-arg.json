@@ -227,6 +227,11 @@
       },
     
       {
+        "nombre": "estacion-trenes",
+        "clase": "icono-arg-estacion-trenes"
+      },
+    
+      {
         "nombre": "estacion_trenes",
         "clase": "icono-arg-estacion_trenes"
       },
@@ -369,6 +374,11 @@
       {
         "nombre": "pasaporte",
         "clase": "icono-arg-pasaporte"
+      },
+    
+      {
+        "nombre": "paso-a-nivel",
+        "clase": "icono-arg-paso-a-nivel"
       },
     
       {
