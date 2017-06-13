@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "7f6bcd215e4dc3602090d2f064fd202a23ca6551bf23df51834f81df39cb9556",
-    "current": "7f6bcd215e4dc3602090d2f064fd202a23ca6551bf23df51834f81df39cb9556"
+    "previous": "ee7e6b5a285bb95047fd9588d592385257e13e69a7c01fc645c227a78d09c5ca",
+    "current": "ee7e6b5a285bb95047fd9588d592385257e13e69a7c01fc645c227a78d09c5ca"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7f6bcd215e4dc3602090d2f064fd202a.ttf",
-    "dist/fonts/icono-arg_7f6bcd215e4dc3602090d2f064fd202a.svg",
-    "dist/fonts/icono-arg_7f6bcd215e4dc3602090d2f064fd202a.woff",
-    "dist/fonts/icono-arg_7f6bcd215e4dc3602090d2f064fd202a.eot"
+    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.ttf",
+    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.svg",
+    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.woff",
+    "dist/fonts/icono-arg_ee7e6b5a285bb95047fd9588d5923852.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -166,6 +166,10 @@
       "codepoint": 62359,
       "source": "src/_icons/discapacidad.svg"
     },
+    "dni": {
+      "codepoint": 62420,
+      "source": "src/_icons/dni.svg"
+    },
     "educacion": {
       "codepoint": 62360,
       "source": "src/_icons/educacion.svg"
@@ -185,6 +189,10 @@
     "embarcacion-pago": {
       "codepoint": 62364,
       "source": "src/_icons/embarcacion pago.svg"
+    },
+    "estacion_trenes": {
+      "codepoint": 62421,
+      "source": "src/_icons/estacion_trenes.svg"
     },
     "exterior": {
       "codepoint": 62365,
@@ -298,6 +306,10 @@
       "codepoint": 62392,
       "source": "src/_icons/pasaporte.svg"
     },
+    "paso_a_nivel": {
+      "codepoint": 62422,
+      "source": "src/_icons/paso_a_nivel.svg"
+    },
     "pd-punto-digital": {
       "codepoint": 62393,
       "source": "src/_icons/pd punto digital.svg"
@@ -341,6 +353,10 @@
     "seguridad": {
       "codepoint": 62403,
       "source": "src/_icons/seguridad.svg"
+    },
+    "semaforo": {
+      "codepoint": 62423,
+      "source": "src/_icons/semaforo.svg"
     },
     "servicios": {
       "codepoint": 62404,
@@ -397,6 +413,10 @@
     "vacunas": {
       "codepoint": 62417,
       "source": "src/_icons/vacunas.svg"
+    },
+    "vias": {
+      "codepoint": 62424,
+      "source": "src/_icons/vias.svg"
     },
     "visa-negocios": {
       "codepoint": 62418,

@@ -197,6 +197,11 @@
       },
     
       {
+        "nombre": "dni",
+        "clase": "icono-arg-dni"
+      },
+    
+      {
         "nombre": "educacion",
         "clase": "icono-arg-educacion"
       },
@@ -219,6 +224,11 @@
       {
         "nombre": "embarcacion-pago",
         "clase": "icono-arg-embarcacion-pago"
+      },
+    
+      {
+        "nombre": "estacion_trenes",
+        "clase": "icono-arg-estacion_trenes"
       },
     
       {
@@ -362,6 +372,11 @@
       },
     
       {
+        "nombre": "paso_a_nivel",
+        "clase": "icono-arg-paso_a_nivel"
+      },
+    
+      {
         "nombre": "pd-punto-digital",
         "clase": "icono-arg-pd-punto-digital"
       },
@@ -414,6 +429,11 @@
       {
         "nombre": "seguridad",
         "clase": "icono-arg-seguridad"
+      },
+    
+      {
+        "nombre": "semaforo",
+        "clase": "icono-arg-semaforo"
       },
     
       {
@@ -484,6 +504,11 @@
       {
         "nombre": "vacunas",
         "clase": "icono-arg-vacunas"
+      },
+    
+      {
+        "nombre": "vias",
+        "clase": "icono-arg-vias"
       },
     
       {
