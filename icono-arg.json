@@ -2,6 +2,16 @@
   "iconos": [
     
       {
+        "nombre": "AGUA",
+        "clase": "icono-arg-AGUA"
+      },
+    
+      {
+        "nombre": "HABITAT",
+        "clase": "icono-arg-HABITAT"
+      },
+    
+      {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
       },

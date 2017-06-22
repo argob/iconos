@@ -1,15 +1,23 @@
 {
   "checksum": {
-    "previous": "173535c9eddfb6a62485ae9b42ed0b647218bf608f6ce135e93a57842247c825",
-    "current": "173535c9eddfb6a62485ae9b42ed0b647218bf608f6ce135e93a57842247c825"
+    "previous": "80e665e8ee9fe11e4a06daac89b705f8ce91edefdfad7126924e9be7ce6c3465",
+    "current": "80e665e8ee9fe11e4a06daac89b705f8ce91edefdfad7126924e9be7ce6c3465"
   },
   "fonts": [
-    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.ttf",
-    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.svg",
-    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.woff",
-    "dist/fonts/icono-arg_173535c9eddfb6a62485ae9b42ed0b64.eot"
+    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.ttf",
+    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.svg",
+    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.woff",
+    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.eot"
   ],
   "glyphs": {
+    "AGUA": {
+      "codepoint": 62427,
+      "source": "src/_icons/AGUA.svg"
+    },
+    "HABITAT": {
+      "codepoint": 62428,
+      "source": "src/_icons/HABITAT.svg"
+    },
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
@@ -462,6 +470,7 @@
     },
     "preprocessor_path": null,
     "quiet": false,
+    "skip_first": false,
     "templates": [
       "css",
       "index.html",
