@@ -7,8 +7,78 @@
       },
     
       {
+        "nombre": "BARRIO",
+        "clase": "icono-arg-BARRIO"
+      },
+    
+      {
+        "nombre": "CAMION-CONSTRUCCION-01",
+        "clase": "icono-arg-CAMION-CONSTRUCCION-01"
+      },
+    
+      {
+        "nombre": "CANILLA",
+        "clase": "icono-arg-CANILLA"
+      },
+    
+      {
+        "nombre": "CREDITO-VIVIENDA",
+        "clase": "icono-arg-CREDITO-VIVIENDA"
+      },
+    
+      {
+        "nombre": "ESPACIO-PUBLICO",
+        "clase": "icono-arg-ESPACIO-PUBLICO"
+      },
+    
+      {
+        "nombre": "FAMILIA--VIVIENDA",
+        "clase": "icono-arg-FAMILIA--VIVIENDA"
+      },
+    
+      {
+        "nombre": "FRIO-CALOR",
+        "clase": "icono-arg-FRIO-CALOR"
+      },
+    
+      {
         "nombre": "HABITAT",
         "clase": "icono-arg-HABITAT"
+      },
+    
+      {
+        "nombre": "LAMPARA---HOJA",
+        "clase": "icono-arg-LAMPARA---HOJA"
+      },
+    
+      {
+        "nombre": "LAVAR-MANOS",
+        "clase": "icono-arg-LAVAR-MANOS"
+      },
+    
+      {
+        "nombre": "MAS--VIVIENDAS",
+        "clase": "icono-arg-MAS--VIVIENDAS"
+      },
+    
+      {
+        "nombre": "NIDO",
+        "clase": "icono-arg-NIDO"
+      },
+    
+      {
+        "nombre": "PROBETA---HOJA",
+        "clase": "icono-arg-PROBETA---HOJA"
+      },
+    
+      {
+        "nombre": "RIEGO-PRODUCCION",
+        "clase": "icono-arg-RIEGO-PRODUCCION"
+      },
+    
+      {
+        "nombre": "SOLUCIONES-HABITACIONALES",
+        "clase": "icono-arg-SOLUCIONES-HABITACIONALES"
       },
     
       {

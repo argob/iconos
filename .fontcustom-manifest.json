@@ -1,22 +1,78 @@
 {
   "checksum": {
-    "previous": "80e665e8ee9fe11e4a06daac89b705f8ce91edefdfad7126924e9be7ce6c3465",
-    "current": "80e665e8ee9fe11e4a06daac89b705f8ce91edefdfad7126924e9be7ce6c3465"
+    "previous": "5ea5401a941feb7be3e86a2a5d9f6701354dfd66bc0dd438a926e33a4fc67b3c",
+    "current": "5ea5401a941feb7be3e86a2a5d9f6701354dfd66bc0dd438a926e33a4fc67b3c"
   },
   "fonts": [
-    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.ttf",
-    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.svg",
-    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.woff",
-    "dist/fonts/icono-arg_80e665e8ee9fe11e4a06daac89b705f8.eot"
+    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.ttf",
+    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.svg",
+    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.woff",
+    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.eot"
   ],
   "glyphs": {
     "AGUA": {
       "codepoint": 62427,
       "source": "src/_icons/AGUA.svg"
     },
+    "BARRIO": {
+      "codepoint": 62429,
+      "source": "src/_icons/BARRIO.svg"
+    },
+    "CAMION-CONSTRUCCION-01": {
+      "codepoint": 62430,
+      "source": "src/_icons/CAMION CONSTRUCCION 01.svg"
+    },
+    "CANILLA": {
+      "codepoint": 62431,
+      "source": "src/_icons/CANILLA.svg"
+    },
+    "CREDITO-VIVIENDA": {
+      "codepoint": 62432,
+      "source": "src/_icons/CREDITO-VIVIENDA.svg"
+    },
+    "ESPACIO-PUBLICO": {
+      "codepoint": 62433,
+      "source": "src/_icons/ESPACIO PUBLICO.svg"
+    },
+    "FAMILIA--VIVIENDA": {
+      "codepoint": 62434,
+      "source": "src/_icons/FAMILIA- VIVIENDA.svg"
+    },
+    "FRIO-CALOR": {
+      "codepoint": 62435,
+      "source": "src/_icons/FRIO CALOR.svg"
+    },
     "HABITAT": {
       "codepoint": 62428,
       "source": "src/_icons/HABITAT.svg"
+    },
+    "LAMPARA---HOJA": {
+      "codepoint": 62436,
+      "source": "src/_icons/LAMPARA - HOJA.svg"
+    },
+    "LAVAR-MANOS": {
+      "codepoint": 62437,
+      "source": "src/_icons/LAVAR MANOS.svg"
+    },
+    "MAS--VIVIENDAS": {
+      "codepoint": 62438,
+      "source": "src/_icons/MAS- VIVIENDAS.svg"
+    },
+    "NIDO": {
+      "codepoint": 62439,
+      "source": "src/_icons/NIDO.svg"
+    },
+    "PROBETA---HOJA": {
+      "codepoint": 62440,
+      "source": "src/_icons/PROBETA - HOJA.svg"
+    },
+    "RIEGO-PRODUCCION": {
+      "codepoint": 62441,
+      "source": "src/_icons/RIEGO PRODUCCION.svg"
+    },
+    "SOLUCIONES-HABITACIONALES": {
+      "codepoint": 62442,
+      "source": "src/_icons/SOLUCIONES HABITACIONALES.svg"
     },
     "agricultura": {
       "codepoint": 62321,
