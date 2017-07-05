@@ -17,13 +17,28 @@
       },
     
       {
+        "nombre": "CAN-ERIA",
+        "clase": "icono-arg-CAN-ERIA"
+      },
+    
+      {
         "nombre": "CANILLA",
         "clase": "icono-arg-CANILLA"
       },
     
       {
+        "nombre": "CONSTRUCCION",
+        "clase": "icono-arg-CONSTRUCCION"
+      },
+    
+      {
         "nombre": "CREDITO-VIVIENDA",
         "clase": "icono-arg-CREDITO-VIVIENDA"
+      },
+    
+      {
+        "nombre": "DEFICIT-HABITACIONAL",
+        "clase": "icono-arg-DEFICIT-HABITACIONAL"
       },
     
       {
@@ -79,6 +94,11 @@
       {
         "nombre": "SOLUCIONES-HABITACIONALES",
         "clase": "icono-arg-SOLUCIONES-HABITACIONALES"
+      },
+    
+      {
+        "nombre": "URBANIZACION",
+        "clase": "icono-arg-URBANIZACION"
       },
     
       {

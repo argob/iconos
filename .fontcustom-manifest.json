@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "5ea5401a941feb7be3e86a2a5d9f6701354dfd66bc0dd438a926e33a4fc67b3c",
-    "current": "5ea5401a941feb7be3e86a2a5d9f6701354dfd66bc0dd438a926e33a4fc67b3c"
+    "previous": "8ea3e3ada9a677d4854b90669df642d469e75d51ca6e41923eeee7f85eb7ea16",
+    "current": "8ea3e3ada9a677d4854b90669df642d469e75d51ca6e41923eeee7f85eb7ea16"
   },
   "fonts": [
-    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.ttf",
-    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.svg",
-    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.woff",
-    "dist/fonts/icono-arg_5ea5401a941feb7be3e86a2a5d9f6701.eot"
+    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.ttf",
+    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.svg",
+    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.woff",
+    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.eot"
   ],
   "glyphs": {
     "AGUA": {
@@ -22,13 +22,25 @@
       "codepoint": 62430,
       "source": "src/_icons/CAMION CONSTRUCCION 01.svg"
     },
+    "CAN-ERIA": {
+      "codepoint": 62443,
+      "source": "src/_icons/CAÑERIA.svg"
+    },
     "CANILLA": {
       "codepoint": 62431,
       "source": "src/_icons/CANILLA.svg"
     },
+    "CONSTRUCCION": {
+      "codepoint": 62444,
+      "source": "src/_icons/CONSTRUCCION.svg"
+    },
     "CREDITO-VIVIENDA": {
       "codepoint": 62432,
       "source": "src/_icons/CREDITO-VIVIENDA.svg"
+    },
+    "DEFICIT-HABITACIONAL": {
+      "codepoint": 62445,
+      "source": "src/_icons/DEFICIT-HABITACIONAL.svg"
     },
     "ESPACIO-PUBLICO": {
       "codepoint": 62433,
@@ -73,6 +85,10 @@
     "SOLUCIONES-HABITACIONALES": {
       "codepoint": 62442,
       "source": "src/_icons/SOLUCIONES HABITACIONALES.svg"
+    },
+    "URBANIZACION": {
+      "codepoint": 62446,
+      "source": "src/_icons/URBANIZACION.svg"
     },
     "agricultura": {
       "codepoint": 62321,
@@ -526,7 +542,6 @@
     },
     "preprocessor_path": null,
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "css",
       "index.html",
