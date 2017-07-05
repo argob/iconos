@@ -2,108 +2,13 @@
   "iconos": [
     
       {
-        "nombre": "AGUA",
-        "clase": "icono-arg-AGUA"
-      },
-    
-      {
-        "nombre": "BARRIO",
-        "clase": "icono-arg-BARRIO"
-      },
-    
-      {
-        "nombre": "CAMION-CONSTRUCCION-01",
-        "clase": "icono-arg-CAMION-CONSTRUCCION-01"
-      },
-    
-      {
-        "nombre": "CAN-ERIA",
-        "clase": "icono-arg-CAN-ERIA"
-      },
-    
-      {
-        "nombre": "CANILLA",
-        "clase": "icono-arg-CANILLA"
-      },
-    
-      {
-        "nombre": "CONSTRUCCION",
-        "clase": "icono-arg-CONSTRUCCION"
-      },
-    
-      {
-        "nombre": "CREDITO-VIVIENDA",
-        "clase": "icono-arg-CREDITO-VIVIENDA"
-      },
-    
-      {
-        "nombre": "DEFICIT-HABITACIONAL",
-        "clase": "icono-arg-DEFICIT-HABITACIONAL"
-      },
-    
-      {
-        "nombre": "ESPACIO-PUBLICO",
-        "clase": "icono-arg-ESPACIO-PUBLICO"
-      },
-    
-      {
-        "nombre": "FAMILIA--VIVIENDA",
-        "clase": "icono-arg-FAMILIA--VIVIENDA"
-      },
-    
-      {
-        "nombre": "FRIO-CALOR",
-        "clase": "icono-arg-FRIO-CALOR"
-      },
-    
-      {
-        "nombre": "HABITAT",
-        "clase": "icono-arg-HABITAT"
-      },
-    
-      {
-        "nombre": "LAMPARA---HOJA",
-        "clase": "icono-arg-LAMPARA---HOJA"
-      },
-    
-      {
-        "nombre": "LAVAR-MANOS",
-        "clase": "icono-arg-LAVAR-MANOS"
-      },
-    
-      {
-        "nombre": "MAS--VIVIENDAS",
-        "clase": "icono-arg-MAS--VIVIENDAS"
-      },
-    
-      {
-        "nombre": "NIDO",
-        "clase": "icono-arg-NIDO"
-      },
-    
-      {
-        "nombre": "PROBETA---HOJA",
-        "clase": "icono-arg-PROBETA---HOJA"
-      },
-    
-      {
-        "nombre": "RIEGO-PRODUCCION",
-        "clase": "icono-arg-RIEGO-PRODUCCION"
-      },
-    
-      {
-        "nombre": "SOLUCIONES-HABITACIONALES",
-        "clase": "icono-arg-SOLUCIONES-HABITACIONALES"
-      },
-    
-      {
-        "nombre": "URBANIZACION",
-        "clase": "icono-arg-URBANIZACION"
-      },
-    
-      {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
+      },
+    
+      {
+        "nombre": "agua",
+        "clase": "icono-arg-agua"
       },
     
       {
@@ -187,6 +92,11 @@
       },
     
       {
+        "nombre": "barrio",
+        "clase": "icono-arg-barrio"
+      },
+    
+      {
         "nombre": "buceo",
         "clase": "icono-arg-buceo"
       },
@@ -214,6 +124,16 @@
       {
         "nombre": "cambio",
         "clase": "icono-arg-cambio"
+      },
+    
+      {
+        "nombre": "camion-construccion",
+        "clase": "icono-arg-camion-construccion"
+      },
+    
+      {
+        "nombre": "canilla",
+        "clase": "icono-arg-canilla"
       },
     
       {
@@ -252,6 +172,11 @@
       },
     
       {
+        "nombre": "construccion",
+        "clase": "icono-arg-construccion"
+      },
+    
+      {
         "nombre": "consulta",
         "clase": "icono-arg-consulta"
       },
@@ -274,6 +199,11 @@
       {
         "nombre": "declaracion-jurada",
         "clase": "icono-arg-declaracion-jurada"
+      },
+    
+      {
+        "nombre": "deficit-habitacional",
+        "clase": "icono-arg-deficit-habitacional"
       },
     
       {
@@ -327,6 +257,11 @@
       },
     
       {
+        "nombre": "espacio-publico",
+        "clase": "icono-arg-espacio-publico"
+      },
+    
+      {
         "nombre": "estacion-trenes",
         "clase": "icono-arg-estacion-trenes"
       },
@@ -362,6 +297,11 @@
       },
     
       {
+        "nombre": "frio-calor",
+        "clase": "icono-arg-frio-calor"
+      },
+    
+      {
         "nombre": "ganaderia",
         "clase": "icono-arg-ganaderia"
       },
@@ -374,6 +314,11 @@
       {
         "nombre": "genetica-exp-imp",
         "clase": "icono-arg-genetica-exp-imp"
+      },
+    
+      {
+        "nombre": "habitat",
+        "clase": "icono-arg-habitat"
       },
     
       {
@@ -409,6 +354,16 @@
       {
         "nombre": "lampara",
         "clase": "icono-arg-lampara"
+      },
+    
+      {
+        "nombre": "lampara-hoja",
+        "clase": "icono-arg-lampara-hoja"
+      },
+    
+      {
+        "nombre": "lavar-manos",
+        "clase": "icono-arg-lavar-manos"
       },
     
       {
@@ -454,6 +409,11 @@
       {
         "nombre": "natacion",
         "clase": "icono-arg-natacion"
+      },
+    
+      {
+        "nombre": "nido",
+        "clase": "icono-arg-nido"
       },
     
       {
@@ -507,6 +467,11 @@
       },
     
       {
+        "nombre": "probeta-hoja",
+        "clase": "icono-arg-probeta-hoja"
+      },
+    
+      {
         "nombre": "reclamo-consulta",
         "clase": "icono-arg-reclamo-consulta"
       },
@@ -524,6 +489,11 @@
       {
         "nombre": "residuos-peligrosos-transporte",
         "clase": "icono-arg-residuos-peligrosos-transporte"
+      },
+    
+      {
+        "nombre": "riego-produccion",
+        "clase": "icono-arg-riego-produccion"
       },
     
       {
@@ -564,6 +534,11 @@
       {
         "nombre": "solidaridad",
         "clase": "icono-arg-solidaridad"
+      },
+    
+      {
+        "nombre": "soluciones-habitacionales",
+        "clase": "icono-arg-soluciones-habitacionales"
       },
     
       {
@@ -612,6 +587,16 @@
       },
     
       {
+        "nombre": "tuberias",
+        "clase": "icono-arg-tuberias"
+      },
+    
+      {
+        "nombre": "urbanizacion",
+        "clase": "icono-arg-urbanizacion"
+      },
+    
+      {
         "nombre": "vacunas",
         "clase": "icono-arg-vacunas"
       },
@@ -629,6 +614,21 @@
       {
         "nombre": "vivienda",
         "clase": "icono-arg-vivienda"
+      },
+    
+      {
+        "nombre": "vivienda-credito",
+        "clase": "icono-arg-vivienda-credito"
+      },
+    
+      {
+        "nombre": "vivienda-familia",
+        "clase": "icono-arg-vivienda-familia"
+      },
+    
+      {
+        "nombre": "vivienda-mas",
+        "clase": "icono-arg-vivienda-mas"
       },
     
     {

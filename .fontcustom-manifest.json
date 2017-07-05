@@ -1,98 +1,22 @@
 {
   "checksum": {
-    "previous": "8ea3e3ada9a677d4854b90669df642d469e75d51ca6e41923eeee7f85eb7ea16",
-    "current": "8ea3e3ada9a677d4854b90669df642d469e75d51ca6e41923eeee7f85eb7ea16"
+    "previous": "5f51f6aa847c793fe7ec35296c0466186ffdc26b60bd06e39034abc142aa4572",
+    "current": "5f51f6aa847c793fe7ec35296c0466186ffdc26b60bd06e39034abc142aa4572"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.ttf",
-    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.svg",
-    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.woff",
-    "dist/fonts/icono-arg_8ea3e3ada9a677d4854b90669df642d4.eot"
+    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.ttf",
+    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.svg",
+    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.woff",
+    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.eot"
   ],
   "glyphs": {
-    "AGUA": {
-      "codepoint": 62427,
-      "source": "src/_icons/AGUA.svg"
-    },
-    "BARRIO": {
-      "codepoint": 62429,
-      "source": "src/_icons/BARRIO.svg"
-    },
-    "CAMION-CONSTRUCCION-01": {
-      "codepoint": 62430,
-      "source": "src/_icons/CAMION CONSTRUCCION 01.svg"
-    },
-    "CAN-ERIA": {
-      "codepoint": 62443,
-      "source": "src/_icons/CAÑERIA.svg"
-    },
-    "CANILLA": {
-      "codepoint": 62431,
-      "source": "src/_icons/CANILLA.svg"
-    },
-    "CONSTRUCCION": {
-      "codepoint": 62444,
-      "source": "src/_icons/CONSTRUCCION.svg"
-    },
-    "CREDITO-VIVIENDA": {
-      "codepoint": 62432,
-      "source": "src/_icons/CREDITO-VIVIENDA.svg"
-    },
-    "DEFICIT-HABITACIONAL": {
-      "codepoint": 62445,
-      "source": "src/_icons/DEFICIT-HABITACIONAL.svg"
-    },
-    "ESPACIO-PUBLICO": {
-      "codepoint": 62433,
-      "source": "src/_icons/ESPACIO PUBLICO.svg"
-    },
-    "FAMILIA--VIVIENDA": {
-      "codepoint": 62434,
-      "source": "src/_icons/FAMILIA- VIVIENDA.svg"
-    },
-    "FRIO-CALOR": {
-      "codepoint": 62435,
-      "source": "src/_icons/FRIO CALOR.svg"
-    },
-    "HABITAT": {
-      "codepoint": 62428,
-      "source": "src/_icons/HABITAT.svg"
-    },
-    "LAMPARA---HOJA": {
-      "codepoint": 62436,
-      "source": "src/_icons/LAMPARA - HOJA.svg"
-    },
-    "LAVAR-MANOS": {
-      "codepoint": 62437,
-      "source": "src/_icons/LAVAR MANOS.svg"
-    },
-    "MAS--VIVIENDAS": {
-      "codepoint": 62438,
-      "source": "src/_icons/MAS- VIVIENDAS.svg"
-    },
-    "NIDO": {
-      "codepoint": 62439,
-      "source": "src/_icons/NIDO.svg"
-    },
-    "PROBETA---HOJA": {
-      "codepoint": 62440,
-      "source": "src/_icons/PROBETA - HOJA.svg"
-    },
-    "RIEGO-PRODUCCION": {
-      "codepoint": 62441,
-      "source": "src/_icons/RIEGO PRODUCCION.svg"
-    },
-    "SOLUCIONES-HABITACIONALES": {
-      "codepoint": 62442,
-      "source": "src/_icons/SOLUCIONES HABITACIONALES.svg"
-    },
-    "URBANIZACION": {
-      "codepoint": 62446,
-      "source": "src/_icons/URBANIZACION.svg"
-    },
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
+    },
+    "agua": {
+      "codepoint": 62447,
+      "source": "src/_icons/agua.svg"
     },
     "ambiente": {
       "codepoint": 62322,
@@ -158,6 +82,10 @@
       "codepoint": 62337,
       "source": "src/_icons/avion.svg"
     },
+    "barrio": {
+      "codepoint": 62448,
+      "source": "src/_icons/barrio.svg"
+    },
     "buceo": {
       "codepoint": 62338,
       "source": "src/_icons/buceo.svg"
@@ -181,6 +109,14 @@
     "cambio": {
       "codepoint": 62343,
       "source": "src/_icons/cambio.svg"
+    },
+    "camion-construccion": {
+      "codepoint": 62449,
+      "source": "src/_icons/camion construccion.svg"
+    },
+    "canilla": {
+      "codepoint": 62450,
+      "source": "src/_icons/canilla.svg"
     },
     "capacitacion": {
       "codepoint": 62344,
@@ -210,6 +146,10 @@
       "codepoint": 62350,
       "source": "src/_icons/comunicacion.svg"
     },
+    "construccion": {
+      "codepoint": 62451,
+      "source": "src/_icons/construccion.svg"
+    },
     "consulta": {
       "codepoint": 62351,
       "source": "src/_icons/consulta.svg"
@@ -229,6 +169,10 @@
     "declaracion-jurada": {
       "codepoint": 62355,
       "source": "src/_icons/declaracion jurada.svg"
+    },
+    "deficit-habitacional": {
+      "codepoint": 62452,
+      "source": "src/_icons/deficit habitacional.svg"
     },
     "deporte": {
       "codepoint": 62356,
@@ -270,6 +214,10 @@
       "codepoint": 62364,
       "source": "src/_icons/embarcacion pago.svg"
     },
+    "espacio-publico": {
+      "codepoint": 62453,
+      "source": "src/_icons/espacio publico.svg"
+    },
     "estacion-trenes": {
       "codepoint": 62425,
       "source": "src/_icons/estacion-trenes.svg"
@@ -298,6 +246,10 @@
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion asistida.svg"
     },
+    "frio-calor": {
+      "codepoint": 62454,
+      "source": "src/_icons/frio calor.svg"
+    },
     "ganaderia": {
       "codepoint": 62370,
       "source": "src/_icons/ganaderia.svg"
@@ -309,6 +261,10 @@
     "genetica-exp-imp": {
       "codepoint": 62372,
       "source": "src/_icons/genetica exp imp.svg"
+    },
+    "habitat": {
+      "codepoint": 62455,
+      "source": "src/_icons/habitat.svg"
     },
     "hogar-y-familia": {
       "codepoint": 62373,
@@ -337,6 +293,14 @@
     "lampara": {
       "codepoint": 62379,
       "source": "src/_icons/lampara.svg"
+    },
+    "lampara-hoja": {
+      "codepoint": 62456,
+      "source": "src/_icons/lampara hoja.svg"
+    },
+    "lavar-manos": {
+      "codepoint": 62457,
+      "source": "src/_icons/lavar manos.svg"
     },
     "lupa": {
       "codepoint": 62380,
@@ -373,6 +337,10 @@
     "natacion": {
       "codepoint": 62388,
       "source": "src/_icons/natacion.svg"
+    },
+    "nido": {
+      "codepoint": 62458,
+      "source": "src/_icons/nido.svg"
     },
     "nuclear": {
       "codepoint": 62389,
@@ -414,6 +382,10 @@
       "codepoint": 62396,
       "source": "src/_icons/petroleo.svg"
     },
+    "probeta-hoja": {
+      "codepoint": 62459,
+      "source": "src/_icons/probeta hoja.svg"
+    },
     "reclamo-consulta": {
       "codepoint": 62397,
       "source": "src/_icons/reclamo consulta.svg"
@@ -429,6 +401,10 @@
     "residuos-peligrosos-transporte": {
       "codepoint": 62400,
       "source": "src/_icons/residuos peligrosos transporte.svg"
+    },
+    "riego-produccion": {
+      "codepoint": 62460,
+      "source": "src/_icons/riego produccion.svg"
     },
     "ruta": {
       "codepoint": 62401,
@@ -461,6 +437,10 @@
     "solidaridad": {
       "codepoint": 62407,
       "source": "src/_icons/solidaridad.svg"
+    },
+    "soluciones-habitacionales": {
+      "codepoint": 62461,
+      "source": "src/_icons/soluciones habitacionales.svg"
     },
     "sube": {
       "codepoint": 62408,
@@ -498,6 +478,14 @@
       "codepoint": 62416,
       "source": "src/_icons/transporte publico licencia.svg"
     },
+    "tuberias": {
+      "codepoint": 62462,
+      "source": "src/_icons/tuberias.svg"
+    },
+    "urbanizacion": {
+      "codepoint": 62463,
+      "source": "src/_icons/urbanizacion.svg"
+    },
     "vacunas": {
       "codepoint": 62417,
       "source": "src/_icons/vacunas.svg"
@@ -513,6 +501,18 @@
     "vivienda": {
       "codepoint": 62419,
       "source": "src/_icons/vivienda.svg"
+    },
+    "vivienda-credito": {
+      "codepoint": 62464,
+      "source": "src/_icons/vivienda credito.svg"
+    },
+    "vivienda-familia": {
+      "codepoint": 62465,
+      "source": "src/_icons/vivienda familia.svg"
+    },
+    "vivienda-mas": {
+      "codepoint": 62466,
+      "source": "src/_icons/vivienda mas.svg"
     }
   },
   "options": {
