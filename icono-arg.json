@@ -3778,6 +3778,86 @@
     {
       "nombre": "fa-youtube-square",
       "clase": "fa fa-youtube-square"
-    }
+    },
+    		{
+			"nombre": "AGUA (No usar)",
+			"clase": "icono-arg-AGUA"
+		},
+		{
+			"nombre": "BARRIO (No usar)",
+			"clase": "icono-arg-BARRIO"
+		},
+		{
+			"nombre": "CAMION-CONSTRUCCION-01 (No usar)",
+			"clase": "icono-arg-CAMION-CONSTRUCCION-01"
+		},
+		{
+			"nombre": "CAN-ERIA (No usar)",
+			"clase": "icono-arg-CAN-ERIA"
+		},
+		{
+			"nombre": "CANILLA (No usar)",
+			"clase": "icono-arg-CANILLA"
+		},
+		{
+			"nombre": "CONSTRUCCION (No usar)",
+			"clase": "icono-arg-CONSTRUCCION"
+		},
+		{
+			"nombre": "CREDITO-VIVIENDA (No usar)",
+			"clase": "icono-arg-CREDITO-VIVIENDA"
+		},
+		{
+			"nombre": "DEFICIT-HABITACIONAL (No usar)",
+			"clase": "icono-arg-DEFICIT-HABITACIONAL"
+		},
+		{
+			"nombre": "ESPACIO-PUBLICO (No usar)",
+			"clase": "icono-arg-ESPACIO-PUBLICO"
+		},
+		{
+			"nombre": "FAMILIA--VIVIENDA (No usar)",
+			"clase": "icono-arg-FAMILIA--VIVIENDA"
+		},
+		{
+			"nombre": "FRIO-CALOR (No usar)",
+			"clase": "icono-arg-FRIO-CALOR"
+		},
+		{
+			"nombre": "HABITAT (No usar)",
+			"clase": "icono-arg-HABITAT"
+		},
+		{
+			"nombre": "LAMPARA---HOJA (No usar)",
+			"clase": "icono-arg-LAMPARA---HOJA"
+		},
+		{
+			"nombre": "LAVAR-MANOS (No usar)",
+			"clase": "icono-arg-LAVAR-MANOS"
+		},
+		{
+			"nombre": "MAS--VIVIENDAS (No usar)",
+			"clase": "icono-arg-MAS--VIVIENDAS"
+		},
+		{
+			"nombre": "NIDO (No usar)",
+			"clase": "icono-arg-NIDO"
+		},
+		{
+			"nombre": "PROBETA---HOJA (No usar)",
+			"clase": "icono-arg-PROBETA---HOJA"
+		},
+		{
+			"nombre": "RIEGO-PRODUCCION (No usar)",
+			"clase": "icono-arg-RIEGO-PRODUCCION"
+		},
+		{
+			"nombre": "SOLUCIONES-HABITACIONALES (No usar)",
+			"clase": "icono-arg-SOLUCIONES-HABITACIONALES"
+		},
+		{
+			"nombre": "URBANIZACION (No usar)",
+			"clase": "icono-arg-URBANIZACION"
+		}
   ]
 }
