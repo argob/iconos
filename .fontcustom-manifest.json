@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "5f51f6aa847c793fe7ec35296c0466186ffdc26b60bd06e39034abc142aa4572",
-    "current": "5f51f6aa847c793fe7ec35296c0466186ffdc26b60bd06e39034abc142aa4572"
+    "previous": "b94feaf2f0aae16a3d06597cf9646db28a61c130a671cbd4ad19cc2638d791b8",
+    "current": "b94feaf2f0aae16a3d06597cf9646db28a61c130a671cbd4ad19cc2638d791b8"
   },
   "fonts": [
-    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.ttf",
-    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.svg",
-    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.woff",
-    "dist/fonts/icono-arg_5f51f6aa847c793fe7ec35296c046618.eot"
+    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.ttf",
+    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.svg",
+    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.woff",
+    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.eot"
   ],
   "glyphs": {
+    "URBANIZACION": {
+      "codepoint": 62467,
+      "source": "src/_icons/URBANIZACION.svg"
+    },
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
@@ -122,6 +126,14 @@
       "codepoint": 62344,
       "source": "src/_icons/capacitacion.svg"
     },
+    "carrito": {
+      "codepoint": 62468,
+      "source": "src/_icons/carrito.svg"
+    },
+    "carrito-mas": {
+      "codepoint": 62469,
+      "source": "src/_icons/carrito mas.svg"
+    },
     "chequeado": {
       "codepoint": 62345,
       "source": "src/_icons/chequeado.svg"
@@ -153,6 +165,10 @@
     "consulta": {
       "codepoint": 62351,
       "source": "src/_icons/consulta.svg"
+    },
+    "corazon-cruz": {
+      "codepoint": 62470,
+      "source": "src/_icons/corazon cruz.svg"
     },
     "cultura": {
       "codepoint": 62352,
@@ -481,10 +497,6 @@
     "tuberias": {
       "codepoint": 62462,
       "source": "src/_icons/tuberias.svg"
-    },
-    "urbanizacion": {
-      "codepoint": 62463,
-      "source": "src/_icons/urbanizacion.svg"
     },
     "vacunas": {
       "codepoint": 62417,
