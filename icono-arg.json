@@ -2,11 +2,6 @@
   "iconos": [
     
       {
-        "nombre": "URBANIZACION",
-        "clase": "icono-arg-URBANIZACION"
-      },
-    
-      {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
       },
@@ -609,6 +604,11 @@
       {
         "nombre": "tuberias",
         "clase": "icono-arg-tuberias"
+      },
+    
+      {
+        "nombre": "urbanizacion",
+        "clase": "icono-arg-urbanizacion"
       },
     
       {

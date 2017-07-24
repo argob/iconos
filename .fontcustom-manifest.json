@@ -1,19 +1,15 @@
 {
   "checksum": {
-    "previous": "b94feaf2f0aae16a3d06597cf9646db28a61c130a671cbd4ad19cc2638d791b8",
-    "current": "b94feaf2f0aae16a3d06597cf9646db28a61c130a671cbd4ad19cc2638d791b8"
+    "previous": "add088c9dd3b3999953202aeefb6d2967a85b8c22e45c67c64e7b56ffd37d89c",
+    "current": "add088c9dd3b3999953202aeefb6d2967a85b8c22e45c67c64e7b56ffd37d89c"
   },
   "fonts": [
-    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.ttf",
-    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.svg",
-    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.woff",
-    "dist/fonts/icono-arg_b94feaf2f0aae16a3d06597cf9646db2.eot"
+    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.ttf",
+    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.svg",
+    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.woff",
+    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.eot"
   ],
   "glyphs": {
-    "URBANIZACION": {
-      "codepoint": 62467,
-      "source": "src/_icons/URBANIZACION.svg"
-    },
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
@@ -497,6 +493,10 @@
     "tuberias": {
       "codepoint": 62462,
       "source": "src/_icons/tuberias.svg"
+    },
+    "urbanizacion": {
+      "codepoint": 62471,
+      "source": "src/_icons/urbanizacion.svg"
     },
     "vacunas": {
       "codepoint": 62417,
