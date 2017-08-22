@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "add088c9dd3b3999953202aeefb6d2967a85b8c22e45c67c64e7b56ffd37d89c",
-    "current": "add088c9dd3b3999953202aeefb6d2967a85b8c22e45c67c64e7b56ffd37d89c"
+    "previous": "b3a7b4ef866668d943ee6bb728717bae64dfd47e21bcaabffaeecab223a809e9",
+    "current": "b3a7b4ef866668d943ee6bb728717bae64dfd47e21bcaabffaeecab223a809e9"
   },
   "fonts": [
-    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.ttf",
-    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.svg",
-    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.woff",
-    "dist/fonts/icono-arg_add088c9dd3b3999953202aeefb6d296.eot"
+    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.ttf",
+    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.svg",
+    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.woff",
+    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -82,6 +82,10 @@
       "codepoint": 62337,
       "source": "src/_icons/avion.svg"
     },
+    "barrilete": {
+      "codepoint": 62472,
+      "source": "src/_icons/barrilete.svg"
+    },
     "barrio": {
       "codepoint": 62448,
       "source": "src/_icons/barrio.svg"
@@ -109,6 +113,10 @@
     "cambio": {
       "codepoint": 62343,
       "source": "src/_icons/cambio.svg"
+    },
+    "cambio-tecnologico": {
+      "codepoint": 62473,
+      "source": "src/_icons/cambio tecnologico.svg"
     },
     "camion-construccion": {
       "codepoint": 62449,
@@ -194,6 +202,10 @@
       "codepoint": 62357,
       "source": "src/_icons/dialogo.svg"
     },
+    "dialogo-2": {
+      "codepoint": 62474,
+      "source": "src/_icons/dialogo 2.svg"
+    },
     "digital": {
       "codepoint": 62358,
       "source": "src/_icons/digital.svg"
@@ -201,6 +213,10 @@
     "discapacidad": {
       "codepoint": 62359,
       "source": "src/_icons/discapacidad.svg"
+    },
+    "diversidad-sexual": {
+      "codepoint": 62475,
+      "source": "src/_icons/diversidad sexual.svg"
     },
     "dni": {
       "codepoint": 62420,
@@ -265,6 +281,10 @@
     "ganaderia": {
       "codepoint": 62370,
       "source": "src/_icons/ganaderia.svg"
+    },
+    "genero": {
+      "codepoint": 62476,
+      "source": "src/_icons/genero.svg"
     },
     "genetica": {
       "codepoint": 62371,
@@ -362,6 +382,10 @@
       "codepoint": 62390,
       "source": "src/_icons/pago.svg"
     },
+    "paloma": {
+      "codepoint": 62477,
+      "source": "src/_icons/paloma.svg"
+    },
     "pareja": {
       "codepoint": 62391,
       "source": "src/_icons/pareja.svg"
@@ -397,6 +421,10 @@
     "probeta-hoja": {
       "codepoint": 62459,
       "source": "src/_icons/probeta hoja.svg"
+    },
+    "pueblos-originarios": {
+      "codepoint": 62478,
+      "source": "src/_icons/pueblos originarios.svg"
     },
     "reclamo-consulta": {
       "codepoint": 62397,

@@ -92,6 +92,11 @@
       },
     
       {
+        "nombre": "barrilete",
+        "clase": "icono-arg-barrilete"
+      },
+    
+      {
         "nombre": "barrio",
         "clase": "icono-arg-barrio"
       },
@@ -124,6 +129,11 @@
       {
         "nombre": "cambio",
         "clase": "icono-arg-cambio"
+      },
+    
+      {
+        "nombre": "cambio-tecnologico",
+        "clase": "icono-arg-cambio-tecnologico"
       },
     
       {
@@ -232,6 +242,11 @@
       },
     
       {
+        "nombre": "dialogo-2",
+        "clase": "icono-arg-dialogo-2"
+      },
+    
+      {
         "nombre": "digital",
         "clase": "icono-arg-digital"
       },
@@ -239,6 +254,11 @@
       {
         "nombre": "discapacidad",
         "clase": "icono-arg-discapacidad"
+      },
+    
+      {
+        "nombre": "diversidad-sexual",
+        "clase": "icono-arg-diversidad-sexual"
       },
     
       {
@@ -319,6 +339,11 @@
       {
         "nombre": "ganaderia",
         "clase": "icono-arg-ganaderia"
+      },
+    
+      {
+        "nombre": "genero",
+        "clase": "icono-arg-genero"
       },
     
       {
@@ -442,6 +467,11 @@
       },
     
       {
+        "nombre": "paloma",
+        "clase": "icono-arg-paloma"
+      },
+    
+      {
         "nombre": "pareja",
         "clase": "icono-arg-pareja"
       },
@@ -484,6 +514,11 @@
       {
         "nombre": "probeta-hoja",
         "clase": "icono-arg-probeta-hoja"
+      },
+    
+      {
+        "nombre": "pueblos-originarios",
+        "clase": "icono-arg-pueblos-originarios"
       },
     
       {
