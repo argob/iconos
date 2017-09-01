@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "c10b6835790ff798a6d2f3bd1af4306e3b6af821cd270c3a4315f50140e48520",
-    "current": "c10b6835790ff798a6d2f3bd1af4306e3b6af821cd270c3a4315f50140e48520"
+    "previous": "e54958440840a5fcd1cea37668a2cc064d140e1002d91c592b3ca2789bdc7d84",
+    "current": "e54958440840a5fcd1cea37668a2cc064d140e1002d91c592b3ca2789bdc7d84"
   },
   "fonts": [
-    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.ttf",
-    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.svg",
-    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.woff",
-    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.eot"
+    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.ttf",
+    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.svg",
+    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.woff",
+    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -525,6 +525,10 @@
     "tuberias": {
       "codepoint": 62462,
       "source": "src/_icons/tuberias.svg"
+    },
+    "tumba": {
+      "codepoint": 62480,
+      "source": "src/_icons/tumba.svg"
     },
     "urbanizacion": {
       "codepoint": 62471,

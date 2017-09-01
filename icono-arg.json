@@ -647,6 +647,11 @@
       },
     
       {
+        "nombre": "tumba",
+        "clase": "icono-arg-tumba"
+      },
+    
+      {
         "nombre": "urbanizacion",
         "clase": "icono-arg-urbanizacion"
       },
