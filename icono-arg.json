@@ -327,6 +327,11 @@
       },
     
       {
+        "nombre": "fallecimiento-02",
+        "clase": "icono-arg-fallecimiento-02"
+      },
+    
+      {
         "nombre": "fertilizacion-asistida",
         "clase": "icono-arg-fertilizacion-asistida"
       },

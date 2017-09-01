@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "b3a7b4ef866668d943ee6bb728717bae64dfd47e21bcaabffaeecab223a809e9",
-    "current": "b3a7b4ef866668d943ee6bb728717bae64dfd47e21bcaabffaeecab223a809e9"
+    "previous": "c10b6835790ff798a6d2f3bd1af4306e3b6af821cd270c3a4315f50140e48520",
+    "current": "c10b6835790ff798a6d2f3bd1af4306e3b6af821cd270c3a4315f50140e48520"
   },
   "fonts": [
-    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.ttf",
-    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.svg",
-    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.woff",
-    "dist/fonts/icono-arg_b3a7b4ef866668d943ee6bb728717bae.eot"
+    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.ttf",
+    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.svg",
+    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.woff",
+    "dist/fonts/icono-arg_c10b6835790ff798a6d2f3bd1af4306e.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -269,6 +269,10 @@
     "fallecimiento": {
       "codepoint": 62368,
       "source": "src/_icons/fallecimiento.svg"
+    },
+    "fallecimiento-02": {
+      "codepoint": 62479,
+      "source": "src/_icons/fallecimiento 02.svg"
     },
     "fertilizacion-asistida": {
       "codepoint": 62369,
