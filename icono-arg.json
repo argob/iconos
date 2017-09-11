@@ -642,6 +642,11 @@
       },
     
       {
+        "nombre": "tristeza",
+        "clase": "icono-arg-tristeza"
+      },
+    
+      {
         "nombre": "tuberias",
         "clase": "icono-arg-tuberias"
       },

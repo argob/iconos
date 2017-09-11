@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "e54958440840a5fcd1cea37668a2cc064d140e1002d91c592b3ca2789bdc7d84",
-    "current": "e54958440840a5fcd1cea37668a2cc064d140e1002d91c592b3ca2789bdc7d84"
+    "previous": "22c98807380dcd5a6a25fa6e9915a6549ecf98e8c9db91deedbb429de013b19b",
+    "current": "22c98807380dcd5a6a25fa6e9915a6549ecf98e8c9db91deedbb429de013b19b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.ttf",
-    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.svg",
-    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.woff",
-    "dist/fonts/icono-arg_e54958440840a5fcd1cea37668a2cc06.eot"
+    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.ttf",
+    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.svg",
+    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.woff",
+    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -521,6 +521,10 @@
     "transporte-publico-licencia": {
       "codepoint": 62416,
       "source": "src/_icons/transporte publico licencia.svg"
+    },
+    "tristeza": {
+      "codepoint": 62481,
+      "source": "src/_icons/tristeza.svg"
     },
     "tuberias": {
       "codepoint": 62462,
