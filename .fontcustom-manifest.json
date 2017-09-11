@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "22c98807380dcd5a6a25fa6e9915a6549ecf98e8c9db91deedbb429de013b19b",
-    "current": "22c98807380dcd5a6a25fa6e9915a6549ecf98e8c9db91deedbb429de013b19b"
+    "previous": "74094ed5442480d832b6172893e6b39dfdae37e4fe83cfa976a17b9ee7ba5253",
+    "current": "74094ed5442480d832b6172893e6b39dfdae37e4fe83cfa976a17b9ee7ba5253"
   },
   "fonts": [
-    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.ttf",
-    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.svg",
-    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.woff",
-    "dist/fonts/icono-arg_22c98807380dcd5a6a25fa6e9915a654.eot"
+    "dist/fonts/icono-arg_74094ed5442480d832b6172893e6b39d.ttf",
+    "dist/fonts/icono-arg_74094ed5442480d832b6172893e6b39d.svg",
+    "dist/fonts/icono-arg_74094ed5442480d832b6172893e6b39d.woff",
+    "dist/fonts/icono-arg_74094ed5442480d832b6172893e6b39d.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -250,10 +250,6 @@
       "codepoint": 62425,
       "source": "src/_icons/estacion-trenes.svg"
     },
-    "estacion_trenes": {
-      "codepoint": 62421,
-      "source": "src/_icons/estacion_trenes.svg"
-    },
     "exterior": {
       "codepoint": 62365,
       "source": "src/_icons/exterior.svg"
@@ -269,10 +265,6 @@
     "fallecimiento": {
       "codepoint": 62368,
       "source": "src/_icons/fallecimiento.svg"
-    },
-    "fallecimiento-02": {
-      "codepoint": 62479,
-      "source": "src/_icons/fallecimiento 02.svg"
     },
     "fertilizacion-asistida": {
       "codepoint": 62369,

@@ -302,11 +302,6 @@
       },
     
       {
-        "nombre": "estacion_trenes",
-        "clase": "icono-arg-estacion_trenes"
-      },
-    
-      {
         "nombre": "exterior",
         "clase": "icono-arg-exterior"
       },
@@ -324,11 +319,6 @@
       {
         "nombre": "fallecimiento",
         "clase": "icono-arg-fallecimiento"
-      },
-    
-      {
-        "nombre": "fallecimiento-02",
-        "clase": "icono-arg-fallecimiento-02"
       },
     
       {
