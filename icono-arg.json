@@ -162,6 +162,11 @@
       },
     
       {
+        "nombre": "casco-urbano",
+        "clase": "icono-arg-casco-urbano"
+      },
+    
+      {
         "nombre": "chequeado",
         "clase": "icono-arg-chequeado"
       },
@@ -337,6 +342,11 @@
       },
     
       {
+        "nombre": "garrafa",
+        "clase": "icono-arg-garrafa"
+      },
+    
+      {
         "nombre": "genero",
         "clase": "icono-arg-genero"
       },
@@ -459,6 +469,11 @@
       {
         "nombre": "pago",
         "clase": "icono-arg-pago"
+      },
+    
+      {
+        "nombre": "paisaje-hidrico",
+        "clase": "icono-arg-paisaje-hidrico"
       },
     
       {
@@ -589,6 +604,11 @@
       {
         "nombre": "sube",
         "clase": "icono-arg-sube"
+      },
+    
+      {
+        "nombre": "surtidor",
+        "clase": "icono-arg-surtidor"
       },
     
       {

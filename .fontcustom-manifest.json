@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "348ae7c6cec2bc30f3ec4d0bcbb677e6ef410ac3a7bf4ddbe1a7dfa9ad09e036",
-    "current": "348ae7c6cec2bc30f3ec4d0bcbb677e6ef410ac3a7bf4ddbe1a7dfa9ad09e036"
+    "previous": "c02a6060acb0dec7f905c64a5470ff35720b0b2182f98a730d74fdb465c19aef",
+    "current": "c02a6060acb0dec7f905c64a5470ff35720b0b2182f98a730d74fdb465c19aef"
   },
   "fonts": [
-    "dist/fonts/icono-arg_348ae7c6cec2bc30f3ec4d0bcbb677e6.ttf",
-    "dist/fonts/icono-arg_348ae7c6cec2bc30f3ec4d0bcbb677e6.svg",
-    "dist/fonts/icono-arg_348ae7c6cec2bc30f3ec4d0bcbb677e6.woff",
-    "dist/fonts/icono-arg_348ae7c6cec2bc30f3ec4d0bcbb677e6.eot"
+    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.ttf",
+    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.svg",
+    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.woff",
+    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -137,6 +137,10 @@
     "carrito-mas": {
       "codepoint": 62469,
       "source": "src/_icons/carrito mas.svg"
+    },
+    "casco-urbano": {
+      "codepoint": 62482,
+      "source": "src/_icons/casco urbano.svg"
     },
     "chequeado": {
       "codepoint": 62345,
@@ -278,6 +282,10 @@
       "codepoint": 62370,
       "source": "src/_icons/ganaderia.svg"
     },
+    "garrafa": {
+      "codepoint": 62483,
+      "source": "src/_icons/garrafa.svg"
+    },
     "genero": {
       "codepoint": 62476,
       "source": "src/_icons/genero.svg"
@@ -377,6 +385,10 @@
     "pago": {
       "codepoint": 62390,
       "source": "src/_icons/pago.svg"
+    },
+    "paisaje-hidrico": {
+      "codepoint": 62484,
+      "source": "src/_icons/paisaje hidrico.svg"
     },
     "paloma": {
       "codepoint": 62477,
@@ -481,6 +493,10 @@
     "sube": {
       "codepoint": 62408,
       "source": "src/_icons/sube.svg"
+    },
+    "surtidor": {
+      "codepoint": 62485,
+      "source": "src/_icons/surtidor.svg"
     },
     "teatro": {
       "codepoint": 62409,
