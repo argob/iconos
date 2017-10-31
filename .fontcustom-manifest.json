@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "c02a6060acb0dec7f905c64a5470ff35720b0b2182f98a730d74fdb465c19aef",
-    "current": "c02a6060acb0dec7f905c64a5470ff35720b0b2182f98a730d74fdb465c19aef"
+    "previous": "fa8b241c2db82653c2dd8793ca108f07ceaf6762911e9f2aec9dc407561daba2",
+    "current": "fa8b241c2db82653c2dd8793ca108f07ceaf6762911e9f2aec9dc407561daba2"
   },
   "fonts": [
-    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.ttf",
-    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.svg",
-    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.woff",
-    "dist/fonts/icono-arg_c02a6060acb0dec7f905c64a5470ff35.eot"
+    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.ttf",
+    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.svg",
+    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.woff",
+    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -17,6 +17,14 @@
     "agua": {
       "codepoint": 62447,
       "source": "src/_icons/agua.svg"
+    },
+    "aire": {
+      "codepoint": 62486,
+      "source": "src/_icons/aire.svg"
+    },
+    "alimentacion-saludable": {
+      "codepoint": 62487,
+      "source": "src/_icons/alimentacion saludable.svg"
     },
     "ambiente": {
       "codepoint": 62322,
@@ -50,6 +58,10 @@
       "codepoint": 62329,
       "source": "src/_icons/archivo consulta.svg"
     },
+    "areas-vacantes": {
+      "codepoint": 62488,
+      "source": "src/_icons/areas vacantes.svg"
+    },
     "arma-imp": {
       "codepoint": 62330,
       "source": "src/_icons/arma imp.svg"
@@ -81,6 +93,10 @@
     "avion": {
       "codepoint": 62337,
       "source": "src/_icons/avion.svg"
+    },
+    "banio-quimico": {
+      "codepoint": 62489,
+      "source": "src/_icons/banio quimico.svg"
     },
     "barrilete": {
       "codepoint": 62472,
@@ -126,6 +142,14 @@
       "codepoint": 62450,
       "source": "src/_icons/canilla.svg"
     },
+    "cannabis-medicinal-1": {
+      "codepoint": 62490,
+      "source": "src/_icons/cannabis medicinal 1.svg"
+    },
+    "cannabis-medicinal-2": {
+      "codepoint": 62491,
+      "source": "src/_icons/cannabis medicinal 2.svg"
+    },
     "capacitacion": {
       "codepoint": 62344,
       "source": "src/_icons/capacitacion.svg"
@@ -141,6 +165,10 @@
     "casco-urbano": {
       "codepoint": 62482,
       "source": "src/_icons/casco urbano.svg"
+    },
+    "central-nuclear": {
+      "codepoint": 62492,
+      "source": "src/_icons/central nuclear.svg"
     },
     "chequeado": {
       "codepoint": 62345,
@@ -166,6 +194,10 @@
       "codepoint": 62350,
       "source": "src/_icons/comunicacion.svg"
     },
+    "conexion": {
+      "codepoint": 62493,
+      "source": "src/_icons/conexion.svg"
+    },
     "construccion": {
       "codepoint": 62451,
       "source": "src/_icons/construccion.svg"
@@ -189,6 +221,10 @@
     "cultura-imp": {
       "codepoint": 62354,
       "source": "src/_icons/cultura imp.svg"
+    },
+    "curita": {
+      "codepoint": 62494,
+      "source": "src/_icons/curita.svg"
     },
     "declaracion-jurada": {
       "codepoint": 62355,
@@ -234,6 +270,18 @@
       "codepoint": 62361,
       "source": "src/_icons/eleccion.svg"
     },
+    "electricidad": {
+      "codepoint": 62495,
+      "source": "src/_icons/electricidad.svg"
+    },
+    "electrodependiente-2": {
+      "codepoint": 62496,
+      "source": "src/_icons/electrodependiente 2.svg"
+    },
+    "electrodependientes-1": {
+      "codepoint": 62497,
+      "source": "src/_icons/electrodependientes 1.svg"
+    },
     "embarazo": {
       "codepoint": 62362,
       "source": "src/_icons/embarazo.svg"
@@ -246,6 +294,18 @@
       "codepoint": 62364,
       "source": "src/_icons/embarcacion pago.svg"
     },
+    "energia-hidroelectrica": {
+      "codepoint": 62498,
+      "source": "src/_icons/energia hidroelectrica.svg"
+    },
+    "energia-nuclear": {
+      "codepoint": 62499,
+      "source": "src/_icons/energia nuclear.svg"
+    },
+    "escritura": {
+      "codepoint": 62500,
+      "source": "src/_icons/escritura.svg"
+    },
     "espacio-publico": {
       "codepoint": 62453,
       "source": "src/_icons/espacio publico.svg"
@@ -253,6 +313,10 @@
     "estacion-trenes": {
       "codepoint": 62425,
       "source": "src/_icons/estacion-trenes.svg"
+    },
+    "estetoscopio": {
+      "codepoint": 62501,
+      "source": "src/_icons/estetoscopio.svg"
     },
     "exterior": {
       "codepoint": 62365,
@@ -270,6 +334,10 @@
       "codepoint": 62368,
       "source": "src/_icons/fallecimiento.svg"
     },
+    "famila": {
+      "codepoint": 62502,
+      "source": "src/_icons/famila.svg"
+    },
     "fertilizacion-asistida": {
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion asistida.svg"
@@ -286,6 +354,10 @@
       "codepoint": 62483,
       "source": "src/_icons/garrafa.svg"
     },
+    "gas": {
+      "codepoint": 62503,
+      "source": "src/_icons/gas.svg"
+    },
     "genero": {
       "codepoint": 62476,
       "source": "src/_icons/genero.svg"
@@ -298,6 +370,10 @@
       "codepoint": 62372,
       "source": "src/_icons/genetica exp imp.svg"
     },
+    "globo-terraqueo": {
+      "codepoint": 62504,
+      "source": "src/_icons/globo terraqueo.svg"
+    },
     "habitat": {
       "codepoint": 62455,
       "source": "src/_icons/habitat.svg"
@@ -305,6 +381,10 @@
     "hogar-y-familia": {
       "codepoint": 62373,
       "source": "src/_icons/hogar y familia.svg"
+    },
+    "hospital": {
+      "codepoint": 62505,
+      "source": "src/_icons/hospital.svg"
     },
     "inclusion-digital": {
       "codepoint": 62374,
@@ -330,6 +410,10 @@
       "codepoint": 62379,
       "source": "src/_icons/lampara.svg"
     },
+    "lampara-bajo-consumo": {
+      "codepoint": 62506,
+      "source": "src/_icons/lampara bajo consumo.svg"
+    },
     "lampara-hoja": {
       "codepoint": 62456,
       "source": "src/_icons/lampara hoja.svg"
@@ -346,6 +430,14 @@
       "codepoint": 62381,
       "source": "src/_icons/magnetometria.svg"
     },
+    "maletin-medico-1": {
+      "codepoint": 62507,
+      "source": "src/_icons/maletin medico 1.svg"
+    },
+    "maletin-medico-2": {
+      "codepoint": 62508,
+      "source": "src/_icons/maletin medico 2.svg"
+    },
     "mano": {
       "codepoint": 62382,
       "source": "src/_icons/mano.svg"
@@ -354,9 +446,25 @@
       "codepoint": 62383,
       "source": "src/_icons/mano alt.svg"
     },
+    "marcador-centro-de-salud-1": {
+      "codepoint": 62509,
+      "source": "src/_icons/marcador centro de salud 1.svg"
+    },
+    "marcador-centro-de-salud-2": {
+      "codepoint": 62510,
+      "source": "src/_icons/marcador centro de salud 2.svg"
+    },
     "marcador-temporal": {
       "codepoint": 62384,
       "source": "src/_icons/marcador temporal.svg"
+    },
+    "marcador-ubicacion-1": {
+      "codepoint": 62511,
+      "source": "src/_icons/marcador ubicacion 1.svg"
+    },
+    "marcador-ubicacion-2": {
+      "codepoint": 62512,
+      "source": "src/_icons/marcador ubicacion 2.svg"
     },
     "medicamentos": {
       "codepoint": 62385,
@@ -365,6 +473,14 @@
     "medicina": {
       "codepoint": 62386,
       "source": "src/_icons/medicina.svg"
+    },
+    "medico": {
+      "codepoint": 62513,
+      "source": "src/_icons/medico.svg"
+    },
+    "mundo": {
+      "codepoint": 62514,
+      "source": "src/_icons/mundo.svg"
     },
     "museo": {
       "codepoint": 62387,
@@ -389,6 +505,22 @@
     "paisaje-hidrico": {
       "codepoint": 62484,
       "source": "src/_icons/paisaje hidrico.svg"
+    },
+    "paisaje-hidrico-2": {
+      "codepoint": 62515,
+      "source": "src/_icons/paisaje hidrico 2.svg"
+    },
+    "paisaje-urbano-2": {
+      "codepoint": 62516,
+      "source": "src/_icons/paisaje urbano 2.svg"
+    },
+    "paisaje-urbano-3": {
+      "codepoint": 62517,
+      "source": "src/_icons/paisaje urbano 3.svg"
+    },
+    "paisaje-urbano-4": {
+      "codepoint": 62518,
+      "source": "src/_icons/paisaje urbano 4.svg"
     },
     "paloma": {
       "codepoint": 62477,
@@ -434,6 +566,10 @@
       "codepoint": 62478,
       "source": "src/_icons/pueblos originarios.svg"
     },
+    "reciclaje": {
+      "codepoint": 62519,
+      "source": "src/_icons/reciclaje.svg"
+    },
     "reclamo-consulta": {
       "codepoint": 62397,
       "source": "src/_icons/reclamo consulta.svg"
@@ -445,6 +581,10 @@
     "reloj": {
       "codepoint": 62399,
       "source": "src/_icons/reloj.svg"
+    },
+    "represa-hidroelectrica": {
+      "codepoint": 62520,
+      "source": "src/_icons/represa hidroelectrica.svg"
     },
     "residuos-peligrosos-transporte": {
       "codepoint": 62400,
@@ -510,6 +650,14 @@
       "codepoint": 62411,
       "source": "src/_icons/tener un hijo.svg"
     },
+    "torre-electrica": {
+      "codepoint": 62521,
+      "source": "src/_icons/torre electrica.svg"
+    },
+    "torre-petroleo": {
+      "codepoint": 62522,
+      "source": "src/_icons/torre petroleo.svg"
+    },
     "trabajador": {
       "codepoint": 62412,
       "source": "src/_icons/trabajador.svg"
@@ -529,6 +677,10 @@
     "transporte-publico-licencia": {
       "codepoint": 62416,
       "source": "src/_icons/transporte publico licencia.svg"
+    },
+    "trigo": {
+      "codepoint": 62523,
+      "source": "src/_icons/trigo.svg"
     },
     "tristeza": {
       "codepoint": 62481,

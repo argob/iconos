@@ -12,6 +12,16 @@
       },
     
       {
+        "nombre": "aire",
+        "clase": "icono-arg-aire"
+      },
+    
+      {
+        "nombre": "alimentacion-saludable",
+        "clase": "icono-arg-alimentacion-saludable"
+      },
+    
+      {
         "nombre": "ambiente",
         "clase": "icono-arg-ambiente"
       },
@@ -52,6 +62,11 @@
       },
     
       {
+        "nombre": "areas-vacantes",
+        "clase": "icono-arg-areas-vacantes"
+      },
+    
+      {
         "nombre": "arma-imp",
         "clase": "icono-arg-arma-imp"
       },
@@ -89,6 +104,11 @@
       {
         "nombre": "avion",
         "clase": "icono-arg-avion"
+      },
+    
+      {
+        "nombre": "banio-quimico",
+        "clase": "icono-arg-banio-quimico"
       },
     
       {
@@ -147,6 +167,16 @@
       },
     
       {
+        "nombre": "cannabis-medicinal-1",
+        "clase": "icono-arg-cannabis-medicinal-1"
+      },
+    
+      {
+        "nombre": "cannabis-medicinal-2",
+        "clase": "icono-arg-cannabis-medicinal-2"
+      },
+    
+      {
         "nombre": "capacitacion",
         "clase": "icono-arg-capacitacion"
       },
@@ -164,6 +194,11 @@
       {
         "nombre": "casco-urbano",
         "clase": "icono-arg-casco-urbano"
+      },
+    
+      {
+        "nombre": "central-nuclear",
+        "clase": "icono-arg-central-nuclear"
       },
     
       {
@@ -197,6 +232,11 @@
       },
     
       {
+        "nombre": "conexion",
+        "clase": "icono-arg-conexion"
+      },
+    
+      {
         "nombre": "construccion",
         "clase": "icono-arg-construccion"
       },
@@ -224,6 +264,11 @@
       {
         "nombre": "cultura-imp",
         "clase": "icono-arg-cultura-imp"
+      },
+    
+      {
+        "nombre": "curita",
+        "clase": "icono-arg-curita"
       },
     
       {
@@ -282,6 +327,21 @@
       },
     
       {
+        "nombre": "electricidad",
+        "clase": "icono-arg-electricidad"
+      },
+    
+      {
+        "nombre": "electrodependiente-2",
+        "clase": "icono-arg-electrodependiente-2"
+      },
+    
+      {
+        "nombre": "electrodependientes-1",
+        "clase": "icono-arg-electrodependientes-1"
+      },
+    
+      {
         "nombre": "embarazo",
         "clase": "icono-arg-embarazo"
       },
@@ -297,6 +357,21 @@
       },
     
       {
+        "nombre": "energia-hidroelectrica",
+        "clase": "icono-arg-energia-hidroelectrica"
+      },
+    
+      {
+        "nombre": "energia-nuclear",
+        "clase": "icono-arg-energia-nuclear"
+      },
+    
+      {
+        "nombre": "escritura",
+        "clase": "icono-arg-escritura"
+      },
+    
+      {
         "nombre": "espacio-publico",
         "clase": "icono-arg-espacio-publico"
       },
@@ -304,6 +379,11 @@
       {
         "nombre": "estacion-trenes",
         "clase": "icono-arg-estacion-trenes"
+      },
+    
+      {
+        "nombre": "estetoscopio",
+        "clase": "icono-arg-estetoscopio"
       },
     
       {
@@ -327,6 +407,11 @@
       },
     
       {
+        "nombre": "famila",
+        "clase": "icono-arg-famila"
+      },
+    
+      {
         "nombre": "fertilizacion-asistida",
         "clase": "icono-arg-fertilizacion-asistida"
       },
@@ -347,6 +432,11 @@
       },
     
       {
+        "nombre": "gas",
+        "clase": "icono-arg-gas"
+      },
+    
+      {
         "nombre": "genero",
         "clase": "icono-arg-genero"
       },
@@ -362,6 +452,11 @@
       },
     
       {
+        "nombre": "globo-terraqueo",
+        "clase": "icono-arg-globo-terraqueo"
+      },
+    
+      {
         "nombre": "habitat",
         "clase": "icono-arg-habitat"
       },
@@ -369,6 +464,11 @@
       {
         "nombre": "hogar-y-familia",
         "clase": "icono-arg-hogar-y-familia"
+      },
+    
+      {
+        "nombre": "hospital",
+        "clase": "icono-arg-hospital"
       },
     
       {
@@ -402,6 +502,11 @@
       },
     
       {
+        "nombre": "lampara-bajo-consumo",
+        "clase": "icono-arg-lampara-bajo-consumo"
+      },
+    
+      {
         "nombre": "lampara-hoja",
         "clase": "icono-arg-lampara-hoja"
       },
@@ -422,6 +527,16 @@
       },
     
       {
+        "nombre": "maletin-medico-1",
+        "clase": "icono-arg-maletin-medico-1"
+      },
+    
+      {
+        "nombre": "maletin-medico-2",
+        "clase": "icono-arg-maletin-medico-2"
+      },
+    
+      {
         "nombre": "mano",
         "clase": "icono-arg-mano"
       },
@@ -432,8 +547,28 @@
       },
     
       {
+        "nombre": "marcador-centro-de-salud-1",
+        "clase": "icono-arg-marcador-centro-de-salud-1"
+      },
+    
+      {
+        "nombre": "marcador-centro-de-salud-2",
+        "clase": "icono-arg-marcador-centro-de-salud-2"
+      },
+    
+      {
         "nombre": "marcador-temporal",
         "clase": "icono-arg-marcador-temporal"
+      },
+    
+      {
+        "nombre": "marcador-ubicacion-1",
+        "clase": "icono-arg-marcador-ubicacion-1"
+      },
+    
+      {
+        "nombre": "marcador-ubicacion-2",
+        "clase": "icono-arg-marcador-ubicacion-2"
       },
     
       {
@@ -444,6 +579,16 @@
       {
         "nombre": "medicina",
         "clase": "icono-arg-medicina"
+      },
+    
+      {
+        "nombre": "medico",
+        "clase": "icono-arg-medico"
+      },
+    
+      {
+        "nombre": "mundo",
+        "clase": "icono-arg-mundo"
       },
     
       {
@@ -474,6 +619,26 @@
       {
         "nombre": "paisaje-hidrico",
         "clase": "icono-arg-paisaje-hidrico"
+      },
+    
+      {
+        "nombre": "paisaje-hidrico-2",
+        "clase": "icono-arg-paisaje-hidrico-2"
+      },
+    
+      {
+        "nombre": "paisaje-urbano-2",
+        "clase": "icono-arg-paisaje-urbano-2"
+      },
+    
+      {
+        "nombre": "paisaje-urbano-3",
+        "clase": "icono-arg-paisaje-urbano-3"
+      },
+    
+      {
+        "nombre": "paisaje-urbano-4",
+        "clase": "icono-arg-paisaje-urbano-4"
       },
     
       {
@@ -532,6 +697,11 @@
       },
     
       {
+        "nombre": "reciclaje",
+        "clase": "icono-arg-reciclaje"
+      },
+    
+      {
         "nombre": "reclamo-consulta",
         "clase": "icono-arg-reclamo-consulta"
       },
@@ -544,6 +714,11 @@
       {
         "nombre": "reloj",
         "clase": "icono-arg-reloj"
+      },
+    
+      {
+        "nombre": "represa-hidroelectrica",
+        "clase": "icono-arg-represa-hidroelectrica"
       },
     
       {
@@ -627,6 +802,16 @@
       },
     
       {
+        "nombre": "torre-electrica",
+        "clase": "icono-arg-torre-electrica"
+      },
+    
+      {
+        "nombre": "torre-petroleo",
+        "clase": "icono-arg-torre-petroleo"
+      },
+    
+      {
         "nombre": "trabajador",
         "clase": "icono-arg-trabajador"
       },
@@ -649,6 +834,11 @@
       {
         "nombre": "transporte-publico-licencia",
         "clase": "icono-arg-transporte-publico-licencia"
+      },
+    
+      {
+        "nombre": "trigo",
+        "clase": "icono-arg-trigo"
       },
     
       {
