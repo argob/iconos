@@ -42,6 +42,11 @@
       },
     
       {
+        "nombre": "anticorrupcion",
+        "clase": "icono-arg-anticorrupcion"
+      },
+    
+      {
         "nombre": "apostilla",
         "clase": "icono-arg-apostilla"
       },
@@ -149,6 +154,11 @@
       {
         "nombre": "cambio",
         "clase": "icono-arg-cambio"
+      },
+    
+      {
+        "nombre": "cambio-moneda",
+        "clase": "icono-arg-cambio-moneda"
       },
     
       {
@@ -287,6 +297,11 @@
       },
     
       {
+        "nombre": "desarrollo",
+        "clase": "icono-arg-desarrollo"
+      },
+    
+      {
         "nombre": "dialogo",
         "clase": "icono-arg-dialogo"
       },
@@ -357,6 +372,11 @@
       },
     
       {
+        "nombre": "empleo-2",
+        "clase": "icono-arg-empleo-2"
+      },
+    
+      {
         "nombre": "energia-hidroelectrica",
         "clase": "icono-arg-energia-hidroelectrica"
       },
@@ -364,6 +384,11 @@
       {
         "nombre": "energia-nuclear",
         "clase": "icono-arg-energia-nuclear"
+      },
+    
+      {
+        "nombre": "energia-sustentable-2",
+        "clase": "icono-arg-energia-sustentable-2"
       },
     
       {
@@ -417,6 +442,11 @@
       },
     
       {
+        "nombre": "finanzas",
+        "clase": "icono-arg-finanzas"
+      },
+    
+      {
         "nombre": "frio-calor",
         "clase": "icono-arg-frio-calor"
       },
@@ -454,6 +484,11 @@
       {
         "nombre": "globo-terraqueo",
         "clase": "icono-arg-globo-terraqueo"
+      },
+    
+      {
+        "nombre": "graduada",
+        "clase": "icono-arg-graduada"
       },
     
       {
@@ -737,6 +772,11 @@
       },
     
       {
+        "nombre": "salud-escudo",
+        "clase": "icono-arg-salud-escudo"
+      },
+    
+      {
         "nombre": "salud-reproductiva-y-sexual",
         "clase": "icono-arg-salud-reproductiva-y-sexual"
       },
@@ -839,6 +879,11 @@
       {
         "nombre": "trigo",
         "clase": "icono-arg-trigo"
+      },
+    
+      {
+        "nombre": "trigo-2",
+        "clase": "icono-arg-trigo-2"
       },
     
       {

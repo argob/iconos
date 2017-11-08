@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "fa8b241c2db82653c2dd8793ca108f07ceaf6762911e9f2aec9dc407561daba2",
-    "current": "fa8b241c2db82653c2dd8793ca108f07ceaf6762911e9f2aec9dc407561daba2"
+    "previous": "0e6445ecbfec7a535d69cef38237bc826a74cecbab951d6f9a48459fbc24b798",
+    "current": "0e6445ecbfec7a535d69cef38237bc826a74cecbab951d6f9a48459fbc24b798"
   },
   "fonts": [
-    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.ttf",
-    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.svg",
-    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.woff",
-    "dist/fonts/icono-arg_fa8b241c2db82653c2dd8793ca108f07.eot"
+    "dist/fonts/icono-arg_0e6445ecbfec7a535d69cef38237bc82.ttf",
+    "dist/fonts/icono-arg_0e6445ecbfec7a535d69cef38237bc82.svg",
+    "dist/fonts/icono-arg_0e6445ecbfec7a535d69cef38237bc82.woff",
+    "dist/fonts/icono-arg_0e6445ecbfec7a535d69cef38237bc82.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -41,6 +41,10 @@
     "antibalas": {
       "codepoint": 62325,
       "source": "src/_icons/antibalas.svg"
+    },
+    "anticorrupcion": {
+      "codepoint": 62524,
+      "source": "src/_icons/anticorrupcion.svg"
     },
     "apostilla": {
       "codepoint": 62326,
@@ -129,6 +133,10 @@
     "cambio": {
       "codepoint": 62343,
       "source": "src/_icons/cambio.svg"
+    },
+    "cambio-moneda": {
+      "codepoint": 62525,
+      "source": "src/_icons/cambio moneda.svg"
     },
     "cambio-tecnologico": {
       "codepoint": 62473,
@@ -238,6 +246,10 @@
       "codepoint": 62356,
       "source": "src/_icons/deporte.svg"
     },
+    "desarrollo": {
+      "codepoint": 62526,
+      "source": "src/_icons/desarrollo.svg"
+    },
     "dialogo": {
       "codepoint": 62357,
       "source": "src/_icons/dialogo.svg"
@@ -294,6 +306,10 @@
       "codepoint": 62364,
       "source": "src/_icons/embarcacion pago.svg"
     },
+    "empleo-2": {
+      "codepoint": 62527,
+      "source": "src/_icons/empleo 2.svg"
+    },
     "energia-hidroelectrica": {
       "codepoint": 62498,
       "source": "src/_icons/energia hidroelectrica.svg"
@@ -301,6 +317,10 @@
     "energia-nuclear": {
       "codepoint": 62499,
       "source": "src/_icons/energia nuclear.svg"
+    },
+    "energia-sustentable-2": {
+      "codepoint": 62528,
+      "source": "src/_icons/energia sustentable 2.svg"
     },
     "escritura": {
       "codepoint": 62500,
@@ -342,6 +362,10 @@
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion asistida.svg"
     },
+    "finanzas": {
+      "codepoint": 62529,
+      "source": "src/_icons/finanzas.svg"
+    },
     "frio-calor": {
       "codepoint": 62454,
       "source": "src/_icons/frio calor.svg"
@@ -373,6 +397,10 @@
     "globo-terraqueo": {
       "codepoint": 62504,
       "source": "src/_icons/globo terraqueo.svg"
+    },
+    "graduada": {
+      "codepoint": 62530,
+      "source": "src/_icons/graduada.svg"
     },
     "habitat": {
       "codepoint": 62455,
@@ -598,6 +626,10 @@
       "codepoint": 62401,
       "source": "src/_icons/ruta.svg"
     },
+    "salud-escudo": {
+      "codepoint": 62531,
+      "source": "src/_icons/salud escudo.svg"
+    },
     "salud-reproductiva-y-sexual": {
       "codepoint": 62402,
       "source": "src/_icons/salud reproductiva y sexual.svg"
@@ -681,6 +713,10 @@
     "trigo": {
       "codepoint": 62523,
       "source": "src/_icons/trigo.svg"
+    },
+    "trigo-2": {
+      "codepoint": 62532,
+      "source": "src/_icons/trigo 2.svg"
     },
     "tristeza": {
       "codepoint": 62481,
