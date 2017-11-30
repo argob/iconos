@@ -17,6 +17,11 @@
       },
     
       {
+        "nombre": "aire-acondicionado",
+        "clase": "icono-arg-aire-acondicionado"
+      },
+    
+      {
         "nombre": "alimentacion-saludable",
         "clase": "icono-arg-alimentacion-saludable"
       },
@@ -237,6 +242,11 @@
       },
     
       {
+        "nombre": "computadora",
+        "clase": "icono-arg-computadora"
+      },
+    
+      {
         "nombre": "comunicacion",
         "clase": "icono-arg-comunicacion"
       },
@@ -402,8 +412,18 @@
       },
     
       {
+        "nombre": "espacios",
+        "clase": "icono-arg-espacios"
+      },
+    
+      {
         "nombre": "estacion-trenes",
         "clase": "icono-arg-estacion-trenes"
+      },
+    
+      {
+        "nombre": "estereo",
+        "clase": "icono-arg-estereo"
       },
     
       {
@@ -497,6 +517,11 @@
       },
     
       {
+        "nombre": "heladera",
+        "clase": "icono-arg-heladera"
+      },
+    
+      {
         "nombre": "hogar-y-familia",
         "clase": "icono-arg-hogar-y-familia"
       },
@@ -549,6 +574,11 @@
       {
         "nombre": "lavar-manos",
         "clase": "icono-arg-lavar-manos"
+      },
+    
+      {
+        "nombre": "lavarropas",
+        "clase": "icono-arg-lavarropas"
       },
     
       {
@@ -642,6 +672,11 @@
       },
     
       {
+        "nombre": "notebook",
+        "clase": "icono-arg-notebook"
+      },
+    
+      {
         "nombre": "nuclear",
         "clase": "icono-arg-nuclear"
       },
@@ -719,6 +754,11 @@
       {
         "nombre": "petroleo",
         "clase": "icono-arg-petroleo"
+      },
+    
+      {
+        "nombre": "plancha",
+        "clase": "icono-arg-plancha"
       },
     
       {
@@ -837,8 +877,18 @@
       },
     
       {
+        "nombre": "televisor",
+        "clase": "icono-arg-televisor"
+      },
+    
+      {
         "nombre": "tener-un-hijo",
         "clase": "icono-arg-tener-un-hijo"
+      },
+    
+      {
+        "nombre": "termotanque",
+        "clase": "icono-arg-termotanque"
       },
     
       {

@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "3d1883955876542f1312e622fdb43bcf2a7f305a3c534dc4cc4f4320388ef1eb",
-    "current": "3d1883955876542f1312e622fdb43bcf2a7f305a3c534dc4cc4f4320388ef1eb"
+    "previous": "0a7e2abd2825f7e4f3bb2c386ef2468b9882f2e790cbd1e02548ea992b2bd1b2",
+    "current": "0a7e2abd2825f7e4f3bb2c386ef2468b9882f2e790cbd1e02548ea992b2bd1b2"
   },
   "fonts": [
-    "dist/fonts/icono-arg_3d1883955876542f1312e622fdb43bcf.ttf",
-    "dist/fonts/icono-arg_3d1883955876542f1312e622fdb43bcf.svg",
-    "dist/fonts/icono-arg_3d1883955876542f1312e622fdb43bcf.woff",
-    "dist/fonts/icono-arg_3d1883955876542f1312e622fdb43bcf.eot"
+    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.ttf",
+    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.svg",
+    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.woff",
+    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -21,6 +21,10 @@
     "aire": {
       "codepoint": 62486,
       "source": "src/_icons/aire.svg"
+    },
+    "aire-acondicionado": {
+      "codepoint": 62533,
+      "source": "src/_icons/aire acondicionado.svg"
     },
     "alimentacion-saludable": {
       "codepoint": 62487,
@@ -198,6 +202,10 @@
       "codepoint": 62349,
       "source": "src/_icons/cluse.svg"
     },
+    "computadora": {
+      "codepoint": 62534,
+      "source": "src/_icons/computadora.svg"
+    },
     "comunicacion": {
       "codepoint": 62350,
       "source": "src/_icons/comunicacion.svg"
@@ -330,9 +338,17 @@
       "codepoint": 62453,
       "source": "src/_icons/espacio publico.svg"
     },
+    "espacios": {
+      "codepoint": 62535,
+      "source": "src/_icons/espacios.svg"
+    },
     "estacion-trenes": {
       "codepoint": 62425,
       "source": "src/_icons/estacion-trenes.svg"
+    },
+    "estereo": {
+      "codepoint": 62536,
+      "source": "src/_icons/estereo.svg"
     },
     "estetoscopio": {
       "codepoint": 62501,
@@ -406,6 +422,10 @@
       "codepoint": 62455,
       "source": "src/_icons/habitat.svg"
     },
+    "heladera": {
+      "codepoint": 62537,
+      "source": "src/_icons/heladera.svg"
+    },
     "hogar-y-familia": {
       "codepoint": 62373,
       "source": "src/_icons/hogar y familia.svg"
@@ -449,6 +469,10 @@
     "lavar-manos": {
       "codepoint": 62457,
       "source": "src/_icons/lavar manos.svg"
+    },
+    "lavarropas": {
+      "codepoint": 62538,
+      "source": "src/_icons/lavarropas.svg"
     },
     "lupa": {
       "codepoint": 62380,
@@ -522,6 +546,10 @@
       "codepoint": 62458,
       "source": "src/_icons/nido.svg"
     },
+    "notebook": {
+      "codepoint": 62539,
+      "source": "src/_icons/notebook.svg"
+    },
     "nuclear": {
       "codepoint": 62389,
       "source": "src/_icons/nuclear.svg"
@@ -585,6 +613,10 @@
     "petroleo": {
       "codepoint": 62396,
       "source": "src/_icons/petroleo.svg"
+    },
+    "plancha": {
+      "codepoint": 62540,
+      "source": "src/_icons/plancha.svg"
     },
     "probeta-hoja": {
       "codepoint": 62459,
@@ -678,9 +710,17 @@
       "codepoint": 62410,
       "source": "src/_icons/teatro archivo.svg"
     },
+    "televisor": {
+      "codepoint": 62541,
+      "source": "src/_icons/televisor.svg"
+    },
     "tener-un-hijo": {
       "codepoint": 62411,
       "source": "src/_icons/tener un hijo.svg"
+    },
+    "termotanque": {
+      "codepoint": 62542,
+      "source": "src/_icons/termotanque.svg"
     },
     "torre-electrica": {
       "codepoint": 62521,
