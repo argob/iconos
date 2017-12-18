@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "0a7e2abd2825f7e4f3bb2c386ef2468b9882f2e790cbd1e02548ea992b2bd1b2",
-    "current": "0a7e2abd2825f7e4f3bb2c386ef2468b9882f2e790cbd1e02548ea992b2bd1b2"
+    "previous": "3764c28dee98e145ee23cc0e54cba9401a9efd4014d210f7858341ede206eb5f",
+    "current": "3764c28dee98e145ee23cc0e54cba9401a9efd4014d210f7858341ede206eb5f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.ttf",
-    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.svg",
-    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.woff",
-    "dist/fonts/icono-arg_0a7e2abd2825f7e4f3bb2c386ef2468b.eot"
+    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.ttf",
+    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.svg",
+    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.woff",
+    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.eot"
   ],
   "glyphs": {
     "agricultura": {
@@ -105,6 +105,10 @@
     "banio-quimico": {
       "codepoint": 62489,
       "source": "src/_icons/banio quimico.svg"
+    },
+    "barbijo": {
+      "codepoint": 62543,
+      "source": "src/_icons/barbijo.svg"
     },
     "barrilete": {
       "codepoint": 62472,
@@ -254,6 +258,14 @@
       "codepoint": 62356,
       "source": "src/_icons/deporte.svg"
     },
+    "derrame-toxico": {
+      "codepoint": 62544,
+      "source": "src/_icons/derrame toxico.svg"
+    },
+    "derrumbes": {
+      "codepoint": 62545,
+      "source": "src/_icons/derrumbes.svg"
+    },
     "desarrollo": {
       "codepoint": 62526,
       "source": "src/_icons/desarrollo.svg"
@@ -330,6 +342,10 @@
       "codepoint": 62528,
       "source": "src/_icons/energia sustentable 2.svg"
     },
+    "erupciones-volcanicas": {
+      "codepoint": 62546,
+      "source": "src/_icons/erupciones volcanicas.svg"
+    },
     "escritura": {
       "codepoint": 62500,
       "source": "src/_icons/escritura.svg"
@@ -381,6 +397,10 @@
     "finanzas": {
       "codepoint": 62529,
       "source": "src/_icons/finanzas.svg"
+    },
+    "frio": {
+      "codepoint": 62547,
+      "source": "src/_icons/frio.svg"
     },
     "frio-calor": {
       "codepoint": 62454,
@@ -434,6 +454,10 @@
       "codepoint": 62505,
       "source": "src/_icons/hospital.svg"
     },
+    "incendios-forestales": {
+      "codepoint": 62548,
+      "source": "src/_icons/incendios forestales.svg"
+    },
     "inclusion-digital": {
       "codepoint": 62374,
       "source": "src/_icons/inclusion digital.svg"
@@ -449,6 +473,10 @@
     "interes-cultural": {
       "codepoint": 62377,
       "source": "src/_icons/interes cultural.svg"
+    },
+    "inundaciones": {
+      "codepoint": 62549,
+      "source": "src/_icons/inundaciones.svg"
     },
     "jubilado": {
       "codepoint": 62378,
@@ -526,6 +554,10 @@
       "codepoint": 62386,
       "source": "src/_icons/medicina.svg"
     },
+    "medicina-2": {
+      "codepoint": 62550,
+      "source": "src/_icons/medicina 2.svg"
+    },
     "medico": {
       "codepoint": 62513,
       "source": "src/_icons/medico.svg"
@@ -542,6 +574,10 @@
       "codepoint": 62388,
       "source": "src/_icons/natacion.svg"
     },
+    "nevadas": {
+      "codepoint": 62551,
+      "source": "src/_icons/nevadas.svg"
+    },
     "nido": {
       "codepoint": 62458,
       "source": "src/_icons/nido.svg"
@@ -553,6 +589,10 @@
     "nuclear": {
       "codepoint": 62389,
       "source": "src/_icons/nuclear.svg"
+    },
+    "ola-de-calor": {
+      "codepoint": 62552,
+      "source": "src/_icons/ola de calor.svg"
     },
     "pago": {
       "codepoint": 62390,
@@ -686,6 +726,10 @@
       "codepoint": 62406,
       "source": "src/_icons/social.svg"
     },
+    "sol": {
+      "codepoint": 62553,
+      "source": "src/_icons/sol.svg"
+    },
     "solidaridad": {
       "codepoint": 62407,
       "source": "src/_icons/solidaridad.svg"
@@ -721,6 +765,14 @@
     "termotanque": {
       "codepoint": 62542,
       "source": "src/_icons/termotanque.svg"
+    },
+    "terremoto": {
+      "codepoint": 62554,
+      "source": "src/_icons/terremoto.svg"
+    },
+    "tornados-y-tormentas-electricas": {
+      "codepoint": 62555,
+      "source": "src/_icons/tornados y tormentas electricas.svg"
     },
     "torre-electrica": {
       "codepoint": 62521,

@@ -122,6 +122,11 @@
       },
     
       {
+        "nombre": "barbijo",
+        "clase": "icono-arg-barbijo"
+      },
+    
+      {
         "nombre": "barrilete",
         "clase": "icono-arg-barrilete"
       },
@@ -307,6 +312,16 @@
       },
     
       {
+        "nombre": "derrame-toxico",
+        "clase": "icono-arg-derrame-toxico"
+      },
+    
+      {
+        "nombre": "derrumbes",
+        "clase": "icono-arg-derrumbes"
+      },
+    
+      {
         "nombre": "desarrollo",
         "clase": "icono-arg-desarrollo"
       },
@@ -402,6 +417,11 @@
       },
     
       {
+        "nombre": "erupciones-volcanicas",
+        "clase": "icono-arg-erupciones-volcanicas"
+      },
+    
+      {
         "nombre": "escritura",
         "clase": "icono-arg-escritura"
       },
@@ -464,6 +484,11 @@
       {
         "nombre": "finanzas",
         "clase": "icono-arg-finanzas"
+      },
+    
+      {
+        "nombre": "frio",
+        "clase": "icono-arg-frio"
       },
     
       {
@@ -532,6 +557,11 @@
       },
     
       {
+        "nombre": "incendios-forestales",
+        "clase": "icono-arg-incendios-forestales"
+      },
+    
+      {
         "nombre": "inclusion-digital",
         "clase": "icono-arg-inclusion-digital"
       },
@@ -549,6 +579,11 @@
       {
         "nombre": "interes-cultural",
         "clase": "icono-arg-interes-cultural"
+      },
+    
+      {
+        "nombre": "inundaciones",
+        "clase": "icono-arg-inundaciones"
       },
     
       {
@@ -647,6 +682,11 @@
       },
     
       {
+        "nombre": "medicina-2",
+        "clase": "icono-arg-medicina-2"
+      },
+    
+      {
         "nombre": "medico",
         "clase": "icono-arg-medico"
       },
@@ -667,6 +707,11 @@
       },
     
       {
+        "nombre": "nevadas",
+        "clase": "icono-arg-nevadas"
+      },
+    
+      {
         "nombre": "nido",
         "clase": "icono-arg-nido"
       },
@@ -679,6 +724,11 @@
       {
         "nombre": "nuclear",
         "clase": "icono-arg-nuclear"
+      },
+    
+      {
+        "nombre": "ola-de-calor",
+        "clase": "icono-arg-ola-de-calor"
       },
     
       {
@@ -847,6 +897,11 @@
       },
     
       {
+        "nombre": "sol",
+        "clase": "icono-arg-sol"
+      },
+    
+      {
         "nombre": "solidaridad",
         "clase": "icono-arg-solidaridad"
       },
@@ -889,6 +944,16 @@
       {
         "nombre": "termotanque",
         "clase": "icono-arg-termotanque"
+      },
+    
+      {
+        "nombre": "terremoto",
+        "clase": "icono-arg-terremoto"
+      },
+    
+      {
+        "nombre": "tornados-y-tormentas-electricas",
+        "clase": "icono-arg-tornados-y-tormentas-electricas"
       },
     
       {
