@@ -1,15 +1,31 @@
 {
   "checksum": {
-    "previous": "3764c28dee98e145ee23cc0e54cba9401a9efd4014d210f7858341ede206eb5f",
-    "current": "3764c28dee98e145ee23cc0e54cba9401a9efd4014d210f7858341ede206eb5f"
+    "previous": "2c4cb349fedc279c02d128b074cc222f7fbba2b066f82462dddb21a0d663bc21",
+    "current": "2c4cb349fedc279c02d128b074cc222f7fbba2b066f82462dddb21a0d663bc21"
   },
   "fonts": [
-    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.ttf",
-    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.svg",
-    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.woff",
-    "dist/fonts/icono-arg_3764c28dee98e145ee23cc0e54cba940.eot"
+    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.ttf",
+    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.svg",
+    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.woff",
+    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.eot"
   ],
   "glyphs": {
+    "Artboard-1": {
+      "codepoint": 62556,
+      "source": "src/_icons/Artboard 1.svg"
+    },
+    "Artboard-2": {
+      "codepoint": 62557,
+      "source": "src/_icons/Artboard 2.svg"
+    },
+    "abrigo": {
+      "codepoint": 62558,
+      "source": "src/_icons/abrigo.svg"
+    },
+    "acrobat": {
+      "codepoint": 62559,
+      "source": "src/_icons/acrobat.svg"
+    },
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
@@ -49,6 +65,10 @@
     "anticorrupcion": {
       "codepoint": 62524,
       "source": "src/_icons/anticorrupcion.svg"
+    },
+    "apagado": {
+      "codepoint": 62560,
+      "source": "src/_icons/apagado.svg"
     },
     "apostilla": {
       "codepoint": 62326,
@@ -130,9 +150,25 @@
       "codepoint": 62340,
       "source": "src/_icons/cajero.svg"
     },
+    "calefactor": {
+      "codepoint": 62561,
+      "source": "src/_icons/calefactor.svg"
+    },
+    "calefactor-negativo": {
+      "codepoint": 62562,
+      "source": "src/_icons/calefactor negativo.svg"
+    },
     "calendario": {
       "codepoint": 62341,
       "source": "src/_icons/calendario.svg"
+    },
+    "calendario-2": {
+      "codepoint": 62563,
+      "source": "src/_icons/calendario 2.svg"
+    },
+    "calendario-2-negativo": {
+      "codepoint": 62564,
+      "source": "src/_icons/calendario 2 negativo.svg"
     },
     "calidad-cert": {
       "codepoint": 62342,
@@ -205,6 +241,14 @@
     "cluse": {
       "codepoint": 62349,
       "source": "src/_icons/cluse.svg"
+    },
+    "cocina": {
+      "codepoint": 62565,
+      "source": "src/_icons/cocina.svg"
+    },
+    "cocina-negativo": {
+      "codepoint": 62566,
+      "source": "src/_icons/cocina negativo.svg"
     },
     "computadora": {
       "codepoint": 62534,
@@ -294,6 +338,18 @@
       "codepoint": 62420,
       "source": "src/_icons/dni.svg"
     },
+    "documento": {
+      "codepoint": 62567,
+      "source": "src/_icons/documento.svg"
+    },
+    "ducha": {
+      "codepoint": 62568,
+      "source": "src/_icons/ducha .svg"
+    },
+    "ducha-negativo": {
+      "codepoint": 62569,
+      "source": "src/_icons/ducha negativo.svg"
+    },
     "educacion": {
       "codepoint": 62360,
       "source": "src/_icons/educacion.svg"
@@ -370,6 +426,10 @@
       "codepoint": 62501,
       "source": "src/_icons/estetoscopio.svg"
     },
+    "etiqueta-eficiencia": {
+      "codepoint": 62570,
+      "source": "src/_icons/etiqueta eficiencia.svg"
+    },
     "exterior": {
       "codepoint": 62365,
       "source": "src/_icons/exterior.svg"
@@ -405,6 +465,10 @@
     "frio-calor": {
       "codepoint": 62454,
       "source": "src/_icons/frio calor.svg"
+    },
+    "fuego": {
+      "codepoint": 62571,
+      "source": "src/_icons/fuego.svg"
     },
     "ganaderia": {
       "codepoint": 62370,
@@ -449,6 +513,10 @@
     "hogar-y-familia": {
       "codepoint": 62373,
       "source": "src/_icons/hogar y familia.svg"
+    },
+    "hogar-y-familia-negativo": {
+      "codepoint": 62572,
+      "source": "src/_icons/hogar y familia negativo.svg"
     },
     "hospital": {
       "codepoint": 62505,
@@ -546,6 +614,10 @@
       "codepoint": 62512,
       "source": "src/_icons/marcador ubicacion 2.svg"
     },
+    "mecedora": {
+      "codepoint": 62573,
+      "source": "src/_icons/mecedora.svg"
+    },
     "medicamentos": {
       "codepoint": 62385,
       "source": "src/_icons/medicamentos.svg"
@@ -561,6 +633,10 @@
     "medico": {
       "codepoint": 62513,
       "source": "src/_icons/medico.svg"
+    },
+    "micro": {
+      "codepoint": 62574,
+      "source": "src/_icons/micro.svg"
     },
     "mundo": {
       "codepoint": 62514,
@@ -593,6 +669,18 @@
     "ola-de-calor": {
       "codepoint": 62552,
       "source": "src/_icons/ola de calor.svg"
+    },
+    "olla": {
+      "codepoint": 62575,
+      "source": "src/_icons/olla.svg"
+    },
+    "olla-fuego": {
+      "codepoint": 62576,
+      "source": "src/_icons/olla fuego.svg"
+    },
+    "olla-fuego-negativo": {
+      "codepoint": 62577,
+      "source": "src/_icons/olla fuego negativo.svg"
     },
     "pago": {
       "codepoint": 62390,
@@ -762,6 +850,10 @@
       "codepoint": 62411,
       "source": "src/_icons/tener un hijo.svg"
     },
+    "termometro": {
+      "codepoint": 62578,
+      "source": "src/_icons/termometro.svg"
+    },
     "termotanque": {
       "codepoint": 62542,
       "source": "src/_icons/termotanque.svg"
@@ -790,9 +882,17 @@
       "codepoint": 62413,
       "source": "src/_icons/trabajador temporal.svg"
     },
+    "tramite": {
+      "codepoint": 62579,
+      "source": "src/_icons/tramite.svg"
+    },
     "tramite-jubilacion": {
       "codepoint": 62414,
       "source": "src/_icons/tramite jubilacion.svg"
+    },
+    "tramite-negativo": {
+      "codepoint": 62580,
+      "source": "src/_icons/tramite negativo.svg"
     },
     "transporte-licencia": {
       "codepoint": 62415,
@@ -822,9 +922,21 @@
       "codepoint": 62480,
       "source": "src/_icons/tumba.svg"
     },
+    "turno": {
+      "codepoint": 62581,
+      "source": "src/_icons/turno.svg"
+    },
+    "turno-negativo": {
+      "codepoint": 62582,
+      "source": "src/_icons/turno negativo.svg"
+    },
     "urbanizacion": {
       "codepoint": 62471,
       "source": "src/_icons/urbanizacion.svg"
+    },
+    "usuarios": {
+      "codepoint": 62583,
+      "source": "src/_icons/usuarios.svg"
     },
     "vacunas": {
       "codepoint": 62417,

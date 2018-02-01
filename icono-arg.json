@@ -2,6 +2,26 @@
   "iconos": [
     
       {
+        "nombre": "Artboard-1",
+        "clase": "icono-arg-Artboard-1"
+      },
+    
+      {
+        "nombre": "Artboard-2",
+        "clase": "icono-arg-Artboard-2"
+      },
+    
+      {
+        "nombre": "abrigo",
+        "clase": "icono-arg-abrigo"
+      },
+    
+      {
+        "nombre": "acrobat",
+        "clase": "icono-arg-acrobat"
+      },
+    
+      {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
       },
@@ -49,6 +69,11 @@
       {
         "nombre": "anticorrupcion",
         "clase": "icono-arg-anticorrupcion"
+      },
+    
+      {
+        "nombre": "apagado",
+        "clase": "icono-arg-apagado"
       },
     
       {
@@ -152,8 +177,28 @@
       },
     
       {
+        "nombre": "calefactor",
+        "clase": "icono-arg-calefactor"
+      },
+    
+      {
+        "nombre": "calefactor-negativo",
+        "clase": "icono-arg-calefactor-negativo"
+      },
+    
+      {
         "nombre": "calendario",
         "clase": "icono-arg-calendario"
+      },
+    
+      {
+        "nombre": "calendario-2",
+        "clase": "icono-arg-calendario-2"
+      },
+    
+      {
+        "nombre": "calendario-2-negativo",
+        "clase": "icono-arg-calendario-2-negativo"
       },
     
       {
@@ -244,6 +289,16 @@
       {
         "nombre": "cluse",
         "clase": "icono-arg-cluse"
+      },
+    
+      {
+        "nombre": "cocina",
+        "clase": "icono-arg-cocina"
+      },
+    
+      {
+        "nombre": "cocina-negativo",
+        "clase": "icono-arg-cocina-negativo"
       },
     
       {
@@ -357,6 +412,21 @@
       },
     
       {
+        "nombre": "documento",
+        "clase": "icono-arg-documento"
+      },
+    
+      {
+        "nombre": "ducha",
+        "clase": "icono-arg-ducha"
+      },
+    
+      {
+        "nombre": "ducha-negativo",
+        "clase": "icono-arg-ducha-negativo"
+      },
+    
+      {
         "nombre": "educacion",
         "clase": "icono-arg-educacion"
       },
@@ -452,6 +522,11 @@
       },
     
       {
+        "nombre": "etiqueta-eficiencia",
+        "clase": "icono-arg-etiqueta-eficiencia"
+      },
+    
+      {
         "nombre": "exterior",
         "clase": "icono-arg-exterior"
       },
@@ -494,6 +569,11 @@
       {
         "nombre": "frio-calor",
         "clase": "icono-arg-frio-calor"
+      },
+    
+      {
+        "nombre": "fuego",
+        "clase": "icono-arg-fuego"
       },
     
       {
@@ -549,6 +629,11 @@
       {
         "nombre": "hogar-y-familia",
         "clase": "icono-arg-hogar-y-familia"
+      },
+    
+      {
+        "nombre": "hogar-y-familia-negativo",
+        "clase": "icono-arg-hogar-y-familia-negativo"
       },
     
       {
@@ -672,6 +757,11 @@
       },
     
       {
+        "nombre": "mecedora",
+        "clase": "icono-arg-mecedora"
+      },
+    
+      {
         "nombre": "medicamentos",
         "clase": "icono-arg-medicamentos"
       },
@@ -689,6 +779,11 @@
       {
         "nombre": "medico",
         "clase": "icono-arg-medico"
+      },
+    
+      {
+        "nombre": "micro",
+        "clase": "icono-arg-micro"
       },
     
       {
@@ -729,6 +824,21 @@
       {
         "nombre": "ola-de-calor",
         "clase": "icono-arg-ola-de-calor"
+      },
+    
+      {
+        "nombre": "olla",
+        "clase": "icono-arg-olla"
+      },
+    
+      {
+        "nombre": "olla-fuego",
+        "clase": "icono-arg-olla-fuego"
+      },
+    
+      {
+        "nombre": "olla-fuego-negativo",
+        "clase": "icono-arg-olla-fuego-negativo"
       },
     
       {
@@ -942,6 +1052,11 @@
       },
     
       {
+        "nombre": "termometro",
+        "clase": "icono-arg-termometro"
+      },
+    
+      {
         "nombre": "termotanque",
         "clase": "icono-arg-termotanque"
       },
@@ -977,8 +1092,18 @@
       },
     
       {
+        "nombre": "tramite",
+        "clase": "icono-arg-tramite"
+      },
+    
+      {
         "nombre": "tramite-jubilacion",
         "clase": "icono-arg-tramite-jubilacion"
+      },
+    
+      {
+        "nombre": "tramite-negativo",
+        "clase": "icono-arg-tramite-negativo"
       },
     
       {
@@ -1017,8 +1142,23 @@
       },
     
       {
+        "nombre": "turno",
+        "clase": "icono-arg-turno"
+      },
+    
+      {
+        "nombre": "turno-negativo",
+        "clase": "icono-arg-turno-negativo"
+      },
+    
+      {
         "nombre": "urbanizacion",
         "clase": "icono-arg-urbanizacion"
+      },
+    
+      {
+        "nombre": "usuarios",
+        "clase": "icono-arg-usuarios"
       },
     
       {
