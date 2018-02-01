@@ -1,23 +1,15 @@
 {
   "checksum": {
-    "previous": "2c4cb349fedc279c02d128b074cc222f7fbba2b066f82462dddb21a0d663bc21",
-    "current": "2c4cb349fedc279c02d128b074cc222f7fbba2b066f82462dddb21a0d663bc21"
+    "previous": "e53aa511b4707684c6e4a2c132fc224620d3ea908c00637a3f87421451ff2909",
+    "current": "e53aa511b4707684c6e4a2c132fc224620d3ea908c00637a3f87421451ff2909"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.ttf",
-    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.svg",
-    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.woff",
-    "dist/fonts/icono-arg_2c4cb349fedc279c02d128b074cc222f.eot"
+    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.ttf",
+    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.svg",
+    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.woff",
+    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.eot"
   ],
   "glyphs": {
-    "Artboard-1": {
-      "codepoint": 62556,
-      "source": "src/_icons/Artboard 1.svg"
-    },
-    "Artboard-2": {
-      "codepoint": 62557,
-      "source": "src/_icons/Artboard 2.svg"
-    },
     "abrigo": {
       "codepoint": 62558,
       "source": "src/_icons/abrigo.svg"

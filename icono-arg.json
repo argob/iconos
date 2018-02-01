@@ -2,16 +2,6 @@
   "iconos": [
     
       {
-        "nombre": "Artboard-1",
-        "clase": "icono-arg-Artboard-1"
-      },
-    
-      {
-        "nombre": "Artboard-2",
-        "clase": "icono-arg-Artboard-2"
-      },
-    
-      {
         "nombre": "abrigo",
         "clase": "icono-arg-abrigo"
       },
