@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "e53aa511b4707684c6e4a2c132fc224620d3ea908c00637a3f87421451ff2909",
-    "current": "e53aa511b4707684c6e4a2c132fc224620d3ea908c00637a3f87421451ff2909"
+    "previous": "78eb5769fdae9f8e47f990f36b5835df482a19508518ce0a968a188e719fce74",
+    "current": "78eb5769fdae9f8e47f990f36b5835df482a19508518ce0a968a188e719fce74"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.ttf",
-    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.svg",
-    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.woff",
-    "dist/fonts/icono-arg_e53aa511b4707684c6e4a2c132fc2246.eot"
+    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.ttf",
+    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.svg",
+    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.woff",
+    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -33,6 +33,14 @@
     "aire-acondicionado": {
       "codepoint": 62533,
       "source": "src/_icons/aire acondicionado.svg"
+    },
+    "alarma": {
+      "codepoint": 62584,
+      "source": "src/_icons/alarma.svg"
+    },
+    "alarma-negativo": {
+      "codepoint": 62585,
+      "source": "src/_icons/alarma negativo.svg"
     },
     "alimentacion-saludable": {
       "codepoint": 62487,
@@ -114,6 +122,10 @@
       "codepoint": 62337,
       "source": "src/_icons/avion.svg"
     },
+    "bandera": {
+      "codepoint": 62586,
+      "source": "src/_icons/bandera.svg"
+    },
     "banio-quimico": {
       "codepoint": 62489,
       "source": "src/_icons/banio quimico.svg"
@@ -129,6 +141,10 @@
     "barrio": {
       "codepoint": 62448,
       "source": "src/_icons/barrio.svg"
+    },
+    "bosques": {
+      "codepoint": 62587,
+      "source": "src/_icons/bosques.svg"
     },
     "buceo": {
       "codepoint": 62338,
@@ -242,6 +258,10 @@
       "codepoint": 62566,
       "source": "src/_icons/cocina negativo.svg"
     },
+    "codigo-genetico": {
+      "codepoint": 62588,
+      "source": "src/_icons/codigo genetico.svg"
+    },
     "computadora": {
       "codepoint": 62534,
       "source": "src/_icons/computadora.svg"
@@ -282,6 +302,10 @@
       "codepoint": 62494,
       "source": "src/_icons/curita.svg"
     },
+    "database": {
+      "codepoint": 62589,
+      "source": "src/_icons/database.svg"
+    },
     "declaracion-jurada": {
       "codepoint": 62355,
       "source": "src/_icons/declaracion jurada.svg"
@@ -305,6 +329,10 @@
     "desarrollo": {
       "codepoint": 62526,
       "source": "src/_icons/desarrollo.svg"
+    },
+    "desierto": {
+      "codepoint": 62590,
+      "source": "src/_icons/desierto.svg"
     },
     "dialogo": {
       "codepoint": 62357,
@@ -377,6 +405,10 @@
     "empleo-2": {
       "codepoint": 62527,
       "source": "src/_icons/empleo 2.svg"
+    },
+    "energia-eolica": {
+      "codepoint": 62591,
+      "source": "src/_icons/energia eolica.svg"
     },
     "energia-hidroelectrica": {
       "codepoint": 62498,
@@ -486,6 +518,10 @@
       "codepoint": 62372,
       "source": "src/_icons/genetica exp imp.svg"
     },
+    "glaciar": {
+      "codepoint": 62592,
+      "source": "src/_icons/glaciar.svg"
+    },
     "globo-terraqueo": {
       "codepoint": 62504,
       "source": "src/_icons/globo terraqueo.svg"
@@ -510,6 +546,10 @@
       "codepoint": 62572,
       "source": "src/_icons/hogar y familia negativo.svg"
     },
+    "hojas": {
+      "codepoint": 62593,
+      "source": "src/_icons/hojas.svg"
+    },
     "hospital": {
       "codepoint": 62505,
       "source": "src/_icons/hospital.svg"
@@ -526,6 +566,10 @@
       "codepoint": 62375,
       "source": "src/_icons/industria.svg"
     },
+    "industria-y-medioambiente": {
+      "codepoint": 62594,
+      "source": "src/_icons/industria y medioambiente.svg"
+    },
     "institucion": {
       "codepoint": 62376,
       "source": "src/_icons/institucion.svg"
@@ -537,6 +581,10 @@
     "inundaciones": {
       "codepoint": 62549,
       "source": "src/_icons/inundaciones.svg"
+    },
+    "jaguarete": {
+      "codepoint": 62595,
+      "source": "src/_icons/jaguarete.svg"
     },
     "jubilado": {
       "codepoint": 62378,
@@ -654,6 +702,10 @@
       "codepoint": 62539,
       "source": "src/_icons/notebook.svg"
     },
+    "notificaciones": {
+      "codepoint": 62596,
+      "source": "src/_icons/notificaciones.svg"
+    },
     "nuclear": {
       "codepoint": 62389,
       "source": "src/_icons/nuclear.svg"
@@ -673,6 +725,10 @@
     "olla-fuego-negativo": {
       "codepoint": 62577,
       "source": "src/_icons/olla fuego negativo.svg"
+    },
+    "ombu": {
+      "codepoint": 62597,
+      "source": "src/_icons/ombu.svg"
     },
     "pago": {
       "codepoint": 62390,
@@ -738,6 +794,14 @@
       "codepoint": 62540,
       "source": "src/_icons/plancha.svg"
     },
+    "planta-exotica": {
+      "codepoint": 62598,
+      "source": "src/_icons/planta exotica.svg"
+    },
+    "planta-exotica-2": {
+      "codepoint": 62599,
+      "source": "src/_icons/planta exotica 2.svg"
+    },
     "probeta-hoja": {
       "codepoint": 62459,
       "source": "src/_icons/probeta hoja.svg"
@@ -749,6 +813,10 @@
     "reciclaje": {
       "codepoint": 62519,
       "source": "src/_icons/reciclaje.svg"
+    },
+    "reciclaje-basura": {
+      "codepoint": 62600,
+      "source": "src/_icons/reciclaje basura.svg"
     },
     "reclamo-consulta": {
       "codepoint": 62397,
@@ -793,6 +861,10 @@
     "semaforo": {
       "codepoint": 62423,
       "source": "src/_icons/semaforo.svg"
+    },
+    "serpiente": {
+      "codepoint": 62601,
+      "source": "src/_icons/serpiente.svg"
     },
     "servicios": {
       "codepoint": 62404,

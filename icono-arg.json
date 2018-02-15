@@ -32,6 +32,16 @@
       },
     
       {
+        "nombre": "alarma",
+        "clase": "icono-arg-alarma"
+      },
+    
+      {
+        "nombre": "alarma-negativo",
+        "clase": "icono-arg-alarma-negativo"
+      },
+    
+      {
         "nombre": "alimentacion-saludable",
         "clase": "icono-arg-alimentacion-saludable"
       },
@@ -132,6 +142,11 @@
       },
     
       {
+        "nombre": "bandera",
+        "clase": "icono-arg-bandera"
+      },
+    
+      {
         "nombre": "banio-quimico",
         "clase": "icono-arg-banio-quimico"
       },
@@ -149,6 +164,11 @@
       {
         "nombre": "barrio",
         "clase": "icono-arg-barrio"
+      },
+    
+      {
+        "nombre": "bosques",
+        "clase": "icono-arg-bosques"
       },
     
       {
@@ -292,6 +312,11 @@
       },
     
       {
+        "nombre": "codigo-genetico",
+        "clase": "icono-arg-codigo-genetico"
+      },
+    
+      {
         "nombre": "computadora",
         "clase": "icono-arg-computadora"
       },
@@ -342,6 +367,11 @@
       },
     
       {
+        "nombre": "database",
+        "clase": "icono-arg-database"
+      },
+    
+      {
         "nombre": "declaracion-jurada",
         "clase": "icono-arg-declaracion-jurada"
       },
@@ -369,6 +399,11 @@
       {
         "nombre": "desarrollo",
         "clase": "icono-arg-desarrollo"
+      },
+    
+      {
+        "nombre": "desierto",
+        "clase": "icono-arg-desierto"
       },
     
       {
@@ -459,6 +494,11 @@
       {
         "nombre": "empleo-2",
         "clase": "icono-arg-empleo-2"
+      },
+    
+      {
+        "nombre": "energia-eolica",
+        "clase": "icono-arg-energia-eolica"
       },
     
       {
@@ -597,6 +637,11 @@
       },
     
       {
+        "nombre": "glaciar",
+        "clase": "icono-arg-glaciar"
+      },
+    
+      {
         "nombre": "globo-terraqueo",
         "clase": "icono-arg-globo-terraqueo"
       },
@@ -627,6 +672,11 @@
       },
     
       {
+        "nombre": "hojas",
+        "clase": "icono-arg-hojas"
+      },
+    
+      {
         "nombre": "hospital",
         "clase": "icono-arg-hospital"
       },
@@ -647,6 +697,11 @@
       },
     
       {
+        "nombre": "industria-y-medioambiente",
+        "clase": "icono-arg-industria-y-medioambiente"
+      },
+    
+      {
         "nombre": "institucion",
         "clase": "icono-arg-institucion"
       },
@@ -659,6 +714,11 @@
       {
         "nombre": "inundaciones",
         "clase": "icono-arg-inundaciones"
+      },
+    
+      {
+        "nombre": "jaguarete",
+        "clase": "icono-arg-jaguarete"
       },
     
       {
@@ -807,6 +867,11 @@
       },
     
       {
+        "nombre": "notificaciones",
+        "clase": "icono-arg-notificaciones"
+      },
+    
+      {
         "nombre": "nuclear",
         "clase": "icono-arg-nuclear"
       },
@@ -829,6 +894,11 @@
       {
         "nombre": "olla-fuego-negativo",
         "clase": "icono-arg-olla-fuego-negativo"
+      },
+    
+      {
+        "nombre": "ombu",
+        "clase": "icono-arg-ombu"
       },
     
       {
@@ -912,6 +982,16 @@
       },
     
       {
+        "nombre": "planta-exotica",
+        "clase": "icono-arg-planta-exotica"
+      },
+    
+      {
+        "nombre": "planta-exotica-2",
+        "clase": "icono-arg-planta-exotica-2"
+      },
+    
+      {
         "nombre": "probeta-hoja",
         "clase": "icono-arg-probeta-hoja"
       },
@@ -924,6 +1004,11 @@
       {
         "nombre": "reciclaje",
         "clase": "icono-arg-reciclaje"
+      },
+    
+      {
+        "nombre": "reciclaje-basura",
+        "clase": "icono-arg-reciclaje-basura"
       },
     
       {
@@ -979,6 +1064,11 @@
       {
         "nombre": "semaforo",
         "clase": "icono-arg-semaforo"
+      },
+    
+      {
+        "nombre": "serpiente",
+        "clase": "icono-arg-serpiente"
       },
     
       {
