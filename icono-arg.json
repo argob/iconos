@@ -272,6 +272,11 @@
       },
     
       {
+        "nombre": "celular",
+        "clase": "icono-arg-celular"
+      },
+    
+      {
         "nombre": "central-nuclear",
         "clase": "icono-arg-central-nuclear"
       },
@@ -522,8 +527,18 @@
       },
     
       {
+        "nombre": "escarapela",
+        "clase": "icono-arg-escarapela"
+      },
+    
+      {
         "nombre": "escritura",
         "clase": "icono-arg-escritura"
+      },
+    
+      {
+        "nombre": "escudo-nacional",
+        "clase": "icono-arg-escudo-nacional"
       },
     
       {
@@ -762,6 +777,16 @@
       },
     
       {
+        "nombre": "mail-1",
+        "clase": "icono-arg-mail-1"
+      },
+    
+      {
+        "nombre": "mail-2",
+        "clase": "icono-arg-mail-2"
+      },
+    
+      {
         "nombre": "maletin-medico-1",
         "clase": "icono-arg-maletin-medico-1"
       },
@@ -992,8 +1017,18 @@
       },
     
       {
+        "nombre": "preservatio",
+        "clase": "icono-arg-preservatio"
+      },
+    
+      {
         "nombre": "probeta-hoja",
         "clase": "icono-arg-probeta-hoja"
+      },
+    
+      {
+        "nombre": "prohibido-celular",
+        "clase": "icono-arg-prohibido-celular"
       },
     
       {
@@ -1089,6 +1124,11 @@
       {
         "nombre": "sol",
         "clase": "icono-arg-sol"
+      },
+    
+      {
+        "nombre": "sol-patrio",
+        "clase": "icono-arg-sol-patrio"
       },
     
       {
@@ -1239,6 +1279,11 @@
       {
         "nombre": "usuarios",
         "clase": "icono-arg-usuarios"
+      },
+    
+      {
+        "nombre": "vacuna",
+        "clase": "icono-arg-vacuna"
       },
     
       {

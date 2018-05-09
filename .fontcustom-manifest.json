@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "78eb5769fdae9f8e47f990f36b5835df482a19508518ce0a968a188e719fce74",
-    "current": "78eb5769fdae9f8e47f990f36b5835df482a19508518ce0a968a188e719fce74"
+    "previous": "dc0414167e7ac3572133045382c3d23fa9d9f5746ce9cd766efe8713ed1299fb",
+    "current": "dc0414167e7ac3572133045382c3d23fa9d9f5746ce9cd766efe8713ed1299fb"
   },
   "fonts": [
-    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.ttf",
-    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.svg",
-    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.woff",
-    "dist/fonts/icono-arg_78eb5769fdae9f8e47f990f36b5835df.eot"
+    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.ttf",
+    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.svg",
+    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.woff",
+    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -226,6 +226,10 @@
       "codepoint": 62482,
       "source": "src/_icons/casco urbano.svg"
     },
+    "celular": {
+      "codepoint": 62602,
+      "source": "src/_icons/celular.svg"
+    },
     "central-nuclear": {
       "codepoint": 62492,
       "source": "src/_icons/central nuclear.svg"
@@ -426,9 +430,17 @@
       "codepoint": 62546,
       "source": "src/_icons/erupciones volcanicas.svg"
     },
+    "escarapela": {
+      "codepoint": 62603,
+      "source": "src/_icons/escarapela.svg"
+    },
     "escritura": {
       "codepoint": 62500,
       "source": "src/_icons/escritura.svg"
+    },
+    "escudo-nacional": {
+      "codepoint": 62604,
+      "source": "src/_icons/escudo nacional.svg"
     },
     "espacio-publico": {
       "codepoint": 62453,
@@ -618,6 +630,14 @@
       "codepoint": 62381,
       "source": "src/_icons/magnetometria.svg"
     },
+    "mail-1": {
+      "codepoint": 62605,
+      "source": "src/_icons/mail 1.svg"
+    },
+    "mail-2": {
+      "codepoint": 62606,
+      "source": "src/_icons/mail 2.svg"
+    },
     "maletin-medico-1": {
       "codepoint": 62507,
       "source": "src/_icons/maletin medico 1.svg"
@@ -802,9 +822,17 @@
       "codepoint": 62599,
       "source": "src/_icons/planta exotica 2.svg"
     },
+    "preservatio": {
+      "codepoint": 62607,
+      "source": "src/_icons/preservatio.svg"
+    },
     "probeta-hoja": {
       "codepoint": 62459,
       "source": "src/_icons/probeta hoja.svg"
+    },
+    "prohibido-celular": {
+      "codepoint": 62608,
+      "source": "src/_icons/prohibido celular.svg"
     },
     "pueblos-originarios": {
       "codepoint": 62478,
@@ -881,6 +909,10 @@
     "sol": {
       "codepoint": 62553,
       "source": "src/_icons/sol.svg"
+    },
+    "sol-patrio": {
+      "codepoint": 62609,
+      "source": "src/_icons/sol patrio.svg"
     },
     "solidaridad": {
       "codepoint": 62407,
@@ -1001,6 +1033,10 @@
     "usuarios": {
       "codepoint": 62583,
       "source": "src/_icons/usuarios.svg"
+    },
+    "vacuna": {
+      "codepoint": 62610,
+      "source": "src/_icons/vacuna.svg"
     },
     "vacunas": {
       "codepoint": 62417,
