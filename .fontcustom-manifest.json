@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "dc0414167e7ac3572133045382c3d23fa9d9f5746ce9cd766efe8713ed1299fb",
-    "current": "dc0414167e7ac3572133045382c3d23fa9d9f5746ce9cd766efe8713ed1299fb"
+    "previous": "6e4dcb865b6efa4fc2e89469ea8717a8fd94fac7c3ecbb092bba935c799616e8",
+    "current": "6e4dcb865b6efa4fc2e89469ea8717a8fd94fac7c3ecbb092bba935c799616e8"
   },
   "fonts": [
-    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.ttf",
-    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.svg",
-    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.woff",
-    "dist/fonts/icono-arg_dc0414167e7ac3572133045382c3d23f.eot"
+    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.ttf",
+    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.svg",
+    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.woff",
+    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -822,9 +822,9 @@
       "codepoint": 62599,
       "source": "src/_icons/planta exotica 2.svg"
     },
-    "preservatio": {
-      "codepoint": 62607,
-      "source": "src/_icons/preservatio.svg"
+    "preservativo": {
+      "codepoint": 62611,
+      "source": "src/_icons/preservativo.svg"
     },
     "probeta-hoja": {
       "codepoint": 62459,
