@@ -927,6 +927,16 @@
       },
     
       {
+        "nombre": "operativo-sanitario-1",
+        "clase": "icono-arg-operativo-sanitario-1"
+      },
+    
+      {
+        "nombre": "operativo-sanitario-2",
+        "clase": "icono-arg-operativo-sanitario-2"
+      },
+    
+      {
         "nombre": "pago",
         "clase": "icono-arg-pago"
       },

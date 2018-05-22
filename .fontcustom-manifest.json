@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "6e4dcb865b6efa4fc2e89469ea8717a8fd94fac7c3ecbb092bba935c799616e8",
-    "current": "6e4dcb865b6efa4fc2e89469ea8717a8fd94fac7c3ecbb092bba935c799616e8"
+    "previous": "c148a8e40f6b930a5a6060502bcd614b6c92e7f4a279a7f22e401959b5834453",
+    "current": "c148a8e40f6b930a5a6060502bcd614b6c92e7f4a279a7f22e401959b5834453"
   },
   "fonts": [
-    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.ttf",
-    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.svg",
-    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.woff",
-    "dist/fonts/icono-arg_6e4dcb865b6efa4fc2e89469ea8717a8.eot"
+    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.ttf",
+    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.svg",
+    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.woff",
+    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -749,6 +749,14 @@
     "ombu": {
       "codepoint": 62597,
       "source": "src/_icons/ombu.svg"
+    },
+    "operativo-sanitario-1": {
+      "codepoint": 62612,
+      "source": "src/_icons/operativo sanitario 1.svg"
+    },
+    "operativo-sanitario-2": {
+      "codepoint": 62613,
+      "source": "src/_icons/operativo sanitario 2.svg"
     },
     "pago": {
       "codepoint": 62390,
