@@ -142,6 +142,11 @@
       },
     
       {
+        "nombre": "avion-negativo",
+        "clase": "icono-arg-avion-negativo"
+      },
+    
+      {
         "nombre": "bandera",
         "clase": "icono-arg-bandera"
       },
@@ -177,8 +182,23 @@
       },
     
       {
+        "nombre": "caja-1",
+        "clase": "icono-arg-caja-1"
+      },
+    
+      {
+        "nombre": "caja-2",
+        "clase": "icono-arg-caja-2"
+      },
+    
+      {
         "nombre": "caja-exp",
         "clase": "icono-arg-caja-exp"
+      },
+    
+      {
+        "nombre": "caja-exp-02",
+        "clase": "icono-arg-caja-exp-02"
       },
     
       {
@@ -352,6 +372,11 @@
       },
     
       {
+        "nombre": "cotizacion-envio",
+        "clase": "icono-arg-cotizacion-envio"
+      },
+    
+      {
         "nombre": "cultura",
         "clase": "icono-arg-cultura"
       },
@@ -374,6 +399,16 @@
       {
         "nombre": "database",
         "clase": "icono-arg-database"
+      },
+    
+      {
+        "nombre": "datos-abiertos",
+        "clase": "icono-arg-datos-abiertos"
+      },
+    
+      {
+        "nombre": "datos-envio",
+        "clase": "icono-arg-datos-envio"
       },
     
       {
@@ -517,8 +552,38 @@
       },
     
       {
+        "nombre": "energia-solar",
+        "clase": "icono-arg-energia-solar"
+      },
+    
+      {
+        "nombre": "energia-solar-casa",
+        "clase": "icono-arg-energia-solar-casa"
+      },
+    
+      {
         "nombre": "energia-sustentable-2",
         "clase": "icono-arg-energia-sustentable-2"
+      },
+    
+      {
+        "nombre": "envio-aereo",
+        "clase": "icono-arg-envio-aereo"
+      },
+    
+      {
+        "nombre": "envio-maritimo",
+        "clase": "icono-arg-envio-maritimo"
+      },
+    
+      {
+        "nombre": "envio-terrestre",
+        "clase": "icono-arg-envio-terrestre"
+      },
+    
+      {
+        "nombre": "envio-terrestre_1",
+        "clase": "icono-arg-envio-terrestre_1"
       },
     
       {
@@ -572,6 +637,11 @@
       },
     
       {
+        "nombre": "exporta-facil",
+        "clase": "icono-arg-exporta-facil"
+      },
+    
+      {
         "nombre": "exterior",
         "clase": "icono-arg-exterior"
       },
@@ -599,6 +669,11 @@
       {
         "nombre": "fertilizacion-asistida",
         "clase": "icono-arg-fertilizacion-asistida"
+      },
+    
+      {
+        "nombre": "financiamiento",
+        "clase": "icono-arg-financiamiento"
       },
     
       {
@@ -717,6 +792,16 @@
       },
     
       {
+        "nombre": "informacion-envio",
+        "clase": "icono-arg-informacion-envio"
+      },
+    
+      {
+        "nombre": "informes-y-estadisticas",
+        "clase": "icono-arg-informes-y-estadisticas"
+      },
+    
+      {
         "nombre": "institucion",
         "clase": "icono-arg-institucion"
       },
@@ -804,6 +889,11 @@
       {
         "nombre": "mano-alt",
         "clase": "icono-arg-mano-alt"
+      },
+    
+      {
+        "nombre": "mapa-argentina",
+        "clase": "icono-arg-mapa-argentina"
       },
     
       {
@@ -1039,6 +1129,11 @@
       {
         "nombre": "prohibido-celular",
         "clase": "icono-arg-prohibido-celular"
+      },
+    
+      {
+        "nombre": "promocion-comercial",
+        "clase": "icono-arg-promocion-comercial"
       },
     
       {

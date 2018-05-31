@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "c148a8e40f6b930a5a6060502bcd614b6c92e7f4a279a7f22e401959b5834453",
-    "current": "c148a8e40f6b930a5a6060502bcd614b6c92e7f4a279a7f22e401959b5834453"
+    "previous": "d944cc54775af6b8e864f4bbffa77b727e0ad92c4d11179ff8263ce9c385f6ce",
+    "current": "d944cc54775af6b8e864f4bbffa77b727e0ad92c4d11179ff8263ce9c385f6ce"
   },
   "fonts": [
-    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.ttf",
-    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.svg",
-    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.woff",
-    "dist/fonts/icono-arg_c148a8e40f6b930a5a6060502bcd614b.eot"
+    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.ttf",
+    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.svg",
+    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.woff",
+    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -122,6 +122,10 @@
       "codepoint": 62337,
       "source": "src/_icons/avion.svg"
     },
+    "avion-negativo": {
+      "codepoint": 62614,
+      "source": "src/_icons/avion negativo.svg"
+    },
     "bandera": {
       "codepoint": 62586,
       "source": "src/_icons/bandera.svg"
@@ -150,9 +154,21 @@
       "codepoint": 62338,
       "source": "src/_icons/buceo.svg"
     },
+    "caja-1": {
+      "codepoint": 62615,
+      "source": "src/_icons/caja 1.svg"
+    },
+    "caja-2": {
+      "codepoint": 62616,
+      "source": "src/_icons/caja 2.svg"
+    },
     "caja-exp": {
       "codepoint": 62339,
       "source": "src/_icons/caja exp.svg"
+    },
+    "caja-exp-02": {
+      "codepoint": 62617,
+      "source": "src/_icons/caja exp 02.svg"
     },
     "cajero": {
       "codepoint": 62340,
@@ -290,6 +306,10 @@
       "codepoint": 62470,
       "source": "src/_icons/corazon cruz.svg"
     },
+    "cotizacion-envio": {
+      "codepoint": 62618,
+      "source": "src/_icons/cotizacion envio.svg"
+    },
     "cultura": {
       "codepoint": 62352,
       "source": "src/_icons/cultura.svg"
@@ -309,6 +329,14 @@
     "database": {
       "codepoint": 62589,
       "source": "src/_icons/database.svg"
+    },
+    "datos-abiertos": {
+      "codepoint": 62619,
+      "source": "src/_icons/datos abiertos.svg"
+    },
+    "datos-envio": {
+      "codepoint": 62620,
+      "source": "src/_icons/datos envio.svg"
     },
     "declaracion-jurada": {
       "codepoint": 62355,
@@ -422,9 +450,33 @@
       "codepoint": 62499,
       "source": "src/_icons/energia nuclear.svg"
     },
+    "energia-solar": {
+      "codepoint": 62621,
+      "source": "src/_icons/energia solar.svg"
+    },
+    "energia-solar-casa": {
+      "codepoint": 62622,
+      "source": "src/_icons/energia solar casa.svg"
+    },
     "energia-sustentable-2": {
       "codepoint": 62528,
       "source": "src/_icons/energia sustentable 2.svg"
+    },
+    "envio-aereo": {
+      "codepoint": 62623,
+      "source": "src/_icons/envio aereo.svg"
+    },
+    "envio-maritimo": {
+      "codepoint": 62624,
+      "source": "src/_icons/envio maritimo.svg"
+    },
+    "envio-terrestre": {
+      "codepoint": 62625,
+      "source": "src/_icons/envio terrestre.svg"
+    },
+    "envio-terrestre_1": {
+      "codepoint": 62626,
+      "source": "src/_icons/envio terrestre_1.svg"
     },
     "erupciones-volcanicas": {
       "codepoint": 62546,
@@ -466,6 +518,10 @@
       "codepoint": 62570,
       "source": "src/_icons/etiqueta eficiencia.svg"
     },
+    "exporta-facil": {
+      "codepoint": 62627,
+      "source": "src/_icons/exporta facil.svg"
+    },
     "exterior": {
       "codepoint": 62365,
       "source": "src/_icons/exterior.svg"
@@ -489,6 +545,10 @@
     "fertilizacion-asistida": {
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion asistida.svg"
+    },
+    "financiamiento": {
+      "codepoint": 62628,
+      "source": "src/_icons/financiamiento.svg"
     },
     "finanzas": {
       "codepoint": 62529,
@@ -582,6 +642,14 @@
       "codepoint": 62594,
       "source": "src/_icons/industria y medioambiente.svg"
     },
+    "informacion-envio": {
+      "codepoint": 62629,
+      "source": "src/_icons/informacion envio.svg"
+    },
+    "informes-y-estadisticas": {
+      "codepoint": 62630,
+      "source": "src/_icons/informes y estadisticas.svg"
+    },
     "institucion": {
       "codepoint": 62376,
       "source": "src/_icons/institucion.svg"
@@ -653,6 +721,10 @@
     "mano-alt": {
       "codepoint": 62383,
       "source": "src/_icons/mano alt.svg"
+    },
+    "mapa-argentina": {
+      "codepoint": 62631,
+      "source": "src/_icons/mapa argentina.svg"
     },
     "marcador-centro-de-salud-1": {
       "codepoint": 62509,
@@ -841,6 +913,10 @@
     "prohibido-celular": {
       "codepoint": 62608,
       "source": "src/_icons/prohibido celular.svg"
+    },
+    "promocion-comercial": {
+      "codepoint": 62632,
+      "source": "src/_icons/promocion comercial.svg"
     },
     "pueblos-originarios": {
       "codepoint": 62478,
