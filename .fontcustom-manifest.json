@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "d944cc54775af6b8e864f4bbffa77b727e0ad92c4d11179ff8263ce9c385f6ce",
-    "current": "d944cc54775af6b8e864f4bbffa77b727e0ad92c4d11179ff8263ce9c385f6ce"
+    "previous": "7147d423df4526a80ffd147f8acb4fe78ca9e92dd0d064fd2f2dae6155845cf3",
+    "current": "7147d423df4526a80ffd147f8acb4fe78ca9e92dd0d064fd2f2dae6155845cf3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.ttf",
-    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.svg",
-    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.woff",
-    "dist/fonts/icono-arg_d944cc54775af6b8e864f4bbffa77b72.eot"
+    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.ttf",
+    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.svg",
+    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.woff",
+    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -338,6 +338,10 @@
       "codepoint": 62620,
       "source": "src/_icons/datos envio.svg"
     },
+    "declaracio-n-jurada-declaracion-jurada-rectificativa": {
+      "codepoint": 62633,
+      "source": "src/_icons/declaración jurada declaracion-jurada-rectificativa.svg"
+    },
     "declaracion-jurada": {
       "codepoint": 62355,
       "source": "src/_icons/declaracion jurada.svg"
@@ -349,6 +353,10 @@
     "deporte": {
       "codepoint": 62356,
       "source": "src/_icons/deporte.svg"
+    },
+    "derechos-de-autor": {
+      "codepoint": 62634,
+      "source": "src/_icons/derechos de autor.svg"
     },
     "derrame-toxico": {
       "codepoint": 62544,
@@ -458,6 +466,10 @@
       "codepoint": 62622,
       "source": "src/_icons/energia solar casa.svg"
     },
+    "energia-solar-industria": {
+      "codepoint": 62635,
+      "source": "src/_icons/energia solar industria.svg"
+    },
     "energia-sustentable-2": {
       "codepoint": 62528,
       "source": "src/_icons/energia sustentable 2.svg"
@@ -553,6 +565,14 @@
     "finanzas": {
       "codepoint": 62529,
       "source": "src/_icons/finanzas.svg"
+    },
+    "firma-contrato": {
+      "codepoint": 62636,
+      "source": "src/_icons/firma contrato.svg"
+    },
+    "firma-digital": {
+      "codepoint": 62637,
+      "source": "src/_icons/firma digital.svg"
     },
     "frio": {
       "codepoint": 62547,
@@ -670,6 +690,14 @@
       "codepoint": 62378,
       "source": "src/_icons/jubilado.svg"
     },
+    "justicia": {
+      "codepoint": 62638,
+      "source": "src/_icons/justicia .svg"
+    },
+    "justicia-negativo": {
+      "codepoint": 62639,
+      "source": "src/_icons/justicia negativo.svg"
+    },
     "lampara": {
       "codepoint": 62379,
       "source": "src/_icons/lampara.svg"
@@ -745,6 +773,14 @@
     "marcador-ubicacion-2": {
       "codepoint": 62512,
       "source": "src/_icons/marcador ubicacion 2.svg"
+    },
+    "martillo": {
+      "codepoint": 62640,
+      "source": "src/_icons/martillo.svg"
+    },
+    "martillo-negativo": {
+      "codepoint": 62641,
+      "source": "src/_icons/martillo negativo.svg"
     },
     "mecedora": {
       "codepoint": 62573,

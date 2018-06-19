@@ -412,6 +412,11 @@
       },
     
       {
+        "nombre": "declaracio-n-jurada-declaracion-jurada-rectificativa",
+        "clase": "icono-arg-declaracio-n-jurada-declaracion-jurada-rectificativa"
+      },
+    
+      {
         "nombre": "declaracion-jurada",
         "clase": "icono-arg-declaracion-jurada"
       },
@@ -424,6 +429,11 @@
       {
         "nombre": "deporte",
         "clase": "icono-arg-deporte"
+      },
+    
+      {
+        "nombre": "derechos-de-autor",
+        "clase": "icono-arg-derechos-de-autor"
       },
     
       {
@@ -562,6 +572,11 @@
       },
     
       {
+        "nombre": "energia-solar-industria",
+        "clase": "icono-arg-energia-solar-industria"
+      },
+    
+      {
         "nombre": "energia-sustentable-2",
         "clase": "icono-arg-energia-sustentable-2"
       },
@@ -679,6 +694,16 @@
       {
         "nombre": "finanzas",
         "clase": "icono-arg-finanzas"
+      },
+    
+      {
+        "nombre": "firma-contrato",
+        "clase": "icono-arg-firma-contrato"
+      },
+    
+      {
+        "nombre": "firma-digital",
+        "clase": "icono-arg-firma-digital"
       },
     
       {
@@ -827,6 +852,16 @@
       },
     
       {
+        "nombre": "justicia",
+        "clase": "icono-arg-justicia"
+      },
+    
+      {
+        "nombre": "justicia-negativo",
+        "clase": "icono-arg-justicia-negativo"
+      },
+    
+      {
         "nombre": "lampara",
         "clase": "icono-arg-lampara"
       },
@@ -919,6 +954,16 @@
       {
         "nombre": "marcador-ubicacion-2",
         "clase": "icono-arg-marcador-ubicacion-2"
+      },
+    
+      {
+        "nombre": "martillo",
+        "clase": "icono-arg-martillo"
+      },
+    
+      {
+        "nombre": "martillo-negativo",
+        "clase": "icono-arg-martillo-negativo"
       },
     
       {
