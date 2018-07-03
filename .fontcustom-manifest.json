@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "7147d423df4526a80ffd147f8acb4fe78ca9e92dd0d064fd2f2dae6155845cf3",
-    "current": "7147d423df4526a80ffd147f8acb4fe78ca9e92dd0d064fd2f2dae6155845cf3"
+    "previous": "a9e5a2a5ec219370ae86fad3a322ab71faecaf2105f7e0174677c37d8dadbf37",
+    "current": "a9e5a2a5ec219370ae86fad3a322ab71faecaf2105f7e0174677c37d8dadbf37"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.ttf",
-    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.svg",
-    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.woff",
-    "dist/fonts/icono-arg_7147d423df4526a80ffd147f8acb4fe7.eot"
+    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.ttf",
+    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.svg",
+    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.woff",
+    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -126,6 +126,14 @@
       "codepoint": 62614,
       "source": "src/_icons/avion negativo.svg"
     },
+    "bailar": {
+      "codepoint": 62642,
+      "source": "src/_icons/bailar.svg"
+    },
+    "bananas": {
+      "codepoint": 62643,
+      "source": "src/_icons/bananas .svg"
+    },
     "bandera": {
       "codepoint": 62586,
       "source": "src/_icons/bandera.svg"
@@ -145,6 +153,10 @@
     "barrio": {
       "codepoint": 62448,
       "source": "src/_icons/barrio.svg"
+    },
+    "bolsa-compras": {
+      "codepoint": 62644,
+      "source": "src/_icons/bolsa compras.svg"
     },
     "bosques": {
       "codepoint": 62587,
@@ -210,6 +222,10 @@
       "codepoint": 62473,
       "source": "src/_icons/cambio tecnologico.svg"
     },
+    "caminar": {
+      "codepoint": 62645,
+      "source": "src/_icons/caminar.svg"
+    },
     "camion-construccion": {
       "codepoint": 62449,
       "source": "src/_icons/camion construccion.svg"
@@ -265,6 +281,10 @@
     "ciencia-publicacion": {
       "codepoint": 62348,
       "source": "src/_icons/ciencia publicacion.svg"
+    },
+    "cine": {
+      "codepoint": 62646,
+      "source": "src/_icons/cine.svg"
     },
     "cluse": {
       "codepoint": 62349,
@@ -582,6 +602,14 @@
       "codepoint": 62454,
       "source": "src/_icons/frio calor.svg"
     },
+    "frutas-y-verduras": {
+      "codepoint": 62647,
+      "source": "src/_icons/frutas y verduras.svg"
+    },
+    "frutilla": {
+      "codepoint": 62648,
+      "source": "src/_icons/frutilla.svg"
+    },
     "fuego": {
       "codepoint": 62571,
       "source": "src/_icons/fuego.svg"
@@ -597,6 +625,14 @@
     "gas": {
       "codepoint": 62503,
       "source": "src/_icons/gas.svg"
+    },
+    "gaseosa": {
+      "codepoint": 62649,
+      "source": "src/_icons/gaseosa.svg"
+    },
+    "gaseosa-prohibida": {
+      "codepoint": 62650,
+      "source": "src/_icons/gaseosa prohibida.svg"
     },
     "genero": {
       "codepoint": 62476,
@@ -690,6 +726,10 @@
       "codepoint": 62378,
       "source": "src/_icons/jubilado.svg"
     },
+    "juegos": {
+      "codepoint": 62651,
+      "source": "src/_icons/juegos.svg"
+    },
     "justicia": {
       "codepoint": 62638,
       "source": "src/_icons/justicia .svg"
@@ -717,6 +757,10 @@
     "lavarropas": {
       "codepoint": 62538,
       "source": "src/_icons/lavarropas.svg"
+    },
+    "lechuga": {
+      "codepoint": 62652,
+      "source": "src/_icons/lechuga.svg"
     },
     "lupa": {
       "codepoint": 62380,
@@ -749,6 +793,10 @@
     "mano-alt": {
       "codepoint": 62383,
       "source": "src/_icons/mano alt.svg"
+    },
+    "manzana": {
+      "codepoint": 62653,
+      "source": "src/_icons/manzana.svg"
     },
     "mapa-argentina": {
       "codepoint": 62631,
@@ -918,6 +966,10 @@
       "codepoint": 62394,
       "source": "src/_icons/pd wifi.svg"
     },
+    "pera": {
+      "codepoint": 62654,
+      "source": "src/_icons/pera.svg"
+    },
     "pesos": {
       "codepoint": 62395,
       "source": "src/_icons/pesos.svg"
@@ -994,6 +1046,14 @@
       "codepoint": 62401,
       "source": "src/_icons/ruta.svg"
     },
+    "salero": {
+      "codepoint": 62655,
+      "source": "src/_icons/salero.svg"
+    },
+    "salero-prohibido": {
+      "codepoint": 62656,
+      "source": "src/_icons/salero prohibido.svg"
+    },
     "salud-escudo": {
       "codepoint": 62531,
       "source": "src/_icons/salud escudo.svg"
@@ -1046,6 +1106,10 @@
       "codepoint": 62408,
       "source": "src/_icons/sube.svg"
     },
+    "subir-escaleras": {
+      "codepoint": 62657,
+      "source": "src/_icons/subir escaleras.svg"
+    },
     "surtidor": {
       "codepoint": 62485,
       "source": "src/_icons/surtidor.svg"
@@ -1077,6 +1141,10 @@
     "terremoto": {
       "codepoint": 62554,
       "source": "src/_icons/terremoto.svg"
+    },
+    "tomate": {
+      "codepoint": 62658,
+      "source": "src/_icons/tomate.svg"
     },
     "tornados-y-tormentas-electricas": {
       "codepoint": 62555,
@@ -1154,6 +1222,10 @@
       "codepoint": 62583,
       "source": "src/_icons/usuarios.svg"
     },
+    "uvas": {
+      "codepoint": 62659,
+      "source": "src/_icons/uvas.svg"
+    },
     "vacuna": {
       "codepoint": 62610,
       "source": "src/_icons/vacuna.svg"
@@ -1185,6 +1257,14 @@
     "vivienda-mas": {
       "codepoint": 62466,
       "source": "src/_icons/vivienda mas.svg"
+    },
+    "zanahorias": {
+      "codepoint": 62660,
+      "source": "src/_icons/zanahorias.svg"
+    },
+    "zapallo": {
+      "codepoint": 62661,
+      "source": "src/_icons/zapallo.svg"
     }
   },
   "options": {

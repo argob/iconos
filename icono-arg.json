@@ -147,6 +147,16 @@
       },
     
       {
+        "nombre": "bailar",
+        "clase": "icono-arg-bailar"
+      },
+    
+      {
+        "nombre": "bananas",
+        "clase": "icono-arg-bananas"
+      },
+    
+      {
         "nombre": "bandera",
         "clase": "icono-arg-bandera"
       },
@@ -169,6 +179,11 @@
       {
         "nombre": "barrio",
         "clase": "icono-arg-barrio"
+      },
+    
+      {
+        "nombre": "bolsa-compras",
+        "clase": "icono-arg-bolsa-compras"
       },
     
       {
@@ -252,6 +267,11 @@
       },
     
       {
+        "nombre": "caminar",
+        "clase": "icono-arg-caminar"
+      },
+    
+      {
         "nombre": "camion-construccion",
         "clase": "icono-arg-camion-construccion"
       },
@@ -319,6 +339,11 @@
       {
         "nombre": "ciencia-publicacion",
         "clase": "icono-arg-ciencia-publicacion"
+      },
+    
+      {
+        "nombre": "cine",
+        "clase": "icono-arg-cine"
       },
     
       {
@@ -717,6 +742,16 @@
       },
     
       {
+        "nombre": "frutas-y-verduras",
+        "clase": "icono-arg-frutas-y-verduras"
+      },
+    
+      {
+        "nombre": "frutilla",
+        "clase": "icono-arg-frutilla"
+      },
+    
+      {
         "nombre": "fuego",
         "clase": "icono-arg-fuego"
       },
@@ -734,6 +769,16 @@
       {
         "nombre": "gas",
         "clase": "icono-arg-gas"
+      },
+    
+      {
+        "nombre": "gaseosa",
+        "clase": "icono-arg-gaseosa"
+      },
+    
+      {
+        "nombre": "gaseosa-prohibida",
+        "clase": "icono-arg-gaseosa-prohibida"
       },
     
       {
@@ -852,6 +897,11 @@
       },
     
       {
+        "nombre": "juegos",
+        "clase": "icono-arg-juegos"
+      },
+    
+      {
         "nombre": "justicia",
         "clase": "icono-arg-justicia"
       },
@@ -884,6 +934,11 @@
       {
         "nombre": "lavarropas",
         "clase": "icono-arg-lavarropas"
+      },
+    
+      {
+        "nombre": "lechuga",
+        "clase": "icono-arg-lechuga"
       },
     
       {
@@ -924,6 +979,11 @@
       {
         "nombre": "mano-alt",
         "clase": "icono-arg-mano-alt"
+      },
+    
+      {
+        "nombre": "manzana",
+        "clase": "icono-arg-manzana"
       },
     
       {
@@ -1137,6 +1197,11 @@
       },
     
       {
+        "nombre": "pera",
+        "clase": "icono-arg-pera"
+      },
+    
+      {
         "nombre": "pesos",
         "clase": "icono-arg-pesos"
       },
@@ -1232,6 +1297,16 @@
       },
     
       {
+        "nombre": "salero",
+        "clase": "icono-arg-salero"
+      },
+    
+      {
+        "nombre": "salero-prohibido",
+        "clase": "icono-arg-salero-prohibido"
+      },
+    
+      {
         "nombre": "salud-escudo",
         "clase": "icono-arg-salud-escudo"
       },
@@ -1297,6 +1372,11 @@
       },
     
       {
+        "nombre": "subir-escaleras",
+        "clase": "icono-arg-subir-escaleras"
+      },
+    
+      {
         "nombre": "surtidor",
         "clase": "icono-arg-surtidor"
       },
@@ -1334,6 +1414,11 @@
       {
         "nombre": "terremoto",
         "clase": "icono-arg-terremoto"
+      },
+    
+      {
+        "nombre": "tomate",
+        "clase": "icono-arg-tomate"
       },
     
       {
@@ -1432,6 +1517,11 @@
       },
     
       {
+        "nombre": "uvas",
+        "clase": "icono-arg-uvas"
+      },
+    
+      {
         "nombre": "vacuna",
         "clase": "icono-arg-vacuna"
       },
@@ -1469,6 +1559,16 @@
       {
         "nombre": "vivienda-mas",
         "clase": "icono-arg-vivienda-mas"
+      },
+    
+      {
+        "nombre": "zanahorias",
+        "clase": "icono-arg-zanahorias"
+      },
+    
+      {
+        "nombre": "zapallo",
+        "clase": "icono-arg-zapallo"
       },
     
     {
