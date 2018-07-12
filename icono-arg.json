@@ -47,6 +47,11 @@
       },
     
       {
+        "nombre": "alimentos-y-establecimientos-ok",
+        "clase": "icono-arg-alimentos-y-establecimientos-ok"
+      },
+    
+      {
         "nombre": "ambiente",
         "clase": "icono-arg-ambiente"
       },
@@ -362,6 +367,16 @@
       },
     
       {
+        "nombre": "codigo-QR",
+        "clase": "icono-arg-codigo-QR"
+      },
+    
+      {
+        "nombre": "codigo-alimentario-argentino",
+        "clase": "icono-arg-codigo-alimentario-argentino"
+      },
+    
+      {
         "nombre": "codigo-genetico",
         "clase": "icono-arg-codigo-genetico"
       },
@@ -374,6 +389,11 @@
       {
         "nombre": "comunicacion",
         "clase": "icono-arg-comunicacion"
+      },
+    
+      {
+        "nombre": "comunidad",
+        "clase": "icono-arg-comunidad"
       },
     
       {
@@ -394,6 +414,11 @@
       {
         "nombre": "corazon-cruz",
         "clase": "icono-arg-corazon-cruz"
+      },
+    
+      {
+        "nombre": "cosmetovigilancia",
+        "clase": "icono-arg-cosmetovigilancia"
       },
     
       {
@@ -572,6 +597,11 @@
       },
     
       {
+        "nombre": "empresas-e-industria",
+        "clase": "icono-arg-empresas-e-industria"
+      },
+    
+      {
         "nombre": "energia-eolica",
         "clase": "icono-arg-energia-eolica"
       },
@@ -707,6 +737,11 @@
       },
     
       {
+        "nombre": "farmacovigilancia",
+        "clase": "icono-arg-farmacovigilancia"
+      },
+    
+      {
         "nombre": "fertilizacion-asistida",
         "clase": "icono-arg-fertilizacion-asistida"
       },
@@ -822,6 +857,11 @@
       },
     
       {
+        "nombre": "herramientas",
+        "clase": "icono-arg-herramientas"
+      },
+    
+      {
         "nombre": "hogar-y-familia",
         "clase": "icono-arg-hogar-y-familia"
       },
@@ -887,6 +927,11 @@
       },
     
       {
+        "nombre": "investigaciones-famacologicas",
+        "clase": "icono-arg-investigaciones-famacologicas"
+      },
+    
+      {
         "nombre": "jaguarete",
         "clase": "icono-arg-jaguarete"
       },
@@ -939,6 +984,11 @@
       {
         "nombre": "lechuga",
         "clase": "icono-arg-lechuga"
+      },
+    
+      {
+        "nombre": "libre-de-glutem",
+        "clase": "icono-arg-libre-de-glutem"
       },
     
       {
@@ -1037,6 +1087,16 @@
       },
     
       {
+        "nombre": "medicamentos-02",
+        "clase": "icono-arg-medicamentos-02"
+      },
+    
+      {
+        "nombre": "medicamentos-negativo",
+        "clase": "icono-arg-medicamentos-negativo"
+      },
+    
+      {
         "nombre": "medicina",
         "clase": "icono-arg-medicina"
       },
@@ -1052,8 +1112,18 @@
       },
     
       {
+        "nombre": "mi-argentina",
+        "clase": "icono-arg-mi-argentina"
+      },
+    
+      {
         "nombre": "micro",
         "clase": "icono-arg-micro"
+      },
+    
+      {
+        "nombre": "microscopio",
+        "clase": "icono-arg-microscopio"
       },
     
       {
@@ -1232,8 +1302,18 @@
       },
     
       {
+        "nombre": "probeta",
+        "clase": "icono-arg-probeta"
+      },
+    
+      {
         "nombre": "probeta-hoja",
         "clase": "icono-arg-probeta-hoja"
+      },
+    
+      {
+        "nombre": "profesionales-y-empresas",
+        "clase": "icono-arg-profesionales-y-empresas"
       },
     
       {
@@ -1382,6 +1462,11 @@
       },
     
       {
+        "nombre": "sustancias-ok",
+        "clase": "icono-arg-sustancias-ok"
+      },
+    
+      {
         "nombre": "teatro",
         "clase": "icono-arg-teatro"
       },
@@ -1389,6 +1474,11 @@
       {
         "nombre": "teatro-archivo",
         "clase": "icono-arg-teatro-archivo"
+      },
+    
+      {
+        "nombre": "tecnovigilancia",
+        "clase": "icono-arg-tecnovigilancia"
       },
     
       {
@@ -1532,8 +1622,23 @@
       },
     
       {
+        "nombre": "vademecum",
+        "clase": "icono-arg-vademecum"
+      },
+    
+      {
+        "nombre": "vademecum-2",
+        "clase": "icono-arg-vademecum-2"
+      },
+    
+      {
         "nombre": "vias",
         "clase": "icono-arg-vias"
+      },
+    
+      {
+        "nombre": "vigilancia-alimentaria",
+        "clase": "icono-arg-vigilancia-alimentaria"
       },
     
       {

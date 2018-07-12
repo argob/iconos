@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "a9e5a2a5ec219370ae86fad3a322ab71faecaf2105f7e0174677c37d8dadbf37",
-    "current": "a9e5a2a5ec219370ae86fad3a322ab71faecaf2105f7e0174677c37d8dadbf37"
+    "previous": "91fbc976a1a6e63c947cd76734b3e88e9c73f0790892269e46f7e6f96c3fe479",
+    "current": "91fbc976a1a6e63c947cd76734b3e88e9c73f0790892269e46f7e6f96c3fe479"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.ttf",
-    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.svg",
-    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.woff",
-    "dist/fonts/icono-arg_a9e5a2a5ec219370ae86fad3a322ab71.eot"
+    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.ttf",
+    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.svg",
+    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.woff",
+    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -45,6 +45,10 @@
     "alimentacion-saludable": {
       "codepoint": 62487,
       "source": "src/_icons/alimentacion saludable.svg"
+    },
+    "alimentos-y-establecimientos-ok": {
+      "codepoint": 62662,
+      "source": "src/_icons/alimentos y establecimientos ok.svg"
     },
     "ambiente": {
       "codepoint": 62322,
@@ -298,6 +302,14 @@
       "codepoint": 62566,
       "source": "src/_icons/cocina negativo.svg"
     },
+    "codigo-QR": {
+      "codepoint": 62663,
+      "source": "src/_icons/codigo QR.svg"
+    },
+    "codigo-alimentario-argentino": {
+      "codepoint": 62664,
+      "source": "src/_icons/codigo alimentario argentino.svg"
+    },
     "codigo-genetico": {
       "codepoint": 62588,
       "source": "src/_icons/codigo genetico.svg"
@@ -309,6 +321,10 @@
     "comunicacion": {
       "codepoint": 62350,
       "source": "src/_icons/comunicacion.svg"
+    },
+    "comunidad": {
+      "codepoint": 62665,
+      "source": "src/_icons/comunidad.svg"
     },
     "conexion": {
       "codepoint": 62493,
@@ -325,6 +341,10 @@
     "corazon-cruz": {
       "codepoint": 62470,
       "source": "src/_icons/corazon cruz.svg"
+    },
+    "cosmetovigilancia": {
+      "codepoint": 62666,
+      "source": "src/_icons/cosmetovigilancia.svg"
     },
     "cotizacion-envio": {
       "codepoint": 62618,
@@ -466,6 +486,10 @@
       "codepoint": 62527,
       "source": "src/_icons/empleo 2.svg"
     },
+    "empresas-e-industria": {
+      "codepoint": 62667,
+      "source": "src/_icons/empresas e industria.svg"
+    },
     "energia-eolica": {
       "codepoint": 62591,
       "source": "src/_icons/energia eolica.svg"
@@ -574,6 +598,10 @@
       "codepoint": 62502,
       "source": "src/_icons/famila.svg"
     },
+    "farmacovigilancia": {
+      "codepoint": 62668,
+      "source": "src/_icons/farmacovigilancia.svg"
+    },
     "fertilizacion-asistida": {
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion asistida.svg"
@@ -666,6 +694,10 @@
       "codepoint": 62537,
       "source": "src/_icons/heladera.svg"
     },
+    "herramientas": {
+      "codepoint": 62669,
+      "source": "src/_icons/herramientas.svg"
+    },
     "hogar-y-familia": {
       "codepoint": 62373,
       "source": "src/_icons/hogar y familia.svg"
@@ -718,6 +750,10 @@
       "codepoint": 62549,
       "source": "src/_icons/inundaciones.svg"
     },
+    "investigaciones-famacologicas": {
+      "codepoint": 62670,
+      "source": "src/_icons/investigaciones famacologicas.svg"
+    },
     "jaguarete": {
       "codepoint": 62595,
       "source": "src/_icons/jaguarete.svg"
@@ -761,6 +797,10 @@
     "lechuga": {
       "codepoint": 62652,
       "source": "src/_icons/lechuga.svg"
+    },
+    "libre-de-glutem": {
+      "codepoint": 62671,
+      "source": "src/_icons/libre de glutem.svg"
     },
     "lupa": {
       "codepoint": 62380,
@@ -838,6 +878,14 @@
       "codepoint": 62385,
       "source": "src/_icons/medicamentos.svg"
     },
+    "medicamentos-02": {
+      "codepoint": 62672,
+      "source": "src/_icons/medicamentos 02.svg"
+    },
+    "medicamentos-negativo": {
+      "codepoint": 62673,
+      "source": "src/_icons/medicamentos negativo.svg"
+    },
     "medicina": {
       "codepoint": 62386,
       "source": "src/_icons/medicina.svg"
@@ -850,9 +898,17 @@
       "codepoint": 62513,
       "source": "src/_icons/medico.svg"
     },
+    "mi-argentina": {
+      "codepoint": 62674,
+      "source": "src/_icons/mi argentina.svg"
+    },
     "micro": {
       "codepoint": 62574,
       "source": "src/_icons/micro.svg"
+    },
+    "microscopio": {
+      "codepoint": 62675,
+      "source": "src/_icons/microscopio.svg"
     },
     "mundo": {
       "codepoint": 62514,
@@ -994,9 +1050,17 @@
       "codepoint": 62611,
       "source": "src/_icons/preservativo.svg"
     },
+    "probeta": {
+      "codepoint": 62676,
+      "source": "src/_icons/probeta.svg"
+    },
     "probeta-hoja": {
       "codepoint": 62459,
       "source": "src/_icons/probeta hoja.svg"
+    },
+    "profesionales-y-empresas": {
+      "codepoint": 62677,
+      "source": "src/_icons/profesionales y empresas.svg"
     },
     "prohibido-celular": {
       "codepoint": 62608,
@@ -1114,6 +1178,10 @@
       "codepoint": 62485,
       "source": "src/_icons/surtidor.svg"
     },
+    "sustancias-ok": {
+      "codepoint": 62678,
+      "source": "src/_icons/sustancias ok.svg"
+    },
     "teatro": {
       "codepoint": 62409,
       "source": "src/_icons/teatro.svg"
@@ -1121,6 +1189,10 @@
     "teatro-archivo": {
       "codepoint": 62410,
       "source": "src/_icons/teatro archivo.svg"
+    },
+    "tecnovigilancia": {
+      "codepoint": 62679,
+      "source": "src/_icons/tecnovigilancia.svg"
     },
     "televisor": {
       "codepoint": 62541,
@@ -1234,9 +1306,21 @@
       "codepoint": 62417,
       "source": "src/_icons/vacunas.svg"
     },
+    "vademecum": {
+      "codepoint": 62680,
+      "source": "src/_icons/vademecum.svg"
+    },
+    "vademecum-2": {
+      "codepoint": 62681,
+      "source": "src/_icons/vademecum 2.svg"
+    },
     "vias": {
       "codepoint": 62424,
       "source": "src/_icons/vias.svg"
+    },
+    "vigilancia-alimentaria": {
+      "codepoint": 62682,
+      "source": "src/_icons/vigilancia alimentaria.svg"
     },
     "visa-negocios": {
       "codepoint": 62418,
