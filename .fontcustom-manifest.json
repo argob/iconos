@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "91fbc976a1a6e63c947cd76734b3e88e9c73f0790892269e46f7e6f96c3fe479",
-    "current": "91fbc976a1a6e63c947cd76734b3e88e9c73f0790892269e46f7e6f96c3fe479"
+    "previous": "61f5b3e7d2bd5b228d845e1cccb69bdc0ceb5af69dbac19554599f6fd4dc6eb5",
+    "current": "61f5b3e7d2bd5b228d845e1cccb69bdc0ceb5af69dbac19554599f6fd4dc6eb5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.ttf",
-    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.svg",
-    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.woff",
-    "dist/fonts/icono-arg_91fbc976a1a6e63c947cd76734b3e88e.eot"
+    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.ttf",
+    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.svg",
+    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.woff",
+    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -258,6 +258,10 @@
       "codepoint": 62469,
       "source": "src/_icons/carrito mas.svg"
     },
+    "casco": {
+      "codepoint": 62683,
+      "source": "src/_icons/casco.svg"
+    },
     "casco-urbano": {
       "codepoint": 62482,
       "source": "src/_icons/casco urbano.svg"
@@ -269,6 +273,14 @@
     "central-nuclear": {
       "codepoint": 62492,
       "source": "src/_icons/central nuclear.svg"
+    },
+    "centro-atomico-lineal": {
+      "codepoint": 62684,
+      "source": "src/_icons/centro atomico lineal.svg"
+    },
+    "centro-atomico-neg": {
+      "codepoint": 62685,
+      "source": "src/_icons/centro atomico neg.svg"
     },
     "chequeado": {
       "codepoint": 62345,
@@ -289,6 +301,10 @@
     "cine": {
       "codepoint": 62646,
       "source": "src/_icons/cine.svg"
+    },
+    "cinturon-seguridad": {
+      "codepoint": 62686,
+      "source": "src/_icons/cinturon seguridad.svg"
     },
     "cluse": {
       "codepoint": 62349,
@@ -429,6 +445,14 @@
     "discapacidad": {
       "codepoint": 62359,
       "source": "src/_icons/discapacidad.svg"
+    },
+    "discapacitadi-lineal": {
+      "codepoint": 62687,
+      "source": "src/_icons/discapacitadi lineal.svg"
+    },
+    "discapacitado-neg": {
+      "codepoint": 62688,
+      "source": "src/_icons/discapacitado neg.svg"
     },
     "diversidad-sexual": {
       "codepoint": 62475,
@@ -598,6 +622,10 @@
       "codepoint": 62502,
       "source": "src/_icons/famila.svg"
     },
+    "familia-02": {
+      "codepoint": 62689,
+      "source": "src/_icons/familia 02.svg"
+    },
     "farmacovigilancia": {
       "codepoint": 62668,
       "source": "src/_icons/farmacovigilancia.svg"
@@ -714,6 +742,14 @@
       "codepoint": 62505,
       "source": "src/_icons/hospital.svg"
     },
+    "hotel-lineal": {
+      "codepoint": 62690,
+      "source": "src/_icons/hotel lineal.svg"
+    },
+    "hotel-neg": {
+      "codepoint": 62691,
+      "source": "src/_icons/hotel neg.svg"
+    },
     "incendios-forestales": {
       "codepoint": 62548,
       "source": "src/_icons/incendios forestales.svg"
@@ -793,6 +829,14 @@
     "lavarropas": {
       "codepoint": 62538,
       "source": "src/_icons/lavarropas.svg"
+    },
+    "lazo-lineal": {
+      "codepoint": 62692,
+      "source": "src/_icons/lazo lineal.svg"
+    },
+    "lazo-neg": {
+      "codepoint": 62693,
+      "source": "src/_icons/lazo neg.svg"
     },
     "lechuga": {
       "codepoint": 62652,
@@ -1046,6 +1090,10 @@
       "codepoint": 62599,
       "source": "src/_icons/planta exotica 2.svg"
     },
+    "portal-educativo": {
+      "codepoint": 62694,
+      "source": "src/_icons/portal educativo.svg"
+    },
     "preservativo": {
       "codepoint": 62611,
       "source": "src/_icons/preservativo.svg"
@@ -1073,6 +1121,10 @@
     "pueblos-originarios": {
       "codepoint": 62478,
       "source": "src/_icons/pueblos originarios.svg"
+    },
+    "reactor-RA6": {
+      "codepoint": 62695,
+      "source": "src/_icons/reactor RA6.svg"
     },
     "reciclaje": {
       "codepoint": 62519,
@@ -1146,6 +1198,10 @@
       "codepoint": 62405,
       "source": "src/_icons/servidor.svg"
     },
+    "silla-seguridad-auto": {
+      "codepoint": 62696,
+      "source": "src/_icons/silla seguridad auto.svg"
+    },
     "social": {
       "codepoint": 62406,
       "source": "src/_icons/social.svg"
@@ -1193,6 +1249,14 @@
     "tecnovigilancia": {
       "codepoint": 62679,
       "source": "src/_icons/tecnovigilancia.svg"
+    },
+    "telefono-lineal": {
+      "codepoint": 62697,
+      "source": "src/_icons/telefono lineal.svg"
+    },
+    "telefono-neg": {
+      "codepoint": 62698,
+      "source": "src/_icons/telefono neg.svg"
     },
     "televisor": {
       "codepoint": 62541,

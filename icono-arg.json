@@ -312,6 +312,11 @@
       },
     
       {
+        "nombre": "casco",
+        "clase": "icono-arg-casco"
+      },
+    
+      {
         "nombre": "casco-urbano",
         "clase": "icono-arg-casco-urbano"
       },
@@ -324,6 +329,16 @@
       {
         "nombre": "central-nuclear",
         "clase": "icono-arg-central-nuclear"
+      },
+    
+      {
+        "nombre": "centro-atomico-lineal",
+        "clase": "icono-arg-centro-atomico-lineal"
+      },
+    
+      {
+        "nombre": "centro-atomico-neg",
+        "clase": "icono-arg-centro-atomico-neg"
       },
     
       {
@@ -349,6 +364,11 @@
       {
         "nombre": "cine",
         "clase": "icono-arg-cine"
+      },
+    
+      {
+        "nombre": "cinturon-seguridad",
+        "clase": "icono-arg-cinturon-seguridad"
       },
     
       {
@@ -524,6 +544,16 @@
       {
         "nombre": "discapacidad",
         "clase": "icono-arg-discapacidad"
+      },
+    
+      {
+        "nombre": "discapacitadi-lineal",
+        "clase": "icono-arg-discapacitadi-lineal"
+      },
+    
+      {
+        "nombre": "discapacitado-neg",
+        "clase": "icono-arg-discapacitado-neg"
       },
     
       {
@@ -737,6 +767,11 @@
       },
     
       {
+        "nombre": "familia-02",
+        "clase": "icono-arg-familia-02"
+      },
+    
+      {
         "nombre": "farmacovigilancia",
         "clase": "icono-arg-farmacovigilancia"
       },
@@ -882,6 +917,16 @@
       },
     
       {
+        "nombre": "hotel-lineal",
+        "clase": "icono-arg-hotel-lineal"
+      },
+    
+      {
+        "nombre": "hotel-neg",
+        "clase": "icono-arg-hotel-neg"
+      },
+    
+      {
         "nombre": "incendios-forestales",
         "clase": "icono-arg-incendios-forestales"
       },
@@ -979,6 +1024,16 @@
       {
         "nombre": "lavarropas",
         "clase": "icono-arg-lavarropas"
+      },
+    
+      {
+        "nombre": "lazo-lineal",
+        "clase": "icono-arg-lazo-lineal"
+      },
+    
+      {
+        "nombre": "lazo-neg",
+        "clase": "icono-arg-lazo-neg"
       },
     
       {
@@ -1297,6 +1352,11 @@
       },
     
       {
+        "nombre": "portal-educativo",
+        "clase": "icono-arg-portal-educativo"
+      },
+    
+      {
         "nombre": "preservativo",
         "clase": "icono-arg-preservativo"
       },
@@ -1329,6 +1389,11 @@
       {
         "nombre": "pueblos-originarios",
         "clase": "icono-arg-pueblos-originarios"
+      },
+    
+      {
+        "nombre": "reactor-RA6",
+        "clase": "icono-arg-reactor-RA6"
       },
     
       {
@@ -1422,6 +1487,11 @@
       },
     
       {
+        "nombre": "silla-seguridad-auto",
+        "clase": "icono-arg-silla-seguridad-auto"
+      },
+    
+      {
         "nombre": "social",
         "clase": "icono-arg-social"
       },
@@ -1479,6 +1549,16 @@
       {
         "nombre": "tecnovigilancia",
         "clase": "icono-arg-tecnovigilancia"
+      },
+    
+      {
+        "nombre": "telefono-lineal",
+        "clase": "icono-arg-telefono-lineal"
+      },
+    
+      {
+        "nombre": "telefono-neg",
+        "clase": "icono-arg-telefono-neg"
       },
     
       {
