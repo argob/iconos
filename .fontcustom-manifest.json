@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "61f5b3e7d2bd5b228d845e1cccb69bdc0ceb5af69dbac19554599f6fd4dc6eb5",
-    "current": "61f5b3e7d2bd5b228d845e1cccb69bdc0ceb5af69dbac19554599f6fd4dc6eb5"
+    "previous": "8eda0a866d3229b424b8585c74cda36b658a25d68c1848e7b09f789f78fb95ea",
+    "current": "8eda0a866d3229b424b8585c74cda36b658a25d68c1848e7b09f789f78fb95ea"
   },
   "fonts": [
-    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.ttf",
-    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.svg",
-    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.woff",
-    "dist/fonts/icono-arg_61f5b3e7d2bd5b228d845e1cccb69bdc.eot"
+    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.ttf",
+    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.svg",
+    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.woff",
+    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.eot"
   ],
   "glyphs": {
     "abrigo": {
@@ -262,6 +262,10 @@
       "codepoint": 62683,
       "source": "src/_icons/casco.svg"
     },
+    "casco-negativo": {
+      "codepoint": 62699,
+      "source": "src/_icons/casco negativo.svg"
+    },
     "casco-urbano": {
       "codepoint": 62482,
       "source": "src/_icons/casco urbano.svg"
@@ -305,6 +309,10 @@
     "cinturon-seguridad": {
       "codepoint": 62686,
       "source": "src/_icons/cinturon seguridad.svg"
+    },
+    "cinturon-seguridad-negativo": {
+      "codepoint": 62700,
+      "source": "src/_icons/cinturon seguridad negativo.svg"
     },
     "cluse": {
       "codepoint": 62349,
@@ -738,6 +746,10 @@
       "codepoint": 62593,
       "source": "src/_icons/hojas.svg"
     },
+    "hombre": {
+      "codepoint": 62701,
+      "source": "src/_icons/hombre.svg"
+    },
     "hospital": {
       "codepoint": 62505,
       "source": "src/_icons/hospital.svg"
@@ -953,6 +965,18 @@
     "microscopio": {
       "codepoint": 62675,
       "source": "src/_icons/microscopio.svg"
+    },
+    "moticicleta-lineal": {
+      "codepoint": 62702,
+      "source": "src/_icons/moticicleta lineal.svg"
+    },
+    "motocicleta-negativo": {
+      "codepoint": 62703,
+      "source": "src/_icons/motocicleta negativo.svg"
+    },
+    "mujer": {
+      "codepoint": 62704,
+      "source": "src/_icons/mujer.svg"
     },
     "mundo": {
       "codepoint": 62514,
@@ -1182,6 +1206,14 @@
       "codepoint": 62403,
       "source": "src/_icons/seguridad.svg"
     },
+    "seguridad-bebe-lineal": {
+      "codepoint": 62705,
+      "source": "src/_icons/seguridad bebe lineal.svg"
+    },
+    "seguridad-bebe-negativo": {
+      "codepoint": 62706,
+      "source": "src/_icons/seguridad bebe negativo.svg"
+    },
     "semaforo": {
       "codepoint": 62423,
       "source": "src/_icons/semaforo.svg"
@@ -1201,6 +1233,10 @@
     "silla-seguridad-auto": {
       "codepoint": 62696,
       "source": "src/_icons/silla seguridad auto.svg"
+    },
+    "silla-seguridad-auto-negativo": {
+      "codepoint": 62707,
+      "source": "src/_icons/silla seguridad auto negativo.svg"
     },
     "social": {
       "codepoint": 62406,

@@ -317,6 +317,11 @@
       },
     
       {
+        "nombre": "casco-negativo",
+        "clase": "icono-arg-casco-negativo"
+      },
+    
+      {
         "nombre": "casco-urbano",
         "clase": "icono-arg-casco-urbano"
       },
@@ -369,6 +374,11 @@
       {
         "nombre": "cinturon-seguridad",
         "clase": "icono-arg-cinturon-seguridad"
+      },
+    
+      {
+        "nombre": "cinturon-seguridad-negativo",
+        "clase": "icono-arg-cinturon-seguridad-negativo"
       },
     
       {
@@ -912,6 +922,11 @@
       },
     
       {
+        "nombre": "hombre",
+        "clase": "icono-arg-hombre"
+      },
+    
+      {
         "nombre": "hospital",
         "clase": "icono-arg-hospital"
       },
@@ -1179,6 +1194,21 @@
       {
         "nombre": "microscopio",
         "clase": "icono-arg-microscopio"
+      },
+    
+      {
+        "nombre": "moticicleta-lineal",
+        "clase": "icono-arg-moticicleta-lineal"
+      },
+    
+      {
+        "nombre": "motocicleta-negativo",
+        "clase": "icono-arg-motocicleta-negativo"
+      },
+    
+      {
+        "nombre": "mujer",
+        "clase": "icono-arg-mujer"
       },
     
       {
@@ -1467,6 +1497,16 @@
       },
     
       {
+        "nombre": "seguridad-bebe-lineal",
+        "clase": "icono-arg-seguridad-bebe-lineal"
+      },
+    
+      {
+        "nombre": "seguridad-bebe-negativo",
+        "clase": "icono-arg-seguridad-bebe-negativo"
+      },
+    
+      {
         "nombre": "semaforo",
         "clase": "icono-arg-semaforo"
       },
@@ -1489,6 +1529,11 @@
       {
         "nombre": "silla-seguridad-auto",
         "clase": "icono-arg-silla-seguridad-auto"
+      },
+    
+      {
+        "nombre": "silla-seguridad-auto-negativo",
+        "clase": "icono-arg-silla-seguridad-auto-negativo"
       },
     
       {
