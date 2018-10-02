@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "8eda0a866d3229b424b8585c74cda36b658a25d68c1848e7b09f789f78fb95ea",
-    "current": "8eda0a866d3229b424b8585c74cda36b658a25d68c1848e7b09f789f78fb95ea"
+    "previous": "cf7add0ef70f474c759676b94d67bec8e62f9530de28f556ee397d7c37859ff9",
+    "current": "cf7add0ef70f474c759676b94d67bec8e62f9530de28f556ee397d7c37859ff9"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.ttf",
-    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.svg",
-    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.woff",
-    "dist/fonts/icono-arg_8eda0a866d3229b424b8585c74cda36b.eot"
+    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.ttf",
+    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.svg",
+    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.woff",
+    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.eot"
   ],
   "glyphs": {
+    "abeja": {
+      "codepoint": 62708,
+      "source": "src/_icons/abeja.svg"
+    },
     "abrigo": {
       "codepoint": 62558,
       "source": "src/_icons/abrigo.svg"
@@ -285,6 +289,10 @@
     "centro-atomico-neg": {
       "codepoint": 62685,
       "source": "src/_icons/centro atomico neg.svg"
+    },
+    "cerdo": {
+      "codepoint": 62709,
+      "source": "src/_icons/cerdo.svg"
     },
     "chequeado": {
       "codepoint": 62345,
@@ -678,6 +686,10 @@
       "codepoint": 62571,
       "source": "src/_icons/fuego.svg"
     },
+    "gallina": {
+      "codepoint": 62710,
+      "source": "src/_icons/gallina.svg"
+    },
     "ganaderia": {
       "codepoint": 62370,
       "source": "src/_icons/ganaderia.svg"
@@ -709,6 +721,10 @@
     "genetica-exp-imp": {
       "codepoint": 62372,
       "source": "src/_icons/genetica exp imp.svg"
+    },
+    "gente-de-campo": {
+      "codepoint": 62711,
+      "source": "src/_icons/gente de campo.svg"
     },
     "glaciar": {
       "codepoint": 62592,
@@ -761,6 +777,14 @@
     "hotel-neg": {
       "codepoint": 62691,
       "source": "src/_icons/hotel neg.svg"
+    },
+    "huerta": {
+      "codepoint": 62712,
+      "source": "src/_icons/huerta.svg"
+    },
+    "huevos": {
+      "codepoint": 62713,
+      "source": "src/_icons/huevos.svg"
     },
     "incendios-forestales": {
       "codepoint": 62548,
@@ -874,6 +898,10 @@
       "codepoint": 62606,
       "source": "src/_icons/mail 2.svg"
     },
+    "maiz": {
+      "codepoint": 62714,
+      "source": "src/_icons/maiz.svg"
+    },
     "maletin-medico-1": {
       "codepoint": 62507,
       "source": "src/_icons/maletin medico 1.svg"
@@ -897,6 +925,10 @@
     "mapa-argentina": {
       "codepoint": 62631,
       "source": "src/_icons/mapa argentina.svg"
+    },
+    "maquina-agricola": {
+      "codepoint": 62715,
+      "source": "src/_icons/maquina agricola.svg"
     },
     "marcador-centro-de-salud-1": {
       "codepoint": 62509,
@@ -965,6 +997,10 @@
     "microscopio": {
       "codepoint": 62675,
       "source": "src/_icons/microscopio.svg"
+    },
+    "molino": {
+      "codepoint": 62716,
+      "source": "src/_icons/molino.svg"
     },
     "moticicleta-lineal": {
       "codepoint": 62702,
@@ -1202,6 +1238,10 @@
       "codepoint": 62402,
       "source": "src/_icons/salud reproductiva y sexual.svg"
     },
+    "sanidad-animal": {
+      "codepoint": 62717,
+      "source": "src/_icons/sanidad animal.svg"
+    },
     "seguridad": {
       "codepoint": 62403,
       "source": "src/_icons/seguridad.svg"
@@ -1273,6 +1313,10 @@
     "sustancias-ok": {
       "codepoint": 62678,
       "source": "src/_icons/sustancias ok.svg"
+    },
+    "tambo": {
+      "codepoint": 62718,
+      "source": "src/_icons/tambo.svg"
     },
     "teatro": {
       "codepoint": 62409,

@@ -2,6 +2,11 @@
   "iconos": [
     
       {
+        "nombre": "abeja",
+        "clase": "icono-arg-abeja"
+      },
+    
+      {
         "nombre": "abrigo",
         "clase": "icono-arg-abrigo"
       },
@@ -344,6 +349,11 @@
       {
         "nombre": "centro-atomico-neg",
         "clase": "icono-arg-centro-atomico-neg"
+      },
+    
+      {
+        "nombre": "cerdo",
+        "clase": "icono-arg-cerdo"
       },
     
       {
@@ -837,6 +847,11 @@
       },
     
       {
+        "nombre": "gallina",
+        "clase": "icono-arg-gallina"
+      },
+    
+      {
         "nombre": "ganaderia",
         "clase": "icono-arg-ganaderia"
       },
@@ -874,6 +889,11 @@
       {
         "nombre": "genetica-exp-imp",
         "clase": "icono-arg-genetica-exp-imp"
+      },
+    
+      {
+        "nombre": "gente-de-campo",
+        "clase": "icono-arg-gente-de-campo"
       },
     
       {
@@ -939,6 +959,16 @@
       {
         "nombre": "hotel-neg",
         "clase": "icono-arg-hotel-neg"
+      },
+    
+      {
+        "nombre": "huerta",
+        "clase": "icono-arg-huerta"
+      },
+    
+      {
+        "nombre": "huevos",
+        "clase": "icono-arg-huevos"
       },
     
       {
@@ -1082,6 +1112,11 @@
       },
     
       {
+        "nombre": "maiz",
+        "clase": "icono-arg-maiz"
+      },
+    
+      {
         "nombre": "maletin-medico-1",
         "clase": "icono-arg-maletin-medico-1"
       },
@@ -1109,6 +1144,11 @@
       {
         "nombre": "mapa-argentina",
         "clase": "icono-arg-mapa-argentina"
+      },
+    
+      {
+        "nombre": "maquina-agricola",
+        "clase": "icono-arg-maquina-agricola"
       },
     
       {
@@ -1194,6 +1234,11 @@
       {
         "nombre": "microscopio",
         "clase": "icono-arg-microscopio"
+      },
+    
+      {
+        "nombre": "molino",
+        "clase": "icono-arg-molino"
       },
     
       {
@@ -1492,6 +1537,11 @@
       },
     
       {
+        "nombre": "sanidad-animal",
+        "clase": "icono-arg-sanidad-animal"
+      },
+    
+      {
         "nombre": "seguridad",
         "clase": "icono-arg-seguridad"
       },
@@ -1579,6 +1629,11 @@
       {
         "nombre": "sustancias-ok",
         "clase": "icono-arg-sustancias-ok"
+      },
+    
+      {
+        "nombre": "tambo",
+        "clase": "icono-arg-tambo"
       },
     
       {
