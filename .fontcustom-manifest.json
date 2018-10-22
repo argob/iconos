@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "cf7add0ef70f474c759676b94d67bec8e62f9530de28f556ee397d7c37859ff9",
-    "current": "cf7add0ef70f474c759676b94d67bec8e62f9530de28f556ee397d7c37859ff9"
+    "previous": "18c1607aa8fca0fb17bf46092029a0b2faba1b63e632b629545c3f0c061b3f18",
+    "current": "18c1607aa8fca0fb17bf46092029a0b2faba1b63e632b629545c3f0c061b3f18"
   },
   "fonts": [
-    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.ttf",
-    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.svg",
-    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.woff",
-    "dist/fonts/icono-arg_cf7add0ef70f474c759676b94d67bec8.eot"
+    "dist/fonts/icono-arg_18c1607aa8fca0fb17bf46092029a0b2.ttf",
+    "dist/fonts/icono-arg_18c1607aa8fca0fb17bf46092029a0b2.svg",
+    "dist/fonts/icono-arg_18c1607aa8fca0fb17bf46092029a0b2.woff",
+    "dist/fonts/icono-arg_18c1607aa8fca0fb17bf46092029a0b2.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -21,6 +21,10 @@
     "acrobat": {
       "codepoint": 62559,
       "source": "src/_icons/acrobat.svg"
+    },
+    "aeropuerto": {
+      "codepoint": 62719,
+      "source": "src/_icons/aeropuerto.svg"
     },
     "agricultura": {
       "codepoint": 62321,
@@ -134,6 +138,10 @@
       "codepoint": 62614,
       "source": "src/_icons/avion negativo.svg"
     },
+    "azafata": {
+      "codepoint": 62720,
+      "source": "src/_icons/azafata.svg"
+    },
     "bailar": {
       "codepoint": 62642,
       "source": "src/_icons/bailar.svg"
@@ -218,6 +226,10 @@
       "codepoint": 62342,
       "source": "src/_icons/calidad cert.svg"
     },
+    "camara---vigilancia": {
+      "codepoint": 62721,
+      "source": "src/_icons/camara - vigilancia.svg"
+    },
     "cambio": {
       "codepoint": 62343,
       "source": "src/_icons/cambio.svg"
@@ -274,6 +286,14 @@
       "codepoint": 62482,
       "source": "src/_icons/casco urbano.svg"
     },
+    "cedula-azul": {
+      "codepoint": 62722,
+      "source": "src/_icons/cedula azul.svg"
+    },
+    "cedula-verde": {
+      "codepoint": 62723,
+      "source": "src/_icons/cedula verde.svg"
+    },
     "celular": {
       "codepoint": 62602,
       "source": "src/_icons/celular.svg"
@@ -293,6 +313,10 @@
     "cerdo": {
       "codepoint": 62709,
       "source": "src/_icons/cerdo.svg"
+    },
+    "chat": {
+      "codepoint": 62724,
+      "source": "src/_icons/chat.svg"
     },
     "chequeado": {
       "codepoint": 62345,
@@ -350,6 +374,10 @@
       "codepoint": 62534,
       "source": "src/_icons/computadora.svg"
     },
+    "computadora---celular---tablet": {
+      "codepoint": 62725,
+      "source": "src/_icons/computadora - celular - tablet.svg"
+    },
     "comunicacion": {
       "codepoint": 62350,
       "source": "src/_icons/comunicacion.svg"
@@ -382,6 +410,10 @@
       "codepoint": 62618,
       "source": "src/_icons/cotizacion envio.svg"
     },
+    "cud": {
+      "codepoint": 62726,
+      "source": "src/_icons/cud.svg"
+    },
     "cultura": {
       "codepoint": 62352,
       "source": "src/_icons/cultura.svg"
@@ -398,6 +430,10 @@
       "codepoint": 62494,
       "source": "src/_icons/curita.svg"
     },
+    "curriculum": {
+      "codepoint": 62727,
+      "source": "src/_icons/curriculum.svg"
+    },
     "database": {
       "codepoint": 62589,
       "source": "src/_icons/database.svg"
@@ -405,6 +441,10 @@
     "datos-abiertos": {
       "codepoint": 62619,
       "source": "src/_icons/datos abiertos.svg"
+    },
+    "datos-abiertos-2": {
+      "codepoint": 62728,
+      "source": "src/_icons/datos abiertos 2.svg"
     },
     "datos-envio": {
       "codepoint": 62620,
@@ -726,6 +766,14 @@
       "codepoint": 62711,
       "source": "src/_icons/gente de campo.svg"
     },
+    "geolocalizacion-automotores": {
+      "codepoint": 62729,
+      "source": "src/_icons/geolocalizacion automotores.svg"
+    },
+    "gestion-de-salud": {
+      "codepoint": 62730,
+      "source": "src/_icons/gestion de salud.svg"
+    },
     "glaciar": {
       "codepoint": 62592,
       "source": "src/_icons/glaciar.svg"
@@ -738,6 +786,10 @@
       "codepoint": 62530,
       "source": "src/_icons/graduada.svg"
     },
+    "guia-tramites": {
+      "codepoint": 62731,
+      "source": "src/_icons/guia tramites.svg"
+    },
     "habitat": {
       "codepoint": 62455,
       "source": "src/_icons/habitat.svg"
@@ -749,6 +801,10 @@
     "herramientas": {
       "codepoint": 62669,
       "source": "src/_icons/herramientas.svg"
+    },
+    "herramientas---colaborativas": {
+      "codepoint": 62732,
+      "source": "src/_icons/herramientas - colaborativas.svg"
     },
     "hogar-y-familia": {
       "codepoint": 62373,
@@ -766,9 +822,17 @@
       "codepoint": 62701,
       "source": "src/_icons/hombre.svg"
     },
+    "horas-extra": {
+      "codepoint": 62733,
+      "source": "src/_icons/horas extra.svg"
+    },
     "hospital": {
       "codepoint": 62505,
       "source": "src/_icons/hospital.svg"
+    },
+    "hosting": {
+      "codepoint": 62734,
+      "source": "src/_icons/hosting.svg"
     },
     "hotel-lineal": {
       "codepoint": 62690,
@@ -1106,6 +1170,18 @@
       "codepoint": 62391,
       "source": "src/_icons/pareja.svg"
     },
+    "participacion": {
+      "codepoint": 62735,
+      "source": "src/_icons/participacion.svg"
+    },
+    "participacion-ciudadana": {
+      "codepoint": 62736,
+      "source": "src/_icons/participacion ciudadana.svg"
+    },
+    "pasaje-avion": {
+      "codepoint": 62737,
+      "source": "src/_icons/pasaje avion.svg"
+    },
     "pasaporte": {
       "codepoint": 62392,
       "source": "src/_icons/pasaporte.svg"
@@ -1137,6 +1213,10 @@
     "petroleo": {
       "codepoint": 62396,
       "source": "src/_icons/petroleo.svg"
+    },
+    "piloto": {
+      "codepoint": 62738,
+      "source": "src/_icons/piloto.svg"
     },
     "plancha": {
       "codepoint": 62540,
@@ -1242,6 +1322,10 @@
       "codepoint": 62717,
       "source": "src/_icons/sanidad animal.svg"
     },
+    "satelital": {
+      "codepoint": 62739,
+      "source": "src/_icons/satelital.svg"
+    },
     "seguridad": {
       "codepoint": 62403,
       "source": "src/_icons/seguridad.svg"
@@ -1313,6 +1397,10 @@
     "sustancias-ok": {
       "codepoint": 62678,
       "source": "src/_icons/sustancias ok.svg"
+    },
+    "tablero-gestion": {
+      "codepoint": 62740,
+      "source": "src/_icons/tablero gestion.svg"
     },
     "tambo": {
       "codepoint": 62718,
@@ -1386,6 +1474,10 @@
       "codepoint": 62579,
       "source": "src/_icons/tramite.svg"
     },
+    "tramite-electro-nico": {
+      "codepoint": 62741,
+      "source": "src/_icons/tramite electrónico.svg"
+    },
     "tramite-jubilacion": {
       "codepoint": 62414,
       "source": "src/_icons/tramite jubilacion.svg"
@@ -1393,6 +1485,14 @@
     "tramite-negativo": {
       "codepoint": 62580,
       "source": "src/_icons/tramite negativo.svg"
+    },
+    "transplante-lineal": {
+      "codepoint": 62742,
+      "source": "src/_icons/transplante lineal.svg"
+    },
+    "transplante-negativo": {
+      "codepoint": 62743,
+      "source": "src/_icons/transplante negativo.svg"
     },
     "transporte-licencia": {
       "codepoint": 62415,
@@ -1457,6 +1557,10 @@
     "vademecum-2": {
       "codepoint": 62681,
       "source": "src/_icons/vademecum 2.svg"
+    },
+    "viajero": {
+      "codepoint": 62744,
+      "source": "src/_icons/viajero.svg"
     },
     "vias": {
       "codepoint": 62424,

@@ -17,6 +17,11 @@
       },
     
       {
+        "nombre": "aeropuerto",
+        "clase": "icono-arg-aeropuerto"
+      },
+    
+      {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
       },
@@ -157,6 +162,11 @@
       },
     
       {
+        "nombre": "azafata",
+        "clase": "icono-arg-azafata"
+      },
+    
+      {
         "nombre": "bailar",
         "clase": "icono-arg-bailar"
       },
@@ -262,6 +272,11 @@
       },
     
       {
+        "nombre": "camara---vigilancia",
+        "clase": "icono-arg-camara---vigilancia"
+      },
+    
+      {
         "nombre": "cambio",
         "clase": "icono-arg-cambio"
       },
@@ -332,6 +347,16 @@
       },
     
       {
+        "nombre": "cedula-azul",
+        "clase": "icono-arg-cedula-azul"
+      },
+    
+      {
+        "nombre": "cedula-verde",
+        "clase": "icono-arg-cedula-verde"
+      },
+    
+      {
         "nombre": "celular",
         "clase": "icono-arg-celular"
       },
@@ -354,6 +379,11 @@
       {
         "nombre": "cerdo",
         "clase": "icono-arg-cerdo"
+      },
+    
+      {
+        "nombre": "chat",
+        "clase": "icono-arg-chat"
       },
     
       {
@@ -427,6 +457,11 @@
       },
     
       {
+        "nombre": "computadora---celular---tablet",
+        "clase": "icono-arg-computadora---celular---tablet"
+      },
+    
+      {
         "nombre": "comunicacion",
         "clase": "icono-arg-comunicacion"
       },
@@ -467,6 +502,11 @@
       },
     
       {
+        "nombre": "cud",
+        "clase": "icono-arg-cud"
+      },
+    
+      {
         "nombre": "cultura",
         "clase": "icono-arg-cultura"
       },
@@ -487,6 +527,11 @@
       },
     
       {
+        "nombre": "curriculum",
+        "clase": "icono-arg-curriculum"
+      },
+    
+      {
         "nombre": "database",
         "clase": "icono-arg-database"
       },
@@ -494,6 +539,11 @@
       {
         "nombre": "datos-abiertos",
         "clase": "icono-arg-datos-abiertos"
+      },
+    
+      {
+        "nombre": "datos-abiertos-2",
+        "clase": "icono-arg-datos-abiertos-2"
       },
     
       {
@@ -897,6 +947,16 @@
       },
     
       {
+        "nombre": "geolocalizacion-automotores",
+        "clase": "icono-arg-geolocalizacion-automotores"
+      },
+    
+      {
+        "nombre": "gestion-de-salud",
+        "clase": "icono-arg-gestion-de-salud"
+      },
+    
+      {
         "nombre": "glaciar",
         "clase": "icono-arg-glaciar"
       },
@@ -912,6 +972,11 @@
       },
     
       {
+        "nombre": "guia-tramites",
+        "clase": "icono-arg-guia-tramites"
+      },
+    
+      {
         "nombre": "habitat",
         "clase": "icono-arg-habitat"
       },
@@ -924,6 +989,11 @@
       {
         "nombre": "herramientas",
         "clase": "icono-arg-herramientas"
+      },
+    
+      {
+        "nombre": "herramientas---colaborativas",
+        "clase": "icono-arg-herramientas---colaborativas"
       },
     
       {
@@ -947,8 +1017,18 @@
       },
     
       {
+        "nombre": "horas-extra",
+        "clase": "icono-arg-horas-extra"
+      },
+    
+      {
         "nombre": "hospital",
         "clase": "icono-arg-hospital"
+      },
+    
+      {
+        "nombre": "hosting",
+        "clase": "icono-arg-hosting"
       },
     
       {
@@ -1372,6 +1452,21 @@
       },
     
       {
+        "nombre": "participacion",
+        "clase": "icono-arg-participacion"
+      },
+    
+      {
+        "nombre": "participacion-ciudadana",
+        "clase": "icono-arg-participacion-ciudadana"
+      },
+    
+      {
+        "nombre": "pasaje-avion",
+        "clase": "icono-arg-pasaje-avion"
+      },
+    
+      {
         "nombre": "pasaporte",
         "clase": "icono-arg-pasaporte"
       },
@@ -1409,6 +1504,11 @@
       {
         "nombre": "petroleo",
         "clase": "icono-arg-petroleo"
+      },
+    
+      {
+        "nombre": "piloto",
+        "clase": "icono-arg-piloto"
       },
     
       {
@@ -1542,6 +1642,11 @@
       },
     
       {
+        "nombre": "satelital",
+        "clase": "icono-arg-satelital"
+      },
+    
+      {
         "nombre": "seguridad",
         "clase": "icono-arg-seguridad"
       },
@@ -1629,6 +1734,11 @@
       {
         "nombre": "sustancias-ok",
         "clase": "icono-arg-sustancias-ok"
+      },
+    
+      {
+        "nombre": "tablero-gestion",
+        "clase": "icono-arg-tablero-gestion"
       },
     
       {
@@ -1722,6 +1832,11 @@
       },
     
       {
+        "nombre": "tramite-electro-nico",
+        "clase": "icono-arg-tramite-electro-nico"
+      },
+    
+      {
         "nombre": "tramite-jubilacion",
         "clase": "icono-arg-tramite-jubilacion"
       },
@@ -1729,6 +1844,16 @@
       {
         "nombre": "tramite-negativo",
         "clase": "icono-arg-tramite-negativo"
+      },
+    
+      {
+        "nombre": "transplante-lineal",
+        "clase": "icono-arg-transplante-lineal"
+      },
+    
+      {
+        "nombre": "transplante-negativo",
+        "clase": "icono-arg-transplante-negativo"
       },
     
       {
@@ -1809,6 +1934,11 @@
       {
         "nombre": "vademecum-2",
         "clase": "icono-arg-vademecum-2"
+      },
+    
+      {
+        "nombre": "viajero",
+        "clase": "icono-arg-viajero"
       },
     
       {
