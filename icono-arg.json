@@ -117,6 +117,11 @@
       },
     
       {
+        "nombre": "arma-antigua",
+        "clase": "icono-arg-arma-antigua"
+      },
+    
+      {
         "nombre": "arma-imp",
         "clase": "icono-arg-arma-imp"
       },
@@ -129,6 +134,16 @@
       {
         "nombre": "arma-tenencia",
         "clase": "icono-arg-arma-tenencia"
+      },
+    
+      {
+        "nombre": "armeria",
+        "clase": "icono-arg-armeria"
+      },
+    
+      {
+        "nombre": "autentificacion",
+        "clase": "icono-arg-autentificacion"
       },
     
       {
@@ -302,6 +317,16 @@
       },
     
       {
+        "nombre": "candado-abierto",
+        "clase": "icono-arg-candado-abierto"
+      },
+    
+      {
+        "nombre": "candado-cerrado",
+        "clase": "icono-arg-candado-cerrado"
+      },
+    
+      {
         "nombre": "canilla",
         "clase": "icono-arg-canilla"
       },
@@ -344,6 +369,11 @@
       {
         "nombre": "casco-urbano",
         "clase": "icono-arg-casco-urbano"
+      },
+    
+      {
+        "nombre": "caza",
+        "clase": "icono-arg-caza"
       },
     
       {
@@ -1052,6 +1082,16 @@
       },
     
       {
+        "nombre": "identidad",
+        "clase": "icono-arg-identidad"
+      },
+    
+      {
+        "nombre": "identidad-federada",
+        "clase": "icono-arg-identidad-federada"
+      },
+    
+      {
         "nombre": "incendios-forestales",
         "clase": "icono-arg-incendios-forestales"
       },
@@ -1084,6 +1124,11 @@
       {
         "nombre": "institucion",
         "clase": "icono-arg-institucion"
+      },
+    
+      {
+        "nombre": "instructor-de-tiro",
+        "clase": "icono-arg-instructor-de-tiro"
       },
     
       {
@@ -1169,6 +1214,16 @@
       {
         "nombre": "libre-de-glutem",
         "clase": "icono-arg-libre-de-glutem"
+      },
+    
+      {
+        "nombre": "login",
+        "clase": "icono-arg-login"
+      },
+    
+      {
+        "nombre": "login-social",
+        "clase": "icono-arg-login-social"
       },
     
       {
@@ -1372,6 +1427,26 @@
       },
     
       {
+        "nombre": "nube",
+        "clase": "icono-arg-nube"
+      },
+    
+      {
+        "nombre": "nube-bajar-datos",
+        "clase": "icono-arg-nube-bajar-datos"
+      },
+    
+      {
+        "nombre": "nube-seguridad",
+        "clase": "icono-arg-nube-seguridad"
+      },
+    
+      {
+        "nombre": "nube-subir-datos",
+        "clase": "icono-arg-nube-subir-datos"
+      },
+    
+      {
         "nombre": "nuclear",
         "clase": "icono-arg-nuclear"
       },
@@ -1399,6 +1474,11 @@
       {
         "nombre": "ombu",
         "clase": "icono-arg-ombu"
+      },
+    
+      {
+        "nombre": "open-id",
+        "clase": "icono-arg-open-id"
       },
     
       {
@@ -1497,6 +1577,21 @@
       },
     
       {
+        "nombre": "pesca-con-red",
+        "clase": "icono-arg-pesca-con-red"
+      },
+    
+      {
+        "nombre": "pescado",
+        "clase": "icono-arg-pescado"
+      },
+    
+      {
+        "nombre": "pescador",
+        "clase": "icono-arg-pescador"
+      },
+    
+      {
         "nombre": "pesos",
         "clase": "icono-arg-pesos"
       },
@@ -1524,6 +1619,11 @@
       {
         "nombre": "planta-exotica-2",
         "clase": "icono-arg-planta-exotica-2"
+      },
+    
+      {
+        "nombre": "poligono-de-tiro",
+        "clase": "icono-arg-poligono-de-tiro"
       },
     
       {
@@ -1564,6 +1664,11 @@
       {
         "nombre": "pueblos-originarios",
         "clase": "icono-arg-pueblos-originarios"
+      },
+    
+      {
+        "nombre": "radar-meteorolo-gico",
+        "clase": "icono-arg-radar-meteorolo-gico"
       },
     
       {
@@ -1659,6 +1764,26 @@
       {
         "nombre": "seguridad-bebe-negativo",
         "clase": "icono-arg-seguridad-bebe-negativo"
+      },
+    
+      {
+        "nombre": "seguridad-datos",
+        "clase": "icono-arg-seguridad-datos"
+      },
+    
+      {
+        "nombre": "seguridad-datos-2",
+        "clase": "icono-arg-seguridad-datos-2"
+      },
+    
+      {
+        "nombre": "seguridad-documento",
+        "clase": "icono-arg-seguridad-documento"
+      },
+    
+      {
+        "nombre": "seguridad-red",
+        "clase": "icono-arg-seguridad-red"
       },
     
       {
@@ -1934,6 +2059,11 @@
       {
         "nombre": "vademecum-2",
         "clase": "icono-arg-vademecum-2"
+      },
+    
+      {
+        "nombre": "validacion-identidad",
+        "clase": "icono-arg-validacion-identidad"
       },
     
       {

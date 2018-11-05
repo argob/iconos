@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "11eeacb05beca671c95fd0154b6c56f1837e9ee87314c81e5463a43bcf6b0c1b",
-    "current": "11eeacb05beca671c95fd0154b6c56f1837e9ee87314c81e5463a43bcf6b0c1b"
+    "previous": "570fc27d3539c15bfe1a7b280a5e0bea7fb453514be1f7589aafd7b110393ef1",
+    "current": "570fc27d3539c15bfe1a7b280a5e0bea7fb453514be1f7589aafd7b110393ef1"
   },
   "fonts": [
-    "dist/fonts/icono-arg_11eeacb05beca671c95fd0154b6c56f1.ttf",
-    "dist/fonts/icono-arg_11eeacb05beca671c95fd0154b6c56f1.svg",
-    "dist/fonts/icono-arg_11eeacb05beca671c95fd0154b6c56f1.woff",
-    "dist/fonts/icono-arg_11eeacb05beca671c95fd0154b6c56f1.eot"
+    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.ttf",
+    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.svg",
+    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.woff",
+    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -102,6 +102,10 @@
       "codepoint": 62488,
       "source": "src/_icons/areas vacantes.svg"
     },
+    "arma-antigua": {
+      "codepoint": 62745,
+      "source": "src/_icons/arma antigua.svg"
+    },
     "arma-imp": {
       "codepoint": 62330,
       "source": "src/_icons/arma imp.svg"
@@ -113,6 +117,14 @@
     "arma-tenencia": {
       "codepoint": 62332,
       "source": "src/_icons/arma tenencia.svg"
+    },
+    "armeria": {
+      "codepoint": 62746,
+      "source": "src/_icons/armeria.svg"
+    },
+    "autentificacion": {
+      "codepoint": 62747,
+      "source": "src/_icons/autentificacion.svg"
     },
     "auto": {
       "codepoint": 62333,
@@ -250,6 +262,14 @@
       "codepoint": 62449,
       "source": "src/_icons/camion construccion.svg"
     },
+    "candado-abierto": {
+      "codepoint": 62748,
+      "source": "src/_icons/candado abierto.svg"
+    },
+    "candado-cerrado": {
+      "codepoint": 62749,
+      "source": "src/_icons/candado cerrado.svg"
+    },
     "canilla": {
       "codepoint": 62450,
       "source": "src/_icons/canilla.svg"
@@ -285,6 +305,10 @@
     "casco-urbano": {
       "codepoint": 62482,
       "source": "src/_icons/casco urbano.svg"
+    },
+    "caza": {
+      "codepoint": 62750,
+      "source": "src/_icons/caza.svg"
     },
     "cedula-azul": {
       "codepoint": 62722,
@@ -850,6 +874,14 @@
       "codepoint": 62713,
       "source": "src/_icons/huevos.svg"
     },
+    "identidad": {
+      "codepoint": 62751,
+      "source": "src/_icons/identidad.svg"
+    },
+    "identidad-federada": {
+      "codepoint": 62752,
+      "source": "src/_icons/identidad federada.svg"
+    },
     "incendios-forestales": {
       "codepoint": 62548,
       "source": "src/_icons/incendios forestales.svg"
@@ -877,6 +909,10 @@
     "institucion": {
       "codepoint": 62376,
       "source": "src/_icons/institucion.svg"
+    },
+    "instructor-de-tiro": {
+      "codepoint": 62753,
+      "source": "src/_icons/instructor de tiro.svg"
     },
     "interes-cultural": {
       "codepoint": 62377,
@@ -945,6 +981,14 @@
     "libre-de-glutem": {
       "codepoint": 62671,
       "source": "src/_icons/libre de glutem.svg"
+    },
+    "login": {
+      "codepoint": 62754,
+      "source": "src/_icons/login.svg"
+    },
+    "login-social": {
+      "codepoint": 62755,
+      "source": "src/_icons/login social.svg"
     },
     "lupa": {
       "codepoint": 62380,
@@ -1106,6 +1150,22 @@
       "codepoint": 62596,
       "source": "src/_icons/notificaciones.svg"
     },
+    "nube": {
+      "codepoint": 62756,
+      "source": "src/_icons/nube.svg"
+    },
+    "nube-bajar-datos": {
+      "codepoint": 62757,
+      "source": "src/_icons/nube bajar datos.svg"
+    },
+    "nube-seguridad": {
+      "codepoint": 62758,
+      "source": "src/_icons/nube seguridad.svg"
+    },
+    "nube-subir-datos": {
+      "codepoint": 62759,
+      "source": "src/_icons/nube subir datos.svg"
+    },
     "nuclear": {
       "codepoint": 62389,
       "source": "src/_icons/nuclear.svg"
@@ -1129,6 +1189,10 @@
     "ombu": {
       "codepoint": 62597,
       "source": "src/_icons/ombu.svg"
+    },
+    "open-id": {
+      "codepoint": 62760,
+      "source": "src/_icons/open id.svg"
     },
     "operativo-sanitario-1": {
       "codepoint": 62612,
@@ -1206,6 +1270,18 @@
       "codepoint": 62654,
       "source": "src/_icons/pera.svg"
     },
+    "pesca-con-red": {
+      "codepoint": 62761,
+      "source": "src/_icons/pesca con red.svg"
+    },
+    "pescado": {
+      "codepoint": 62762,
+      "source": "src/_icons/pescado.svg"
+    },
+    "pescador": {
+      "codepoint": 62763,
+      "source": "src/_icons/pescador.svg"
+    },
     "pesos": {
       "codepoint": 62395,
       "source": "src/_icons/pesos.svg"
@@ -1229,6 +1305,10 @@
     "planta-exotica-2": {
       "codepoint": 62599,
       "source": "src/_icons/planta exotica 2.svg"
+    },
+    "poligono-de-tiro": {
+      "codepoint": 62764,
+      "source": "src/_icons/poligono de tiro.svg"
     },
     "portal-educativo": {
       "codepoint": 62694,
@@ -1261,6 +1341,10 @@
     "pueblos-originarios": {
       "codepoint": 62478,
       "source": "src/_icons/pueblos originarios.svg"
+    },
+    "radar-meteorolo-gico": {
+      "codepoint": 62765,
+      "source": "src/_icons/radar meteorológico.svg"
     },
     "reactor-RA6": {
       "codepoint": 62695,
@@ -1337,6 +1421,22 @@
     "seguridad-bebe-negativo": {
       "codepoint": 62706,
       "source": "src/_icons/seguridad bebe negativo.svg"
+    },
+    "seguridad-datos": {
+      "codepoint": 62766,
+      "source": "src/_icons/seguridad datos.svg"
+    },
+    "seguridad-datos-2": {
+      "codepoint": 62767,
+      "source": "src/_icons/seguridad datos 2.svg"
+    },
+    "seguridad-documento": {
+      "codepoint": 62768,
+      "source": "src/_icons/seguridad documento.svg"
+    },
+    "seguridad-red": {
+      "codepoint": 62769,
+      "source": "src/_icons/seguridad red.svg"
     },
     "semaforo": {
       "codepoint": 62423,
@@ -1557,6 +1657,10 @@
     "vademecum-2": {
       "codepoint": 62681,
       "source": "src/_icons/vademecum 2.svg"
+    },
+    "validacion-identidad": {
+      "codepoint": 62770,
+      "source": "src/_icons/validacion identidad.svg"
     },
     "viajero": {
       "codepoint": 62744,
