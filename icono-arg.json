@@ -397,6 +397,16 @@
       },
     
       {
+        "nombre": "central-nuclear-2",
+        "clase": "icono-arg-central-nuclear-2"
+      },
+    
+      {
+        "nombre": "central-y-profesional-nuclear",
+        "clase": "icono-arg-central-y-profesional-nuclear"
+      },
+    
+      {
         "nombre": "centro-atomico-lineal",
         "clase": "icono-arg-centro-atomico-lineal"
       },
@@ -1102,6 +1112,11 @@
       },
     
       {
+        "nombre": "incucai",
+        "clase": "icono-arg-incucai"
+      },
+    
+      {
         "nombre": "industria",
         "clase": "icono-arg-industria"
       },
@@ -1354,6 +1369,11 @@
       {
         "nombre": "medico",
         "clase": "icono-arg-medico"
+      },
+    
+      {
+        "nombre": "medula-osea",
+        "clase": "icono-arg-medula-osea"
       },
     
       {
@@ -1647,6 +1667,11 @@
       },
     
       {
+        "nombre": "profesional-nuclear",
+        "clase": "icono-arg-profesional-nuclear"
+      },
+    
+      {
         "nombre": "profesionales-y-empresas",
         "clase": "icono-arg-profesionales-y-empresas"
       },
@@ -1694,6 +1719,11 @@
       {
         "nombre": "reclamo-demora",
         "clase": "icono-arg-reclamo-demora"
+      },
+    
+      {
+        "nombre": "registro-donantes-medula-osea",
+        "clase": "icono-arg-registro-donantes-medula-osea"
       },
     
       {

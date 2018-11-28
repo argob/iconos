@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "570fc27d3539c15bfe1a7b280a5e0bea7fb453514be1f7589aafd7b110393ef1",
-    "current": "570fc27d3539c15bfe1a7b280a5e0bea7fb453514be1f7589aafd7b110393ef1"
+    "previous": "a08b8babad1b8ca637da3fd93f6b5c93952727a482efa860a09709a5b337fda3",
+    "current": "a08b8babad1b8ca637da3fd93f6b5c93952727a482efa860a09709a5b337fda3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.ttf",
-    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.svg",
-    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.woff",
-    "dist/fonts/icono-arg_570fc27d3539c15bfe1a7b280a5e0bea.eot"
+    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.ttf",
+    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.svg",
+    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.woff",
+    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -325,6 +325,14 @@
     "central-nuclear": {
       "codepoint": 62492,
       "source": "src/_icons/central nuclear.svg"
+    },
+    "central-nuclear-2": {
+      "codepoint": 62771,
+      "source": "src/_icons/central nuclear 2.svg"
+    },
+    "central-y-profesional-nuclear": {
+      "codepoint": 62772,
+      "source": "src/_icons/central y profesional nuclear.svg"
     },
     "centro-atomico-lineal": {
       "codepoint": 62684,
@@ -890,6 +898,10 @@
       "codepoint": 62374,
       "source": "src/_icons/inclusion digital.svg"
     },
+    "incucai": {
+      "codepoint": 62773,
+      "source": "src/_icons/incucai.svg"
+    },
     "industria": {
       "codepoint": 62375,
       "source": "src/_icons/industria.svg"
@@ -1093,6 +1105,10 @@
     "medico": {
       "codepoint": 62513,
       "source": "src/_icons/medico.svg"
+    },
+    "medula-osea": {
+      "codepoint": 62774,
+      "source": "src/_icons/medula osea.svg"
     },
     "mi-argentina": {
       "codepoint": 62674,
@@ -1326,6 +1342,10 @@
       "codepoint": 62459,
       "source": "src/_icons/probeta hoja.svg"
     },
+    "profesional-nuclear": {
+      "codepoint": 62775,
+      "source": "src/_icons/profesional nuclear.svg"
+    },
     "profesionales-y-empresas": {
       "codepoint": 62677,
       "source": "src/_icons/profesionales y empresas.svg"
@@ -1365,6 +1385,10 @@
     "reclamo-demora": {
       "codepoint": 62398,
       "source": "src/_icons/reclamo demora.svg"
+    },
+    "registro-donantes-medula-osea": {
+      "codepoint": 62776,
+      "source": "src/_icons/registro donantes medula osea.svg"
     },
     "reloj": {
       "codepoint": 62399,
