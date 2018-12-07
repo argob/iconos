@@ -32,6 +32,11 @@
       },
     
       {
+        "nombre": "agua-contaminada",
+        "clase": "icono-arg-agua-contaminada"
+      },
+    
+      {
         "nombre": "aire",
         "clase": "icono-arg-aire"
       },
@@ -329,6 +334,11 @@
       {
         "nombre": "canilla",
         "clase": "icono-arg-canilla"
+      },
+    
+      {
+        "nombre": "canilla-02",
+        "clase": "icono-arg-canilla-02"
       },
     
       {
@@ -917,6 +927,11 @@
       },
     
       {
+        "nombre": "frio-02",
+        "clase": "icono-arg-frio-02"
+      },
+    
+      {
         "nombre": "frio-calor",
         "clase": "icono-arg-frio-calor"
       },
@@ -934,6 +949,11 @@
       {
         "nombre": "fuego",
         "clase": "icono-arg-fuego"
+      },
+    
+      {
+        "nombre": "fuga-material-radioactivo",
+        "clase": "icono-arg-fuga-material-radioactivo"
       },
     
       {
@@ -1009,6 +1029,11 @@
       {
         "nombre": "graduada",
         "clase": "icono-arg-graduada"
+      },
+    
+      {
+        "nombre": "granizo",
+        "clase": "icono-arg-granizo"
       },
     
       {
@@ -1104,6 +1129,11 @@
       {
         "nombre": "incendios-forestales",
         "clase": "icono-arg-incendios-forestales"
+      },
+    
+      {
+        "nombre": "incendios-urbanos",
+        "clase": "icono-arg-incendios-urbanos"
       },
     
       {
@@ -1229,6 +1259,16 @@
       {
         "nombre": "libre-de-glutem",
         "clase": "icono-arg-libre-de-glutem"
+      },
+    
+      {
+        "nombre": "lluvias",
+        "clase": "icono-arg-lluvias"
+      },
+    
+      {
+        "nombre": "lluvias-intensas",
+        "clase": "icono-arg-lluvias-intensas"
       },
     
       {
@@ -1397,6 +1437,11 @@
       },
     
       {
+        "nombre": "mosquito",
+        "clase": "icono-arg-mosquito"
+      },
+    
+      {
         "nombre": "moticicleta-lineal",
         "clase": "icono-arg-moticicleta-lineal"
       },
@@ -1437,6 +1482,11 @@
       },
     
       {
+        "nombre": "niebla",
+        "clase": "icono-arg-niebla"
+      },
+    
+      {
         "nombre": "notebook",
         "clase": "icono-arg-notebook"
       },
@@ -1474,6 +1524,11 @@
       {
         "nombre": "ola-de-calor",
         "clase": "icono-arg-ola-de-calor"
+      },
+    
+      {
+        "nombre": "ola-polar",
+        "clase": "icono-arg-ola-polar"
       },
     
       {
@@ -1847,6 +1902,11 @@
       },
     
       {
+        "nombre": "sin-mosquito",
+        "clase": "icono-arg-sin-mosquito"
+      },
+    
+      {
         "nombre": "social",
         "clase": "icono-arg-social"
       },
@@ -1932,6 +1992,11 @@
       },
     
       {
+        "nombre": "temporal-frio",
+        "clase": "icono-arg-temporal-frio"
+      },
+    
+      {
         "nombre": "tener-un-hijo",
         "clase": "icono-arg-tener-un-hijo"
       },
@@ -1954,6 +2019,16 @@
       {
         "nombre": "tomate",
         "clase": "icono-arg-tomate"
+      },
+    
+      {
+        "nombre": "tormentas-electricas",
+        "clase": "icono-arg-tormentas-electricas"
+      },
+    
+      {
+        "nombre": "tornado",
+        "clase": "icono-arg-tornado"
       },
     
       {
@@ -2037,6 +2112,11 @@
       },
     
       {
+        "nombre": "tromba-marina",
+        "clase": "icono-arg-tromba-marina"
+      },
+    
+      {
         "nombre": "tuberias",
         "clase": "icono-arg-tuberias"
       },
@@ -2104,6 +2184,11 @@
       {
         "nombre": "vias",
         "clase": "icono-arg-vias"
+      },
+    
+      {
+        "nombre": "viento-zonda",
+        "clase": "icono-arg-viento-zonda"
       },
     
       {

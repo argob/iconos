@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "a08b8babad1b8ca637da3fd93f6b5c93952727a482efa860a09709a5b337fda3",
-    "current": "a08b8babad1b8ca637da3fd93f6b5c93952727a482efa860a09709a5b337fda3"
+    "previous": "d92fc66caec5cc6e8dba6dc48232ac5565dd10ab517c06b2f3a9fe385972bad9",
+    "current": "d92fc66caec5cc6e8dba6dc48232ac5565dd10ab517c06b2f3a9fe385972bad9"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.ttf",
-    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.svg",
-    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.woff",
-    "dist/fonts/icono-arg_a08b8babad1b8ca637da3fd93f6b5c93.eot"
+    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.ttf",
+    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.svg",
+    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.woff",
+    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -33,6 +33,10 @@
     "agua": {
       "codepoint": 62447,
       "source": "src/_icons/agua.svg"
+    },
+    "agua-contaminada": {
+      "codepoint": 62777,
+      "source": "src/_icons/agua contaminada.svg"
     },
     "aire": {
       "codepoint": 62486,
@@ -273,6 +277,10 @@
     "canilla": {
       "codepoint": 62450,
       "source": "src/_icons/canilla.svg"
+    },
+    "canilla-02": {
+      "codepoint": 62778,
+      "source": "src/_icons/canilla 02.svg"
     },
     "cannabis-medicinal-1": {
       "codepoint": 62490,
@@ -742,6 +750,10 @@
       "codepoint": 62547,
       "source": "src/_icons/frio.svg"
     },
+    "frio-02": {
+      "codepoint": 62779,
+      "source": "src/_icons/frio 02.svg"
+    },
     "frio-calor": {
       "codepoint": 62454,
       "source": "src/_icons/frio calor.svg"
@@ -757,6 +769,10 @@
     "fuego": {
       "codepoint": 62571,
       "source": "src/_icons/fuego.svg"
+    },
+    "fuga-material-radioactivo": {
+      "codepoint": 62780,
+      "source": "src/_icons/fuga material radioactivo.svg"
     },
     "gallina": {
       "codepoint": 62710,
@@ -817,6 +833,10 @@
     "graduada": {
       "codepoint": 62530,
       "source": "src/_icons/graduada.svg"
+    },
+    "granizo": {
+      "codepoint": 62781,
+      "source": "src/_icons/granizo.svg"
     },
     "guia-tramites": {
       "codepoint": 62731,
@@ -893,6 +913,10 @@
     "incendios-forestales": {
       "codepoint": 62548,
       "source": "src/_icons/incendios forestales.svg"
+    },
+    "incendios-urbanos": {
+      "codepoint": 62782,
+      "source": "src/_icons/incendios urbanos.svg"
     },
     "inclusion-digital": {
       "codepoint": 62374,
@@ -993,6 +1017,14 @@
     "libre-de-glutem": {
       "codepoint": 62671,
       "source": "src/_icons/libre de glutem.svg"
+    },
+    "lluvias": {
+      "codepoint": 62783,
+      "source": "src/_icons/lluvias.svg"
+    },
+    "lluvias-intensas": {
+      "codepoint": 62784,
+      "source": "src/_icons/lluvias intensas.svg"
     },
     "login": {
       "codepoint": 62754,
@@ -1126,6 +1158,10 @@
       "codepoint": 62716,
       "source": "src/_icons/molino.svg"
     },
+    "mosquito": {
+      "codepoint": 62785,
+      "source": "src/_icons/mosquito.svg"
+    },
     "moticicleta-lineal": {
       "codepoint": 62702,
       "source": "src/_icons/moticicleta lineal.svg"
@@ -1158,6 +1194,10 @@
       "codepoint": 62458,
       "source": "src/_icons/nido.svg"
     },
+    "niebla": {
+      "codepoint": 62786,
+      "source": "src/_icons/niebla.svg"
+    },
     "notebook": {
       "codepoint": 62539,
       "source": "src/_icons/notebook.svg"
@@ -1189,6 +1229,10 @@
     "ola-de-calor": {
       "codepoint": 62552,
       "source": "src/_icons/ola de calor.svg"
+    },
+    "ola-polar": {
+      "codepoint": 62787,
+      "source": "src/_icons/ola polar.svg"
     },
     "olla": {
       "codepoint": 62575,
@@ -1486,6 +1530,10 @@
       "codepoint": 62707,
       "source": "src/_icons/silla seguridad auto negativo.svg"
     },
+    "sin-mosquito": {
+      "codepoint": 62788,
+      "source": "src/_icons/sin mosquito.svg"
+    },
     "social": {
       "codepoint": 62406,
       "source": "src/_icons/social.svg"
@@ -1554,6 +1602,10 @@
       "codepoint": 62541,
       "source": "src/_icons/televisor.svg"
     },
+    "temporal-frio": {
+      "codepoint": 62789,
+      "source": "src/_icons/temporal frio.svg"
+    },
     "tener-un-hijo": {
       "codepoint": 62411,
       "source": "src/_icons/tener un hijo.svg"
@@ -1573,6 +1625,14 @@
     "tomate": {
       "codepoint": 62658,
       "source": "src/_icons/tomate.svg"
+    },
+    "tormentas-electricas": {
+      "codepoint": 62790,
+      "source": "src/_icons/tormentas electricas.svg"
+    },
+    "tornado": {
+      "codepoint": 62791,
+      "source": "src/_icons/tornado.svg"
     },
     "tornados-y-tormentas-electricas": {
       "codepoint": 62555,
@@ -1638,6 +1698,10 @@
       "codepoint": 62481,
       "source": "src/_icons/tristeza.svg"
     },
+    "tromba-marina": {
+      "codepoint": 62792,
+      "source": "src/_icons/tromba marina.svg"
+    },
     "tuberias": {
       "codepoint": 62462,
       "source": "src/_icons/tuberias.svg"
@@ -1693,6 +1757,10 @@
     "vias": {
       "codepoint": 62424,
       "source": "src/_icons/vias.svg"
+    },
+    "viento-zonda": {
+      "codepoint": 62793,
+      "source": "src/_icons/viento zonda.svg"
     },
     "vigilancia-alimentaria": {
       "codepoint": 62682,
