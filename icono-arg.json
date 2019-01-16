@@ -187,6 +187,11 @@
       },
     
       {
+        "nombre": "bacteria",
+        "clase": "icono-arg-bacteria"
+      },
+    
+      {
         "nombre": "bailar",
         "clase": "icono-arg-bailar"
       },
@@ -1217,6 +1222,11 @@
       },
     
       {
+        "nombre": "lactancia",
+        "clase": "icono-arg-lactancia"
+      },
+    
+      {
         "nombre": "lampara",
         "clase": "icono-arg-lampara"
       },
@@ -1532,6 +1542,11 @@
       },
     
       {
+        "nombre": "olas",
+        "clase": "icono-arg-olas"
+      },
+    
+      {
         "nombre": "olla",
         "clase": "icono-arg-olla"
       },
@@ -1697,6 +1712,11 @@
       },
     
       {
+        "nombre": "plataforma-offshore",
+        "clase": "icono-arg-plataforma-offshore"
+      },
+    
+      {
         "nombre": "poligono-de-tiro",
         "clase": "icono-arg-poligono-de-tiro"
       },
@@ -1834,6 +1854,11 @@
       {
         "nombre": "satelital",
         "clase": "icono-arg-satelital"
+      },
+    
+      {
+        "nombre": "satelite",
+        "clase": "icono-arg-satelite"
       },
     
       {
@@ -2174,6 +2199,16 @@
       {
         "nombre": "validacion-identidad",
         "clase": "icono-arg-validacion-identidad"
+      },
+    
+      {
+        "nombre": "velero-con-olas",
+        "clase": "icono-arg-velero-con-olas"
+      },
+    
+      {
+        "nombre": "velero-sin-olas",
+        "clase": "icono-arg-velero-sin-olas"
       },
     
       {

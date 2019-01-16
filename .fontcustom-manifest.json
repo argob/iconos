@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "d92fc66caec5cc6e8dba6dc48232ac5565dd10ab517c06b2f3a9fe385972bad9",
-    "current": "d92fc66caec5cc6e8dba6dc48232ac5565dd10ab517c06b2f3a9fe385972bad9"
+    "previous": "0e3e6fca4571dc7be0a7d3e7be5829875000c86bf60e0db01941d231e8409bb9",
+    "current": "0e3e6fca4571dc7be0a7d3e7be5829875000c86bf60e0db01941d231e8409bb9"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.ttf",
-    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.svg",
-    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.woff",
-    "dist/fonts/icono-arg_d92fc66caec5cc6e8dba6dc48232ac55.eot"
+    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.ttf",
+    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.svg",
+    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.woff",
+    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -157,6 +157,10 @@
     "azafata": {
       "codepoint": 62720,
       "source": "src/_icons/azafata.svg"
+    },
+    "bacteria": {
+      "codepoint": 62794,
+      "source": "src/_icons/bacteria.svg"
     },
     "bailar": {
       "codepoint": 62642,
@@ -982,6 +986,10 @@
       "codepoint": 62639,
       "source": "src/_icons/justicia negativo.svg"
     },
+    "lactancia": {
+      "codepoint": 62795,
+      "source": "src/_icons/lactancia.svg"
+    },
     "lampara": {
       "codepoint": 62379,
       "source": "src/_icons/lampara.svg"
@@ -1234,6 +1242,10 @@
       "codepoint": 62787,
       "source": "src/_icons/ola polar.svg"
     },
+    "olas": {
+      "codepoint": 62796,
+      "source": "src/_icons/olas.svg"
+    },
     "olla": {
       "codepoint": 62575,
       "source": "src/_icons/olla.svg"
@@ -1366,6 +1378,10 @@
       "codepoint": 62599,
       "source": "src/_icons/planta exotica 2.svg"
     },
+    "plataforma-offshore": {
+      "codepoint": 62797,
+      "source": "src/_icons/plataforma offshore.svg"
+    },
     "poligono-de-tiro": {
       "codepoint": 62764,
       "source": "src/_icons/poligono de tiro.svg"
@@ -1477,6 +1493,10 @@
     "satelital": {
       "codepoint": 62739,
       "source": "src/_icons/satelital.svg"
+    },
+    "satelite": {
+      "codepoint": 62798,
+      "source": "src/_icons/satelite.svg"
     },
     "seguridad": {
       "codepoint": 62403,
@@ -1749,6 +1769,14 @@
     "validacion-identidad": {
       "codepoint": 62770,
       "source": "src/_icons/validacion identidad.svg"
+    },
+    "velero-con-olas": {
+      "codepoint": 62799,
+      "source": "src/_icons/velero con olas.svg"
+    },
+    "velero-sin-olas": {
+      "codepoint": 62800,
+      "source": "src/_icons/velero sin olas.svg"
     },
     "viajero": {
       "codepoint": 62744,
