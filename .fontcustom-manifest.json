@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "0e3e6fca4571dc7be0a7d3e7be5829875000c86bf60e0db01941d231e8409bb9",
-    "current": "0e3e6fca4571dc7be0a7d3e7be5829875000c86bf60e0db01941d231e8409bb9"
+    "previous": "8415e4889fc0f5cddd045a4ecb9bf0b8d28194fd82875f67aad95b42b6b1cee7",
+    "current": "8415e4889fc0f5cddd045a4ecb9bf0b8d28194fd82875f67aad95b42b6b1cee7"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.ttf",
-    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.svg",
-    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.woff",
-    "dist/fonts/icono-arg_0e3e6fca4571dc7be0a7d3e7be582987.eot"
+    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.ttf",
+    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.svg",
+    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.woff",
+    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -73,6 +73,14 @@
     "animales-exp-imp": {
       "codepoint": 62324,
       "source": "src/_icons/animales exp imp.svg"
+    },
+    "anses": {
+      "codepoint": 62801,
+      "source": "src/_icons/anses.svg"
+    },
+    "anses-negativo": {
+      "codepoint": 62802,
+      "source": "src/_icons/anses-negativo.svg"
     },
     "antibalas": {
       "codepoint": 62325,
@@ -145,6 +153,14 @@
     "auto-licencia-ok": {
       "codepoint": 62336,
       "source": "src/_icons/auto licencia ok.svg"
+    },
+    "automor-negativo": {
+      "codepoint": 62803,
+      "source": "src/_icons/automor-negativo.svg"
+    },
+    "automotor": {
+      "codepoint": 62804,
+      "source": "src/_icons/automotor.svg"
     },
     "avion": {
       "codepoint": 62337,
@@ -306,6 +322,14 @@
       "codepoint": 62469,
       "source": "src/_icons/carrito mas.svg"
     },
+    "casa": {
+      "codepoint": 62805,
+      "source": "src/_icons/casa.svg"
+    },
+    "casa-negativo": {
+      "codepoint": 62806,
+      "source": "src/_icons/casa-negativo.svg"
+    },
     "casco": {
       "codepoint": 62683,
       "source": "src/_icons/casco.svg"
@@ -394,6 +418,14 @@
       "codepoint": 62349,
       "source": "src/_icons/cluse.svg"
     },
+    "cobros": {
+      "codepoint": 62807,
+      "source": "src/_icons/cobros.svg"
+    },
+    "cobros-negativo": {
+      "codepoint": 62808,
+      "source": "src/_icons/cobros-negativo.svg"
+    },
     "cocina": {
       "codepoint": 62565,
       "source": "src/_icons/cocina.svg"
@@ -453,6 +485,22 @@
     "cotizacion-envio": {
       "codepoint": 62618,
       "source": "src/_icons/cotizacion envio.svg"
+    },
+    "credenciales": {
+      "codepoint": 62809,
+      "source": "src/_icons/credenciales.svg"
+    },
+    "credenciales-negativo": {
+      "codepoint": 62810,
+      "source": "src/_icons/credenciales-negativo.svg"
+    },
+    "cruz-medicina": {
+      "codepoint": 62811,
+      "source": "src/_icons/cruz medicina.svg"
+    },
+    "cruz-medicina-negativo": {
+      "codepoint": 62812,
+      "source": "src/_icons/cruz medicina-negativo.svg"
     },
     "cud": {
       "codepoint": 62726,
@@ -542,9 +590,25 @@
       "codepoint": 62358,
       "source": "src/_icons/digital.svg"
     },
+    "diploma": {
+      "codepoint": 62813,
+      "source": "src/_icons/diploma.svg"
+    },
+    "diploma-negativo": {
+      "codepoint": 62814,
+      "source": "src/_icons/diploma-negativo.svg"
+    },
     "discapacidad": {
       "codepoint": 62359,
       "source": "src/_icons/discapacidad.svg"
+    },
+    "discapacidad-2": {
+      "codepoint": 62815,
+      "source": "src/_icons/discapacidad 2.svg"
+    },
+    "discapacidad-2-negativo": {
+      "codepoint": 62816,
+      "source": "src/_icons/discapacidad 2-negativo.svg"
     },
     "discapacitadi-lineal": {
       "codepoint": 62687,
@@ -1062,6 +1126,14 @@
       "codepoint": 62714,
       "source": "src/_icons/maiz.svg"
     },
+    "maletin-check": {
+      "codepoint": 62817,
+      "source": "src/_icons/maletin check.svg"
+    },
+    "maletin-check-negativo": {
+      "codepoint": 62818,
+      "source": "src/_icons/maletin check-negativo.svg"
+    },
     "maletin-medico-1": {
       "codepoint": 62507,
       "source": "src/_icons/maletin medico 1.svg"
@@ -1081,6 +1153,14 @@
     "manzana": {
       "codepoint": 62653,
       "source": "src/_icons/manzana.svg"
+    },
+    "mapa-2": {
+      "codepoint": 62819,
+      "source": "src/_icons/mapa 2.svg"
+    },
+    "mapa-2-negativo": {
+      "codepoint": 62820,
+      "source": "src/_icons/mapa 2-negativo.svg"
     },
     "mapa-argentina": {
       "codepoint": 62631,
@@ -1777,6 +1857,14 @@
     "velero-sin-olas": {
       "codepoint": 62800,
       "source": "src/_icons/velero sin olas.svg"
+    },
+    "vencimiento": {
+      "codepoint": 62821,
+      "source": "src/_icons/vencimiento.svg"
+    },
+    "vencimiento-negativo": {
+      "codepoint": 62822,
+      "source": "src/_icons/vencimiento-negativo.svg"
     },
     "viajero": {
       "codepoint": 62744,

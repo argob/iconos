@@ -82,6 +82,16 @@
       },
     
       {
+        "nombre": "anses",
+        "clase": "icono-arg-anses"
+      },
+    
+      {
+        "nombre": "anses-negativo",
+        "clase": "icono-arg-anses-negativo"
+      },
+    
+      {
         "nombre": "antibalas",
         "clase": "icono-arg-antibalas"
       },
@@ -169,6 +179,16 @@
       {
         "nombre": "auto-licencia-ok",
         "clase": "icono-arg-auto-licencia-ok"
+      },
+    
+      {
+        "nombre": "automor-negativo",
+        "clase": "icono-arg-automor-negativo"
+      },
+    
+      {
+        "nombre": "automotor",
+        "clase": "icono-arg-automotor"
       },
     
       {
@@ -372,6 +392,16 @@
       },
     
       {
+        "nombre": "casa",
+        "clase": "icono-arg-casa"
+      },
+    
+      {
+        "nombre": "casa-negativo",
+        "clase": "icono-arg-casa-negativo"
+      },
+    
+      {
         "nombre": "casco",
         "clase": "icono-arg-casco"
       },
@@ -482,6 +512,16 @@
       },
     
       {
+        "nombre": "cobros",
+        "clase": "icono-arg-cobros"
+      },
+    
+      {
+        "nombre": "cobros-negativo",
+        "clase": "icono-arg-cobros-negativo"
+      },
+    
+      {
         "nombre": "cocina",
         "clase": "icono-arg-cocina"
       },
@@ -554,6 +594,26 @@
       {
         "nombre": "cotizacion-envio",
         "clase": "icono-arg-cotizacion-envio"
+      },
+    
+      {
+        "nombre": "credenciales",
+        "clase": "icono-arg-credenciales"
+      },
+    
+      {
+        "nombre": "credenciales-negativo",
+        "clase": "icono-arg-credenciales-negativo"
+      },
+    
+      {
+        "nombre": "cruz-medicina",
+        "clase": "icono-arg-cruz-medicina"
+      },
+    
+      {
+        "nombre": "cruz-medicina-negativo",
+        "clase": "icono-arg-cruz-medicina-negativo"
       },
     
       {
@@ -667,8 +727,28 @@
       },
     
       {
+        "nombre": "diploma",
+        "clase": "icono-arg-diploma"
+      },
+    
+      {
+        "nombre": "diploma-negativo",
+        "clase": "icono-arg-diploma-negativo"
+      },
+    
+      {
         "nombre": "discapacidad",
         "clase": "icono-arg-discapacidad"
+      },
+    
+      {
+        "nombre": "discapacidad-2",
+        "clase": "icono-arg-discapacidad-2"
+      },
+    
+      {
+        "nombre": "discapacidad-2-negativo",
+        "clase": "icono-arg-discapacidad-2-negativo"
       },
     
       {
@@ -1317,6 +1397,16 @@
       },
     
       {
+        "nombre": "maletin-check",
+        "clase": "icono-arg-maletin-check"
+      },
+    
+      {
+        "nombre": "maletin-check-negativo",
+        "clase": "icono-arg-maletin-check-negativo"
+      },
+    
+      {
         "nombre": "maletin-medico-1",
         "clase": "icono-arg-maletin-medico-1"
       },
@@ -1339,6 +1429,16 @@
       {
         "nombre": "manzana",
         "clase": "icono-arg-manzana"
+      },
+    
+      {
+        "nombre": "mapa-2",
+        "clase": "icono-arg-mapa-2"
+      },
+    
+      {
+        "nombre": "mapa-2-negativo",
+        "clase": "icono-arg-mapa-2-negativo"
       },
     
       {
@@ -2209,6 +2309,16 @@
       {
         "nombre": "velero-sin-olas",
         "clase": "icono-arg-velero-sin-olas"
+      },
+    
+      {
+        "nombre": "vencimiento",
+        "clase": "icono-arg-vencimiento"
+      },
+    
+      {
+        "nombre": "vencimiento-negativo",
+        "clase": "icono-arg-vencimiento-negativo"
       },
     
       {
