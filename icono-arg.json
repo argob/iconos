@@ -182,13 +182,13 @@
       },
     
       {
-        "nombre": "automor-negativo",
-        "clase": "icono-arg-automor-negativo"
+        "nombre": "automotor",
+        "clase": "icono-arg-automotor"
       },
     
       {
-        "nombre": "automotor",
-        "clase": "icono-arg-automotor"
+        "nombre": "automotor-negativo",
+        "clase": "icono-arg-automotor-negativo"
       },
     
       {
@@ -1349,6 +1349,16 @@
       {
         "nombre": "libre-de-glutem",
         "clase": "icono-arg-libre-de-glutem"
+      },
+    
+      {
+        "nombre": "licencia-valida",
+        "clase": "icono-arg-licencia-valida"
+      },
+    
+      {
+        "nombre": "licencia-valida-negativo",
+        "clase": "icono-arg-licencia-valida-negativo"
       },
     
       {

@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8415e4889fc0f5cddd045a4ecb9bf0b8d28194fd82875f67aad95b42b6b1cee7",
-    "current": "8415e4889fc0f5cddd045a4ecb9bf0b8d28194fd82875f67aad95b42b6b1cee7"
+    "previous": "ab53d69bacf557cce7e43293c4d93f415f95ae752c46a9d8e07cc2c71a720000",
+    "current": "ab53d69bacf557cce7e43293c4d93f415f95ae752c46a9d8e07cc2c71a720000"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.ttf",
-    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.svg",
-    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.woff",
-    "dist/fonts/icono-arg_8415e4889fc0f5cddd045a4ecb9bf0b8.eot"
+    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.ttf",
+    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.svg",
+    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.woff",
+    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -154,13 +154,13 @@
       "codepoint": 62336,
       "source": "src/_icons/auto licencia ok.svg"
     },
-    "automor-negativo": {
-      "codepoint": 62803,
-      "source": "src/_icons/automor-negativo.svg"
-    },
     "automotor": {
       "codepoint": 62804,
       "source": "src/_icons/automotor.svg"
+    },
+    "automotor-negativo": {
+      "codepoint": 62823,
+      "source": "src/_icons/automotor-negativo.svg"
     },
     "avion": {
       "codepoint": 62337,
@@ -1089,6 +1089,14 @@
     "libre-de-glutem": {
       "codepoint": 62671,
       "source": "src/_icons/libre de glutem.svg"
+    },
+    "licencia-valida": {
+      "codepoint": 62824,
+      "source": "src/_icons/licencia-valida.svg"
+    },
+    "licencia-valida-negativo": {
+      "codepoint": 62825,
+      "source": "src/_icons/licencia-valida-negativo.svg"
     },
     "lluvias": {
       "codepoint": 62783,
