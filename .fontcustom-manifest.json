@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "ab53d69bacf557cce7e43293c4d93f415f95ae752c46a9d8e07cc2c71a720000",
-    "current": "ab53d69bacf557cce7e43293c4d93f415f95ae752c46a9d8e07cc2c71a720000"
+    "previous": "88e6ff68c61101840d64c6336d57f93dcd47c3edaa8d8562e16aa76974448d0a",
+    "current": "88e6ff68c61101840d64c6336d57f93dcd47c3edaa8d8562e16aa76974448d0a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.ttf",
-    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.svg",
-    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.woff",
-    "dist/fonts/icono-arg_ab53d69bacf557cce7e43293c4d93f41.eot"
+    "dist/fonts/icono-arg_88e6ff68c61101840d64c6336d57f93d.ttf",
+    "dist/fonts/icono-arg_88e6ff68c61101840d64c6336d57f93d.svg",
+    "dist/fonts/icono-arg_88e6ff68c61101840d64c6336d57f93d.woff",
+    "dist/fonts/icono-arg_88e6ff68c61101840d64c6336d57f93d.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -37,6 +37,10 @@
     "agua-contaminada": {
       "codepoint": 62777,
       "source": "src/_icons/agua contaminada.svg"
+    },
+    "ahorro": {
+      "codepoint": 62826,
+      "source": "src/_icons/ahorro.svg"
     },
     "aire": {
       "codepoint": 62486,
@@ -209,6 +213,10 @@
     "bolsa-compras": {
       "codepoint": 62644,
       "source": "src/_icons/bolsa compras.svg"
+    },
+    "bolsa_dinero": {
+      "codepoint": 62827,
+      "source": "src/_icons/bolsa_dinero.svg"
     },
     "bosques": {
       "codepoint": 62587,
@@ -418,6 +426,10 @@
       "codepoint": 62349,
       "source": "src/_icons/cluse.svg"
     },
+    "cobro_pago": {
+      "codepoint": 62828,
+      "source": "src/_icons/cobro_pago.svg"
+    },
     "cobros": {
       "codepoint": 62807,
       "source": "src/_icons/cobros.svg"
@@ -610,13 +622,13 @@
       "codepoint": 62816,
       "source": "src/_icons/discapacidad 2-negativo.svg"
     },
-    "discapacitadi-lineal": {
-      "codepoint": 62687,
-      "source": "src/_icons/discapacitadi lineal.svg"
+    "discapacidad-3": {
+      "codepoint": 62829,
+      "source": "src/_icons/discapacidad 3.svg"
     },
-    "discapacitado-neg": {
-      "codepoint": 62688,
-      "source": "src/_icons/discapacitado neg.svg"
+    "discapacidad-3--negativo": {
+      "codepoint": 62830,
+      "source": "src/_icons/discapacidad 3 -negativo.svg"
     },
     "diversidad-sexual": {
       "codepoint": 62475,
@@ -866,6 +878,14 @@
       "codepoint": 62650,
       "source": "src/_icons/gaseosa prohibida.svg"
     },
+    "gastos": {
+      "codepoint": 62831,
+      "source": "src/_icons/gastos.svg"
+    },
+    "gastos_recursos": {
+      "codepoint": 62832,
+      "source": "src/_icons/gastos_recursos.svg"
+    },
     "genero": {
       "codepoint": 62476,
       "source": "src/_icons/genero.svg"
@@ -901,6 +921,10 @@
     "graduada": {
       "codepoint": 62530,
       "source": "src/_icons/graduada.svg"
+    },
+    "grafico_circular": {
+      "codepoint": 62833,
+      "source": "src/_icons/grafico_circular.svg"
     },
     "granizo": {
       "codepoint": 62781,
@@ -1254,6 +1278,10 @@
       "codepoint": 62716,
       "source": "src/_icons/molino.svg"
     },
+    "monedas": {
+      "codepoint": 62834,
+      "source": "src/_icons/monedas.svg"
+    },
     "mosquito": {
       "codepoint": 62785,
       "source": "src/_icons/mosquito.svg"
@@ -1482,6 +1510,10 @@
       "codepoint": 62611,
       "source": "src/_icons/preservativo.svg"
     },
+    "presupuesto": {
+      "codepoint": 62835,
+      "source": "src/_icons/presupuesto.svg"
+    },
     "probeta": {
       "codepoint": 62676,
       "source": "src/_icons/probeta.svg"
@@ -1533,6 +1565,10 @@
     "reclamo-demora": {
       "codepoint": 62398,
       "source": "src/_icons/reclamo demora.svg"
+    },
+    "recursos_origen": {
+      "codepoint": 62836,
+      "source": "src/_icons/recursos_origen.svg"
     },
     "registro-donantes-medula-osea": {
       "codepoint": 62776,
@@ -1677,6 +1713,10 @@
     "sustancias-ok": {
       "codepoint": 62678,
       "source": "src/_icons/sustancias ok.svg"
+    },
+    "tabla_de_datos": {
+      "codepoint": 62837,
+      "source": "src/_icons/tabla_de_datos.svg"
     },
     "tablero-gestion": {
       "codepoint": 62740,

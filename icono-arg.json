@@ -37,6 +37,11 @@
       },
     
       {
+        "nombre": "ahorro",
+        "clase": "icono-arg-ahorro"
+      },
+    
+      {
         "nombre": "aire",
         "clase": "icono-arg-aire"
       },
@@ -249,6 +254,11 @@
       {
         "nombre": "bolsa-compras",
         "clase": "icono-arg-bolsa-compras"
+      },
+    
+      {
+        "nombre": "bolsa_dinero",
+        "clase": "icono-arg-bolsa_dinero"
       },
     
       {
@@ -512,6 +522,11 @@
       },
     
       {
+        "nombre": "cobro_pago",
+        "clase": "icono-arg-cobro_pago"
+      },
+    
+      {
         "nombre": "cobros",
         "clase": "icono-arg-cobros"
       },
@@ -752,13 +767,13 @@
       },
     
       {
-        "nombre": "discapacitadi-lineal",
-        "clase": "icono-arg-discapacitadi-lineal"
+        "nombre": "discapacidad-3",
+        "clase": "icono-arg-discapacidad-3"
       },
     
       {
-        "nombre": "discapacitado-neg",
-        "clase": "icono-arg-discapacitado-neg"
+        "nombre": "discapacidad-3--negativo",
+        "clase": "icono-arg-discapacidad-3--negativo"
       },
     
       {
@@ -1072,6 +1087,16 @@
       },
     
       {
+        "nombre": "gastos",
+        "clase": "icono-arg-gastos"
+      },
+    
+      {
+        "nombre": "gastos_recursos",
+        "clase": "icono-arg-gastos_recursos"
+      },
+    
+      {
         "nombre": "genero",
         "clase": "icono-arg-genero"
       },
@@ -1114,6 +1139,11 @@
       {
         "nombre": "graduada",
         "clase": "icono-arg-graduada"
+      },
+    
+      {
+        "nombre": "grafico_circular",
+        "clase": "icono-arg-grafico_circular"
       },
     
       {
@@ -1557,6 +1587,11 @@
       },
     
       {
+        "nombre": "monedas",
+        "clase": "icono-arg-monedas"
+      },
+    
+      {
         "nombre": "mosquito",
         "clase": "icono-arg-mosquito"
       },
@@ -1842,6 +1877,11 @@
       },
     
       {
+        "nombre": "presupuesto",
+        "clase": "icono-arg-presupuesto"
+      },
+    
+      {
         "nombre": "probeta",
         "clase": "icono-arg-probeta"
       },
@@ -1904,6 +1944,11 @@
       {
         "nombre": "reclamo-demora",
         "clase": "icono-arg-reclamo-demora"
+      },
+    
+      {
+        "nombre": "recursos_origen",
+        "clase": "icono-arg-recursos_origen"
       },
     
       {
@@ -2084,6 +2129,11 @@
       {
         "nombre": "sustancias-ok",
         "clase": "icono-arg-sustancias-ok"
+      },
+    
+      {
+        "nombre": "tabla_de_datos",
+        "clase": "icono-arg-tabla_de_datos"
       },
     
       {
