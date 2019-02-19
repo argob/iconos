@@ -257,8 +257,8 @@
       },
     
       {
-        "nombre": "bolsa_dinero",
-        "clase": "icono-arg-bolsa_dinero"
+        "nombre": "bolsa-dinero",
+        "clase": "icono-arg-bolsa-dinero"
       },
     
       {
@@ -287,8 +287,8 @@
       },
     
       {
-        "nombre": "caja-exp-02",
-        "clase": "icono-arg-caja-exp-02"
+        "nombre": "caja-exp-2",
+        "clase": "icono-arg-caja-exp-2"
       },
     
       {
@@ -327,8 +327,8 @@
       },
     
       {
-        "nombre": "camara---vigilancia",
-        "clase": "icono-arg-camara---vigilancia"
+        "nombre": "camara-vigilancia",
+        "clase": "icono-arg-camara-vigilancia"
       },
     
       {
@@ -372,8 +372,8 @@
       },
     
       {
-        "nombre": "canilla-02",
-        "clase": "icono-arg-canilla-02"
+        "nombre": "canilla-2",
+        "clase": "icono-arg-canilla-2"
       },
     
       {
@@ -522,8 +522,8 @@
       },
     
       {
-        "nombre": "cobro_pago",
-        "clase": "icono-arg-cobro_pago"
+        "nombre": "cobro-pago",
+        "clase": "icono-arg-cobro-pago"
       },
     
       {
@@ -537,6 +537,11 @@
       },
     
       {
+        "nombre": "cochecito",
+        "clase": "icono-arg-cochecito"
+      },
+    
+      {
         "nombre": "cocina",
         "clase": "icono-arg-cocina"
       },
@@ -544,11 +549,6 @@
       {
         "nombre": "cocina-negativo",
         "clase": "icono-arg-cocina-negativo"
-      },
-    
-      {
-        "nombre": "codigo-QR",
-        "clase": "icono-arg-codigo-QR"
       },
     
       {
@@ -562,13 +562,18 @@
       },
     
       {
+        "nombre": "codigo-qr",
+        "clase": "icono-arg-codigo-qr"
+      },
+    
+      {
         "nombre": "computadora",
         "clase": "icono-arg-computadora"
       },
     
       {
-        "nombre": "computadora---celular---tablet",
-        "clase": "icono-arg-computadora---celular---tablet"
+        "nombre": "computadora-celular-tablet",
+        "clase": "icono-arg-computadora-celular-tablet"
       },
     
       {
@@ -682,13 +687,13 @@
       },
     
       {
-        "nombre": "declaracio-n-jurada-declaracion-jurada-rectificativa",
-        "clase": "icono-arg-declaracio-n-jurada-declaracion-jurada-rectificativa"
+        "nombre": "declaracion-jurada",
+        "clase": "icono-arg-declaracion-jurada"
       },
     
       {
-        "nombre": "declaracion-jurada",
-        "clase": "icono-arg-declaracion-jurada"
+        "nombre": "declaracion-jurada-rectificativa",
+        "clase": "icono-arg-declaracion-jurada-rectificativa"
       },
     
       {
@@ -772,8 +777,8 @@
       },
     
       {
-        "nombre": "discapacidad-3--negativo",
-        "clase": "icono-arg-discapacidad-3--negativo"
+        "nombre": "discapacidad-3-negativo",
+        "clase": "icono-arg-discapacidad-3-negativo"
       },
     
       {
@@ -902,8 +907,8 @@
       },
     
       {
-        "nombre": "envio-terrestre_1",
-        "clase": "icono-arg-envio-terrestre_1"
+        "nombre": "envio-terrestre-1",
+        "clase": "icono-arg-envio-terrestre-1"
       },
     
       {
@@ -987,8 +992,8 @@
       },
     
       {
-        "nombre": "familia-02",
-        "clase": "icono-arg-familia-02"
+        "nombre": "familia-2",
+        "clase": "icono-arg-familia-2"
       },
     
       {
@@ -1027,8 +1032,8 @@
       },
     
       {
-        "nombre": "frio-02",
-        "clase": "icono-arg-frio-02"
+        "nombre": "frio-2",
+        "clase": "icono-arg-frio-2"
       },
     
       {
@@ -1092,8 +1097,8 @@
       },
     
       {
-        "nombre": "gastos_recursos",
-        "clase": "icono-arg-gastos_recursos"
+        "nombre": "gastos-recursos",
+        "clase": "icono-arg-gastos-recursos"
       },
     
       {
@@ -1142,8 +1147,8 @@
       },
     
       {
-        "nombre": "grafico_circular",
-        "clase": "icono-arg-grafico_circular"
+        "nombre": "grafico-circular",
+        "clase": "icono-arg-grafico-circular"
       },
     
       {
@@ -1172,8 +1177,8 @@
       },
     
       {
-        "nombre": "herramientas---colaborativas",
-        "clase": "icono-arg-herramientas---colaborativas"
+        "nombre": "herramientas-colaborativas",
+        "clase": "icono-arg-herramientas-colaborativas"
       },
     
       {
@@ -1367,8 +1372,8 @@
       },
     
       {
-        "nombre": "lazo-neg",
-        "clase": "icono-arg-lazo-neg"
+        "nombre": "lazo-negativo",
+        "clase": "icono-arg-lazo-negativo"
       },
     
       {
@@ -1377,8 +1382,8 @@
       },
     
       {
-        "nombre": "libre-de-glutem",
-        "clase": "icono-arg-libre-de-glutem"
+        "nombre": "libre-de-gluten",
+        "clase": "icono-arg-libre-de-gluten"
       },
     
       {
@@ -1537,8 +1542,8 @@
       },
     
       {
-        "nombre": "medicamentos-02",
-        "clase": "icono-arg-medicamentos-02"
+        "nombre": "medicamentos-2",
+        "clase": "icono-arg-medicamentos-2"
       },
     
       {
@@ -1792,11 +1797,6 @@
       },
     
       {
-        "nombre": "paso_a_nivel",
-        "clase": "icono-arg-paso_a_nivel"
-      },
-    
-      {
         "nombre": "pd-punto-digital",
         "clase": "icono-arg-pd-punto-digital"
       },
@@ -1917,13 +1917,13 @@
       },
     
       {
-        "nombre": "radar-meteorolo-gico",
-        "clase": "icono-arg-radar-meteorolo-gico"
+        "nombre": "radar-meteorologico",
+        "clase": "icono-arg-radar-meteorologico"
       },
     
       {
-        "nombre": "reactor-RA6",
-        "clase": "icono-arg-reactor-RA6"
+        "nombre": "reactor-ra6",
+        "clase": "icono-arg-reactor-ra6"
       },
     
       {
@@ -1947,8 +1947,8 @@
       },
     
       {
-        "nombre": "recursos_origen",
-        "clase": "icono-arg-recursos_origen"
+        "nombre": "recursos-origen",
+        "clase": "icono-arg-recursos-origen"
       },
     
       {
@@ -2132,8 +2132,8 @@
       },
     
       {
-        "nombre": "tabla_de_datos",
-        "clase": "icono-arg-tabla_de_datos"
+        "nombre": "tabla-de-datos",
+        "clase": "icono-arg-tabla-de-datos"
       },
     
       {
@@ -2179,11 +2179,6 @@
       {
         "nombre": "temporal-frio",
         "clase": "icono-arg-temporal-frio"
-      },
-    
-      {
-        "nombre": "tener-un-hijo",
-        "clase": "icono-arg-tener-un-hijo"
       },
     
       {
@@ -2247,8 +2242,8 @@
       },
     
       {
-        "nombre": "tramite-electro-nico",
-        "clase": "icono-arg-tramite-electro-nico"
+        "nombre": "tramite-electronico",
+        "clase": "icono-arg-tramite-electronico"
       },
     
       {
