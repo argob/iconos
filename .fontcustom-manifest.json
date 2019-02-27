@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "24fd03af66d853ba0643e0f212c5ea3706b3abcd77f662118791bd97191cf0fe",
-    "current": "24fd03af66d853ba0643e0f212c5ea3706b3abcd77f662118791bd97191cf0fe"
+    "previous": "f15d43c43764c74a4da77fbe4951b078eef2a5491945aaf1965f240abc85c3ac",
+    "current": "f15d43c43764c74a4da77fbe4951b078eef2a5491945aaf1965f240abc85c3ac"
   },
   "fonts": [
-    "dist/fonts/icono-arg_24fd03af66d853ba0643e0f212c5ea37.ttf",
-    "dist/fonts/icono-arg_24fd03af66d853ba0643e0f212c5ea37.svg",
-    "dist/fonts/icono-arg_24fd03af66d853ba0643e0f212c5ea37.woff",
-    "dist/fonts/icono-arg_24fd03af66d853ba0643e0f212c5ea37.eot"
+    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.ttf",
+    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.svg",
+    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.woff",
+    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.eot"
   ],
   "glyphs": {
     "abeja": {
