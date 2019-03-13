@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2019-2-27: Created with FontForge (http://fontforge.org)
+2019-3-13: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170103 at Wed Feb 27 13:03:28 2019
+Created by FontForge 20170103 at Wed Mar 13 14:40:50 2019
  By debora herrera
 Copyright (c) 2019, debora herrera
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2019, debora herrera
     bbox="-0.441012 -53 506 439"
     underline-thickness="38.4"
     underline-position="-76.8"
-    unicode-range="U+0020-F58D"
+    unicode-range="U+0020-F58E"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -1846,6 +1846,10 @@ c-3 3 -10 5 -14 5h-1v0c-2 0 -5 -1 -7 -1s-4 -1 -5 -2c-4 -3 -10 -8 -13 -11l-2 -2v0
 c-3 2 -5 6 -5 10v0c0 6 6 12 12 12v0v0c4 0 9 -1 12 -2c6 -2 16 -7 21 -11c3 -2 7 -6 9 -9l8 -8c4 -4 12 -6 17 -6v0v0v0c2 0 5 0 7 1c1 0 1 1 2 1c3 2 8 4 11 7c2 1 3 3 5 5s5 6 7 7s3 4 5 5c7 6 20 10 29 10h1v0c3 0 7 0 10 -1c7 -1 18 -7 23 -12c3 -2 7 -6 9 -9l6 -6
 l2 -1v0c4 -4 11 -7 16 -7h1v0v0h6c4 1 10 5 13 8l1 1l5 5c3 3 8 9 12 12c3 2 9 6 13 7c4 2 11 3 16 3h1v0h1c10 0 25 -6 32 -13l2 -1c3 -2 5 -6 7 -8l7 -7v0c4 -4 12 -7 17 -7h1v0v0h6c3 1 8 3 10 5l4 4l5 5c3 3 8 8 12 11c7 6 21 11 30 11v0v0zM224 180
 c11 -2 27 -12 34 -21l2 -2c-6 -2 -13 -6 -18 -9l-3 -3l-3 3c-4 5 -13 9 -20 9s-16 -4 -20 -9l-5 -5l-1 -1c-2 2 -4 4 -6 5c-4 3 -10 6 -14 8l4 4c6 8 19 17 28 20c4 1 10 2 14 2v0v0c2 0 6 -1 8 -1z" />
+    <glyph glyph-name="uniF58E" unicode="&#xf58e;" horiz-adv-x="410" 
+d="M50 203l183 1l24 147v0c-5 0 -9 4 -9 9v26v0c0 5 4 8 9 8v0h52c5 0 8 -3 8 -8v-26c0 -5 -3 -9 -8 -9v0l24 -148h31c5 0 9 -4 9 -9v-64c0 -5 -4 -9 -9 -9s-9 4 -9 9v55h-139v-55c0 -5 -4 -9 -9 -9s-9 4 -9 9v55h-139v-55v-1c0 -5 -4 -9 -9 -9s-9 4 -9 9v1v64c0 5 4 9 9 9
+v0zM253 203h61l-30 33zM313 220l-7 42l-15 -17zM266 377v-9h34v9h-34zM272 337l12 -13l10 14l-3 13h-16zM277 317l-7 8l-3 -21zM296 325l-7 -8l10 -12zM283 309l-18 -22h36zM303 276h-40l20 -22zM260 262l-7 -41l22 24zM364 -10c-5 0 -9 4 -9 9v0v86h-139v-66
+c0 -5 -4 -9 -9 -9s-9 4 -9 9v66h-139v-86c0 -5 -4 -9 -9 -9s-9 4 -9 9v86h-32c-5 0 -9 4 -9 9s4 10 9 10h392c5 0 9 -5 9 -10s-4 -9 -9 -9h-28v-86c0 -5 -4 -9 -9 -9z" />
     <glyph glyph-name="uniF409" unicode="&#xf409;" horiz-adv-x="401" 
 d="M46 95v0c-13 0 -23 11 -23 24v216c0 13 10 23 23 23h67c6 0 11 -4 11 -10s-5 -10 -11 -10h-67c-2 0 -3 -2 -3 -4v-193h316v193c0 2 -2 4 -4 4v0h-113c-6 0 -10 4 -10 10s4 10 10 10h113c13 0 24 -11 24 -24v-215c0 -13 -11 -24 -24 -24h-309zM394 40c4 -5 7 -13 7 -19
 c0 -3 -1 -8 -2 -11c-2 -7 -9 -13 -16 -13h-364c-7 0 -15 5 -17 12c-1 3 -2 9 -2 12c0 6 4 14 8 19l26 25c3 3 8 5 12 5h310c4 0 8 -2 11 -5zM161 292h1c1 0 1 -1 1 -1l6 -18v-1c0 -1 0 -1 -1 -1l-11 -4v0c0 -2 -1 -5 -1 -7l11 -5v-1v-1l-8 -17l-2 -1v0l-11 6

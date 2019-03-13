@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "f15d43c43764c74a4da77fbe4951b078eef2a5491945aaf1965f240abc85c3ac",
-    "current": "f15d43c43764c74a4da77fbe4951b078eef2a5491945aaf1965f240abc85c3ac"
+    "previous": "5f2815dbfe4ffbc29b1912e5895853735913be86d7e950808d666a5882436d2e",
+    "current": "5f2815dbfe4ffbc29b1912e5895853735913be86d7e950808d666a5882436d2e"
   },
   "fonts": [
-    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.ttf",
-    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.svg",
-    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.woff",
-    "dist/fonts/icono-arg_f15d43c43764c74a4da77fbe4951b078.eot"
+    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.ttf",
+    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.svg",
+    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.woff",
+    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -1497,6 +1497,10 @@
     "plataforma-offshore": {
       "codepoint": 62797,
       "source": "src/_icons/plataforma-offshore.svg"
+    },
+    "plataforma-offshore-2": {
+      "codepoint": 62862,
+      "source": "src/_icons/plataforma-offshore-2.svg"
     },
     "poligono-de-tiro": {
       "codepoint": 62764,

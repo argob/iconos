@@ -1862,6 +1862,11 @@
       },
     
       {
+        "nombre": "plataforma-offshore-2",
+        "clase": "icono-arg-plataforma-offshore-2"
+      },
+    
+      {
         "nombre": "poligono-de-tiro",
         "clase": "icono-arg-poligono-de-tiro"
       },
