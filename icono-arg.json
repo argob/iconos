@@ -287,11 +287,6 @@
       },
     
       {
-        "nombre": "bosques",
-        "clase": "icono-arg-bosques"
-      },
-    
-      {
         "nombre": "buceo",
         "clase": "icono-arg-buceo"
       },
@@ -459,11 +454,6 @@
       {
         "nombre": "cedula-verde",
         "clase": "icono-arg-cedula-verde"
-      },
-    
-      {
-        "nombre": "celestes_anses",
-        "clase": "icono-arg-celestes_anses"
       },
     
       {

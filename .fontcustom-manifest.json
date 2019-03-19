@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "0f41dc3d81ce3018162fda7f098e1540ada5ae64a987ec46a6dbec7192ce9fd3",
-    "current": "0f41dc3d81ce3018162fda7f098e1540ada5ae64a987ec46a6dbec7192ce9fd3"
+    "previous": "9cf2ec6f3dd815ef3a68debda007a37269887db62284a01b5095ed44beafa68a",
+    "current": "9cf2ec6f3dd815ef3a68debda007a37269887db62284a01b5095ed44beafa68a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.ttf",
-    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.svg",
-    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.woff",
-    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.eot",
-    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.woff2"
+    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.ttf",
+    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.svg",
+    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.woff",
+    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.eot",
+    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.woff2"
   ],
   "glyphs": {
     "AGUA": {
@@ -239,10 +239,6 @@
       "codepoint": 62838,
       "source": "src/_icons/bolsa-dinero.svg"
     },
-    "bosques": {
-      "codepoint": 62587,
-      "source": "src/_icons/bosques.svg"
-    },
     "buceo": {
       "codepoint": 62338,
       "source": "src/_icons/buceo.svg"
@@ -378,10 +374,6 @@
     "cedula-verde": {
       "codepoint": 62723,
       "source": "src/_icons/cedula-verde.svg"
-    },
-    "celestes_anses": {
-      "codepoint": 62870,
-      "source": "src/_icons/celestes_anses.svg"
     },
     "celular": {
       "codepoint": 62602,
