@@ -1,15 +1,44 @@
 {
   "checksum": {
-    "previous": "5f2815dbfe4ffbc29b1912e5895853735913be86d7e950808d666a5882436d2e",
-    "current": "5f2815dbfe4ffbc29b1912e5895853735913be86d7e950808d666a5882436d2e"
+    "previous": "0f41dc3d81ce3018162fda7f098e1540ada5ae64a987ec46a6dbec7192ce9fd3",
+    "current": "0f41dc3d81ce3018162fda7f098e1540ada5ae64a987ec46a6dbec7192ce9fd3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.ttf",
-    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.svg",
-    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.woff",
-    "dist/fonts/icono-arg_5f2815dbfe4ffbc29b1912e589585373.eot"
+    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.ttf",
+    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.svg",
+    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.woff",
+    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.eot",
+    "dist/fonts/icono-arg_0f41dc3d81ce3018162fda7f098e1540.woff2"
   ],
   "glyphs": {
+    "AGUA": {
+      "codepoint": 62863,
+      "source": "src/_icons/AGUA.svg"
+    },
+    "BARRIO": {
+      "codepoint": 62864,
+      "source": "src/_icons/BARRIO.svg"
+    },
+    "CANILLA": {
+      "codepoint": 62865,
+      "source": "src/_icons/CANILLA.svg"
+    },
+    "CONSTRUCCION": {
+      "codepoint": 62866,
+      "source": "src/_icons/CONSTRUCCION.svg"
+    },
+    "HABITAT": {
+      "codepoint": 62867,
+      "source": "src/_icons/HABITAT.svg"
+    },
+    "NIDO": {
+      "codepoint": 62868,
+      "source": "src/_icons/NIDO.svg"
+    },
+    "URBANIZACION": {
+      "codepoint": 62869,
+      "source": "src/_icons/URBANIZACION.svg"
+    },
     "abeja": {
       "codepoint": 62708,
       "source": "src/_icons/abeja.svg"
@@ -29,10 +58,6 @@
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
-    },
-    "agua": {
-      "codepoint": 62447,
-      "source": "src/_icons/agua.svg"
     },
     "agua-contaminada": {
       "codepoint": 62777,
@@ -206,10 +231,6 @@
       "codepoint": 62472,
       "source": "src/_icons/barrilete.svg"
     },
-    "barrio": {
-      "codepoint": 62448,
-      "source": "src/_icons/barrio.svg"
-    },
     "bolsa-compras": {
       "codepoint": 62644,
       "source": "src/_icons/bolsa-compras.svg"
@@ -302,10 +323,6 @@
       "codepoint": 62749,
       "source": "src/_icons/candado-cerrado.svg"
     },
-    "canilla": {
-      "codepoint": 62450,
-      "source": "src/_icons/canilla.svg"
-    },
     "canilla-2": {
       "codepoint": 62841,
       "source": "src/_icons/canilla-2.svg"
@@ -361,6 +378,10 @@
     "cedula-verde": {
       "codepoint": 62723,
       "source": "src/_icons/cedula-verde.svg"
+    },
+    "celestes_anses": {
+      "codepoint": 62870,
+      "source": "src/_icons/celestes_anses.svg"
     },
     "celular": {
       "codepoint": 62602,
@@ -481,10 +502,6 @@
     "conexion": {
       "codepoint": 62493,
       "source": "src/_icons/conexion.svg"
-    },
-    "construccion": {
-      "codepoint": 62451,
-      "source": "src/_icons/construccion.svg"
     },
     "consulta": {
       "codepoint": 62351,
@@ -938,10 +955,6 @@
       "codepoint": 62731,
       "source": "src/_icons/guia-tramites.svg"
     },
-    "habitat": {
-      "codepoint": 62455,
-      "source": "src/_icons/habitat.svg"
-    },
     "heladera": {
       "codepoint": 62537,
       "source": "src/_icons/heladera.svg"
@@ -1318,10 +1331,6 @@
       "codepoint": 62551,
       "source": "src/_icons/nevadas.svg"
     },
-    "nido": {
-      "codepoint": 62458,
-      "source": "src/_icons/nido.svg"
-    },
     "niebla": {
       "codepoint": 62786,
       "source": "src/_icons/niebla.svg"
@@ -1541,6 +1550,10 @@
     "promocion-comercial": {
       "codepoint": 62632,
       "source": "src/_icons/promocion-comercial.svg"
+    },
+    "prueba": {
+      "codepoint": 62871,
+      "source": "src/_icons/prueba.svg"
     },
     "pueblos-originarios": {
       "codepoint": 62478,
@@ -1866,10 +1879,6 @@
       "codepoint": 62582,
       "source": "src/_icons/turno-negativo.svg"
     },
-    "urbanizacion": {
-      "codepoint": 62471,
-      "source": "src/_icons/urbanizacion.svg"
-    },
     "usuarios": {
       "codepoint": 62583,
       "source": "src/_icons/usuarios.svg"
@@ -1963,6 +1972,8 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icono-arg-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
