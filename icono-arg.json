@@ -2,41 +2,6 @@
   "iconos": [
     
       {
-        "nombre": "AGUA",
-        "clase": "icono-arg-AGUA"
-      },
-    
-      {
-        "nombre": "BARRIO",
-        "clase": "icono-arg-BARRIO"
-      },
-    
-      {
-        "nombre": "CANILLA",
-        "clase": "icono-arg-CANILLA"
-      },
-    
-      {
-        "nombre": "CONSTRUCCION",
-        "clase": "icono-arg-CONSTRUCCION"
-      },
-    
-      {
-        "nombre": "HABITAT",
-        "clase": "icono-arg-HABITAT"
-      },
-    
-      {
-        "nombre": "NIDO",
-        "clase": "icono-arg-NIDO"
-      },
-    
-      {
-        "nombre": "URBANIZACION",
-        "clase": "icono-arg-URBANIZACION"
-      },
-    
-      {
         "nombre": "abeja",
         "clase": "icono-arg-abeja"
       },
@@ -59,6 +24,11 @@
       {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
+      },
+    
+      {
+        "nombre": "agua",
+        "clase": "icono-arg-agua"
       },
     
       {
@@ -277,6 +247,11 @@
       },
     
       {
+        "nombre": "barrio",
+        "clase": "icono-arg-barrio"
+      },
+    
+      {
         "nombre": "bolsa-compras",
         "clase": "icono-arg-bolsa-compras"
       },
@@ -384,6 +359,11 @@
       {
         "nombre": "candado-cerrado",
         "clase": "icono-arg-candado-cerrado"
+      },
+    
+      {
+        "nombre": "canilla",
+        "clase": "icono-arg-canilla"
       },
     
       {
@@ -604,6 +584,11 @@
       {
         "nombre": "conexion",
         "clase": "icono-arg-conexion"
+      },
+    
+      {
+        "nombre": "construccion",
+        "clase": "icono-arg-construccion"
       },
     
       {
@@ -1172,6 +1157,11 @@
       },
     
       {
+        "nombre": "habitat",
+        "clase": "icono-arg-habitat"
+      },
+    
+      {
         "nombre": "heladera",
         "clase": "icono-arg-heladera"
       },
@@ -1639,6 +1629,11 @@
       {
         "nombre": "nevadas",
         "clase": "icono-arg-nevadas"
+      },
+    
+      {
+        "nombre": "nido",
+        "clase": "icono-arg-nido"
       },
     
       {
@@ -2324,6 +2319,11 @@
       {
         "nombre": "turno-negativo",
         "clase": "icono-arg-turno-negativo"
+      },
+    
+      {
+        "nombre": "urbanizacion",
+        "clase": "icono-arg-urbanizacion"
       },
     
       {

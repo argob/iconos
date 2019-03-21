@@ -1,44 +1,16 @@
 {
   "checksum": {
-    "previous": "9cf2ec6f3dd815ef3a68debda007a37269887db62284a01b5095ed44beafa68a",
-    "current": "9cf2ec6f3dd815ef3a68debda007a37269887db62284a01b5095ed44beafa68a"
+    "previous": "6b35ad5ecf1fbdf3aa374b7f9d92221d5411e97da1ae0ca30ba6c833d48312d6",
+    "current": "6b35ad5ecf1fbdf3aa374b7f9d92221d5411e97da1ae0ca30ba6c833d48312d6"
   },
   "fonts": [
-    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.ttf",
-    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.svg",
-    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.woff",
-    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.eot",
-    "dist/fonts/icono-arg_9cf2ec6f3dd815ef3a68debda007a372.woff2"
+    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.ttf",
+    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.svg",
+    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.woff",
+    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.eot",
+    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.woff2"
   ],
   "glyphs": {
-    "AGUA": {
-      "codepoint": 62863,
-      "source": "src/_icons/AGUA.svg"
-    },
-    "BARRIO": {
-      "codepoint": 62864,
-      "source": "src/_icons/BARRIO.svg"
-    },
-    "CANILLA": {
-      "codepoint": 62865,
-      "source": "src/_icons/CANILLA.svg"
-    },
-    "CONSTRUCCION": {
-      "codepoint": 62866,
-      "source": "src/_icons/CONSTRUCCION.svg"
-    },
-    "HABITAT": {
-      "codepoint": 62867,
-      "source": "src/_icons/HABITAT.svg"
-    },
-    "NIDO": {
-      "codepoint": 62868,
-      "source": "src/_icons/NIDO.svg"
-    },
-    "URBANIZACION": {
-      "codepoint": 62869,
-      "source": "src/_icons/URBANIZACION.svg"
-    },
     "abeja": {
       "codepoint": 62708,
       "source": "src/_icons/abeja.svg"
@@ -58,6 +30,10 @@
     "agricultura": {
       "codepoint": 62321,
       "source": "src/_icons/agricultura.svg"
+    },
+    "agua": {
+      "codepoint": 62872,
+      "source": "src/_icons/agua.svg"
     },
     "agua-contaminada": {
       "codepoint": 62777,
@@ -231,6 +207,10 @@
       "codepoint": 62472,
       "source": "src/_icons/barrilete.svg"
     },
+    "barrio": {
+      "codepoint": 62873,
+      "source": "src/_icons/barrio.svg"
+    },
     "bolsa-compras": {
       "codepoint": 62644,
       "source": "src/_icons/bolsa-compras.svg"
@@ -318,6 +298,10 @@
     "candado-cerrado": {
       "codepoint": 62749,
       "source": "src/_icons/candado-cerrado.svg"
+    },
+    "canilla": {
+      "codepoint": 62874,
+      "source": "src/_icons/canilla.svg"
     },
     "canilla-2": {
       "codepoint": 62841,
@@ -494,6 +478,10 @@
     "conexion": {
       "codepoint": 62493,
       "source": "src/_icons/conexion.svg"
+    },
+    "construccion": {
+      "codepoint": 62875,
+      "source": "src/_icons/construccion.svg"
     },
     "consulta": {
       "codepoint": 62351,
@@ -947,6 +935,10 @@
       "codepoint": 62731,
       "source": "src/_icons/guia-tramites.svg"
     },
+    "habitat": {
+      "codepoint": 62876,
+      "source": "src/_icons/habitat.svg"
+    },
     "heladera": {
       "codepoint": 62537,
       "source": "src/_icons/heladera.svg"
@@ -1322,6 +1314,10 @@
     "nevadas": {
       "codepoint": 62551,
       "source": "src/_icons/nevadas.svg"
+    },
+    "nido": {
+      "codepoint": 62877,
+      "source": "src/_icons/nido.svg"
     },
     "niebla": {
       "codepoint": 62786,
@@ -1870,6 +1866,10 @@
     "turno-negativo": {
       "codepoint": 62582,
       "source": "src/_icons/turno-negativo.svg"
+    },
+    "urbanizacion": {
+      "codepoint": 62878,
+      "source": "src/_icons/urbanizacion.svg"
     },
     "usuarios": {
       "codepoint": 62583,
