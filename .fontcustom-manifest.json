@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "6b35ad5ecf1fbdf3aa374b7f9d92221d5411e97da1ae0ca30ba6c833d48312d6",
-    "current": "6b35ad5ecf1fbdf3aa374b7f9d92221d5411e97da1ae0ca30ba6c833d48312d6"
+    "previous": "fa8ce3f425f17d36039ae46d42e8356f46870d53fdc476abed3f02867d752851",
+    "current": "fa8ce3f425f17d36039ae46d42e8356f46870d53fdc476abed3f02867d752851"
   },
   "fonts": [
-    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.ttf",
-    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.svg",
-    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.woff",
-    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.eot",
-    "dist/fonts/icono-arg_6b35ad5ecf1fbdf3aa374b7f9d92221d.woff2"
+    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.ttf",
+    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.svg",
+    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.woff",
+    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.eot",
+    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -218,6 +218,10 @@
     "bolsa-dinero": {
       "codepoint": 62838,
       "source": "src/_icons/bolsa-dinero.svg"
+    },
+    "bosques": {
+      "codepoint": 62879,
+      "source": "src/_icons/bosques.svg"
     },
     "buceo": {
       "codepoint": 62338,

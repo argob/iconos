@@ -262,6 +262,11 @@
       },
     
       {
+        "nombre": "bosques",
+        "clase": "icono-arg-bosques"
+      },
+    
+      {
         "nombre": "buceo",
         "clase": "icono-arg-buceo"
       },
