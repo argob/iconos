@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "fa8ce3f425f17d36039ae46d42e8356f46870d53fdc476abed3f02867d752851",
-    "current": "fa8ce3f425f17d36039ae46d42e8356f46870d53fdc476abed3f02867d752851"
+    "previous": "a46544c753e06ad3510918c5c20d97a8943c00d195ed55370c5986c6202ba155",
+    "current": "a46544c753e06ad3510918c5c20d97a8943c00d195ed55370c5986c6202ba155"
   },
   "fonts": [
-    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.ttf",
-    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.svg",
-    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.woff",
-    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.eot",
-    "dist/fonts/icono-arg_fa8ce3f425f17d36039ae46d42e8356f.woff2"
+    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.ttf",
+    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.svg",
+    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.woff",
+    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.eot",
+    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -830,6 +830,14 @@
     "firma-digital": {
       "codepoint": 62637,
       "source": "src/_icons/firma-digital.svg"
+    },
+    "firma-digital-con-token": {
+      "codepoint": 62880,
+      "source": "src/_icons/firma-digital-con-token.svg"
+    },
+    "firma-digital-remota": {
+      "codepoint": 62881,
+      "source": "src/_icons/firma-digital-remota.svg"
     },
     "frio": {
       "codepoint": 62547,

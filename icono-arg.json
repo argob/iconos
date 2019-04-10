@@ -1027,6 +1027,16 @@
       },
     
       {
+        "nombre": "firma-digital-con-token",
+        "clase": "icono-arg-firma-digital-con-token"
+      },
+    
+      {
+        "nombre": "firma-digital-remota",
+        "clase": "icono-arg-firma-digital-remota"
+      },
+    
+      {
         "nombre": "frio",
         "clase": "icono-arg-frio"
       },
