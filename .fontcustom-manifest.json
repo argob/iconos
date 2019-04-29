@@ -1,5 +1,6 @@
 {
   "checksum": {
+<<<<<<< HEAD
     "previous": "a83239261855f1f5483a2ee26b3324753b86c55b1dbb049000cf64619bce66c2",
     "current": "a83239261855f1f5483a2ee26b3324753b86c55b1dbb049000cf64619bce66c2"
   },
@@ -8,6 +9,17 @@
     "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.svg",
     "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.woff",
     "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.eot"
+=======
+    "previous": "eb08ebcc5d0199a880dd5bc772e9835b740dd62ac1abd3fe4a7fb86f57b0a34a",
+    "current": "eb08ebcc5d0199a880dd5bc772e9835b740dd62ac1abd3fe4a7fb86f57b0a34a"
+  },
+  "fonts": [
+    "dist/fonts/icono-arg_eb08ebcc5d0199a880dd5bc772e9835b.ttf",
+    "dist/fonts/icono-arg_eb08ebcc5d0199a880dd5bc772e9835b.svg",
+    "dist/fonts/icono-arg_eb08ebcc5d0199a880dd5bc772e9835b.woff",
+    "dist/fonts/icono-arg_eb08ebcc5d0199a880dd5bc772e9835b.eot",
+    "dist/fonts/icono-arg_eb08ebcc5d0199a880dd5bc772e9835b.woff2"
+>>>>>>> 02760e70c53c3b9bfc30bda5a7e266670732ee6e
   ],
   "glyphs": {
     "abeja": {
@@ -266,9 +278,15 @@
       "codepoint": 62564,
       "source": "src/_icons/calendario-2-negativo.svg"
     },
+<<<<<<< HEAD
     "calibracion-dosimetros": {
       "codepoint": 62882,
       "source": "src/_icons/calibracion dosimetros.svg"
+=======
+    "calibracion-dosimetro": {
+      "codepoint": 62883,
+      "source": "src/_icons/calibracion-dosimetro.svg"
+>>>>>>> 02760e70c53c3b9bfc30bda5a7e266670732ee6e
     },
     "calidad-cert": {
       "codepoint": 62342,

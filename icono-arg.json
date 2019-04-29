@@ -322,8 +322,13 @@
       },
     
       {
+<<<<<<< HEAD
         "nombre": "calibracion-dosimetros",
         "clase": "icono-arg-calibracion-dosimetros"
+=======
+        "nombre": "calibracion-dosimetro",
+        "clase": "icono-arg-calibracion-dosimetro"
+>>>>>>> 02760e70c53c3b9bfc30bda5a7e266670732ee6e
       },
     
       {
