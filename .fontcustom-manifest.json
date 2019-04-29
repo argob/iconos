@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "a46544c753e06ad3510918c5c20d97a8943c00d195ed55370c5986c6202ba155",
-    "current": "a46544c753e06ad3510918c5c20d97a8943c00d195ed55370c5986c6202ba155"
+    "previous": "bf003fc3ec90976c1b24c26090b027a8d83b2cb346f017d4c81380e643e37316",
+    "current": "bf003fc3ec90976c1b24c26090b027a8d83b2cb346f017d4c81380e643e37316"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.ttf",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.svg",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.woff",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.eot",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.woff2"
+    "dist/fonts/icono-arg_bf003fc3ec90976c1b24c26090b027a8.ttf",
+    "dist/fonts/icono-arg_bf003fc3ec90976c1b24c26090b027a8.svg",
+    "dist/fonts/icono-arg_bf003fc3ec90976c1b24c26090b027a8.woff",
+    "dist/fonts/icono-arg_bf003fc3ec90976c1b24c26090b027a8.eot",
+    "dist/fonts/icono-arg_bf003fc3ec90976c1b24c26090b027a8.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -266,6 +266,10 @@
     "calendario-2-negativo": {
       "codepoint": 62564,
       "source": "src/_icons/calendario-2-negativo.svg"
+    },
+    "calibracion-dosimetros": {
+      "codepoint": 62882,
+      "source": "src/_icons/calibracion dosimetros.svg"
     },
     "calidad-cert": {
       "codepoint": 62342,
