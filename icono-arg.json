@@ -322,6 +322,11 @@
       },
     
       {
+        "nombre": "calibracion-dosimetros",
+        "clase": "icono-arg-calibracion-dosimetros"
+      },
+    
+      {
         "nombre": "calidad-cert",
         "clase": "icono-arg-calidad-cert"
       },

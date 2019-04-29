@@ -1,14 +1,13 @@
 {
   "checksum": {
-    "previous": "a46544c753e06ad3510918c5c20d97a8943c00d195ed55370c5986c6202ba155",
-    "current": "a46544c753e06ad3510918c5c20d97a8943c00d195ed55370c5986c6202ba155"
+    "previous": "a83239261855f1f5483a2ee26b3324753b86c55b1dbb049000cf64619bce66c2",
+    "current": "a83239261855f1f5483a2ee26b3324753b86c55b1dbb049000cf64619bce66c2"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.ttf",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.svg",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.woff",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.eot",
-    "dist/fonts/icono-arg_a46544c753e06ad3510918c5c20d97a8.woff2"
+    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.ttf",
+    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.svg",
+    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.woff",
+    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.eot"
   ],
   "glyphs": {
     "abeja": {
@@ -266,6 +265,10 @@
     "calendario-2-negativo": {
       "codepoint": 62564,
       "source": "src/_icons/calendario-2-negativo.svg"
+    },
+    "calibracion-dosimetros": {
+      "codepoint": 62882,
+      "source": "src/_icons/calibracion dosimetros.svg"
     },
     "calidad-cert": {
       "codepoint": 62342,
@@ -1976,8 +1979,6 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
-    "copyright": "",
-    "css3": false,
     "css_selector": ".icono-arg-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
