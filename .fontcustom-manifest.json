@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "a83239261855f1f5483a2ee26b3324753b86c55b1dbb049000cf64619bce66c2",
-    "current": "a83239261855f1f5483a2ee26b3324753b86c55b1dbb049000cf64619bce66c2"
+    "previous": "695da21053ad086a434981a21a811eb4e360d9f94030ff06a6a821a3e2b56ae7",
+    "current": "695da21053ad086a434981a21a811eb4e360d9f94030ff06a6a821a3e2b56ae7"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.ttf",
-    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.svg",
-    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.woff",
-    "dist/fonts/icono-arg_a83239261855f1f5483a2ee26b332475.eot"
+    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.ttf",
+    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.svg",
+    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.woff",
+    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.eot",
+    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -1914,6 +1915,10 @@
       "codepoint": 62770,
       "source": "src/_icons/validacion-identidad.svg"
     },
+    "validez-legal": {
+      "codepoint": 62883,
+      "source": "src/_icons/validez-legal.svg"
+    },
     "velero-con-olas": {
       "codepoint": 62799,
       "source": "src/_icons/velero-con-olas.svg"
@@ -1979,6 +1984,8 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icono-arg-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
