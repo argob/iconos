@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "695da21053ad086a434981a21a811eb4e360d9f94030ff06a6a821a3e2b56ae7",
-    "current": "695da21053ad086a434981a21a811eb4e360d9f94030ff06a6a821a3e2b56ae7"
+    "previous": "d1ccbb2010d0eb3fd6c7508650abd8505c02667e71ee7dd4270ff9812e9f44e4",
+    "current": "d1ccbb2010d0eb3fd6c7508650abd8505c02667e71ee7dd4270ff9812e9f44e4"
   },
   "fonts": [
-    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.ttf",
-    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.svg",
-    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.woff",
-    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.eot",
-    "dist/fonts/icono-arg_695da21053ad086a434981a21a811eb4.woff2"
+    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.ttf",
+    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.svg",
+    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.woff",
+    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.eot",
+    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -210,6 +210,14 @@
     "barrio": {
       "codepoint": 62873,
       "source": "src/_icons/barrio.svg"
+    },
+    "billetera-lineal": {
+      "codepoint": 62884,
+      "source": "src/_icons/billetera-lineal.svg"
+    },
+    "billetera-negativo": {
+      "codepoint": 62885,
+      "source": "src/_icons/billetera-negativo.svg"
     },
     "bolsa-compras": {
       "codepoint": 62644,

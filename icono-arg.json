@@ -252,6 +252,16 @@
       },
     
       {
+        "nombre": "billetera-lineal",
+        "clase": "icono-arg-billetera-lineal"
+      },
+    
+      {
+        "nombre": "billetera-negativo",
+        "clase": "icono-arg-billetera-negativo"
+      },
+    
+      {
         "nombre": "bolsa-compras",
         "clase": "icono-arg-bolsa-compras"
       },
