@@ -1,6 +1,6 @@
 {
-  "name": "argob-iconos",
-  "version": "0.1.1",
+  "name": "ar-iconos",
+  "version": "1.0.0",
   "description": "Sistema de iconos de Poncho",
   "main": "index.js",
   "scripts": {
