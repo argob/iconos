@@ -117,6 +117,11 @@
       },
     
       {
+        "nombre": "araucaria",
+        "clase": "icono-arg-araucaria"
+      },
+    
+      {
         "nombre": "arbitraje",
         "clase": "icono-arg-arbitraje"
       },
@@ -407,6 +412,11 @@
       },
     
       {
+        "nombre": "cardon",
+        "clase": "icono-arg-cardon"
+      },
+    
+      {
         "nombre": "carrito",
         "clase": "icono-arg-carrito"
       },
@@ -439,6 +449,11 @@
       {
         "nombre": "casco-urbano",
         "clase": "icono-arg-casco-urbano"
+      },
+    
+      {
+        "nombre": "cataratas",
+        "clase": "icono-arg-cataratas"
       },
     
       {
@@ -679,6 +694,11 @@
       {
         "nombre": "curriculum",
         "clase": "icono-arg-curriculum"
+      },
+    
+      {
+        "nombre": "cus",
+        "clase": "icono-arg-cus"
       },
     
       {
@@ -1147,6 +1167,11 @@
       },
     
       {
+        "nombre": "geolocalizacion",
+        "clase": "icono-arg-geolocalizacion"
+      },
+    
+      {
         "nombre": "geolocalizacion-automotores",
         "clase": "icono-arg-geolocalizacion-automotores"
       },
@@ -1159,6 +1184,11 @@
       {
         "nombre": "glaciar",
         "clase": "icono-arg-glaciar"
+      },
+    
+      {
+        "nombre": "glaciar-2",
+        "clase": "icono-arg-glaciar-2"
       },
     
       {
@@ -1822,6 +1852,11 @@
       },
     
       {
+        "nombre": "pastizales",
+        "clase": "icono-arg-pastizales"
+      },
+    
+      {
         "nombre": "pd-punto-digital",
         "clase": "icono-arg-pd-punto-digital"
       },
@@ -2009,6 +2044,11 @@
       {
         "nombre": "riego-produccion",
         "clase": "icono-arg-riego-produccion"
+      },
+    
+      {
+        "nombre": "rocas",
+        "clase": "icono-arg-rocas"
       },
     
       {
@@ -2214,6 +2254,11 @@
       {
         "nombre": "temporal-frio",
         "clase": "icono-arg-temporal-frio"
+      },
+    
+      {
+        "nombre": "tensiometro",
+        "clase": "icono-arg-tensiometro"
       },
     
       {

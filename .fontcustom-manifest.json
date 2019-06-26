@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "d1ccbb2010d0eb3fd6c7508650abd8505c02667e71ee7dd4270ff9812e9f44e4",
-    "current": "d1ccbb2010d0eb3fd6c7508650abd8505c02667e71ee7dd4270ff9812e9f44e4"
+    "previous": "220d85c68c8d4e97295d1acfea4481d186aef46e1698fd119cd4a1e9d777bd35",
+    "current": "220d85c68c8d4e97295d1acfea4481d186aef46e1698fd119cd4a1e9d777bd35"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.ttf",
-    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.svg",
-    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.woff",
-    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.eot",
-    "dist/fonts/icono-arg_d1ccbb2010d0eb3fd6c7508650abd850.woff2"
+    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.ttf",
+    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.svg",
+    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.woff",
+    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.eot",
+    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -102,6 +102,10 @@
     "apostilla": {
       "codepoint": 62326,
       "source": "src/_icons/apostilla.svg"
+    },
+    "araucaria": {
+      "codepoint": 62886,
+      "source": "src/_icons/araucaria.svg"
     },
     "arbitraje": {
       "codepoint": 62327,
@@ -335,6 +339,10 @@
       "codepoint": 62344,
       "source": "src/_icons/capacitacion.svg"
     },
+    "cardon": {
+      "codepoint": 62887,
+      "source": "src/_icons/cardon.svg"
+    },
     "carrito": {
       "codepoint": 62468,
       "source": "src/_icons/carrito.svg"
@@ -362,6 +370,10 @@
     "casco-urbano": {
       "codepoint": 62482,
       "source": "src/_icons/casco-urbano.svg"
+    },
+    "cataratas": {
+      "codepoint": 62888,
+      "source": "src/_icons/cataratas.svg"
     },
     "caza": {
       "codepoint": 62750,
@@ -554,6 +566,10 @@
     "curriculum": {
       "codepoint": 62727,
       "source": "src/_icons/curriculum.svg"
+    },
+    "cus": {
+      "codepoint": 62889,
+      "source": "src/_icons/cus.svg"
     },
     "database": {
       "codepoint": 62589,
@@ -927,6 +943,10 @@
       "codepoint": 62711,
       "source": "src/_icons/gente-de-campo.svg"
     },
+    "geolocalizacion": {
+      "codepoint": 62890,
+      "source": "src/_icons/geolocalizacion.svg"
+    },
     "geolocalizacion-automotores": {
       "codepoint": 62729,
       "source": "src/_icons/geolocalizacion-automotores.svg"
@@ -938,6 +958,10 @@
     "glaciar": {
       "codepoint": 62592,
       "source": "src/_icons/glaciar.svg"
+    },
+    "glaciar-2": {
+      "codepoint": 62891,
+      "source": "src/_icons/glaciar-2.svg"
     },
     "globo-terraqueo": {
       "codepoint": 62504,
@@ -1467,6 +1491,10 @@
       "codepoint": 62426,
       "source": "src/_icons/paso-a-nivel.svg"
     },
+    "pastizales": {
+      "codepoint": 62892,
+      "source": "src/_icons/pastizales.svg"
+    },
     "pd-punto-digital": {
       "codepoint": 62393,
       "source": "src/_icons/pd-punto-digital.svg"
@@ -1618,6 +1646,10 @@
     "riego-produccion": {
       "codepoint": 62460,
       "source": "src/_icons/riego-produccion.svg"
+    },
+    "rocas": {
+      "codepoint": 62893,
+      "source": "src/_icons/rocas.svg"
     },
     "ruta": {
       "codepoint": 62401,
@@ -1782,6 +1814,10 @@
     "temporal-frio": {
       "codepoint": 62789,
       "source": "src/_icons/temporal-frio.svg"
+    },
+    "tensiometro": {
+      "codepoint": 62894,
+      "source": "src/_icons/tensiometro.svg"
     },
     "termometro": {
       "codepoint": 62578,
