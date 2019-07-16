@@ -167,6 +167,16 @@
       },
     
       {
+        "nombre": "art-lineal",
+        "clase": "icono-arg-art-lineal"
+      },
+    
+      {
+        "nombre": "art-negativo",
+        "clase": "icono-arg-art-negativo"
+      },
+    
+      {
         "nombre": "autentificacion",
         "clase": "icono-arg-autentificacion"
       },
@@ -477,6 +487,11 @@
       },
     
       {
+        "nombre": "celular-qr",
+        "clase": "icono-arg-celular-qr"
+      },
+    
+      {
         "nombre": "central-nuclear",
         "clase": "icono-arg-central-nuclear"
       },
@@ -509,6 +524,11 @@
       {
         "nombre": "chat",
         "clase": "icono-arg-chat"
+      },
+    
+      {
+        "nombre": "chat-crecer",
+        "clase": "icono-arg-chat-crecer"
       },
     
       {
@@ -737,6 +757,16 @@
       },
     
       {
+        "nombre": "denuncia",
+        "clase": "icono-arg-denuncia"
+      },
+    
+      {
+        "nombre": "denuncia_1",
+        "clase": "icono-arg-denuncia_1"
+      },
+    
+      {
         "nombre": "deporte",
         "clase": "icono-arg-deporte"
       },
@@ -827,6 +857,21 @@
       },
     
       {
+        "nombre": "dni-digital-01",
+        "clase": "icono-arg-dni-digital-01"
+      },
+    
+      {
+        "nombre": "dni-digital-02",
+        "clase": "icono-arg-dni-digital-02"
+      },
+    
+      {
+        "nombre": "dni-negativo",
+        "clase": "icono-arg-dni-negativo"
+      },
+    
+      {
         "nombre": "documento",
         "clase": "icono-arg-documento"
       },
@@ -839,6 +884,11 @@
       {
         "nombre": "ducha-negativo",
         "clase": "icono-arg-ducha-negativo"
+      },
+    
+      {
+        "nombre": "dut",
+        "clase": "icono-arg-dut"
       },
     
       {
@@ -924,6 +974,11 @@
       {
         "nombre": "energia-sustentable-2",
         "clase": "icono-arg-energia-sustentable-2"
+      },
+    
+      {
+        "nombre": "entradas",
+        "clase": "icono-arg-entradas"
       },
     
       {
@@ -1209,6 +1264,11 @@
       {
         "nombre": "granizo",
         "clase": "icono-arg-granizo"
+      },
+    
+      {
+        "nombre": "gratis",
+        "clase": "icono-arg-gratis"
       },
     
       {
@@ -2352,6 +2412,16 @@
       },
     
       {
+        "nombre": "transporte-publico-01",
+        "clase": "icono-arg-transporte-publico-01"
+      },
+    
+      {
+        "nombre": "transporte-publico-dut",
+        "clase": "icono-arg-transporte-publico-dut"
+      },
+    
+      {
         "nombre": "transporte-publico-licencia",
         "clase": "icono-arg-transporte-publico-licencia"
       },
@@ -2439,6 +2509,16 @@
       {
         "nombre": "validez-legal",
         "clase": "icono-arg-validez-legal"
+      },
+    
+      {
+        "nombre": "vehiculo-autorizado-01",
+        "clase": "icono-arg-vehiculo-autorizado-01"
+      },
+    
+      {
+        "nombre": "vehiculo-autorizado-02",
+        "clase": "icono-arg-vehiculo-autorizado-02"
       },
     
       {

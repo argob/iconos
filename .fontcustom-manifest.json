@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "220d85c68c8d4e97295d1acfea4481d186aef46e1698fd119cd4a1e9d777bd35",
-    "current": "220d85c68c8d4e97295d1acfea4481d186aef46e1698fd119cd4a1e9d777bd35"
+    "previous": "4828cde0fe98e45153218d723d350a5947347c5505feaf0a22eb138bc1b7dc48",
+    "current": "4828cde0fe98e45153218d723d350a5947347c5505feaf0a22eb138bc1b7dc48"
   },
   "fonts": [
-    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.ttf",
-    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.svg",
-    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.woff",
-    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.eot",
-    "dist/fonts/icono-arg_220d85c68c8d4e97295d1acfea4481d1.woff2"
+    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.ttf",
+    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.svg",
+    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.woff",
+    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.eot",
+    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -142,6 +142,14 @@
     "armeria": {
       "codepoint": 62746,
       "source": "src/_icons/armeria.svg"
+    },
+    "art-lineal": {
+      "codepoint": 62895,
+      "source": "src/_icons/art-lineal.svg"
+    },
+    "art-negativo": {
+      "codepoint": 62896,
+      "source": "src/_icons/art-negativo.svg"
     },
     "autentificacion": {
       "codepoint": 62747,
@@ -391,6 +399,10 @@
       "codepoint": 62602,
       "source": "src/_icons/celular.svg"
     },
+    "celular-qr": {
+      "codepoint": 62897,
+      "source": "src/_icons/celular-qr.svg"
+    },
     "central-nuclear": {
       "codepoint": 62492,
       "source": "src/_icons/central-nuclear.svg"
@@ -418,6 +430,10 @@
     "chat": {
       "codepoint": 62724,
       "source": "src/_icons/chat.svg"
+    },
+    "chat-crecer": {
+      "codepoint": 62898,
+      "source": "src/_icons/chat-crecer.svg"
     },
     "chequeado": {
       "codepoint": 62345,
@@ -599,6 +615,14 @@
       "codepoint": 62452,
       "source": "src/_icons/deficit-habitacional.svg"
     },
+    "denuncia": {
+      "codepoint": 62899,
+      "source": "src/_icons/denuncia.svg"
+    },
+    "denuncia_1": {
+      "codepoint": 62900,
+      "source": "src/_icons/denuncia_1.svg"
+    },
     "deporte": {
       "codepoint": 62356,
       "source": "src/_icons/deporte.svg"
@@ -671,6 +695,18 @@
       "codepoint": 62420,
       "source": "src/_icons/dni.svg"
     },
+    "dni-digital-01": {
+      "codepoint": 62901,
+      "source": "src/_icons/dni-digital-01.svg"
+    },
+    "dni-digital-02": {
+      "codepoint": 62902,
+      "source": "src/_icons/dni-digital-02.svg"
+    },
+    "dni-negativo": {
+      "codepoint": 62903,
+      "source": "src/_icons/dni-negativo.svg"
+    },
     "documento": {
       "codepoint": 62567,
       "source": "src/_icons/documento.svg"
@@ -682,6 +718,10 @@
     "ducha-negativo": {
       "codepoint": 62569,
       "source": "src/_icons/ducha-negativo.svg"
+    },
+    "dut": {
+      "codepoint": 62904,
+      "source": "src/_icons/dut.svg"
     },
     "educacion": {
       "codepoint": 62360,
@@ -750,6 +790,10 @@
     "energia-sustentable-2": {
       "codepoint": 62528,
       "source": "src/_icons/energia-sustentable-2.svg"
+    },
+    "entradas": {
+      "codepoint": 62905,
+      "source": "src/_icons/entradas.svg"
     },
     "envio-aereo": {
       "codepoint": 62623,
@@ -978,6 +1022,10 @@
     "granizo": {
       "codepoint": 62781,
       "source": "src/_icons/granizo.svg"
+    },
+    "gratis": {
+      "codepoint": 62906,
+      "source": "src/_icons/gratis.svg"
     },
     "guia-tramites": {
       "codepoint": 62731,
@@ -1891,6 +1939,14 @@
       "codepoint": 62415,
       "source": "src/_icons/transporte-licencia.svg"
     },
+    "transporte-publico-01": {
+      "codepoint": 62907,
+      "source": "src/_icons/transporte-publico-01.svg"
+    },
+    "transporte-publico-dut": {
+      "codepoint": 62908,
+      "source": "src/_icons/transporte-publico-dut.svg"
+    },
     "transporte-publico-licencia": {
       "codepoint": 62416,
       "source": "src/_icons/transporte-publico-licencia.svg"
@@ -1962,6 +2018,14 @@
     "validez-legal": {
       "codepoint": 62883,
       "source": "src/_icons/validez-legal.svg"
+    },
+    "vehiculo-autorizado-01": {
+      "codepoint": 62909,
+      "source": "src/_icons/vehiculo-autorizado-01.svg"
+    },
+    "vehiculo-autorizado-02": {
+      "codepoint": 62910,
+      "source": "src/_icons/vehiculo-autorizado-02.svg"
     },
     "velero-con-olas": {
       "codepoint": 62799,
