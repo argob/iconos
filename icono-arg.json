@@ -67,6 +67,16 @@
       },
     
       {
+        "nombre": "alimentos-irradiados",
+        "clase": "icono-arg-alimentos-irradiados"
+      },
+    
+      {
+        "nombre": "alimentos-irradiados-lineal",
+        "clase": "icono-arg-alimentos-irradiados-lineal"
+      },
+    
+      {
         "nombre": "alimentos-y-establecimientos-ok",
         "clase": "icono-arg-alimentos-y-establecimientos-ok"
       },
@@ -94,6 +104,11 @@
       {
         "nombre": "anses-negativo",
         "clase": "icono-arg-anses-negativo"
+      },
+    
+      {
+        "nombre": "antartida",
+        "clase": "icono-arg-antartida"
       },
     
       {
@@ -177,6 +192,11 @@
       },
     
       {
+        "nombre": "asistencia-humanitaria",
+        "clase": "icono-arg-asistencia-humanitaria"
+      },
+    
+      {
         "nombre": "autentificacion",
         "clase": "icono-arg-autentificacion"
       },
@@ -209,6 +229,11 @@
       {
         "nombre": "automotor-negativo",
         "clase": "icono-arg-automotor-negativo"
+      },
+    
+      {
+        "nombre": "aviacion",
+        "clase": "icono-arg-aviacion"
       },
     
       {
@@ -294,6 +319,16 @@
       {
         "nombre": "buceo",
         "clase": "icono-arg-buceo"
+      },
+    
+      {
+        "nombre": "buque-guerra",
+        "clase": "icono-arg-buque-guerra"
+      },
+    
+      {
+        "nombre": "busqueda-rescate",
+        "clase": "icono-arg-busqueda-rescate"
       },
     
       {
@@ -1127,6 +1162,11 @@
       },
     
       {
+        "nombre": "fragata",
+        "clase": "icono-arg-fragata"
+      },
+    
+      {
         "nombre": "frio",
         "clase": "icono-arg-frio"
       },
@@ -1287,6 +1327,11 @@
       },
     
       {
+        "nombre": "helicoptero",
+        "clase": "icono-arg-helicoptero"
+      },
+    
+      {
         "nombre": "herramientas",
         "clase": "icono-arg-herramientas"
       },
@@ -1389,6 +1434,11 @@
       {
         "nombre": "industria-y-medioambiente",
         "clase": "icono-arg-industria-y-medioambiente"
+      },
+    
+      {
+        "nombre": "infanteria",
+        "clase": "icono-arg-infanteria"
       },
     
       {
@@ -1539,6 +1589,11 @@
       {
         "nombre": "magnetometria",
         "clase": "icono-arg-magnetometria"
+      },
+    
+      {
+        "nombre": "mail-03",
+        "clase": "icono-arg-mail-03"
       },
     
       {
@@ -2254,6 +2309,11 @@
       {
         "nombre": "subir-escaleras",
         "clase": "icono-arg-subir-escaleras"
+      },
+    
+      {
+        "nombre": "submarino",
+        "clase": "icono-arg-submarino"
       },
     
       {

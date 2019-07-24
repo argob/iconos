@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "4828cde0fe98e45153218d723d350a5947347c5505feaf0a22eb138bc1b7dc48",
-    "current": "4828cde0fe98e45153218d723d350a5947347c5505feaf0a22eb138bc1b7dc48"
+    "previous": "3b92bb74ed4375526c565a0dd39df408b1c39c507e50b55ae388d4a5d00168d7",
+    "current": "3b92bb74ed4375526c565a0dd39df408b1c39c507e50b55ae388d4a5d00168d7"
   },
   "fonts": [
-    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.ttf",
-    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.svg",
-    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.woff",
-    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.eot",
-    "dist/fonts/icono-arg_4828cde0fe98e45153218d723d350a59.woff2"
+    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.ttf",
+    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.svg",
+    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.woff",
+    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.eot",
+    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -63,6 +63,14 @@
       "codepoint": 62487,
       "source": "src/_icons/alimentacion-saludable.svg"
     },
+    "alimentos-irradiados": {
+      "codepoint": 62911,
+      "source": "src/_icons/alimentos-irradiados.svg"
+    },
+    "alimentos-irradiados-lineal": {
+      "codepoint": 62912,
+      "source": "src/_icons/alimentos-irradiados-lineal.svg"
+    },
     "alimentos-y-establecimientos-ok": {
       "codepoint": 62662,
       "source": "src/_icons/alimentos-y-establecimientos-ok.svg"
@@ -86,6 +94,10 @@
     "anses-negativo": {
       "codepoint": 62802,
       "source": "src/_icons/anses-negativo.svg"
+    },
+    "antartida": {
+      "codepoint": 62913,
+      "source": "src/_icons/antartida.svg"
     },
     "antibalas": {
       "codepoint": 62325,
@@ -151,6 +163,10 @@
       "codepoint": 62896,
       "source": "src/_icons/art-negativo.svg"
     },
+    "asistencia-humanitaria": {
+      "codepoint": 62914,
+      "source": "src/_icons/asistencia-humanitaria.svg"
+    },
     "autentificacion": {
       "codepoint": 62747,
       "source": "src/_icons/autentificacion.svg"
@@ -178,6 +194,10 @@
     "automotor-negativo": {
       "codepoint": 62823,
       "source": "src/_icons/automotor-negativo.svg"
+    },
+    "aviacion": {
+      "codepoint": 62915,
+      "source": "src/_icons/aviacion.svg"
     },
     "avion": {
       "codepoint": 62337,
@@ -246,6 +266,14 @@
     "buceo": {
       "codepoint": 62338,
       "source": "src/_icons/buceo.svg"
+    },
+    "buque-guerra": {
+      "codepoint": 62916,
+      "source": "src/_icons/buque-guerra.svg"
+    },
+    "busqueda-rescate": {
+      "codepoint": 62917,
+      "source": "src/_icons/busqueda-rescate.svg"
     },
     "caja-1": {
       "codepoint": 62615,
@@ -911,6 +939,10 @@
       "codepoint": 62881,
       "source": "src/_icons/firma-digital-remota.svg"
     },
+    "fragata": {
+      "codepoint": 62918,
+      "source": "src/_icons/fragata.svg"
+    },
     "frio": {
       "codepoint": 62547,
       "source": "src/_icons/frio.svg"
@@ -1039,6 +1071,10 @@
       "codepoint": 62537,
       "source": "src/_icons/heladera.svg"
     },
+    "helicoptero": {
+      "codepoint": 62919,
+      "source": "src/_icons/helicoptero.svg"
+    },
     "herramientas": {
       "codepoint": 62669,
       "source": "src/_icons/herramientas.svg"
@@ -1122,6 +1158,10 @@
     "industria-y-medioambiente": {
       "codepoint": 62594,
       "source": "src/_icons/industria-y-medioambiente.svg"
+    },
+    "infanteria": {
+      "codepoint": 62920,
+      "source": "src/_icons/infanteria.svg"
     },
     "informacion-envio": {
       "codepoint": 62629,
@@ -1242,6 +1282,10 @@
     "magnetometria": {
       "codepoint": 62381,
       "source": "src/_icons/magnetometria.svg"
+    },
+    "mail-03": {
+      "codepoint": 62921,
+      "source": "src/_icons/mail-03.svg"
     },
     "mail-1": {
       "codepoint": 62605,
@@ -1814,6 +1858,10 @@
     "subir-escaleras": {
       "codepoint": 62657,
       "source": "src/_icons/subir-escaleras.svg"
+    },
+    "submarino": {
+      "codepoint": 62922,
+      "source": "src/_icons/submarino.svg"
     },
     "surtidor": {
       "codepoint": 62485,
