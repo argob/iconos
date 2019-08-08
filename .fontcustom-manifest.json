@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "3b92bb74ed4375526c565a0dd39df408b1c39c507e50b55ae388d4a5d00168d7",
-    "current": "3b92bb74ed4375526c565a0dd39df408b1c39c507e50b55ae388d4a5d00168d7"
+    "previous": "8a1b3538a9487053146701e196e00250e96b6da178bc33d8c81663227ab60efa",
+    "current": "8a1b3538a9487053146701e196e00250e96b6da178bc33d8c81663227ab60efa"
   },
   "fonts": [
-    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.ttf",
-    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.svg",
-    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.woff",
-    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.eot",
-    "dist/fonts/icono-arg_3b92bb74ed4375526c565a0dd39df408.woff2"
+    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.ttf",
+    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.svg",
+    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.woff",
+    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.eot",
+    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.woff2"
   ],
   "glyphs": {
     "abeja": {
@@ -243,6 +243,10 @@
       "codepoint": 62873,
       "source": "src/_icons/barrio.svg"
     },
+    "bebe-01": {
+      "codepoint": 62923,
+      "source": "src/_icons/bebe-01.svg"
+    },
     "billetera-lineal": {
       "codepoint": 62884,
       "source": "src/_icons/billetera-lineal.svg"
@@ -463,6 +467,10 @@
       "codepoint": 62898,
       "source": "src/_icons/chat-crecer.svg"
     },
+    "chat-crecer-negativo": {
+      "codepoint": 62924,
+      "source": "src/_icons/chat-crecer-negativo.svg"
+    },
     "chequeado": {
       "codepoint": 62345,
       "source": "src/_icons/chequeado.svg"
@@ -559,9 +567,17 @@
       "codepoint": 62351,
       "source": "src/_icons/consulta.svg"
     },
+    "corazon": {
+      "codepoint": 62925,
+      "source": "src/_icons/corazon.svg"
+    },
     "corazon-cruz": {
       "codepoint": 62470,
       "source": "src/_icons/corazon-cruz.svg"
+    },
+    "corazon-lineal": {
+      "codepoint": 62926,
+      "source": "src/_icons/corazon-lineal.svg"
     },
     "cosmetovigilancia": {
       "codepoint": 62666,
@@ -682,6 +698,10 @@
     "dialogo-2": {
       "codepoint": 62474,
       "source": "src/_icons/dialogo-2.svg"
+    },
+    "dialogo-corazon": {
+      "codepoint": 62927,
+      "source": "src/_icons/dialogo-corazon.svg"
     },
     "digital": {
       "codepoint": 62358,
@@ -1402,6 +1422,10 @@
     "medula-osea": {
       "codepoint": 62774,
       "source": "src/_icons/medula-osea.svg"
+    },
+    "messenger": {
+      "codepoint": 62928,
+      "source": "src/_icons/messenger.svg"
     },
     "mi-argentina": {
       "codepoint": 62674,

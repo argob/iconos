@@ -292,6 +292,11 @@
       },
     
       {
+        "nombre": "bebe-01",
+        "clase": "icono-arg-bebe-01"
+      },
+    
+      {
         "nombre": "billetera-lineal",
         "clase": "icono-arg-billetera-lineal"
       },
@@ -567,6 +572,11 @@
       },
     
       {
+        "nombre": "chat-crecer-negativo",
+        "clase": "icono-arg-chat-crecer-negativo"
+      },
+    
+      {
         "nombre": "chequeado",
         "clase": "icono-arg-chequeado"
       },
@@ -687,8 +697,18 @@
       },
     
       {
+        "nombre": "corazon",
+        "clase": "icono-arg-corazon"
+      },
+    
+      {
         "nombre": "corazon-cruz",
         "clase": "icono-arg-corazon-cruz"
+      },
+    
+      {
+        "nombre": "corazon-lineal",
+        "clase": "icono-arg-corazon-lineal"
       },
     
       {
@@ -839,6 +859,11 @@
       {
         "nombre": "dialogo-2",
         "clase": "icono-arg-dialogo-2"
+      },
+    
+      {
+        "nombre": "dialogo-corazon",
+        "clase": "icono-arg-dialogo-corazon"
       },
     
       {
@@ -1739,6 +1764,11 @@
       {
         "nombre": "medula-osea",
         "clase": "icono-arg-medula-osea"
+      },
+    
+      {
+        "nombre": "messenger",
+        "clase": "icono-arg-messenger"
       },
     
       {
