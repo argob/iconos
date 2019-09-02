@@ -2,6 +2,11 @@
   "iconos": [
     
       {
+        "nombre": "aaip",
+        "clase": "icono-arg-aaip"
+      },
+    
+      {
         "nombre": "abeja",
         "clase": "icono-arg-abeja"
       },
@@ -659,6 +664,11 @@
       {
         "nombre": "codigo-qr",
         "clase": "icono-arg-codigo-qr"
+      },
+    
+      {
+        "nombre": "componentes",
+        "clase": "icono-arg-componentes"
       },
     
       {
@@ -1467,6 +1477,16 @@
       },
     
       {
+        "nombre": "infanteria-de-marina-01",
+        "clase": "icono-arg-infanteria-de-marina-01"
+      },
+    
+      {
+        "nombre": "infanteria-de-marina-02",
+        "clase": "icono-arg-infanteria-de-marina-02"
+      },
+    
+      {
         "nombre": "informacion-envio",
         "clase": "icono-arg-informacion-envio"
       },
@@ -1657,6 +1677,11 @@
       },
     
       {
+        "nombre": "malvinas-argentinas",
+        "clase": "icono-arg-malvinas-argentinas"
+      },
+    
+      {
         "nombre": "mano",
         "clase": "icono-arg-mano"
       },
@@ -1784,6 +1809,11 @@
       {
         "nombre": "microscopio",
         "clase": "icono-arg-microscopio"
+      },
+    
+      {
+        "nombre": "misiones-de-paz",
+        "clase": "icono-arg-misiones-de-paz"
       },
     
       {
@@ -1962,6 +1992,11 @@
       },
     
       {
+        "nombre": "paleta-colores",
+        "clase": "icono-arg-paleta-colores"
+      },
+    
+      {
         "nombre": "paloma",
         "clase": "icono-arg-paloma"
       },
@@ -1999,6 +2034,11 @@
       {
         "nombre": "pastizales",
         "clase": "icono-arg-pastizales"
+      },
+    
+      {
+        "nombre": "patrones-de-uso",
+        "clase": "icono-arg-patrones-de-uso"
       },
     
       {
@@ -2307,6 +2347,11 @@
       },
     
       {
+        "nombre": "sitios-accesibles",
+        "clase": "icono-arg-sitios-accesibles"
+      },
+    
+      {
         "nombre": "social",
         "clase": "icono-arg-social"
       },
@@ -2344,6 +2389,11 @@
       {
         "nombre": "submarino",
         "clase": "icono-arg-submarino"
+      },
+    
+      {
+        "nombre": "submarino-02",
+        "clase": "icono-arg-submarino-02"
       },
     
       {

@@ -1,16 +1,20 @@
 {
   "checksum": {
-    "previous": "8a1b3538a9487053146701e196e00250e96b6da178bc33d8c81663227ab60efa",
-    "current": "8a1b3538a9487053146701e196e00250e96b6da178bc33d8c81663227ab60efa"
+    "previous": "ee8d922e9ed689336ab28b3abf46dad056f1511f54d23eb862dd80341fcf764d",
+    "current": "ee8d922e9ed689336ab28b3abf46dad056f1511f54d23eb862dd80341fcf764d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.ttf",
-    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.svg",
-    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.woff",
-    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.eot",
-    "dist/fonts/icono-arg_8a1b3538a9487053146701e196e00250.woff2"
+    "dist/fonts/icono-arg_ee8d922e9ed689336ab28b3abf46dad0.ttf",
+    "dist/fonts/icono-arg_ee8d922e9ed689336ab28b3abf46dad0.svg",
+    "dist/fonts/icono-arg_ee8d922e9ed689336ab28b3abf46dad0.woff",
+    "dist/fonts/icono-arg_ee8d922e9ed689336ab28b3abf46dad0.eot",
+    "dist/fonts/icono-arg_ee8d922e9ed689336ab28b3abf46dad0.woff2"
   ],
   "glyphs": {
+    "aaip": {
+      "codepoint": 62929,
+      "source": "src/_icons/aaip.svg"
+    },
     "abeja": {
       "codepoint": 62708,
       "source": "src/_icons/abeja.svg"
@@ -538,6 +542,10 @@
     "codigo-qr": {
       "codepoint": 62844,
       "source": "src/_icons/codigo-qr.svg"
+    },
+    "componentes": {
+      "codepoint": 62930,
+      "source": "src/_icons/componentes.svg"
     },
     "computadora": {
       "codepoint": 62534,
@@ -1183,6 +1191,14 @@
       "codepoint": 62920,
       "source": "src/_icons/infanteria.svg"
     },
+    "infanteria-de-marina-01": {
+      "codepoint": 62931,
+      "source": "src/_icons/infanteria-de-marina-01.svg"
+    },
+    "infanteria-de-marina-02": {
+      "codepoint": 62932,
+      "source": "src/_icons/infanteria-de-marina-02.svg"
+    },
     "informacion-envio": {
       "codepoint": 62629,
       "source": "src/_icons/informacion-envio.svg"
@@ -1335,6 +1351,10 @@
       "codepoint": 62508,
       "source": "src/_icons/maletin-medico-2.svg"
     },
+    "malvinas-argentinas": {
+      "codepoint": 62933,
+      "source": "src/_icons/malvinas-argentinas.svg"
+    },
     "mano": {
       "codepoint": 62382,
       "source": "src/_icons/mano.svg"
@@ -1438,6 +1458,10 @@
     "microscopio": {
       "codepoint": 62675,
       "source": "src/_icons/microscopio.svg"
+    },
+    "misiones-de-paz": {
+      "codepoint": 62934,
+      "source": "src/_icons/misiones-de-paz.svg"
     },
     "molino": {
       "codepoint": 62716,
@@ -1579,6 +1603,10 @@
       "codepoint": 62518,
       "source": "src/_icons/paisaje-urbano-4.svg"
     },
+    "paleta-colores": {
+      "codepoint": 62935,
+      "source": "src/_icons/paleta-colores.svg"
+    },
     "paloma": {
       "codepoint": 62477,
       "source": "src/_icons/paloma.svg"
@@ -1610,6 +1638,10 @@
     "pastizales": {
       "codepoint": 62892,
       "source": "src/_icons/pastizales.svg"
+    },
+    "patrones-de-uso": {
+      "codepoint": 62936,
+      "source": "src/_icons/patrones-de-uso.svg"
     },
     "pd-punto-digital": {
       "codepoint": 62393,
@@ -1855,6 +1887,10 @@
       "codepoint": 62788,
       "source": "src/_icons/sin-mosquito.svg"
     },
+    "sitios-accesibles": {
+      "codepoint": 62937,
+      "source": "src/_icons/sitios-accesibles.svg"
+    },
     "social": {
       "codepoint": 62406,
       "source": "src/_icons/social.svg"
@@ -1886,6 +1922,10 @@
     "submarino": {
       "codepoint": 62922,
       "source": "src/_icons/submarino.svg"
+    },
+    "submarino-02": {
+      "codepoint": 62938,
+      "source": "src/_icons/submarino-02.svg"
     },
     "surtidor": {
       "codepoint": 62485,
