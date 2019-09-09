@@ -302,6 +302,11 @@
       },
     
       {
+        "nombre": "biblioteca",
+        "clase": "icono-arg-biblioteca"
+      },
+    
+      {
         "nombre": "billetera-lineal",
         "clase": "icono-arg-billetera-lineal"
       },
@@ -947,6 +952,11 @@
       },
     
       {
+        "nombre": "documentos-escritos",
+        "clase": "icono-arg-documentos-escritos"
+      },
+    
+      {
         "nombre": "ducha",
         "clase": "icono-arg-ducha"
       },
@@ -1194,6 +1204,11 @@
       {
         "nombre": "firma-digital-remota",
         "clase": "icono-arg-firma-digital-remota"
+      },
+    
+      {
+        "nombre": "fotografia",
+        "clase": "icono-arg-fotografia"
       },
     
       {
