@@ -1,14 +1,13 @@
 {
   "checksum": {
-    "previous": "ed6f8b479dfc971b70fa57701895ffc895d1e2e181a32204c762b5886d87e7fe",
-    "current": "ed6f8b479dfc971b70fa57701895ffc895d1e2e181a32204c762b5886d87e7fe"
+    "previous": "8a86624a272ecaacb18d19a4d18bdaeb2fa28c41fcbfc848f3124997441a6c5e",
+    "current": "8a86624a272ecaacb18d19a4d18bdaeb2fa28c41fcbfc848f3124997441a6c5e"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ed6f8b479dfc971b70fa57701895ffc8.ttf",
-    "dist/fonts/icono-arg_ed6f8b479dfc971b70fa57701895ffc8.svg",
-    "dist/fonts/icono-arg_ed6f8b479dfc971b70fa57701895ffc8.woff",
-    "dist/fonts/icono-arg_ed6f8b479dfc971b70fa57701895ffc8.eot",
-    "dist/fonts/icono-arg_ed6f8b479dfc971b70fa57701895ffc8.woff2"
+    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.ttf",
+    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.svg",
+    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.woff",
+    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.eot"
   ],
   "glyphs": {
     "aaip": {
@@ -486,6 +485,10 @@
     "chupete": {
       "codepoint": 62346,
       "source": "src/_icons/chupete.svg"
+    },
+    "ciclo-energia-nuclear": {
+      "codepoint": 62942,
+      "source": "src/_icons/ciclo-energia-nuclear.svg"
     },
     "ciencia-apoyo-economico": {
       "codepoint": 62347,
@@ -1763,6 +1766,14 @@
       "codepoint": 62857,
       "source": "src/_icons/radar-meteorologico.svg"
     },
+    "radiofarmacia": {
+      "codepoint": 62943,
+      "source": "src/_icons/radiofarmacia.svg"
+    },
+    "radioquimica": {
+      "codepoint": 62944,
+      "source": "src/_icons/radioquimica.svg"
+    },
     "reactor-ra6": {
       "codepoint": 62858,
       "source": "src/_icons/reactor-ra6.svg"
@@ -2216,8 +2227,6 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
-    "copyright": "",
-    "css3": false,
     "css_selector": ".icono-arg-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

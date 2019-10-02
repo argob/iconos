@@ -597,6 +597,11 @@
       },
     
       {
+        "nombre": "ciclo-energia-nuclear",
+        "clase": "icono-arg-ciclo-energia-nuclear"
+      },
+    
+      {
         "nombre": "ciencia-apoyo-economico",
         "clase": "icono-arg-ciencia-apoyo-economico"
       },
@@ -2189,6 +2194,16 @@
       {
         "nombre": "radar-meteorologico",
         "clase": "icono-arg-radar-meteorologico"
+      },
+    
+      {
+        "nombre": "radiofarmacia",
+        "clase": "icono-arg-radiofarmacia"
+      },
+    
+      {
+        "nombre": "radioquimica",
+        "clase": "icono-arg-radioquimica"
       },
     
       {
