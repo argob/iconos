@@ -2257,6 +2257,11 @@
       },
     
       {
+        "nombre": "revista",
+        "clase": "icono-arg-revista"
+      },
+    
+      {
         "nombre": "riego-produccion",
         "clase": "icono-arg-riego-produccion"
       },
@@ -2634,6 +2639,11 @@
       {
         "nombre": "turno-negativo",
         "clase": "icono-arg-turno-negativo"
+      },
+    
+      {
+        "nombre": "unicipio",
+        "clase": "icono-arg-unicipio"
       },
     
       {

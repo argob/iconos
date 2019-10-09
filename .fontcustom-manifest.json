@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8a86624a272ecaacb18d19a4d18bdaeb2fa28c41fcbfc848f3124997441a6c5e",
-    "current": "8a86624a272ecaacb18d19a4d18bdaeb2fa28c41fcbfc848f3124997441a6c5e"
+    "previous": "82714435d0064a43be164739235ef8fa7b69459a6474fa373708ef5e5389ffa2",
+    "current": "82714435d0064a43be164739235ef8fa7b69459a6474fa373708ef5e5389ffa2"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.ttf",
-    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.svg",
-    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.woff",
-    "dist/fonts/icono-arg_8a86624a272ecaacb18d19a4d18bdaeb.eot"
+    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.ttf",
+    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.svg",
+    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.woff",
+    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.eot"
   ],
   "glyphs": {
     "aaip": {
@@ -1814,6 +1814,10 @@
       "codepoint": 62400,
       "source": "src/_icons/residuos-peligrosos-transporte.svg"
     },
+    "revista": {
+      "codepoint": 62945,
+      "source": "src/_icons/revista.svg"
+    },
     "riego-produccion": {
       "codepoint": 62460,
       "source": "src/_icons/riego-produccion.svg"
@@ -2117,6 +2121,10 @@
     "turno-negativo": {
       "codepoint": 62582,
       "source": "src/_icons/turno-negativo.svg"
+    },
+    "unicipio": {
+      "codepoint": 62946,
+      "source": "src/_icons/unicipio.svg"
     },
     "urbanizacion": {
       "codepoint": 62878,
