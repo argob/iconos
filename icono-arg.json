@@ -1617,6 +1617,16 @@
       },
     
       {
+        "nombre": "licencia-aeronautica",
+        "clase": "icono-arg-licencia-aeronautica"
+      },
+    
+      {
+        "nombre": "licencia-nautica",
+        "clase": "icono-arg-licencia-nautica"
+      },
+    
+      {
         "nombre": "licencia-valida",
         "clase": "icono-arg-licencia-valida"
       },
@@ -1829,6 +1839,11 @@
       {
         "nombre": "microscopio",
         "clase": "icono-arg-microscopio"
+      },
+    
+      {
+        "nombre": "mis-cobros",
+        "clase": "icono-arg-mis-cobros"
       },
     
       {
@@ -2269,6 +2284,11 @@
       {
         "nombre": "rocas",
         "clase": "icono-arg-rocas"
+      },
+    
+      {
+        "nombre": "rto",
+        "clase": "icono-arg-rto"
       },
     
       {

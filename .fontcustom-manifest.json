@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "82714435d0064a43be164739235ef8fa7b69459a6474fa373708ef5e5389ffa2",
-    "current": "82714435d0064a43be164739235ef8fa7b69459a6474fa373708ef5e5389ffa2"
+    "previous": "aceb424e5764732b631edf68b41801ca54cd8f54bf4b0b9f2757524a150cf67a",
+    "current": "aceb424e5764732b631edf68b41801ca54cd8f54bf4b0b9f2757524a150cf67a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.ttf",
-    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.svg",
-    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.woff",
-    "dist/fonts/icono-arg_82714435d0064a43be164739235ef8fa.eot"
+    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.ttf",
+    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.svg",
+    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.woff",
+    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.eot"
   ],
   "glyphs": {
     "aaip": {
@@ -1302,6 +1302,14 @@
       "codepoint": 62855,
       "source": "src/_icons/libre-de-gluten.svg"
     },
+    "licencia-aeronautica": {
+      "codepoint": 62947,
+      "source": "src/_icons/licencia-aeronautica.svg"
+    },
+    "licencia-nautica": {
+      "codepoint": 62948,
+      "source": "src/_icons/licencia-nautica.svg"
+    },
     "licencia-valida": {
       "codepoint": 62824,
       "source": "src/_icons/licencia-valida.svg"
@@ -1473,6 +1481,10 @@
     "microscopio": {
       "codepoint": 62675,
       "source": "src/_icons/microscopio.svg"
+    },
+    "mis-cobros": {
+      "codepoint": 62949,
+      "source": "src/_icons/mis-cobros.svg"
     },
     "misiones-de-paz": {
       "codepoint": 62934,
@@ -1825,6 +1837,10 @@
     "rocas": {
       "codepoint": 62893,
       "source": "src/_icons/rocas.svg"
+    },
+    "rto": {
+      "codepoint": 62950,
+      "source": "src/_icons/rto.svg"
     },
     "ruta": {
       "codepoint": 62401,
