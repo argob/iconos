@@ -1377,6 +1377,11 @@
       },
     
       {
+        "nombre": "hacemos-futuro",
+        "clase": "icono-arg-hacemos-futuro"
+      },
+    
+      {
         "nombre": "heladera",
         "clase": "icono-arg-heladera"
       },
@@ -1847,6 +1852,11 @@
       },
     
       {
+        "nombre": "mis-cobros-negativo",
+        "clase": "icono-arg-mis-cobros-negativo"
+      },
+    
+      {
         "nombre": "misiones-de-paz",
         "clase": "icono-arg-misiones-de-paz"
       },
@@ -2294,6 +2304,11 @@
       {
         "nombre": "ruta",
         "clase": "icono-arg-ruta"
+      },
+    
+      {
+        "nombre": "salario-complementario",
+        "clase": "icono-arg-salario-complementario"
       },
     
       {

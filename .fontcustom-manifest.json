@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "aceb424e5764732b631edf68b41801ca54cd8f54bf4b0b9f2757524a150cf67a",
-    "current": "aceb424e5764732b631edf68b41801ca54cd8f54bf4b0b9f2757524a150cf67a"
+    "previous": "08ea3f4d08d984d309a031e18474e049779e451fe5b2ca1be536923914f1bd13",
+    "current": "08ea3f4d08d984d309a031e18474e049779e451fe5b2ca1be536923914f1bd13"
   },
   "fonts": [
-    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.ttf",
-    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.svg",
-    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.woff",
-    "dist/fonts/icono-arg_aceb424e5764732b631edf68b41801ca.eot"
+    "dist/fonts/icono-arg_08ea3f4d08d984d309a031e18474e049.ttf",
+    "dist/fonts/icono-arg_08ea3f4d08d984d309a031e18474e049.svg",
+    "dist/fonts/icono-arg_08ea3f4d08d984d309a031e18474e049.woff",
+    "dist/fonts/icono-arg_08ea3f4d08d984d309a031e18474e049.eot"
   ],
   "glyphs": {
     "aaip": {
@@ -1110,6 +1110,10 @@
       "codepoint": 62876,
       "source": "src/_icons/habitat.svg"
     },
+    "hacemos-futuro": {
+      "codepoint": 62951,
+      "source": "src/_icons/hacemos-futuro.svg"
+    },
     "heladera": {
       "codepoint": 62537,
       "source": "src/_icons/heladera.svg"
@@ -1486,6 +1490,10 @@
       "codepoint": 62949,
       "source": "src/_icons/mis-cobros.svg"
     },
+    "mis-cobros-negativo": {
+      "codepoint": 62952,
+      "source": "src/_icons/mis-cobros-negativo.svg"
+    },
     "misiones-de-paz": {
       "codepoint": 62934,
       "source": "src/_icons/misiones-de-paz.svg"
@@ -1845,6 +1853,10 @@
     "ruta": {
       "codepoint": 62401,
       "source": "src/_icons/ruta.svg"
+    },
+    "salario-complementario": {
+      "codepoint": 62953,
+      "source": "src/_icons/salario-complementario.svg"
     },
     "salero": {
       "codepoint": 62655,
