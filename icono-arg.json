@@ -307,6 +307,11 @@
       },
     
       {
+        "nombre": "bidon",
+        "clase": "icono-arg-bidon"
+      },
+    
+      {
         "nombre": "billetera-lineal",
         "clase": "icono-arg-billetera-lineal"
       },
@@ -674,6 +679,11 @@
       {
         "nombre": "codigo-qr",
         "clase": "icono-arg-codigo-qr"
+      },
+    
+      {
+        "nombre": "colores-tipografia",
+        "clase": "icono-arg-colores-tipografia"
       },
     
       {
@@ -2144,6 +2154,11 @@
       {
         "nombre": "planta-exotica-2",
         "clase": "icono-arg-planta-exotica-2"
+      },
+    
+      {
+        "nombre": "plantillas",
+        "clase": "icono-arg-plantillas"
       },
     
       {
