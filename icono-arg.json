@@ -1952,6 +1952,11 @@
       },
     
       {
+        "nombre": "nube-negativo",
+        "clase": "icono-arg-nube-negativo"
+      },
+    
+      {
         "nombre": "nube-seguridad",
         "clase": "icono-arg-nube-seguridad"
       },
