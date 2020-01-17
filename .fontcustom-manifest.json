@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "e5452487ffa5b186c9c3a3458733d8c6c7f09ed60dbd92db39ec3bdb13e320c9",
-    "current": "e5452487ffa5b186c9c3a3458733d8c6c7f09ed60dbd92db39ec3bdb13e320c9"
+    "previous": "fc23e888986e05ecd0728f7b8186c50889ab33eadac22587de6f0fe59879d62f",
+    "current": "fc23e888986e05ecd0728f7b8186c50889ab33eadac22587de6f0fe59879d62f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e5452487ffa5b186c9c3a3458733d8c6.ttf",
-    "dist/fonts/icono-arg_e5452487ffa5b186c9c3a3458733d8c6.svg",
-    "dist/fonts/icono-arg_e5452487ffa5b186c9c3a3458733d8c6.woff",
-    "dist/fonts/icono-arg_e5452487ffa5b186c9c3a3458733d8c6.eot"
+    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.ttf",
+    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.svg",
+    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.woff",
+    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.eot",
+    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2030,9 +2031,33 @@
       "codepoint": 62679,
       "source": "src/_icons/tecnovigilancia.svg"
     },
+    "telefono-alerta-lineal": {
+      "codepoint": 62958,
+      "source": "src/_icons/telefono-alerta-lineal.svg"
+    },
+    "telefono-alerta-negativo": {
+      "codepoint": 62959,
+      "source": "src/_icons/telefono-alerta-negativo.svg"
+    },
+    "telefono-emergencias-medicas-lineal": {
+      "codepoint": 62960,
+      "source": "src/_icons/telefono-emergencias-medicas-lineal.svg"
+    },
+    "telefono-emergencias-medicas-negativo": {
+      "codepoint": 62961,
+      "source": "src/_icons/telefono-emergencias-medicas-negativo.svg"
+    },
     "telefono-lineal": {
       "codepoint": 62697,
       "source": "src/_icons/telefono-lineal.svg"
+    },
+    "telefono-llamada-lineal": {
+      "codepoint": 62962,
+      "source": "src/_icons/telefono-llamada-lineal.svg"
+    },
+    "telefono-llamada-negativo": {
+      "codepoint": 62963,
+      "source": "src/_icons/telefono-llamada-negativo.svg"
     },
     "telefono-neg": {
       "codepoint": 62698,
@@ -2279,6 +2304,8 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icono-arg-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

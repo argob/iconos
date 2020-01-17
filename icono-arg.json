@@ -2527,8 +2527,38 @@
       },
     
       {
+        "nombre": "telefono-alerta-lineal",
+        "clase": "icono-arg-telefono-alerta-lineal"
+      },
+    
+      {
+        "nombre": "telefono-alerta-negativo",
+        "clase": "icono-arg-telefono-alerta-negativo"
+      },
+    
+      {
+        "nombre": "telefono-emergencias-medicas-lineal",
+        "clase": "icono-arg-telefono-emergencias-medicas-lineal"
+      },
+    
+      {
+        "nombre": "telefono-emergencias-medicas-negativo",
+        "clase": "icono-arg-telefono-emergencias-medicas-negativo"
+      },
+    
+      {
         "nombre": "telefono-lineal",
         "clase": "icono-arg-telefono-lineal"
+      },
+    
+      {
+        "nombre": "telefono-llamada-lineal",
+        "clase": "icono-arg-telefono-llamada-lineal"
+      },
+    
+      {
+        "nombre": "telefono-llamada-negativo",
+        "clase": "icono-arg-telefono-llamada-negativo"
       },
     
       {
