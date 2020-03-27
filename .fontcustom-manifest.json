@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "fc23e888986e05ecd0728f7b8186c50889ab33eadac22587de6f0fe59879d62f",
-    "current": "fc23e888986e05ecd0728f7b8186c50889ab33eadac22587de6f0fe59879d62f"
+    "previous": "a873c3c660aaa06916dc1f43b7494bf4ea575c5cafac098e284315eae0dfa093",
+    "current": "a873c3c660aaa06916dc1f43b7494bf4ea575c5cafac098e284315eae0dfa093"
   },
   "fonts": [
-    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.ttf",
-    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.svg",
-    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.woff",
-    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.eot",
-    "dist/fonts/icono-arg_fc23e888986e05ecd0728f7b8186c508.woff2"
+    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.ttf",
+    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.svg",
+    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.woff",
+    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.eot",
+    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -24,7 +24,7 @@
       "source": "src/_icons/abrigo.svg"
     },
     "acrobat": {
-      "codepoint": 62559,
+      "codepoint": 62964,
       "source": "src/_icons/acrobat.svg"
     },
     "aeropuerto": {
@@ -1576,7 +1576,7 @@
       "source": "src/_icons/nube-negativo.svg"
     },
     "nube-seguridad": {
-      "codepoint": 62758,
+      "codepoint": 62965,
       "source": "src/_icons/nube-seguridad.svg"
     },
     "nube-subir-datos": {
@@ -1692,7 +1692,7 @@
       "source": "src/_icons/patrones-de-uso.svg"
     },
     "pd-punto-digital": {
-      "codepoint": 62393,
+      "codepoint": 62966,
       "source": "src/_icons/pd-punto-digital.svg"
     },
     "pd-wifi": {
