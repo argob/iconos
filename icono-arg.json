@@ -742,6 +742,11 @@
       },
     
       {
+        "nombre": "coronavirus",
+        "clase": "icono-arg-coronavirus"
+      },
+    
+      {
         "nombre": "cosmetovigilancia",
         "clase": "icono-arg-cosmetovigilancia"
       },
@@ -2509,6 +2514,16 @@
       {
         "nombre": "tambo",
         "clase": "icono-arg-tambo"
+      },
+    
+      {
+        "nombre": "tarjeta-alimentar-lineal",
+        "clase": "icono-arg-tarjeta-alimentar-lineal"
+      },
+    
+      {
+        "nombre": "tarjeta-alimentar-negativo",
+        "clase": "icono-arg-tarjeta-alimentar-negativo"
       },
     
       {

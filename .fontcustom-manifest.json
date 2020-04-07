@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "a873c3c660aaa06916dc1f43b7494bf4ea575c5cafac098e284315eae0dfa093",
-    "current": "a873c3c660aaa06916dc1f43b7494bf4ea575c5cafac098e284315eae0dfa093"
+    "previous": "0f3abbdee85f3009122d9c21f7113ae47ebd25aef0b232c70e136b0236f0b64f",
+    "current": "0f3abbdee85f3009122d9c21f7113ae47ebd25aef0b232c70e136b0236f0b64f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.ttf",
-    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.svg",
-    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.woff",
-    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.eot",
-    "dist/fonts/icono-arg_a873c3c660aaa06916dc1f43b7494bf4.woff2"
+    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.ttf",
+    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.svg",
+    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.woff",
+    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.eot",
+    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -602,6 +602,10 @@
     "corazon-lineal": {
       "codepoint": 62926,
       "source": "src/_icons/corazon-lineal.svg"
+    },
+    "coronavirus": {
+      "codepoint": 62967,
+      "source": "src/_icons/coronavirus.svg"
     },
     "cosmetovigilancia": {
       "codepoint": 62666,
@@ -2018,6 +2022,14 @@
     "tambo": {
       "codepoint": 62718,
       "source": "src/_icons/tambo.svg"
+    },
+    "tarjeta-alimentar-lineal": {
+      "codepoint": 62968,
+      "source": "src/_icons/tarjeta-alimentar-lineal.svg"
+    },
+    "tarjeta-alimentar-negativo": {
+      "codepoint": 62969,
+      "source": "src/_icons/tarjeta-alimentar-negativo.svg"
     },
     "teatro": {
       "codepoint": 62409,
