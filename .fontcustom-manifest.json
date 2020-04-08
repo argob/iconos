@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "0f3abbdee85f3009122d9c21f7113ae47ebd25aef0b232c70e136b0236f0b64f",
-    "current": "0f3abbdee85f3009122d9c21f7113ae47ebd25aef0b232c70e136b0236f0b64f"
+    "previous": "76a32976447e631bc5683ada39532403c9c9702896d86dfdb7641231515a558b",
+    "current": "76a32976447e631bc5683ada39532403c9c9702896d86dfdb7641231515a558b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.ttf",
-    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.svg",
-    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.woff",
-    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.eot",
-    "dist/fonts/icono-arg_0f3abbdee85f3009122d9c21f7113ae4.woff2"
+    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.ttf",
+    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.svg",
+    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.woff",
+    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.eot",
+    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1523,9 +1523,9 @@
       "codepoint": 62785,
       "source": "src/_icons/mosquito.svg"
     },
-    "moticicleta-lineal": {
-      "codepoint": 62702,
-      "source": "src/_icons/moticicleta-lineal.svg"
+    "motocicleta-lineal": {
+      "codepoint": 62970,
+      "source": "src/_icons/motocicleta-lineal.svg"
     },
     "motocicleta-negativo": {
       "codepoint": 62703,
