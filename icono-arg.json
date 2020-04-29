@@ -917,6 +917,16 @@
       },
     
       {
+        "nombre": "dire-genero-lineal",
+        "clase": "icono-arg-dire-genero-lineal"
+      },
+    
+      {
+        "nombre": "dire-genero-negativo",
+        "clase": "icono-arg-dire-genero-negativo"
+      },
+    
+      {
         "nombre": "discapacidad",
         "clase": "icono-arg-discapacidad"
       },

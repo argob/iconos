@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "76a32976447e631bc5683ada39532403c9c9702896d86dfdb7641231515a558b",
-    "current": "76a32976447e631bc5683ada39532403c9c9702896d86dfdb7641231515a558b"
+    "previous": "36640749f7dac773e9f146e73600c547e03bf8eecf993ff98f6b3b7d8bc7ac8f",
+    "current": "36640749f7dac773e9f146e73600c547e03bf8eecf993ff98f6b3b7d8bc7ac8f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.ttf",
-    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.svg",
-    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.woff",
-    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.eot",
-    "dist/fonts/icono-arg_76a32976447e631bc5683ada39532403.woff2"
+    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.ttf",
+    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.svg",
+    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.woff",
+    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.eot",
+    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -742,6 +742,14 @@
     "diploma-negativo": {
       "codepoint": 62814,
       "source": "src/_icons/diploma-negativo.svg"
+    },
+    "dire-genero-lineal": {
+      "codepoint": 62971,
+      "source": "src/_icons/dire-genero-lineal.svg"
+    },
+    "dire-genero-negativo": {
+      "codepoint": 62972,
+      "source": "src/_icons/dire-genero-negativo.svg"
     },
     "discapacidad": {
       "codepoint": 62359,
