@@ -97,6 +97,16 @@
       },
     
       {
+        "nombre": "ambiente-medicion-lineal",
+        "clase": "icono-arg-ambiente-medicion-lineal"
+      },
+    
+      {
+        "nombre": "ambiente-medicion-negativo",
+        "clase": "icono-arg-ambiente-medicion-negativo"
+      },
+    
+      {
         "nombre": "animales-exp-imp",
         "clase": "icono-arg-animales-exp-imp"
       },
@@ -999,6 +1009,16 @@
       {
         "nombre": "dut",
         "clase": "icono-arg-dut"
+      },
+    
+      {
+        "nombre": "economia-circular-lineal",
+        "clase": "icono-arg-economia-circular-lineal"
+      },
+    
+      {
+        "nombre": "economia-circular-negativo",
+        "clase": "icono-arg-economia-circular-negativo"
       },
     
       {

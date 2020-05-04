@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "36640749f7dac773e9f146e73600c547e03bf8eecf993ff98f6b3b7d8bc7ac8f",
-    "current": "36640749f7dac773e9f146e73600c547e03bf8eecf993ff98f6b3b7d8bc7ac8f"
+    "previous": "919c10999d480a9214a402ca32df44a305cd12c24d543e5f78c09394f83c8344",
+    "current": "919c10999d480a9214a402ca32df44a305cd12c24d543e5f78c09394f83c8344"
   },
   "fonts": [
-    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.ttf",
-    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.svg",
-    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.woff",
-    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.eot",
-    "dist/fonts/icono-arg_36640749f7dac773e9f146e73600c547.woff2"
+    "dist/fonts/icono-arg_919c10999d480a9214a402ca32df44a3.ttf",
+    "dist/fonts/icono-arg_919c10999d480a9214a402ca32df44a3.svg",
+    "dist/fonts/icono-arg_919c10999d480a9214a402ca32df44a3.woff",
+    "dist/fonts/icono-arg_919c10999d480a9214a402ca32df44a3.eot",
+    "dist/fonts/icono-arg_919c10999d480a9214a402ca32df44a3.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -86,6 +86,14 @@
     "ambiente-cert": {
       "codepoint": 62323,
       "source": "src/_icons/ambiente-cert.svg"
+    },
+    "ambiente-medicion-lineal": {
+      "codepoint": 62973,
+      "source": "src/_icons/ambiente-medicion-lineal.svg"
+    },
+    "ambiente-medicion-negativo": {
+      "codepoint": 62974,
+      "source": "src/_icons/ambiente-medicion-negativo.svg"
     },
     "animales-exp-imp": {
       "codepoint": 62324,
@@ -810,6 +818,14 @@
     "dut": {
       "codepoint": 62904,
       "source": "src/_icons/dut.svg"
+    },
+    "economia-circular-lineal": {
+      "codepoint": 62975,
+      "source": "src/_icons/economia-circular-lineal.svg"
+    },
+    "economia-circular-negativo": {
+      "codepoint": 62976,
+      "source": "src/_icons/economia-circular-negativo.svg"
     },
     "educacion": {
       "codepoint": 62360,
