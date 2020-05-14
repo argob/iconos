@@ -792,6 +792,16 @@
       },
     
       {
+        "nombre": "cuidar-lineal",
+        "clase": "icono-arg-cuidar-lineal"
+      },
+    
+      {
+        "nombre": "cuidar-negativo",
+        "clase": "icono-arg-cuidar-negativo"
+      },
+    
+      {
         "nombre": "cultura",
         "clase": "icono-arg-cultura"
       },
