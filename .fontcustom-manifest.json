@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "1dc3fb68a82183e50a151096725c3c23bfb2c56f13404968dd64e0f6aeeb9c17",
-    "current": "1dc3fb68a82183e50a151096725c3c23bfb2c56f13404968dd64e0f6aeeb9c17"
+    "previous": "5e0a7c2459445f74e16ffe76a4b738b4ed43d64a13a06600d1edb2d521bc8d5d",
+    "current": "5e0a7c2459445f74e16ffe76a4b738b4ed43d64a13a06600d1edb2d521bc8d5d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_1dc3fb68a82183e50a151096725c3c23.ttf",
-    "dist/fonts/icono-arg_1dc3fb68a82183e50a151096725c3c23.svg",
-    "dist/fonts/icono-arg_1dc3fb68a82183e50a151096725c3c23.woff",
-    "dist/fonts/icono-arg_1dc3fb68a82183e50a151096725c3c23.eot",
-    "dist/fonts/icono-arg_1dc3fb68a82183e50a151096725c3c23.woff2"
+    "dist/fonts/icono-arg_5e0a7c2459445f74e16ffe76a4b738b4.ttf",
+    "dist/fonts/icono-arg_5e0a7c2459445f74e16ffe76a4b738b4.svg",
+    "dist/fonts/icono-arg_5e0a7c2459445f74e16ffe76a4b738b4.woff",
+    "dist/fonts/icono-arg_5e0a7c2459445f74e16ffe76a4b738b4.eot",
+    "dist/fonts/icono-arg_5e0a7c2459445f74e16ffe76a4b738b4.woff2"
   ],
   "glyphs": {
     "aaip": {
