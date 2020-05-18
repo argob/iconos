@@ -2792,6 +2792,11 @@
       },
     
       {
+        "nombre": "usuario-miarg",
+        "clase": "icono-arg-usuario-miarg"
+      },
+    
+      {
         "nombre": "usuarios",
         "clase": "icono-arg-usuarios"
       },
