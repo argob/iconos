@@ -2362,6 +2362,16 @@
       },
     
       {
+        "nombre": "rociador-limpieza",
+        "clase": "icono-arg-rociador-limpieza"
+      },
+    
+      {
+        "nombre": "rociador-lupa-limpieza",
+        "clase": "icono-arg-rociador-lupa-limpieza"
+      },
+    
+      {
         "nombre": "rto",
         "clase": "icono-arg-rto"
       },

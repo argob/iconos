@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "660545365f8ce5c0d8e99c62d74f60b47475678d08ec19bfbdaacfd8a1ad2baa",
-    "current": "660545365f8ce5c0d8e99c62d74f60b47475678d08ec19bfbdaacfd8a1ad2baa"
+    "previous": "c9014822b7f0733d5a63aed10bf14656cd916a54a18dda505bb9873fd4ecdebd",
+    "current": "c9014822b7f0733d5a63aed10bf14656cd916a54a18dda505bb9873fd4ecdebd"
   },
   "fonts": [
-    "dist/fonts/icono-arg_660545365f8ce5c0d8e99c62d74f60b4.ttf",
-    "dist/fonts/icono-arg_660545365f8ce5c0d8e99c62d74f60b4.svg",
-    "dist/fonts/icono-arg_660545365f8ce5c0d8e99c62d74f60b4.woff",
-    "dist/fonts/icono-arg_660545365f8ce5c0d8e99c62d74f60b4.eot",
-    "dist/fonts/icono-arg_660545365f8ce5c0d8e99c62d74f60b4.woff2"
+    "dist/fonts/icono-arg_c9014822b7f0733d5a63aed10bf14656.ttf",
+    "dist/fonts/icono-arg_c9014822b7f0733d5a63aed10bf14656.svg",
+    "dist/fonts/icono-arg_c9014822b7f0733d5a63aed10bf14656.woff",
+    "dist/fonts/icono-arg_c9014822b7f0733d5a63aed10bf14656.eot",
+    "dist/fonts/icono-arg_c9014822b7f0733d5a63aed10bf14656.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1898,6 +1898,14 @@
     "rocas": {
       "codepoint": 62893,
       "source": "src/_icons/rocas.svg"
+    },
+    "rociador-limpieza": {
+      "codepoint": 62980,
+      "source": "src/_icons/rociador-limpieza.svg"
+    },
+    "rociador-lupa-limpieza": {
+      "codepoint": 62981,
+      "source": "src/_icons/rociador-lupa-limpieza.svg"
     },
     "rto": {
       "codepoint": 62950,
