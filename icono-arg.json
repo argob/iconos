@@ -1032,6 +1032,11 @@
       },
     
       {
+        "nombre": "editorial-manuel-belgrano",
+        "clase": "icono-arg-editorial-manuel-belgrano"
+      },
+    
+      {
         "nombre": "educacion",
         "clase": "icono-arg-educacion"
       },
