@@ -3,3 +3,6 @@ node_modules
 dist/.DS_Store
 src/.DS_Store
 .DS_Store
+.DS_Store
+dist/icono-arg.css
+src/.DS_Store
