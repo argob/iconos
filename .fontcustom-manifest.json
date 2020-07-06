@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "9e1abe352ac99a64db8b2c3ea5bdd49869ac5a99ad5c8bc42398eba5d9002839",
-    "current": "9e1abe352ac99a64db8b2c3ea5bdd49869ac5a99ad5c8bc42398eba5d9002839"
+    "previous": "6ccd89884b78c9ea11e12b1b44e358f9de1c7f9b5b26c57f74024b2a70b72ff5",
+    "current": "6ccd89884b78c9ea11e12b1b44e358f9de1c7f9b5b26c57f74024b2a70b72ff5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_9e1abe352ac99a64db8b2c3ea5bdd498.ttf",
-    "dist/fonts/icono-arg_9e1abe352ac99a64db8b2c3ea5bdd498.svg",
-    "dist/fonts/icono-arg_9e1abe352ac99a64db8b2c3ea5bdd498.woff",
-    "dist/fonts/icono-arg_9e1abe352ac99a64db8b2c3ea5bdd498.eot",
-    "dist/fonts/icono-arg_9e1abe352ac99a64db8b2c3ea5bdd498.woff2"
+    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.ttf",
+    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.svg",
+    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.woff",
+    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.eot",
+    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -566,6 +566,30 @@
     "colores-tipografia": {
       "codepoint": 62955,
       "source": "src/_icons/colores-tipografia.svg"
+    },
+    "comisiones-cofefup-analisis": {
+      "codepoint": 62983,
+      "source": "src/_icons/comisiones-cofefup-analisis.svg"
+    },
+    "comisiones-cofefup-carpetas": {
+      "codepoint": 62984,
+      "source": "src/_icons/comisiones-cofefup-carpetas.svg"
+    },
+    "comisiones-cofefup-equipo": {
+      "codepoint": 62985,
+      "source": "src/_icons/comisiones-cofefup-equipo.svg"
+    },
+    "comisiones-cofefup-estructura": {
+      "codepoint": 62986,
+      "source": "src/_icons/comisiones-cofefup-estructura.svg"
+    },
+    "comisiones-cofefup-grafico": {
+      "codepoint": 62987,
+      "source": "src/_icons/comisiones-cofefup-grafico.svg"
+    },
+    "comisiones-cofefup-seguridad": {
+      "codepoint": 62988,
+      "source": "src/_icons/comisiones-cofefup-seguridad.svg"
     },
     "componentes": {
       "codepoint": 62930,
@@ -1626,6 +1650,10 @@
     "nuclear": {
       "codepoint": 62389,
       "source": "src/_icons/nuclear.svg"
+    },
+    "observatorio-de-politicas-de-genero": {
+      "codepoint": 62989,
+      "source": "src/_icons/observatorio-de-politicas-de-genero.svg"
     },
     "ola-de-calor": {
       "codepoint": 62552,

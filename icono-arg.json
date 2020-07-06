@@ -697,6 +697,36 @@
       },
     
       {
+        "nombre": "comisiones-cofefup-analisis",
+        "clase": "icono-arg-comisiones-cofefup-analisis"
+      },
+    
+      {
+        "nombre": "comisiones-cofefup-carpetas",
+        "clase": "icono-arg-comisiones-cofefup-carpetas"
+      },
+    
+      {
+        "nombre": "comisiones-cofefup-equipo",
+        "clase": "icono-arg-comisiones-cofefup-equipo"
+      },
+    
+      {
+        "nombre": "comisiones-cofefup-estructura",
+        "clase": "icono-arg-comisiones-cofefup-estructura"
+      },
+    
+      {
+        "nombre": "comisiones-cofefup-grafico",
+        "clase": "icono-arg-comisiones-cofefup-grafico"
+      },
+    
+      {
+        "nombre": "comisiones-cofefup-seguridad",
+        "clase": "icono-arg-comisiones-cofefup-seguridad"
+      },
+    
+      {
         "nombre": "componentes",
         "clase": "icono-arg-componentes"
       },
@@ -2019,6 +2049,11 @@
       {
         "nombre": "nuclear",
         "clase": "icono-arg-nuclear"
+      },
+    
+      {
+        "nombre": "observatorio-de-politicas-de-genero",
+        "clase": "icono-arg-observatorio-de-politicas-de-genero"
       },
     
       {
