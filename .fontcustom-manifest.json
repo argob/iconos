@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "6ccd89884b78c9ea11e12b1b44e358f9de1c7f9b5b26c57f74024b2a70b72ff5",
-    "current": "6ccd89884b78c9ea11e12b1b44e358f9de1c7f9b5b26c57f74024b2a70b72ff5"
+    "previous": "c0b166ff8d46ed4c41893db61876cf0278ae2ac8c5c1c128893b59613017c51e",
+    "current": "c0b166ff8d46ed4c41893db61876cf0278ae2ac8c5c1c128893b59613017c51e"
   },
   "fonts": [
-    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.ttf",
-    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.svg",
-    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.woff",
-    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.eot",
-    "dist/fonts/icono-arg_6ccd89884b78c9ea11e12b1b44e358f9.woff2"
+    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.ttf",
+    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.svg",
+    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.woff",
+    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.eot",
+    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1650,6 +1650,50 @@
     "nuclear": {
       "codepoint": 62389,
       "source": "src/_icons/nuclear.svg"
+    },
+    "numero-0": {
+      "codepoint": 62990,
+      "source": "src/_icons/numero-0.svg"
+    },
+    "numero-1": {
+      "codepoint": 62991,
+      "source": "src/_icons/numero-1.svg"
+    },
+    "numero-10": {
+      "codepoint": 62992,
+      "source": "src/_icons/numero-10.svg"
+    },
+    "numero-2": {
+      "codepoint": 62993,
+      "source": "src/_icons/numero-2.svg"
+    },
+    "numero-3": {
+      "codepoint": 62994,
+      "source": "src/_icons/numero-3.svg"
+    },
+    "numero-4": {
+      "codepoint": 62995,
+      "source": "src/_icons/numero-4.svg"
+    },
+    "numero-5": {
+      "codepoint": 62996,
+      "source": "src/_icons/numero-5.svg"
+    },
+    "numero-6": {
+      "codepoint": 62997,
+      "source": "src/_icons/numero-6.svg"
+    },
+    "numero-7": {
+      "codepoint": 62998,
+      "source": "src/_icons/numero-7.svg"
+    },
+    "numero-8": {
+      "codepoint": 62999,
+      "source": "src/_icons/numero-8.svg"
+    },
+    "numero-9": {
+      "codepoint": 63000,
+      "source": "src/_icons/numero-9.svg"
     },
     "observatorio-de-politicas-de-genero": {
       "codepoint": 62989,

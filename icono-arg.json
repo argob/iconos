@@ -2052,6 +2052,61 @@
       },
     
       {
+        "nombre": "numero-0",
+        "clase": "icono-arg-numero-0"
+      },
+    
+      {
+        "nombre": "numero-1",
+        "clase": "icono-arg-numero-1"
+      },
+    
+      {
+        "nombre": "numero-10",
+        "clase": "icono-arg-numero-10"
+      },
+    
+      {
+        "nombre": "numero-2",
+        "clase": "icono-arg-numero-2"
+      },
+    
+      {
+        "nombre": "numero-3",
+        "clase": "icono-arg-numero-3"
+      },
+    
+      {
+        "nombre": "numero-4",
+        "clase": "icono-arg-numero-4"
+      },
+    
+      {
+        "nombre": "numero-5",
+        "clase": "icono-arg-numero-5"
+      },
+    
+      {
+        "nombre": "numero-6",
+        "clase": "icono-arg-numero-6"
+      },
+    
+      {
+        "nombre": "numero-7",
+        "clase": "icono-arg-numero-7"
+      },
+    
+      {
+        "nombre": "numero-8",
+        "clase": "icono-arg-numero-8"
+      },
+    
+      {
+        "nombre": "numero-9",
+        "clase": "icono-arg-numero-9"
+      },
+    
+      {
         "nombre": "observatorio-de-politicas-de-genero",
         "clase": "icono-arg-observatorio-de-politicas-de-genero"
       },
