@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2020-7-16: Created with FontForge (http://fontforge.org)
+2020-7-24: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Thu Jul 16 19:04:31 2020
+Created by FontForge 20190801 at Fri Jul 24 11:48:06 2020
  By Roccella
 
 </metadata>
@@ -22,7 +22,7 @@ Created by FontForge 20190801 at Thu Jul 16 19:04:31 2020
     bbox="-0.441012 -59 506 444"
     underline-thickness="38.4"
     underline-position="-76.8"
-    unicode-range="U+0020-F618"
+    unicode-range="U+0020-F619"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -3671,6 +3671,8 @@ c-1 5 3 10 9 11v0c11 1 23 1 34 0z" />
     <glyph glyph-name="telefono-neg" unicode="&#xf4ea;" horiz-adv-x="394" 
 d="M383 91c6 -5 11 -16 11 -24s-5 -18 -11 -23c-10 -9 -20 -20 -29 -30c-10 -11 -29 -19 -43 -19h-7c-23 2 -58 12 -79 23c-46 22 -110 73 -143 112c-25 29 -56 81 -70 116c-7 16 -12 42 -12 59v6c1 12 9 28 17 36c11 10 21 21 32 32c5 6 15 10 23 10s19 -4 24 -10l26 -26
 l25 -26c6 -5 11 -15 11 -23s-5 -19 -11 -24c-11 -11 -21 -22 -32 -32c-1 -1 -2 -3 -2 -5v-4c6 -14 19 -34 29 -46c19 -24 55 -56 81 -73c7 -4 14 -7 21 -11c1 -1 3 -2 4 -2c2 0 4 1 5 3l32 32c5 6 15 11 23 11s18 -5 23 -11c17 -17 35 -34 52 -51z" />
+    <glyph glyph-name="telegram-avion" unicode="&#xf619;" horiz-adv-x="436" 
+d="M435 342l-66 -311c-5 -22 -19 -27 -37 -17l-100 74l-48 -46c-5 -5 -10 -10 -20 -10l7 102l186 167c8 7 -3 11 -13 4l-230 -144l-98 30c-21 7 -22 22 4 32l387 150c17 6 34 -4 28 -31z" />
     <glyph glyph-name="televisor" unicode="&#xf44d;" horiz-adv-x="420" 
 d="M415 345c3 -3 5 -8 5 -12v-1v-237c0 -10 -9 -18 -19 -18v0h-113v-21h40c6 0 12 -6 12 -12s-6 -11 -12 -11h-237c-6 0 -11 5 -11 11s5 12 11 12h41v21h-113v0c-10 0 -19 8 -19 18v238c0 10 9 18 19 18h382v0c4 0 11 -3 14 -6zM265 77h-111v-21h111v21zM397 328h-374v-229
 h374v229z" />

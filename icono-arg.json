@@ -2727,6 +2727,11 @@
       },
     
       {
+        "nombre": "telegram-avion",
+        "clase": "icono-arg-telegram-avion"
+      },
+    
+      {
         "nombre": "televisor",
         "clase": "icono-arg-televisor"
       },

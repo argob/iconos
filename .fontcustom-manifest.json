@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "c0b166ff8d46ed4c41893db61876cf0278ae2ac8c5c1c128893b59613017c51e",
-    "current": "c0b166ff8d46ed4c41893db61876cf0278ae2ac8c5c1c128893b59613017c51e"
+    "previous": "c548e621adbd8d84b4c5a9a701659308765992af7c92081676f894f9affa03e5",
+    "current": "c548e621adbd8d84b4c5a9a701659308765992af7c92081676f894f9affa03e5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.ttf",
-    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.svg",
-    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.woff",
-    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.eot",
-    "dist/fonts/icono-arg_c0b166ff8d46ed4c41893db61876cf02.woff2"
+    "dist/fonts/icono-arg_c548e621adbd8d84b4c5a9a701659308.ttf",
+    "dist/fonts/icono-arg_c548e621adbd8d84b4c5a9a701659308.svg",
+    "dist/fonts/icono-arg_c548e621adbd8d84b4c5a9a701659308.woff",
+    "dist/fonts/icono-arg_c548e621adbd8d84b4c5a9a701659308.eot",
+    "dist/fonts/icono-arg_c548e621adbd8d84b4c5a9a701659308.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2190,6 +2190,10 @@
     "telefono-neg": {
       "codepoint": 62698,
       "source": "src/_icons/telefono-neg.svg"
+    },
+    "telegram-avion": {
+      "codepoint": 63001,
+      "source": "src/_icons/telegram-avion.svg"
     },
     "televisor": {
       "codepoint": 62541,
