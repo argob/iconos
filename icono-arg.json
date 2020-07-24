@@ -2,6 +2,11 @@
   "iconos": [
     
       {
+        "nombre": "aaa-prueba",
+        "clase": "icono-arg-aaa-prueba"
+      },
+    
+      {
         "nombre": "aaip",
         "clase": "icono-arg-aaip"
       },
