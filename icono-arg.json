@@ -1242,6 +1242,11 @@
       },
     
       {
+        "nombre": "facebook-f-",
+        "clase": "icono-arg-facebook-f-"
+      },
+    
+      {
         "nombre": "factor-pago",
         "clase": "icono-arg-factor-pago"
       },
@@ -1734,6 +1739,11 @@
       {
         "nombre": "licencia-valida-negativo",
         "clase": "icono-arg-licencia-valida-negativo"
+      },
+    
+      {
+        "nombre": "linkedin-in",
+        "clase": "icono-arg-linkedin-in"
       },
     
       {
@@ -2897,6 +2907,11 @@
       },
     
       {
+        "nombre": "twitter-pajaro",
+        "clase": "icono-arg-twitter-pajaro"
+      },
+    
+      {
         "nombre": "unicipio",
         "clase": "icono-arg-unicipio"
       },
@@ -3024,6 +3039,11 @@
       {
         "nombre": "vivienda-mas",
         "clase": "icono-arg-vivienda-mas"
+      },
+    
+      {
+        "nombre": "whatsapp-telefono",
+        "clase": "icono-arg-whatsapp-telefono"
       },
     
       {

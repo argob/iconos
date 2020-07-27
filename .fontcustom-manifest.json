@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "720e83a5aef48f427ec8ab2e8016f68545bba53770a666b1804c1260c7a36275",
-    "current": "720e83a5aef48f427ec8ab2e8016f68545bba53770a666b1804c1260c7a36275"
+    "previous": "bfabe2f1b379e235d43134e86be50c74c3cd5da19f584324d8c19a6abcb01f1d",
+    "current": "bfabe2f1b379e235d43134e86be50c74c3cd5da19f584324d8c19a6abcb01f1d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_720e83a5aef48f427ec8ab2e8016f685.ttf",
-    "dist/fonts/icono-arg_720e83a5aef48f427ec8ab2e8016f685.svg",
-    "dist/fonts/icono-arg_720e83a5aef48f427ec8ab2e8016f685.woff",
-    "dist/fonts/icono-arg_720e83a5aef48f427ec8ab2e8016f685.eot"
+    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.ttf",
+    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.svg",
+    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.woff",
+    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.eot"
   ],
   "glyphs": {
     "aaa-prueba": {
@@ -1002,6 +1002,10 @@
       "codepoint": 62365,
       "source": "src/_icons/exterior.svg"
     },
+    "facebook-f-": {
+      "codepoint": 63003,
+      "source": "src/_icons/facebook-f-.svg"
+    },
     "factor-pago": {
       "codepoint": 62366,
       "source": "src/_icons/factor-pago.svg"
@@ -1397,6 +1401,10 @@
     "licencia-valida-negativo": {
       "codepoint": 62825,
       "source": "src/_icons/licencia-valida-negativo.svg"
+    },
+    "linkedin-in": {
+      "codepoint": 63004,
+      "source": "src/_icons/linkedin-in.svg"
     },
     "lluvias": {
       "codepoint": 62783,
@@ -2326,6 +2334,10 @@
       "codepoint": 62582,
       "source": "src/_icons/turno-negativo.svg"
     },
+    "twitter-pajaro": {
+      "codepoint": 63005,
+      "source": "src/_icons/twitter-pajaro.svg"
+    },
     "unicipio": {
       "codepoint": 62946,
       "source": "src/_icons/unicipio.svg"
@@ -2429,6 +2441,10 @@
     "vivienda-mas": {
       "codepoint": 62466,
       "source": "src/_icons/vivienda-mas.svg"
+    },
+    "whatsapp-telefono": {
+      "codepoint": 63006,
+      "source": "src/_icons/whatsapp-telefono.svg"
     },
     "zanahorias": {
       "codepoint": 62660,
