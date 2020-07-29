@@ -1,19 +1,16 @@
 {
   "checksum": {
-    "previous": "bfabe2f1b379e235d43134e86be50c74c3cd5da19f584324d8c19a6abcb01f1d",
-    "current": "bfabe2f1b379e235d43134e86be50c74c3cd5da19f584324d8c19a6abcb01f1d"
+    "previous": "b7e7da3282d699b9d21ba442280120e757801c48eef328b4b1368218d0264f7b",
+    "current": "b7e7da3282d699b9d21ba442280120e757801c48eef328b4b1368218d0264f7b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.ttf",
-    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.svg",
-    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.woff",
-    "dist/fonts/icono-arg_bfabe2f1b379e235d43134e86be50c74.eot"
+    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.ttf",
+    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.svg",
+    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.woff",
+    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.eot",
+    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.woff2"
   ],
   "glyphs": {
-    "aaa-prueba": {
-      "codepoint": 63002,
-      "source": "src/_icons/aaa-prueba.svg"
-    },
     "aaip": {
       "codepoint": 62929,
       "source": "src/_icons/aaip.svg"
@@ -2459,6 +2456,8 @@
     "autowidth": true,
     "base64": true,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icono-arg-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
