@@ -1307,6 +1307,11 @@
       },
     
       {
+        "nombre": "flor-ceibo",
+        "clase": "icono-arg-flor-ceibo"
+      },
+    
+      {
         "nombre": "fotografia",
         "clase": "icono-arg-fotografia"
       },
@@ -1887,6 +1892,11 @@
       },
     
       {
+        "nombre": "mate",
+        "clase": "icono-arg-mate"
+      },
+    
+      {
         "nombre": "mecedora",
         "clase": "icono-arg-mecedora"
       },
@@ -2259,6 +2269,11 @@
       {
         "nombre": "pd-wifi",
         "clase": "icono-arg-pd-wifi"
+      },
+    
+      {
+        "nombre": "pelota-pato",
+        "clase": "icono-arg-pelota-pato"
       },
     
       {
@@ -2772,6 +2787,11 @@
       },
     
       {
+        "nombre": "tiktok",
+        "clase": "icono-arg-tiktok"
+      },
+    
+      {
         "nombre": "tomate",
         "clase": "icono-arg-tomate"
       },
@@ -2809,6 +2829,11 @@
       {
         "nombre": "trabajador-temporal",
         "clase": "icono-arg-trabajador-temporal"
+      },
+    
+      {
+        "nombre": "trabajo-sostenible",
+        "clase": "icono-arg-trabajo-sostenible"
       },
     
       {
@@ -3009,6 +3034,11 @@
       {
         "nombre": "vigilancia-alimentaria",
         "clase": "icono-arg-vigilancia-alimentaria"
+      },
+    
+      {
+        "nombre": "vino",
+        "clase": "icono-arg-vino"
       },
     
       {
