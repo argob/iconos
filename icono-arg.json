@@ -1307,6 +1307,11 @@
       },
     
       {
+        "nombre": "flickr",
+        "clase": "icono-arg-flickr"
+      },
+    
+      {
         "nombre": "flor-ceibo",
         "clase": "icono-arg-flor-ceibo"
       },
@@ -1619,6 +1624,11 @@
       {
         "nombre": "informes-y-estadisticas",
         "clase": "icono-arg-informes-y-estadisticas"
+      },
+    
+      {
+        "nombre": "instagram",
+        "clase": "icono-arg-instagram"
       },
     
       {
@@ -3069,6 +3079,11 @@
       {
         "nombre": "whatsapp-telefono",
         "clase": "icono-arg-whatsapp-telefono"
+      },
+    
+      {
+        "nombre": "youtube",
+        "clase": "icono-arg-youtube"
       },
     
       {
