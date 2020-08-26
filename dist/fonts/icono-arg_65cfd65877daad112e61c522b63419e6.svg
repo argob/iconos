@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2020-8-13: Created with FontForge (http://fontforge.org)
+2020-8-19: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Thu Aug 13 14:29:38 2020
- By Juan Manuel
+Created by FontForge 20190801 at Wed Aug 19 12:39:39 2020
+ By root
 
 </metadata>
 <defs>
@@ -22,7 +22,7 @@ Created by FontForge 20190801 at Thu Aug 13 14:29:38 2020
     bbox="-0.569219 -59 506 444"
     underline-thickness="38.4"
     underline-position="-76.8"
-    unicode-range="U+0020-F627"
+    unicode-range="U+0020-F628"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -896,6 +896,10 @@ h-70c-2 -6 -5 -12 -7 -17c-1 -4 -3 -9 -4 -13c-2 -4 -2 -8 -3 -10s-1 -5 -1 -7c0 -4 
 M400 32h9v-9c-5 -2 -9 -3 -12 -4s-7 -1 -11 -1c-7 0 -13 1 -17 5s-7 8 -8 15h-1c-6 -6 -13 -11 -20 -15c-7 -3 -15 -5 -25 -5s-18 3 -25 9s-10 16 -10 26c0 5 1 10 2 14c2 4 4 8 7 11c2 2 5 5 9 7s8 4 11 5c4 2 12 5 25 9s23 8 27 10v15c0 1 0 4 -1 7c0 4 -1 7 -3 10
 s-5 6 -8 9s-9 4 -15 4c-4 0 -8 -1 -12 -2c-4 -2 -7 -3 -8 -5c0 -2 0 -5 -2 -8c1 -4 1 -7 1 -10s-1 -6 -4 -9s-7 -5 -12 -5c-4 0 -8 3 -10 6s-3 7 -3 11s2 8 5 12c3 3 7 7 12 10c4 3 9 5 15 7s11 3 17 3c7 0 15 -1 21 -2s11 -3 16 -7c5 -3 9 -8 11 -14c3 -6 4 -15 4 -24v-35
 v-34c0 -4 1 -8 2 -10s3 -4 6 -5c2 0 4 -1 7 -1zM360 49l2 47c-8 -2 -16 -5 -22 -7s-12 -5 -17 -8s-8 -7 -11 -11s-4 -9 -4 -15c0 -8 2 -14 6 -18c4 -3 9 -5 15 -5s13 2 18 5s10 8 13 12z" />
+    <glyph glyph-name="comercio" unicode="&#xf628;" horiz-adv-x="408" 
+d="M368 188v-203v0c0 -5 -4 -9 -9 -9h-311v0c-5 0 -9 4 -9 9v203c-23 9 -38 31 -39 56v0v1v2v0l60 115c2 3 5 5 8 5h286c4 0 8 -3 9 -6l44 -115v-1s1 -1 1 -2v0v0c-1 -24 -17 -46 -40 -55zM348 349h-82l11 -97h108zM247 349h-74l-23 -97h108zM258 234h-109
+c5 -20 27 -35 54 -35s50 15 55 35zM73 349l-50 -97h108l23 97h-81zM18 234c5 -20 28 -35 55 -35s50 15 55 35h-110zM350 106v76c-5 -1 -12 -1 -17 -1c-26 -1 -50 11 -65 32c-15 -21 -39 -33 -65 -32c-26 -1 -50 11 -65 32c-15 -21 -39 -33 -65 -32c-5 0 -11 0 -16 1v-76h293
+zM334 199h-1c27 0 50 15 55 35h-109c5 -20 28 -35 55 -35z" />
     <glyph glyph-name="comisiones-cofefup-analisis" unicode="&#xf607;" horiz-adv-x="465" 
 d="M136 95h38v-19h-77v19h19v39h-87c-16 0 -29 13 -29 29v233c0 16 13 29 29 29h329c16 0 29 -13 29 -29v-175h-19v175c0 5 -5 9 -10 9h-329c-5 0 -10 -4 -10 -9v-233c0 -5 5 -10 10 -10h126v-19h-19v-39zM39 202v19h19v-19c0 -5 5 -10 10 -10h19v-19h-19
 c-16 0 -29 13 -29 29zM58 260v-19h-19v19h19zM462 -10l-27 -27c-2 -2 -4 -3 -7 -3s-5 1 -7 3l-60 60c-4 4 -4 10 0 14l6 7l-20 20c-19 -16 -42 -24 -67 -24c-58 0 -106 47 -106 105s48 105 106 105c28 0 54 -11 74 -31c39 -39 41 -100 7 -141l20 -21l7 7c2 2 3 3 6 3

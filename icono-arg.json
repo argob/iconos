@@ -697,6 +697,11 @@
       },
     
       {
+        "nombre": "comercio",
+        "clase": "icono-arg-comercio"
+      },
+    
+      {
         "nombre": "comisiones-cofefup-analisis",
         "clase": "icono-arg-comisiones-cofefup-analisis"
       },
