@@ -17,6 +17,11 @@
       },
     
       {
+        "nombre": "achatar-curva",
+        "clase": "icono-arg-achatar-curva"
+      },
+    
+      {
         "nombre": "acrobat",
         "clase": "icono-arg-acrobat"
       },

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "be0e0858715537933a16884292387b4742dd3201d1d16c7ee3dedcf225a64e83",
-    "current": "be0e0858715537933a16884292387b4742dd3201d1d16c7ee3dedcf225a64e83"
+    "previous": "26a16b0e7f5febe0dfadfb19d39bdf0bafe3ebae21014bf18d6ff84549e4950f",
+    "current": "26a16b0e7f5febe0dfadfb19d39bdf0bafe3ebae21014bf18d6ff84549e4950f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.ttf",
-    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.svg",
-    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.woff",
-    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.eot",
-    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.woff2"
+    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.ttf",
+    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.svg",
+    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.woff",
+    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.eot",
+    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -22,6 +22,10 @@
     "abrigo": {
       "codepoint": 62558,
       "source": "src/_icons/abrigo.svg"
+    },
+    "achatar-curva": {
+      "codepoint": 63018,
+      "source": "src/_icons/achatar-curva.svg"
     },
     "acrobat": {
       "codepoint": 62964,
