@@ -1592,6 +1592,11 @@
       },
     
       {
+        "nombre": "inclusion-financiera",
+        "clase": "icono-arg-inclusion-financiera"
+      },
+    
+      {
         "nombre": "incucai",
         "clase": "icono-arg-incucai"
       },

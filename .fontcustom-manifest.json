@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "b7e7da3282d699b9d21ba442280120e757801c48eef328b4b1368218d0264f7b",
-    "current": "b7e7da3282d699b9d21ba442280120e757801c48eef328b4b1368218d0264f7b"
+    "previous": "be0e0858715537933a16884292387b4742dd3201d1d16c7ee3dedcf225a64e83",
+    "current": "be0e0858715537933a16884292387b4742dd3201d1d16c7ee3dedcf225a64e83"
   },
   "fonts": [
-    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.ttf",
-    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.svg",
-    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.woff",
-    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.eot",
-    "dist/fonts/icono-arg_b7e7da3282d699b9d21ba442280120e7.woff2"
+    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.ttf",
+    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.svg",
+    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.woff",
+    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.eot",
+    "dist/fonts/icono-arg_be0e0858715537933a16884292387b47.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -567,6 +567,10 @@
       "codepoint": 62955,
       "source": "src/_icons/colores-tipografia.svg"
     },
+    "comercio": {
+      "codepoint": 63016,
+      "source": "src/_icons/comercio.svg"
+    },
     "comisiones-cofefup-analisis": {
       "codepoint": 62983,
       "source": "src/_icons/comisiones-cofefup-analisis.svg"
@@ -1055,6 +1059,14 @@
       "codepoint": 62881,
       "source": "src/_icons/firma-digital-remota.svg"
     },
+    "flickr": {
+      "codepoint": 63007,
+      "source": "src/_icons/flickr.svg"
+    },
+    "flor-ceibo": {
+      "codepoint": 63008,
+      "source": "src/_icons/flor-ceibo.svg"
+    },
     "fotografia": {
       "codepoint": 62941,
       "source": "src/_icons/fotografia.svg"
@@ -1271,6 +1283,10 @@
       "codepoint": 62374,
       "source": "src/_icons/inclusion-digital.svg"
     },
+    "inclusion-financiera": {
+      "codepoint": 63017,
+      "source": "src/_icons/inclusion-financiera.svg"
+    },
     "incucai": {
       "codepoint": 62773,
       "source": "src/_icons/incucai.svg"
@@ -1302,6 +1318,10 @@
     "informes-y-estadisticas": {
       "codepoint": 62630,
       "source": "src/_icons/informes-y-estadisticas.svg"
+    },
+    "instagram": {
+      "codepoint": 63009,
+      "source": "src/_icons/instagram.svg"
     },
     "institucion": {
       "codepoint": 62376,
@@ -1518,6 +1538,10 @@
     "martillo-negativo": {
       "codepoint": 62641,
       "source": "src/_icons/martillo-negativo.svg"
+    },
+    "mate": {
+      "codepoint": 63010,
+      "source": "src/_icons/mate.svg"
     },
     "mecedora": {
       "codepoint": 62573,
@@ -1818,6 +1842,10 @@
     "pd-wifi": {
       "codepoint": 62394,
       "source": "src/_icons/pd-wifi.svg"
+    },
+    "pelota-pato": {
+      "codepoint": 63011,
+      "source": "src/_icons/pelota-pato.svg"
     },
     "pera": {
       "codepoint": 62654,
@@ -2227,6 +2255,10 @@
       "codepoint": 62554,
       "source": "src/_icons/terremoto.svg"
     },
+    "tiktok": {
+      "codepoint": 63012,
+      "source": "src/_icons/tiktok.svg"
+    },
     "tomate": {
       "codepoint": 62658,
       "source": "src/_icons/tomate.svg"
@@ -2258,6 +2290,10 @@
     "trabajador-temporal": {
       "codepoint": 62413,
       "source": "src/_icons/trabajador-temporal.svg"
+    },
+    "trabajo-sostenible": {
+      "codepoint": 63013,
+      "source": "src/_icons/trabajo-sostenible.svg"
     },
     "tramite": {
       "codepoint": 62579,
@@ -2419,6 +2455,10 @@
       "codepoint": 62682,
       "source": "src/_icons/vigilancia-alimentaria.svg"
     },
+    "vino": {
+      "codepoint": 63014,
+      "source": "src/_icons/vino.svg"
+    },
     "visa-negocios": {
       "codepoint": 62418,
       "source": "src/_icons/visa-negocios.svg"
@@ -2442,6 +2482,10 @@
     "whatsapp-telefono": {
       "codepoint": 63006,
       "source": "src/_icons/whatsapp-telefono.svg"
+    },
+    "youtube": {
+      "codepoint": 63015,
+      "source": "src/_icons/youtube.svg"
     },
     "zanahorias": {
       "codepoint": 62660,
