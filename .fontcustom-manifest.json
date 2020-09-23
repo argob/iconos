@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "26a16b0e7f5febe0dfadfb19d39bdf0bafe3ebae21014bf18d6ff84549e4950f",
-    "current": "26a16b0e7f5febe0dfadfb19d39bdf0bafe3ebae21014bf18d6ff84549e4950f"
+    "previous": "cb09a3bff75c385342eff3924d78f903de3d1d51b3e71d633db7880a85e15b0f",
+    "current": "cb09a3bff75c385342eff3924d78f903de3d1d51b3e71d633db7880a85e15b0f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.ttf",
-    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.svg",
-    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.woff",
-    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.eot",
-    "dist/fonts/icono-arg_26a16b0e7f5febe0dfadfb19d39bdf0b.woff2"
+    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.ttf",
+    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.svg",
+    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.woff",
+    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.eot",
+    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1510,6 +1510,10 @@
     "mapa-argentina": {
       "codepoint": 62631,
       "source": "src/_icons/mapa-argentina.svg"
+    },
+    "maps": {
+      "codepoint": 63019,
+      "source": "src/_icons/maps.svg"
     },
     "maquina-agricola": {
       "codepoint": 62715,

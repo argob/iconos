@@ -1877,6 +1877,11 @@
       },
     
       {
+        "nombre": "maps",
+        "clase": "icono-arg-maps"
+      },
+    
+      {
         "nombre": "maquina-agricola",
         "clase": "icono-arg-maquina-agricola"
       },
