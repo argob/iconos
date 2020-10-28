@@ -1127,6 +1127,11 @@
       },
     
       {
+        "nombre": "enemigos-digitales",
+        "clase": "icono-arg-enemigos-digitales"
+      },
+    
+      {
         "nombre": "energia-eolica",
         "clase": "icono-arg-energia-eolica"
       },
@@ -1204,6 +1209,11 @@
       {
         "nombre": "escudo-nacional",
         "clase": "icono-arg-escudo-nacional"
+      },
+    
+      {
+        "nombre": "escuela",
+        "clase": "icono-arg-escuela"
       },
     
       {

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "cb09a3bff75c385342eff3924d78f903de3d1d51b3e71d633db7880a85e15b0f",
-    "current": "cb09a3bff75c385342eff3924d78f903de3d1d51b3e71d633db7880a85e15b0f"
+    "previous": "7fc14480d686d3ebb37ad25e14215254b0f1c817e4cbaa5a80de754df22dcc98",
+    "current": "7fc14480d686d3ebb37ad25e14215254b0f1c817e4cbaa5a80de754df22dcc98"
   },
   "fonts": [
-    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.ttf",
-    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.svg",
-    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.woff",
-    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.eot",
-    "dist/fonts/icono-arg_cb09a3bff75c385342eff3924d78f903.woff2"
+    "dist/fonts/icono-arg_7fc14480d686d3ebb37ad25e14215254.ttf",
+    "dist/fonts/icono-arg_7fc14480d686d3ebb37ad25e14215254.svg",
+    "dist/fonts/icono-arg_7fc14480d686d3ebb37ad25e14215254.woff",
+    "dist/fonts/icono-arg_7fc14480d686d3ebb37ad25e14215254.eot",
+    "dist/fonts/icono-arg_7fc14480d686d3ebb37ad25e14215254.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -911,6 +911,10 @@
       "codepoint": 62667,
       "source": "src/_icons/empresas-e-industria.svg"
     },
+    "enemigos-digitales": {
+      "codepoint": 63020,
+      "source": "src/_icons/enemigos-digitales.svg"
+    },
     "energia-eolica": {
       "codepoint": 62591,
       "source": "src/_icons/energia-eolica.svg"
@@ -974,6 +978,10 @@
     "escudo-nacional": {
       "codepoint": 62604,
       "source": "src/_icons/escudo-nacional.svg"
+    },
+    "escuela": {
+      "codepoint": 63021,
+      "source": "src/_icons/escuela.svg"
     },
     "espacio-publico": {
       "codepoint": 62453,
