@@ -2082,6 +2082,16 @@
       },
     
       {
+        "nombre": "novedades-lineal",
+        "clase": "icono-arg-novedades-lineal"
+      },
+    
+      {
+        "nombre": "novedades-negativo",
+        "clase": "icono-arg-novedades-negativo"
+      },
+    
+      {
         "nombre": "nube",
         "clase": "icono-arg-nube"
       },
