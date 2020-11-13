@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "253856224366a956744b7eb76bd0d1ef77215f0b14e0b2625747ad84d5500892",
-    "current": "253856224366a956744b7eb76bd0d1ef77215f0b14e0b2625747ad84d5500892"
+    "previous": "939f47c427764eca0352469c48c00db0e667e70a514fe368f4d0ef9d203b7420",
+    "current": "939f47c427764eca0352469c48c00db0e667e70a514fe368f4d0ef9d203b7420"
   },
   "fonts": [
-    "dist/fonts/icono-arg_253856224366a956744b7eb76bd0d1ef.ttf",
-    "dist/fonts/icono-arg_253856224366a956744b7eb76bd0d1ef.svg",
-    "dist/fonts/icono-arg_253856224366a956744b7eb76bd0d1ef.woff",
-    "dist/fonts/icono-arg_253856224366a956744b7eb76bd0d1ef.eot",
-    "dist/fonts/icono-arg_253856224366a956744b7eb76bd0d1ef.woff2"
+    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.ttf",
+    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.svg",
+    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.woff",
+    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.eot",
+    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1202,6 +1202,10 @@
     "gratis": {
       "codepoint": 62906,
       "source": "src/_icons/gratis.svg"
+    },
+    "grooming": {
+      "codepoint": 63024,
+      "source": "src/_icons/grooming.svg"
     },
     "guia-tramites": {
       "codepoint": 62731,

@@ -1492,6 +1492,11 @@
       },
     
       {
+        "nombre": "grooming",
+        "clase": "icono-arg-grooming"
+      },
+    
+      {
         "nombre": "guia-tramites",
         "clase": "icono-arg-guia-tramites"
       },
