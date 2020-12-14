@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "939f47c427764eca0352469c48c00db0e667e70a514fe368f4d0ef9d203b7420",
-    "current": "939f47c427764eca0352469c48c00db0e667e70a514fe368f4d0ef9d203b7420"
+    "previous": "8c3ca0614b1cf0227601ad794e7f85c698e3565ef91e52bd7bd0121d80855518",
+    "current": "8c3ca0614b1cf0227601ad794e7f85c698e3565ef91e52bd7bd0121d80855518"
   },
   "fonts": [
-    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.ttf",
-    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.svg",
-    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.woff",
-    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.eot",
-    "dist/fonts/icono-arg_939f47c427764eca0352469c48c00db0.woff2"
+    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.ttf",
+    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.svg",
+    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.woff",
+    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.eot",
+    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -182,6 +182,14 @@
     "asistencia-humanitaria": {
       "codepoint": 62914,
       "source": "src/_icons/asistencia-humanitaria.svg"
+    },
+    "audicion-accesible": {
+      "codepoint": 63025,
+      "source": "src/_icons/audicion-accesible.svg"
+    },
+    "auriculares": {
+      "codepoint": 63026,
+      "source": "src/_icons/auriculares.svg"
     },
     "autentificacion": {
       "codepoint": 62747,
@@ -455,9 +463,17 @@
       "codepoint": 62602,
       "source": "src/_icons/celular.svg"
     },
+    "celular-accesible": {
+      "codepoint": 63027,
+      "source": "src/_icons/celular-accesible.svg"
+    },
     "celular-qr": {
       "codepoint": 62897,
       "source": "src/_icons/celular-qr.svg"
+    },
+    "celular-videojuego": {
+      "codepoint": 63028,
+      "source": "src/_icons/celular-videojuego.svg"
     },
     "central-nuclear": {
       "codepoint": 62492,
@@ -611,6 +627,10 @@
       "codepoint": 62845,
       "source": "src/_icons/computadora-celular-tablet.svg"
     },
+    "computadora-videojuego": {
+      "codepoint": 63029,
+      "source": "src/_icons/computadora-videojuego.svg"
+    },
     "comunicacion": {
       "codepoint": 62350,
       "source": "src/_icons/comunicacion.svg"
@@ -623,6 +643,10 @@
       "codepoint": 62493,
       "source": "src/_icons/conexion.svg"
     },
+    "consola-videojuego": {
+      "codepoint": 63030,
+      "source": "src/_icons/consola-videojuego.svg"
+    },
     "construccion": {
       "codepoint": 62875,
       "source": "src/_icons/construccion.svg"
@@ -630,6 +654,14 @@
     "consulta": {
       "codepoint": 62351,
       "source": "src/_icons/consulta.svg"
+    },
+    "control-accesible": {
+      "codepoint": 63031,
+      "source": "src/_icons/control-accesible.svg"
+    },
+    "control-arcade": {
+      "codepoint": 63032,
+      "source": "src/_icons/control-arcade.svg"
     },
     "corazon": {
       "codepoint": 62925,
@@ -706,6 +738,10 @@
     "cus": {
       "codepoint": 62889,
       "source": "src/_icons/cus.svg"
+    },
+    "dado": {
+      "codepoint": 63033,
+      "source": "src/_icons/dado.svg"
     },
     "database": {
       "codepoint": 62589,
@@ -818,6 +854,18 @@
     "discapacidad-3-negativo": {
       "codepoint": 62847,
       "source": "src/_icons/discapacidad-3-negativo.svg"
+    },
+    "discapacidad-accesible": {
+      "codepoint": 63034,
+      "source": "src/_icons/discapacidad-accesible.svg"
+    },
+    "discord": {
+      "codepoint": 63035,
+      "source": "src/_icons/discord.svg"
+    },
+    "dispositivo-vr": {
+      "codepoint": 63036,
+      "source": "src/_icons/dispositivo-vr.svg"
     },
     "diversidad-sexual": {
       "codepoint": 62475,
@@ -1038,6 +1086,10 @@
     "familia-2": {
       "codepoint": 62849,
       "source": "src/_icons/familia-2.svg"
+    },
+    "fantasma-videojuego": {
+      "codepoint": 63037,
+      "source": "src/_icons/fantasma-videojuego.svg"
     },
     "farmacovigilancia": {
       "codepoint": 62668,
@@ -1367,6 +1419,10 @@
       "codepoint": 62378,
       "source": "src/_icons/jubilado.svg"
     },
+    "juego-cartas": {
+      "codepoint": 63038,
+      "source": "src/_icons/juego-cartas.svg"
+    },
     "juegos": {
       "codepoint": 62651,
       "source": "src/_icons/juegos.svg"
@@ -1642,6 +1698,10 @@
     "motocicleta-negativo": {
       "codepoint": 62703,
       "source": "src/_icons/motocicleta-negativo.svg"
+    },
+    "mouse-computadora": {
+      "codepoint": 63039,
+      "source": "src/_icons/mouse-computadora.svg"
     },
     "mujer": {
       "codepoint": 62704,
@@ -1991,6 +2051,10 @@
       "codepoint": 62858,
       "source": "src/_icons/reactor-ra6.svg"
     },
+    "realidad-virtual": {
+      "codepoint": 63040,
+      "source": "src/_icons/realidad-virtual.svg"
+    },
     "reciclaje": {
       "codepoint": 62519,
       "source": "src/_icons/reciclaje.svg"
@@ -2303,6 +2367,10 @@
       "codepoint": 62555,
       "source": "src/_icons/tornados-y-tormentas-electricas.svg"
     },
+    "torre-ajedrez": {
+      "codepoint": 63041,
+      "source": "src/_icons/torre-ajedrez.svg"
+    },
     "torre-electrica": {
       "codepoint": 62521,
       "source": "src/_icons/torre-electrica.svg"
@@ -2475,6 +2543,18 @@
       "codepoint": 62424,
       "source": "src/_icons/vias.svg"
     },
+    "vida-videojuego": {
+      "codepoint": 63042,
+      "source": "src/_icons/vida-videojuego.svg"
+    },
+    "videojuego-accesible": {
+      "codepoint": 63043,
+      "source": "src/_icons/videojuego-accesible.svg"
+    },
+    "videojuego-portatil": {
+      "codepoint": 63044,
+      "source": "src/_icons/videojuego-portatil.svg"
+    },
     "viento-zonda": {
       "codepoint": 62793,
       "source": "src/_icons/viento-zonda.svg"
@@ -2510,6 +2590,10 @@
     "whatsapp-telefono": {
       "codepoint": 63006,
       "source": "src/_icons/whatsapp-telefono.svg"
+    },
+    "wifi": {
+      "codepoint": 63045,
+      "source": "src/_icons/wifi.svg"
     },
     "youtube": {
       "codepoint": 63015,

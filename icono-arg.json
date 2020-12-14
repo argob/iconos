@@ -217,6 +217,16 @@
       },
     
       {
+        "nombre": "audicion-accesible",
+        "clase": "icono-arg-audicion-accesible"
+      },
+    
+      {
+        "nombre": "auriculares",
+        "clase": "icono-arg-auriculares"
+      },
+    
+      {
         "nombre": "autentificacion",
         "clase": "icono-arg-autentificacion"
       },
@@ -557,8 +567,18 @@
       },
     
       {
+        "nombre": "celular-accesible",
+        "clase": "icono-arg-celular-accesible"
+      },
+    
+      {
         "nombre": "celular-qr",
         "clase": "icono-arg-celular-qr"
+      },
+    
+      {
+        "nombre": "celular-videojuego",
+        "clase": "icono-arg-celular-videojuego"
       },
     
       {
@@ -752,6 +772,11 @@
       },
     
       {
+        "nombre": "computadora-videojuego",
+        "clase": "icono-arg-computadora-videojuego"
+      },
+    
+      {
         "nombre": "comunicacion",
         "clase": "icono-arg-comunicacion"
       },
@@ -767,6 +792,11 @@
       },
     
       {
+        "nombre": "consola-videojuego",
+        "clase": "icono-arg-consola-videojuego"
+      },
+    
+      {
         "nombre": "construccion",
         "clase": "icono-arg-construccion"
       },
@@ -774,6 +804,16 @@
       {
         "nombre": "consulta",
         "clase": "icono-arg-consulta"
+      },
+    
+      {
+        "nombre": "control-accesible",
+        "clase": "icono-arg-control-accesible"
+      },
+    
+      {
+        "nombre": "control-arcade",
+        "clase": "icono-arg-control-arcade"
       },
     
       {
@@ -869,6 +909,11 @@
       {
         "nombre": "cus",
         "clase": "icono-arg-cus"
+      },
+    
+      {
+        "nombre": "dado",
+        "clase": "icono-arg-dado"
       },
     
       {
@@ -1009,6 +1054,21 @@
       {
         "nombre": "discapacidad-3-negativo",
         "clase": "icono-arg-discapacidad-3-negativo"
+      },
+    
+      {
+        "nombre": "discapacidad-accesible",
+        "clase": "icono-arg-discapacidad-accesible"
+      },
+    
+      {
+        "nombre": "discord",
+        "clase": "icono-arg-discord"
+      },
+    
+      {
+        "nombre": "dispositivo-vr",
+        "clase": "icono-arg-dispositivo-vr"
       },
     
       {
@@ -1284,6 +1344,11 @@
       {
         "nombre": "familia-2",
         "clase": "icono-arg-familia-2"
+      },
+    
+      {
+        "nombre": "fantasma-videojuego",
+        "clase": "icono-arg-fantasma-videojuego"
       },
     
       {
@@ -1697,6 +1762,11 @@
       },
     
       {
+        "nombre": "juego-cartas",
+        "clase": "icono-arg-juego-cartas"
+      },
+    
+      {
         "nombre": "juegos",
         "clase": "icono-arg-juegos"
       },
@@ -2039,6 +2109,11 @@
       {
         "nombre": "motocicleta-negativo",
         "clase": "icono-arg-motocicleta-negativo"
+      },
+    
+      {
+        "nombre": "mouse-computadora",
+        "clase": "icono-arg-mouse-computadora"
       },
     
       {
@@ -2477,6 +2552,11 @@
       },
     
       {
+        "nombre": "realidad-virtual",
+        "clase": "icono-arg-realidad-virtual"
+      },
+    
+      {
         "nombre": "reciclaje",
         "clase": "icono-arg-reciclaje"
       },
@@ -2867,6 +2947,11 @@
       },
     
       {
+        "nombre": "torre-ajedrez",
+        "clase": "icono-arg-torre-ajedrez"
+      },
+    
+      {
         "nombre": "torre-electrica",
         "clase": "icono-arg-torre-electrica"
       },
@@ -3082,6 +3167,21 @@
       },
     
       {
+        "nombre": "vida-videojuego",
+        "clase": "icono-arg-vida-videojuego"
+      },
+    
+      {
+        "nombre": "videojuego-accesible",
+        "clase": "icono-arg-videojuego-accesible"
+      },
+    
+      {
+        "nombre": "videojuego-portatil",
+        "clase": "icono-arg-videojuego-portatil"
+      },
+    
+      {
         "nombre": "viento-zonda",
         "clase": "icono-arg-viento-zonda"
       },
@@ -3124,6 +3224,11 @@
       {
         "nombre": "whatsapp-telefono",
         "clase": "icono-arg-whatsapp-telefono"
+      },
+    
+      {
+        "nombre": "wifi",
+        "clase": "icono-arg-wifi"
       },
     
       {
