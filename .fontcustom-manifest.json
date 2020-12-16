@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8c3ca0614b1cf0227601ad794e7f85c698e3565ef91e52bd7bd0121d80855518",
-    "current": "8c3ca0614b1cf0227601ad794e7f85c698e3565ef91e52bd7bd0121d80855518"
+    "previous": "0937710040f7260c0ac69f3b348500ddec79b9fbf400cfc2cd84c42ae5165c2a",
+    "current": "0937710040f7260c0ac69f3b348500ddec79b9fbf400cfc2cd84c42ae5165c2a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.ttf",
-    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.svg",
-    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.woff",
-    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.eot",
-    "dist/fonts/icono-arg_8c3ca0614b1cf0227601ad794e7f85c6.woff2"
+    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.ttf",
+    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.svg",
+    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.woff",
+    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.eot",
+    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -30,6 +30,10 @@
     "acrobat": {
       "codepoint": 62964,
       "source": "src/_icons/acrobat.svg"
+    },
+    "adultos-mayores": {
+      "codepoint": 63046,
+      "source": "src/_icons/adultos-mayores.svg"
     },
     "aeropuerto": {
       "codepoint": 62719,

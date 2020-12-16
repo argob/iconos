@@ -27,6 +27,11 @@
       },
     
       {
+        "nombre": "adultos-mayores",
+        "clase": "icono-arg-adultos-mayores"
+      },
+    
+      {
         "nombre": "aeropuerto",
         "clase": "icono-arg-aeropuerto"
       },
