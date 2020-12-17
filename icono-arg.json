@@ -332,6 +332,11 @@
       },
     
       {
+        "nombre": "belgrano",
+        "clase": "icono-arg-belgrano"
+      },
+    
+      {
         "nombre": "biblioteca",
         "clase": "icono-arg-biblioteca"
       },
@@ -2599,6 +2604,11 @@
       {
         "nombre": "represa-hidroelectrica",
         "clase": "icono-arg-represa-hidroelectrica"
+      },
+    
+      {
+        "nombre": "requisitos",
+        "clase": "icono-arg-requisitos"
       },
     
       {

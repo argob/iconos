@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "0937710040f7260c0ac69f3b348500ddec79b9fbf400cfc2cd84c42ae5165c2a",
-    "current": "0937710040f7260c0ac69f3b348500ddec79b9fbf400cfc2cd84c42ae5165c2a"
+    "previous": "147c5e8e532c3da1709900a9b6472b6b74621514a08590d1e6aecffac1ee1892",
+    "current": "147c5e8e532c3da1709900a9b6472b6b74621514a08590d1e6aecffac1ee1892"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.ttf",
-    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.svg",
-    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.woff",
-    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.eot",
-    "dist/fonts/icono-arg_0937710040f7260c0ac69f3b348500dd.woff2"
+    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.ttf",
+    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.svg",
+    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.woff",
+    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.eot",
+    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -274,6 +274,10 @@
     "bebe-01": {
       "codepoint": 62923,
       "source": "src/_icons/bebe-01.svg"
+    },
+    "belgrano": {
+      "codepoint": 63047,
+      "source": "src/_icons/belgrano.svg"
     },
     "biblioteca": {
       "codepoint": 62939,
@@ -2090,6 +2094,10 @@
     "represa-hidroelectrica": {
       "codepoint": 62520,
       "source": "src/_icons/represa-hidroelectrica.svg"
+    },
+    "requisitos": {
+      "codepoint": 63048,
+      "source": "src/_icons/requisitos.svg"
     },
     "residuos-peligrosos-transporte": {
       "codepoint": 62400,
