@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "147c5e8e532c3da1709900a9b6472b6b74621514a08590d1e6aecffac1ee1892",
-    "current": "147c5e8e532c3da1709900a9b6472b6b74621514a08590d1e6aecffac1ee1892"
+    "previous": "4ac309d9c3c0d148f23ee9886653b787f301c4209c07ffe775be46b6e0840529",
+    "current": "4ac309d9c3c0d148f23ee9886653b787f301c4209c07ffe775be46b6e0840529"
   },
   "fonts": [
-    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.ttf",
-    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.svg",
-    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.woff",
-    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.eot",
-    "dist/fonts/icono-arg_147c5e8e532c3da1709900a9b6472b6b.woff2"
+    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.ttf",
+    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.svg",
+    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.woff",
+    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.eot",
+    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -22,6 +22,10 @@
     "abrigo": {
       "codepoint": 62558,
       "source": "src/_icons/abrigo.svg"
+    },
+    "acceso-a-especialistas": {
+      "codepoint": 63049,
+      "source": "src/_icons/acceso-a-especialistas.svg"
     },
     "achatar-curva": {
       "codepoint": 63018,
@@ -482,6 +486,10 @@
     "celular-videojuego": {
       "codepoint": 63028,
       "source": "src/_icons/celular-videojuego.svg"
+    },
+    "cenie": {
+      "codepoint": 63050,
+      "source": "src/_icons/cenie.svg"
     },
     "central-nuclear": {
       "codepoint": 62492,
@@ -2087,6 +2095,14 @@
       "codepoint": 62776,
       "source": "src/_icons/registro-donantes-medula-osea.svg"
     },
+    "relevamiento-anual": {
+      "codepoint": 63051,
+      "source": "src/_icons/relevamiento-anual.svg"
+    },
+    "relevamiento-escuelas": {
+      "codepoint": 63052,
+      "source": "src/_icons/relevamiento-escuelas.svg"
+    },
     "reloj": {
       "codepoint": 62399,
       "source": "src/_icons/reloj.svg"
@@ -2218,6 +2234,10 @@
     "sin-mosquito": {
       "codepoint": 62788,
       "source": "src/_icons/sin-mosquito.svg"
+    },
+    "sistema-de-consulta-aprender": {
+      "codepoint": 63053,
+      "source": "src/_icons/sistema-de-consulta-aprender.svg"
     },
     "sitios-accesibles": {
       "codepoint": 62937,

@@ -17,6 +17,11 @@
       },
     
       {
+        "nombre": "acceso-a-especialistas",
+        "clase": "icono-arg-acceso-a-especialistas"
+      },
+    
+      {
         "nombre": "achatar-curva",
         "clase": "icono-arg-achatar-curva"
       },
@@ -589,6 +594,11 @@
       {
         "nombre": "celular-videojuego",
         "clase": "icono-arg-celular-videojuego"
+      },
+    
+      {
+        "nombre": "cenie",
+        "clase": "icono-arg-cenie"
       },
     
       {
@@ -2597,6 +2607,16 @@
       },
     
       {
+        "nombre": "relevamiento-anual",
+        "clase": "icono-arg-relevamiento-anual"
+      },
+    
+      {
+        "nombre": "relevamiento-escuelas",
+        "clase": "icono-arg-relevamiento-escuelas"
+      },
+    
+      {
         "nombre": "reloj",
         "clase": "icono-arg-reloj"
       },
@@ -2759,6 +2779,11 @@
       {
         "nombre": "sin-mosquito",
         "clase": "icono-arg-sin-mosquito"
+      },
+    
+      {
+        "nombre": "sistema-de-consulta-aprender",
+        "clase": "icono-arg-sistema-de-consulta-aprender"
       },
     
       {
