@@ -2172,6 +2172,16 @@
       },
     
       {
+        "nombre": "nosotras-movemos-lineal",
+        "clase": "icono-arg-nosotras-movemos-lineal"
+      },
+    
+      {
+        "nombre": "nosotras-movemos-negativo",
+        "clase": "icono-arg-nosotras-movemos-negativo"
+      },
+    
+      {
         "nombre": "notebook",
         "clase": "icono-arg-notebook"
       },

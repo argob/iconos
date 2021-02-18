@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "4ac309d9c3c0d148f23ee9886653b787f301c4209c07ffe775be46b6e0840529",
-    "current": "4ac309d9c3c0d148f23ee9886653b787f301c4209c07ffe775be46b6e0840529"
+    "previous": "4b6edb44585a2593e5495d5415d0774542b02df547782d71c9861e4e57d2f679",
+    "current": "4b6edb44585a2593e5495d5415d0774542b02df547782d71c9861e4e57d2f679"
   },
   "fonts": [
-    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.ttf",
-    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.svg",
-    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.woff",
-    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.eot",
-    "dist/fonts/icono-arg_4ac309d9c3c0d148f23ee9886653b787.woff2"
+    "dist/fonts/icono-arg_4b6edb44585a2593e5495d5415d07745.ttf",
+    "dist/fonts/icono-arg_4b6edb44585a2593e5495d5415d07745.svg",
+    "dist/fonts/icono-arg_4b6edb44585a2593e5495d5415d07745.woff",
+    "dist/fonts/icono-arg_4b6edb44585a2593e5495d5415d07745.eot",
+    "dist/fonts/icono-arg_4b6edb44585a2593e5495d5415d07745.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1746,6 +1746,14 @@
     "niebla": {
       "codepoint": 62786,
       "source": "src/_icons/niebla.svg"
+    },
+    "nosotras-movemos-lineal": {
+      "codepoint": 63054,
+      "source": "src/_icons/nosotras-movemos-lineal.svg"
+    },
+    "nosotras-movemos-negativo": {
+      "codepoint": 63055,
+      "source": "src/_icons/nosotras-movemos-negativo.svg"
     },
     "notebook": {
       "codepoint": 62539,
