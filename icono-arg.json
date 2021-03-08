@@ -1127,6 +1127,16 @@
       },
     
       {
+        "nombre": "dron-frontal",
+        "clase": "icono-arg-dron-frontal"
+      },
+    
+      {
+        "nombre": "dron-superior",
+        "clase": "icono-arg-dron-superior"
+      },
+    
+      {
         "nombre": "ducha",
         "clase": "icono-arg-ducha"
       },
