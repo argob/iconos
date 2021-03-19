@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "25182564e17aa3170a12163447d91e1e5b28493d9f8c37e1c3bcbc0584939b8e",
-    "current": "25182564e17aa3170a12163447d91e1e5b28493d9f8c37e1c3bcbc0584939b8e"
+    "previous": "ce7c79cd467a34106c1f6c19f734e50e5060b935d37562652775eca6f83e2ff3",
+    "current": "ce7c79cd467a34106c1f6c19f734e50e5060b935d37562652775eca6f83e2ff3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_25182564e17aa3170a12163447d91e1e.ttf",
-    "dist/fonts/icono-arg_25182564e17aa3170a12163447d91e1e.svg",
-    "dist/fonts/icono-arg_25182564e17aa3170a12163447d91e1e.woff",
-    "dist/fonts/icono-arg_25182564e17aa3170a12163447d91e1e.eot",
-    "dist/fonts/icono-arg_25182564e17aa3170a12163447d91e1e.woff2"
+    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.ttf",
+    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.svg",
+    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.woff",
+    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.eot",
+    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -38,6 +38,10 @@
     "adultos-mayores": {
       "codepoint": 63046,
       "source": "src/_icons/adultos-mayores.svg"
+    },
+    "adultos-mayores-2": {
+      "codepoint": 63058,
+      "source": "src/_icons/adultos-mayores-2.svg"
     },
     "aeropuerto": {
       "codepoint": 62719,
