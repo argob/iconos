@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "ce7c79cd467a34106c1f6c19f734e50e5060b935d37562652775eca6f83e2ff3",
-    "current": "ce7c79cd467a34106c1f6c19f734e50e5060b935d37562652775eca6f83e2ff3"
+    "previous": "71cf9206a28ba0bc0d23b49708025482d8e20dbe3445d4784d3510d1c3144259",
+    "current": "71cf9206a28ba0bc0d23b49708025482d8e20dbe3445d4784d3510d1c3144259"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.ttf",
-    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.svg",
-    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.woff",
-    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.eot",
-    "dist/fonts/icono-arg_ce7c79cd467a34106c1f6c19f734e50e.woff2"
+    "dist/fonts/icono-arg_71cf9206a28ba0bc0d23b49708025482.ttf",
+    "dist/fonts/icono-arg_71cf9206a28ba0bc0d23b49708025482.svg",
+    "dist/fonts/icono-arg_71cf9206a28ba0bc0d23b49708025482.woff",
+    "dist/fonts/icono-arg_71cf9206a28ba0bc0d23b49708025482.eot",
+    "dist/fonts/icono-arg_71cf9206a28ba0bc0d23b49708025482.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -662,6 +662,10 @@
     "conexion": {
       "codepoint": 62493,
       "source": "src/_icons/conexion.svg"
+    },
+    "consejo-economico-y-social": {
+      "codepoint": 63059,
+      "source": "src/_icons/consejo-economico-y-social.svg"
     },
     "consola-videojuego": {
       "codepoint": 63030,

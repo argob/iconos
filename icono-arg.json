@@ -817,6 +817,11 @@
       },
     
       {
+        "nombre": "consejo-economico-y-social",
+        "clase": "icono-arg-consejo-economico-y-social"
+      },
+    
+      {
         "nombre": "consola-videojuego",
         "clase": "icono-arg-consola-videojuego"
       },
