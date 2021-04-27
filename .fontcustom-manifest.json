@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8c8de0da2672d768c7dd6465a11bd95fe91571aaf7b6d4922674c88d1387e654",
-    "current": "8c8de0da2672d768c7dd6465a11bd95fe91571aaf7b6d4922674c88d1387e654"
+    "previous": "3f7e2fc5e70f3402cf8878a6b9cfc3c8fdff16ee14b0f9ecdcfa44ba02a812c5",
+    "current": "3f7e2fc5e70f3402cf8878a6b9cfc3c8fdff16ee14b0f9ecdcfa44ba02a812c5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8c8de0da2672d768c7dd6465a11bd95f.ttf",
-    "dist/fonts/icono-arg_8c8de0da2672d768c7dd6465a11bd95f.svg",
-    "dist/fonts/icono-arg_8c8de0da2672d768c7dd6465a11bd95f.woff",
-    "dist/fonts/icono-arg_8c8de0da2672d768c7dd6465a11bd95f.eot",
-    "dist/fonts/icono-arg_8c8de0da2672d768c7dd6465a11bd95f.woff2"
+    "dist/fonts/icono-arg_3f7e2fc5e70f3402cf8878a6b9cfc3c8.ttf",
+    "dist/fonts/icono-arg_3f7e2fc5e70f3402cf8878a6b9cfc3c8.svg",
+    "dist/fonts/icono-arg_3f7e2fc5e70f3402cf8878a6b9cfc3c8.woff",
+    "dist/fonts/icono-arg_3f7e2fc5e70f3402cf8878a6b9cfc3c8.eot",
+    "dist/fonts/icono-arg_3f7e2fc5e70f3402cf8878a6b9cfc3c8.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -970,6 +970,10 @@
     "electrodependientes-1": {
       "codepoint": 62497,
       "source": "src/_icons/electrodependientes-1.svg"
+    },
+    "elevacion-de-andenes": {
+      "codepoint": 63060,
+      "source": "src/_icons/elevacion-de-andenes.svg"
     },
     "embarazo": {
       "codepoint": 62362,
@@ -1955,6 +1959,10 @@
       "codepoint": 62426,
       "source": "src/_icons/paso-a-nivel.svg"
     },
+    "paso-bajo-nivel": {
+      "codepoint": 63061,
+      "source": "src/_icons/paso-bajo-nivel.svg"
+    },
     "pastizales": {
       "codepoint": 62892,
       "source": "src/_icons/pastizales.svg"
@@ -2074,6 +2082,10 @@
     "pueblos-originarios": {
       "codepoint": 62478,
       "source": "src/_icons/pueblos-originarios.svg"
+    },
+    "puentes": {
+      "codepoint": 63062,
+      "source": "src/_icons/puentes.svg"
     },
     "radar-meteorologico": {
       "codepoint": 62857,
@@ -2486,6 +2498,10 @@
     "transporte-publico-licencia": {
       "codepoint": 62416,
       "source": "src/_icons/transporte-publico-licencia.svg"
+    },
+    "tren": {
+      "codepoint": 63063,
+      "source": "src/_icons/tren.svg"
     },
     "trigo": {
       "codepoint": 62523,

@@ -1202,6 +1202,11 @@
       },
     
       {
+        "nombre": "elevacion-de-andenes",
+        "clase": "icono-arg-elevacion-de-andenes"
+      },
+    
+      {
         "nombre": "embarazo",
         "clase": "icono-arg-embarazo"
       },
@@ -2432,6 +2437,11 @@
       },
     
       {
+        "nombre": "paso-bajo-nivel",
+        "clase": "icono-arg-paso-bajo-nivel"
+      },
+    
+      {
         "nombre": "pastizales",
         "clase": "icono-arg-pastizales"
       },
@@ -2579,6 +2589,11 @@
       {
         "nombre": "pueblos-originarios",
         "clase": "icono-arg-pueblos-originarios"
+      },
+    
+      {
+        "nombre": "puentes",
+        "clase": "icono-arg-puentes"
       },
     
       {
@@ -3094,6 +3109,11 @@
       {
         "nombre": "transporte-publico-licencia",
         "clase": "icono-arg-transporte-publico-licencia"
+      },
+    
+      {
+        "nombre": "tren",
+        "clase": "icono-arg-tren"
       },
     
       {
