@@ -16,6 +16,7 @@ GEM
     thor (0.20.3)
 
 PLATFORMS
+  x86_64-darwin-18
   x86_64-linux
 
 DEPENDENCIES

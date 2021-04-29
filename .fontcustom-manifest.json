@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "125b13dd9837c015e45b264767e229c9a97bedef7dea1d7d0dc2274a0e4c7e00",
-    "current": "125b13dd9837c015e45b264767e229c9a97bedef7dea1d7d0dc2274a0e4c7e00"
+    "previous": "03e184bd67136cd259f001538fad8edc65ce07afdaace86071c67e91066e831f",
+    "current": "03e184bd67136cd259f001538fad8edc65ce07afdaace86071c67e91066e831f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_125b13dd9837c015e45b264767e229c9.ttf",
-    "dist/fonts/icono-arg_125b13dd9837c015e45b264767e229c9.svg",
-    "dist/fonts/icono-arg_125b13dd9837c015e45b264767e229c9.woff",
-    "dist/fonts/icono-arg_125b13dd9837c015e45b264767e229c9.eot",
-    "dist/fonts/icono-arg_125b13dd9837c015e45b264767e229c9.woff2"
+    "dist/fonts/icono-arg_03e184bd67136cd259f001538fad8edc.ttf",
+    "dist/fonts/icono-arg_03e184bd67136cd259f001538fad8edc.svg",
+    "dist/fonts/icono-arg_03e184bd67136cd259f001538fad8edc.woff",
+    "dist/fonts/icono-arg_03e184bd67136cd259f001538fad8edc.eot",
+    "dist/fonts/icono-arg_03e184bd67136cd259f001538fad8edc.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -262,6 +262,10 @@
     "bandera": {
       "codepoint": 62586,
       "source": "src/_icons/bandera.svg"
+    },
+    "bandera-argentina": {
+      "codepoint": 63064,
+      "source": "src/_icons/bandera-argentina.svg"
     },
     "banio-quimico": {
       "codepoint": 62489,
@@ -2709,7 +2713,6 @@
     },
     "preprocessor_path": null,
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "css",
       "index.html",

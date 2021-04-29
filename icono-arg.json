@@ -317,6 +317,11 @@
       },
     
       {
+        "nombre": "bandera-argentina",
+        "clase": "icono-arg-bandera-argentina"
+      },
+    
+      {
         "nombre": "banio-quimico",
         "clase": "icono-arg-banio-quimico"
       },
