@@ -24,12 +24,12 @@ Para compilar la tipografía se utiliza [Font Custom](https://github.com/FontCus
 La instalación requiere **Ruby 1.9.3+**, **WOFF2** y **FontForge** con las funciones de consola para Python.
 
 ```sh
-# En Mac
+# En Mac (requiere tener instalado [Homebrew](https://brew.sh/index_es)
 brew tap bramstein/webfonttools
 brew update
 brew install woff2
 brew install sfnt2woff
-brew install fontforge --with-python
+brew install fontforge
 brew install eot-utils
 gem install fontcustom
 
