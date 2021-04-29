@@ -1,18 +1,12 @@
-GIT
-  remote: https://github.com/ChristoferVinoth/fontcustom.git
-  revision: dfc61f755c4e8be183c08874d93d87b44dfe514d
-  branch: upgrade_json_gem
-  specs:
-    fontcustom (2.1.0)
-      json (~> 2.0.0)
-      listen (>= 1.0, < 4.0)
-      thor (~> 0.14)
-
 GEM
   remote: https://rubygems.org/
   specs:
     ffi (1.15.0)
-    json (2.0.4)
+    fontcustom (2.0.0)
+      json (~> 1.4)
+      listen (>= 1.0, < 4.0)
+      thor (~> 0.14)
+    json (1.8.6)
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -26,7 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  fontcustom!
+  fontcustom
 
 BUNDLED WITH
    2.2.16
