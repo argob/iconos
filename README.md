@@ -21,18 +21,22 @@ Los iconos exportados en svg van en **src/_icons/**
 ### Instalación de ambiente de desarrollo
 
 Para compilar la tipografía se utiliza [Font Custom](https://github.com/FontCustom/fontcustom). 
-La instalación requiere **Ruby 1.9.2+** y **FontForge** con las funciones de consola para Python.
+La instalación requiere **Ruby 1.9.3+**, **WOFF2** y **FontForge** con las funciones de consola para Python.
 
 ```sh
 # En Mac
+brew tap bramstein/webfonttools
+brew update
+brew install woff2
+brew install sfnt2woff
 brew install fontforge --with-python
 brew install eot-utils
 gem install fontcustom
 
 # En Linux
-sudo apt-get install fontforge
-wget http://people.mozilla.com/~jkew/woff/woff-code-latest.zip
-unzip woff-code-latest.zip -d sfnt2woff && cd sfnt2woff && make && sudo mv sfnt2woff /usr/local/bin/
+sudo apt-get install zlib1g-dev fontforge
+git clone https://github.com/bramstein/sfnt2woff-zopfli.git sfnt2woff-zopfli && cd sfnt2woff-zopfli && make && mv sfnt2woff-zopfli /usr/local/bin/sfnt2woff
+git clone --recursive https://github.com/google/woff2.git && cd woff2 && make clean all && sudo mv woff2_compress /usr/local/bin/ && sudo mv woff2_decompress /usr/local/bin/
 gem install fontcustom
 ```
 
