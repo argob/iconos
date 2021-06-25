@@ -2567,6 +2567,16 @@
       },
     
       {
+        "nombre": "produccion-supercerca-01",
+        "clase": "icono-arg-produccion-supercerca-01"
+      },
+    
+      {
+        "nombre": "produccion-supercerca-02",
+        "clase": "icono-arg-produccion-supercerca-02"
+      },
+    
+      {
         "nombre": "profesional-nuclear",
         "clase": "icono-arg-profesional-nuclear"
       },
