@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "022ea754a3542d49bc93ba5a154d46119abfb3b0375de5f91ff01eaaea174ac1",
-    "current": "022ea754a3542d49bc93ba5a154d46119abfb3b0375de5f91ff01eaaea174ac1"
+    "previous": "6b7656a9d59f0b8f72999fd93d1cc1e3a9ad013a31e3741613dca6e057662d1a",
+    "current": "6b7656a9d59f0b8f72999fd93d1cc1e3a9ad013a31e3741613dca6e057662d1a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_022ea754a3542d49bc93ba5a154d4611.ttf",
-    "dist/fonts/icono-arg_022ea754a3542d49bc93ba5a154d4611.svg",
-    "dist/fonts/icono-arg_022ea754a3542d49bc93ba5a154d4611.woff",
-    "dist/fonts/icono-arg_022ea754a3542d49bc93ba5a154d4611.eot",
-    "dist/fonts/icono-arg_022ea754a3542d49bc93ba5a154d4611.woff2"
+    "dist/fonts/icono-arg_6b7656a9d59f0b8f72999fd93d1cc1e3.ttf",
+    "dist/fonts/icono-arg_6b7656a9d59f0b8f72999fd93d1cc1e3.svg",
+    "dist/fonts/icono-arg_6b7656a9d59f0b8f72999fd93d1cc1e3.woff",
+    "dist/fonts/icono-arg_6b7656a9d59f0b8f72999fd93d1cc1e3.eot",
+    "dist/fonts/icono-arg_6b7656a9d59f0b8f72999fd93d1cc1e3.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2671,6 +2671,10 @@
       "codepoint": 62466,
       "source": "src/_icons/vivienda-mas.svg"
     },
+    "votar": {
+      "codepoint": 63067,
+      "source": "src/_icons/votar.svg"
+    },
     "whatsapp-telefono": {
       "codepoint": 63006,
       "source": "src/_icons/whatsapp-telefono.svg"
@@ -2721,7 +2725,6 @@
     },
     "preprocessor_path": null,
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "css",
       "index.html",
