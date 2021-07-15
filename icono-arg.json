@@ -1792,6 +1792,21 @@
       },
     
       {
+        "nombre": "interoperar",
+        "clase": "icono-arg-interoperar"
+      },
+    
+      {
+        "nombre": "interoperar-gateway",
+        "clase": "icono-arg-interoperar-gateway"
+      },
+    
+      {
+        "nombre": "interoperar-proxy",
+        "clase": "icono-arg-interoperar-proxy"
+      },
+    
+      {
         "nombre": "inundaciones",
         "clase": "icono-arg-inundaciones"
       },
