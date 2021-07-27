@@ -1142,6 +1142,11 @@
       },
     
       {
+        "nombre": "dragado-embarcacion",
+        "clase": "icono-arg-dragado-embarcacion"
+      },
+    
+      {
         "nombre": "dron-frontal",
         "clase": "icono-arg-dron-frontal"
       },
