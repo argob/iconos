@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "f7c888e22f61f7578b047b27adaa362bd81756b5e2ad550117b72909dcce0360",
-    "current": "f7c888e22f61f7578b047b27adaa362bd81756b5e2ad550117b72909dcce0360"
+    "previous": "2cb0e7d369b2a4d38d3c0147ce1ff60c864e9104292e9ff386ee7225fb6c4cd5",
+    "current": "2cb0e7d369b2a4d38d3c0147ce1ff60c864e9104292e9ff386ee7225fb6c4cd5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_f7c888e22f61f7578b047b27adaa362b.ttf",
-    "dist/fonts/icono-arg_f7c888e22f61f7578b047b27adaa362b.svg",
-    "dist/fonts/icono-arg_f7c888e22f61f7578b047b27adaa362b.woff",
-    "dist/fonts/icono-arg_f7c888e22f61f7578b047b27adaa362b.eot",
-    "dist/fonts/icono-arg_f7c888e22f61f7578b047b27adaa362b.woff2"
+    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.ttf",
+    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.svg",
+    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.woff",
+    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.eot",
+    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -922,6 +922,10 @@
     "documentos-escritos": {
       "codepoint": 62940,
       "source": "src/_icons/documentos-escritos.svg"
+    },
+    "dragado-embarcacion": {
+      "codepoint": 63071,
+      "source": "src/_icons/dragado-embarcacion.svg"
     },
     "dron-frontal": {
       "codepoint": 63056,
