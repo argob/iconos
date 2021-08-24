@@ -1872,6 +1872,21 @@
       },
     
       {
+        "nombre": "latiendo-imagen",
+        "clase": "icono-arg-latiendo-imagen"
+      },
+    
+      {
+        "nombre": "latiendo-texto",
+        "clase": "icono-arg-latiendo-texto"
+      },
+    
+      {
+        "nombre": "latir-texto",
+        "clase": "icono-arg-latir-texto"
+      },
+    
+      {
         "nombre": "lavar-manos",
         "clase": "icono-arg-lavar-manos"
       },

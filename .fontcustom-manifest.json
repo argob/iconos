@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "2cb0e7d369b2a4d38d3c0147ce1ff60c864e9104292e9ff386ee7225fb6c4cd5",
-    "current": "2cb0e7d369b2a4d38d3c0147ce1ff60c864e9104292e9ff386ee7225fb6c4cd5"
+    "previous": "71a5ca4c64fe61172a073a028f460999f9249e2f981c3201034f20882f57edc5",
+    "current": "71a5ca4c64fe61172a073a028f460999f9249e2f981c3201034f20882f57edc5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.ttf",
-    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.svg",
-    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.woff",
-    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.eot",
-    "dist/fonts/icono-arg_2cb0e7d369b2a4d38d3c0147ce1ff60c.woff2"
+    "dist/fonts/icono-arg_71a5ca4c64fe61172a073a028f460999.ttf",
+    "dist/fonts/icono-arg_71a5ca4c64fe61172a073a028f460999.svg",
+    "dist/fonts/icono-arg_71a5ca4c64fe61172a073a028f460999.woff",
+    "dist/fonts/icono-arg_71a5ca4c64fe61172a073a028f460999.eot",
+    "dist/fonts/icono-arg_71a5ca4c64fe61172a073a028f460999.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1506,6 +1506,18 @@
     "lampara-hoja": {
       "codepoint": 62456,
       "source": "src/_icons/lampara-hoja.svg"
+    },
+    "latiendo-imagen": {
+      "codepoint": 63072,
+      "source": "src/_icons/latiendo-imagen.svg"
+    },
+    "latiendo-texto": {
+      "codepoint": 63073,
+      "source": "src/_icons/latiendo-texto.svg"
+    },
+    "latir-texto": {
+      "codepoint": 63074,
+      "source": "src/_icons/latir-texto.svg"
     },
     "lavar-manos": {
       "codepoint": 62457,
