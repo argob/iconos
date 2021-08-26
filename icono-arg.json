@@ -2742,6 +2742,11 @@
       },
     
       {
+        "nombre": "robotica",
+        "clase": "icono-arg-robotica"
+      },
+    
+      {
         "nombre": "rocas",
         "clase": "icono-arg-rocas"
       },
