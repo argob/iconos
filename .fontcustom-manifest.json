@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "bfab9d303377cb4f5deb50e99916d4fabd487365f9b29910981c5331ae55fdb6",
-    "current": "bfab9d303377cb4f5deb50e99916d4fabd487365f9b29910981c5331ae55fdb6"
+    "previous": "38e3e4aa941314e8eb7df22b7b943e9cb97072b653e4ef2820f97d7f22847d73",
+    "current": "38e3e4aa941314e8eb7df22b7b943e9cb97072b653e4ef2820f97d7f22847d73"
   },
   "fonts": [
-    "dist/fonts/icono-arg_bfab9d303377cb4f5deb50e99916d4fa.ttf",
-    "dist/fonts/icono-arg_bfab9d303377cb4f5deb50e99916d4fa.svg",
-    "dist/fonts/icono-arg_bfab9d303377cb4f5deb50e99916d4fa.woff",
-    "dist/fonts/icono-arg_bfab9d303377cb4f5deb50e99916d4fa.eot",
-    "dist/fonts/icono-arg_bfab9d303377cb4f5deb50e99916d4fa.woff2"
+    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.ttf",
+    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.svg",
+    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.woff",
+    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.eot",
+    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -114,6 +114,62 @@
     "animales-exp-imp": {
       "codepoint": 62324,
       "source": "src/_icons/animales-exp-imp.svg"
+    },
+    "anlis-cendie": {
+      "codepoint": 63076,
+      "source": "src/_icons/anlis-cendie.svg"
+    },
+    "anlis-cnccb": {
+      "codepoint": 63077,
+      "source": "src/_icons/anlis-cnccb.svg"
+    },
+    "anlis-cngm": {
+      "codepoint": 63078,
+      "source": "src/_icons/anlis-cngm.svg"
+    },
+    "anlis-cnin": {
+      "codepoint": 63079,
+      "source": "src/_icons/anlis-cnin.svg"
+    },
+    "anlis-cnrl": {
+      "codepoint": 63080,
+      "source": "src/_icons/anlis-cnrl.svg"
+    },
+    "anlis-ine": {
+      "codepoint": 63081,
+      "source": "src/_icons/anlis-ine.svg"
+    },
+    "anlis-inei": {
+      "codepoint": 63082,
+      "source": "src/_icons/anlis-inei.svg"
+    },
+    "anlis-iner": {
+      "codepoint": 63083,
+      "source": "src/_icons/anlis-iner.svg"
+    },
+    "anlis-inevh": {
+      "codepoint": 63084,
+      "source": "src/_icons/anlis-inevh.svg"
+    },
+    "anlis-inp": {
+      "codepoint": 63085,
+      "source": "src/_icons/anlis-inp.svg"
+    },
+    "anlis-inpb-1": {
+      "codepoint": 63086,
+      "source": "src/_icons/anlis-inpb-1.svg"
+    },
+    "anlis-inpb-2": {
+      "codepoint": 63087,
+      "source": "src/_icons/anlis-inpb-2.svg"
+    },
+    "anlis-malbran": {
+      "codepoint": 63088,
+      "source": "src/_icons/anlis-malbran.svg"
+    },
+    "anlis-uoccb": {
+      "codepoint": 63089,
+      "source": "src/_icons/anlis-uoccb.svg"
     },
     "anses": {
       "codepoint": 62801,
@@ -2202,6 +2258,10 @@
     "riego-produccion": {
       "codepoint": 62460,
       "source": "src/_icons/riego-produccion.svg"
+    },
+    "robotica": {
+      "codepoint": 63075,
+      "source": "src/_icons/robotica.svg"
     },
     "rocas": {
       "codepoint": 62893,

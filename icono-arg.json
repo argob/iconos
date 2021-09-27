@@ -132,6 +132,76 @@
       },
     
       {
+        "nombre": "anlis-cendie",
+        "clase": "icono-arg-anlis-cendie"
+      },
+    
+      {
+        "nombre": "anlis-cnccb",
+        "clase": "icono-arg-anlis-cnccb"
+      },
+    
+      {
+        "nombre": "anlis-cngm",
+        "clase": "icono-arg-anlis-cngm"
+      },
+    
+      {
+        "nombre": "anlis-cnin",
+        "clase": "icono-arg-anlis-cnin"
+      },
+    
+      {
+        "nombre": "anlis-cnrl",
+        "clase": "icono-arg-anlis-cnrl"
+      },
+    
+      {
+        "nombre": "anlis-ine",
+        "clase": "icono-arg-anlis-ine"
+      },
+    
+      {
+        "nombre": "anlis-inei",
+        "clase": "icono-arg-anlis-inei"
+      },
+    
+      {
+        "nombre": "anlis-iner",
+        "clase": "icono-arg-anlis-iner"
+      },
+    
+      {
+        "nombre": "anlis-inevh",
+        "clase": "icono-arg-anlis-inevh"
+      },
+    
+      {
+        "nombre": "anlis-inp",
+        "clase": "icono-arg-anlis-inp"
+      },
+    
+      {
+        "nombre": "anlis-inpb-1",
+        "clase": "icono-arg-anlis-inpb-1"
+      },
+    
+      {
+        "nombre": "anlis-inpb-2",
+        "clase": "icono-arg-anlis-inpb-2"
+      },
+    
+      {
+        "nombre": "anlis-malbran",
+        "clase": "icono-arg-anlis-malbran"
+      },
+    
+      {
+        "nombre": "anlis-uoccb",
+        "clase": "icono-arg-anlis-uoccb"
+      },
+    
+      {
         "nombre": "anses",
         "clase": "icono-arg-anses"
       },
