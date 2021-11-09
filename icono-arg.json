@@ -1697,6 +1697,26 @@
       },
     
       {
+        "nombre": "habitat-casa-propia",
+        "clase": "icono-arg-habitat-casa-propia"
+      },
+    
+      {
+        "nombre": "habitat-casa-propia-negativo",
+        "clase": "icono-arg-habitat-casa-propia-negativo"
+      },
+    
+      {
+        "nombre": "habitat-procrear",
+        "clase": "icono-arg-habitat-procrear"
+      },
+    
+      {
+        "nombre": "habitat-procrear-negativo",
+        "clase": "icono-arg-habitat-procrear-negativo"
+      },
+    
+      {
         "nombre": "hacemos-futuro",
         "clase": "icono-arg-hacemos-futuro"
       },

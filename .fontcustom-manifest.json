@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "38e3e4aa941314e8eb7df22b7b943e9cb97072b653e4ef2820f97d7f22847d73",
-    "current": "38e3e4aa941314e8eb7df22b7b943e9cb97072b653e4ef2820f97d7f22847d73"
+    "previous": "4512d7859ebb167e66756a9574ec39d8ad874e622d8f2d49684dc3b27fe29c71",
+    "current": "4512d7859ebb167e66756a9574ec39d8ad874e622d8f2d49684dc3b27fe29c71"
   },
   "fonts": [
-    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.ttf",
-    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.svg",
-    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.woff",
-    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.eot",
-    "dist/fonts/icono-arg_38e3e4aa941314e8eb7df22b7b943e9c.woff2"
+    "dist/fonts/icono-arg_4512d7859ebb167e66756a9574ec39d8.ttf",
+    "dist/fonts/icono-arg_4512d7859ebb167e66756a9574ec39d8.svg",
+    "dist/fonts/icono-arg_4512d7859ebb167e66756a9574ec39d8.woff",
+    "dist/fonts/icono-arg_4512d7859ebb167e66756a9574ec39d8.eot",
+    "dist/fonts/icono-arg_4512d7859ebb167e66756a9574ec39d8.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1366,6 +1366,22 @@
     "habitat": {
       "codepoint": 62876,
       "source": "src/_icons/habitat.svg"
+    },
+    "habitat-casa-propia": {
+      "codepoint": 63090,
+      "source": "src/_icons/habitat-casa-propia.svg"
+    },
+    "habitat-casa-propia-negativo": {
+      "codepoint": 63091,
+      "source": "src/_icons/habitat-casa-propia-negativo.svg"
+    },
+    "habitat-procrear": {
+      "codepoint": 63092,
+      "source": "src/_icons/habitat-procrear.svg"
+    },
+    "habitat-procrear-negativo": {
+      "codepoint": 63093,
+      "source": "src/_icons/habitat-procrear-negativo.svg"
     },
     "hacemos-futuro": {
       "codepoint": 62951,
