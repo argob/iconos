@@ -49,16 +49,3 @@ jobs:
           git add .
           git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
-      - name: 🧪 Deploy build en el reporsitorio de Poncho
-        working-directory: /tmp
-        run: |
-          git clone https://github.com/argob/poncho.git poncho
-          cp /home/runner/work/iconos/iconos/dist/css/icono-arg.css /tmp/poncho/dist/css/.
-          rm /tmp/poncho/dist/fonts/icono-arg_* -rf
-          cp /home/runner/work/iconos/iconos/dist/fonts/* /tmp/poncho/dist/fonts/.
-
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add .
-          git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/argob/poncho.git
