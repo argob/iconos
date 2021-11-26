@@ -1,4 +1,4 @@
-![Poncho](img/poncho.gif)
+![Poncho](docs/node_modules/ar-poncho/img/poncho.gif)
 
 ### [Ver listado de íconos](//argob.github.io/iconos)
 
