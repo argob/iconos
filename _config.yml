@@ -6,8 +6,14 @@ description: "La librería de íconos oficiales para diseñar y desarrollar siti
 athor: "Subsecretaría de Gobierno Abierto y País Digital"
 color: "#0072b8"
 
+source              : .
 # Handling Reading
-safe                : false
 include             : [".htaccess", "node_modules", ".nojekyll"]
 exclude             : ["config.ru", "Gemfile", "Gemfile.lock", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
 encoding            : "utf-8"
+lsi                 : false
+safe                : true
+incremental         : false
+highlighter         :rouge
+gist:
+  noscript: false
