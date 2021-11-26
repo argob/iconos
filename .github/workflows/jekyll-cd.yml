@@ -1,3 +1,4 @@
+
 name: jekyll-cd
 
 on:
@@ -16,6 +17,7 @@ jobs:
         with:
           fetch-depth: 1
       - name: 🔨 Instalamos dependencias
+        working-directory: ./docs
         run: npm update
       - name: 🧪 Deploy build
         run: |

@@ -53,8 +53,8 @@ output:
  fonts: dist/fonts
  css: dist/css
  icono-arg.css: dist/css
- icono-arg.json: .
- index.html: .
+ icono-arg.json: docs/.
+ index.html: docs/.
 
 
 # -----------------------------------------------------------------------------
