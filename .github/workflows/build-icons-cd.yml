@@ -39,7 +39,7 @@ jobs:
         run: |
           npm update
           if [ -d "node_modules" ]; then
-            mv node_modules docs/
+            mv node_modules ./docs/.
           fi
       - name: 🧪 Deploy build
         run: |
