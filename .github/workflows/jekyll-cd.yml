@@ -29,7 +29,7 @@ jobs:
           fi
       - name: 🎩 Compilamos los íconos
         working-directory: ./
-        run: bundle exec fontconfig compile
+        run: bundle exec fontcustom compile
       - name: 🔨 Instalamos dependencias para la documentación
         working-directory: ./
         run: npm install --prefix ./docs
