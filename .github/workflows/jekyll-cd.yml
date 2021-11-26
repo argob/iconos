@@ -17,6 +17,7 @@ jobs:
           fetch-depth: 1
       - name: 🎩 Instalamos Fontcustom y dependencias
         run: |
+          working-directory: /tmp
           sudo apt install zlib1g-dev fontforge
           git clone https://github.com/bramstein/sfnt2woff-zopfli.git sfnt2woff-zopfli && cd sfnt2woff-zopfli && make && mv sfnt2woff-zopfli /usr/local/bin/sfnt2woff
           git clone --recursive https://github.com/google/woff2.git && cd woff2 && make clean all && sudo mv woff2_compress /usr/local/bin/ && sudo mv woff2_decompress /usr/local/bin/
@@ -32,7 +33,11 @@ jobs:
         run: bundle exec fontcustom compile
       - name: 🔨 Instalamos dependencias para la documentación
         working-directory: ./
-        run: npm install --prefix ./docs
+        run: |
+          npm update
+          if [ -d "node_modules" ]; then
+            mv node_modules docs/
+          fi
       - name: 🧪 Deploy build
         run: |
           git config user.name "${GITHUB_ACTOR}"
