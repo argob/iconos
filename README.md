@@ -20,6 +20,12 @@ Los iconos exportados en svg van en **src/_icons/**
 
 ### Instalación de ambiente de desarrollo
 
+En caso de necesitar ver en local el resultado, tener en cuenta que requiere algunas librerías adicionales, por lo que es necesario instalarlas previamente.
+
+```sh
+npm install
+```
+
 Para compilar la tipografía se utiliza [Font Custom](https://github.com/FontCustom/fontcustom). 
 La instalación requiere **Ruby 1.9.3+**, **WOFF2** y **FontForge** con las funciones de consola para Python.
 

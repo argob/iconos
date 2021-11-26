@@ -82,11 +82,10 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
     <meta name="twitter:description" content="Íconos para utilizar en sitios web y productos de la Administración Pública Nacional de la República Argentina.">
     <!-- <meta name="twitter:image" content="/ejemplos/img/jumbotron.jpg"> -->
 
-    <link href="/poncho/node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <link href="/poncho/node_modules/argob-poncho/dist/css/roboto-fontface.css" rel="stylesheet">
-    <link href="/poncho/node_modules/argob-poncho/dist/css/droid-serif.css" rel="stylesheet">
-    <link href="/poncho/node_modules/argob-poncho/dist/css/poncho.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="node_modules/ar-poncho/dist/css/encode-fontface.css" rel="stylesheet">
+    <link href="node_modules/ar-poncho/dist/css/poncho.css" rel="stylesheet">
+    <link href="node_modules/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="dist/css/icono-arg.css" rel="stylesheet">
     <style>
@@ -140,7 +139,7 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
                 <span class="icon-bar"></span>
               </button>
               <div class="navbar-brand">
-                <img alt="Poncho" src="img/poncho.gif" height="50">
+                <img alt="Poncho" src="node_modules/ar-poncho/img/poncho.gif" height="50">
                 <h1>Poncho <small>íconos</small></h1>
               </div>
             </div>
@@ -189,9 +188,9 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
 
         </div>
 
-        <script src="js/jquery.min.js"></script>
-        <script src="js/list.min.js"></script>
-        <script src="js/clipboard.min.js"></script>
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="node_modules/list.js/dist/list.min.js"></script>
+        <script src="node_modules/clipboard/dist/clipboard.min.js"></script>
         <script>
           var options = { valueNames: [ 'name' ] };
           var iconsList = new List('icons', options);
@@ -214,7 +213,7 @@ Si te interesa lo que hacemos, mandanos un email a nrougier@modernizacion.gob.ar
       <div class="container">
         <div class="row">
           <div class="col-xs-12">
-            <img alt="Poncho" src="img/poncho.gif" height="100" class="pull-left m-r-1">
+            <img alt="Poncho" src="node_modules/ar-poncho/img/poncho.gif" height="100" class="pull-left m-r-1">
             <h1 class="m-b-0">Poncho <small>íconos</small></h1>
             <p class="text-muted small">Los íconos de poncho están licenciados bajo <a href="https://creativecommons.org/licenses/by/2.5/ar/">Creative Commons Reconocimiento 2.5 Argentina License</a>.</p>
           </div>
