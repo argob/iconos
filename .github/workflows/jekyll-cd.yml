@@ -1,4 +1,3 @@
-
 name: jekyll-cd
 
 on:
@@ -16,9 +15,24 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🔨 Instalamos dependencias
-        working-directory: ./docs
-        run: npm update
+      - name: 🎩 Instalamos Fontcustom y dependencias
+        run: |
+          sudo apt install zlib1g-dev fontforge
+          git clone https://github.com/bramstein/sfnt2woff-zopfli.git sfnt2woff-zopfli && cd sfnt2woff-zopfli && make && mv sfnt2woff-zopfli /usr/local/bin/sfnt2woff
+          git clone --recursive https://github.com/google/woff2.git && cd woff2 && make clean all && sudo mv woff2_compress /usr/local/bin/ && sudo mv woff2_decompress /usr/local/bin/
+          sudo gem install bundler fontcustom
+          sudo bundle install
+      - name: 🧹 Clean site
+        run: |
+          if [ -d "docs" ]; then
+            rm -rf docs/*
+          fi
+      - name: 🎩 Compilamos los íconos
+        working-directory: ./
+        run: bundle exec fontconfig compile
+      - name: 🔨 Instalamos dependencias para la documentación
+        working-directory: ./
+        run: npm install --prefix ./docs
       - name: 🧪 Deploy build
         run: |
           git config user.name "${GITHUB_ACTOR}"
