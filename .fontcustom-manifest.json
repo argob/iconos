@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e2e5d12ebbb760a1f36ab3d0b57a6d195e38e4961826e22ff4d3927c0bbc294a",
-    "current": "e2e5d12ebbb760a1f36ab3d0b57a6d195e38e4961826e22ff4d3927c0bbc294a"
+    "previous": "3ec912e7631cb397895533fc2181ed686c15774c020cd20dff6a025d99687e98",
+    "current": "3ec912e7631cb397895533fc2181ed686c15774c020cd20dff6a025d99687e98"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e2e5d12ebbb760a1f36ab3d0b57a6d19.ttf",
-    "dist/fonts/icono-arg_e2e5d12ebbb760a1f36ab3d0b57a6d19.svg",
-    "dist/fonts/icono-arg_e2e5d12ebbb760a1f36ab3d0b57a6d19.woff",
-    "dist/fonts/icono-arg_e2e5d12ebbb760a1f36ab3d0b57a6d19.eot",
-    "dist/fonts/icono-arg_e2e5d12ebbb760a1f36ab3d0b57a6d19.woff2"
+    "dist/fonts/icono-arg_3ec912e7631cb397895533fc2181ed68.ttf",
+    "dist/fonts/icono-arg_3ec912e7631cb397895533fc2181ed68.svg",
+    "dist/fonts/icono-arg_3ec912e7631cb397895533fc2181ed68.woff",
+    "dist/fonts/icono-arg_3ec912e7631cb397895533fc2181ed68.eot",
+    "dist/fonts/icono-arg_3ec912e7631cb397895533fc2181ed68.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2829,7 +2829,6 @@
     },
     "preprocessor_path": null,
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "css",
       "index.html",
