@@ -33,7 +33,7 @@ jobs:
           fi
       - name: 🎩 Compilamos los íconos
         working-directory: ./
-        run: bundle exec fontcustom compile
+        run: bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
         working-directory: ./
         run: |
