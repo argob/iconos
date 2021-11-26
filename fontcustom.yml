@@ -55,7 +55,8 @@ output:
  icono-arg.css: dist/css
  icono-arg.json: docs/.
  index.html: docs/.
-
+ icono-arg.css: docs/css
+ 
 
 # -----------------------------------------------------------------------------
 # Templates
