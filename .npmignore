@@ -1,9 +1,0 @@
-node_modules
-src
-vendor
-.gitmodules
-favicon.ico
-fontcustom.yml
-Gemfile
-Gemfile.lock
-index.html

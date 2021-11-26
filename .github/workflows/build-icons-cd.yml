@@ -1,4 +1,4 @@
-name: jekyll-cd
+name: build-icons-cd
 
 on:
   push:
