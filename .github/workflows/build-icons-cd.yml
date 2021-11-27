@@ -57,6 +57,7 @@ jobs:
           source_file: "./dist/css/icono-arg.css"
           destination_repo: "argob/poncho"
           destination_folder: "dist/css/"
+          destination_branch: "master"
           user_email: "${GITHUB_ACTOR}@users.noreply.github.com"
           user_name: "${GITHUB_ACTOR}"
           commit_message: 'Cargamos la última versión de íconos desde el repositorio de íconos.'
