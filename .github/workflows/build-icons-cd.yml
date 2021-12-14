@@ -49,15 +49,3 @@ jobs:
           git add .
           git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
-      - name: Enviamos los archivos finales a Poncho
-        uses: dmnemec/copy_file_to_another_repo_action@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-        with:
-          source_file: "./dist/css/icono-arg.css"
-          destination_repo: "argob/poncho"
-          destination_folder: "dist/css/"
-          destination_branch: "master"
-          user_email: "${GITHUB_ACTOR}@users.noreply.github.com"
-          user_name: "${GITHUB_ACTOR}"
-          commit_message: 'Cargamos la última versión de íconos desde el repositorio de íconos.'
