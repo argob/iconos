@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "4b6b7df64f4d253c705741ebf3b50463d660ed85c4029b32e53cd3a10f55dfb2",
-    "current": "4b6b7df64f4d253c705741ebf3b50463d660ed85c4029b32e53cd3a10f55dfb2"
+    "previous": "eccf6fb36ab86a336abaf502a85d76bb1f745f51b47ec03670d9cca0c6f07734",
+    "current": "eccf6fb36ab86a336abaf502a85d76bb1f745f51b47ec03670d9cca0c6f07734"
   },
   "fonts": [
-    "dist/fonts/icono-arg_4b6b7df64f4d253c705741ebf3b50463.ttf",
-    "dist/fonts/icono-arg_4b6b7df64f4d253c705741ebf3b50463.svg",
-    "dist/fonts/icono-arg_4b6b7df64f4d253c705741ebf3b50463.woff",
-    "dist/fonts/icono-arg_4b6b7df64f4d253c705741ebf3b50463.eot",
-    "dist/fonts/icono-arg_4b6b7df64f4d253c705741ebf3b50463.woff2"
+    "dist/fonts/icono-arg_eccf6fb36ab86a336abaf502a85d76bb.ttf",
+    "dist/fonts/icono-arg_eccf6fb36ab86a336abaf502a85d76bb.svg",
+    "dist/fonts/icono-arg_eccf6fb36ab86a336abaf502a85d76bb.woff",
+    "dist/fonts/icono-arg_eccf6fb36ab86a336abaf502a85d76bb.eot",
+    "dist/fonts/icono-arg_eccf6fb36ab86a336abaf502a85d76bb.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1198,6 +1198,10 @@
     "fertilizacion-asistida": {
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion-asistida.svg"
+    },
+    "fiestas-argentinas": {
+      "codepoint": 63094,
+      "source": "src/_icons/fiestas-argentinas.svg"
     },
     "financiamiento": {
       "codepoint": 62628,
@@ -2813,7 +2817,7 @@
     "font_design_size": 18,
     "font_em": 768,
     "font_name": "icono-arg",
-    "force": true,
+    "force": false,
     "input": {
       "templates": "src/_templates",
       "vectors": "src/_icons"
@@ -2829,6 +2833,7 @@
     },
     "preprocessor_path": null,
     "quiet": false,
+    "skip_first": false,
     "templates": [
       "css",
       "index.html",
