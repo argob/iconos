@@ -1487,6 +1487,11 @@
       },
     
       {
+        "nombre": "fiestas-argentinas",
+        "clase": "icono-arg-fiestas-argentinas"
+      },
+    
+      {
         "nombre": "financiamiento",
         "clase": "icono-arg-financiamiento"
       },
