@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "f6808b9c904598e13d62d2347f37ff93a99e3664dc14078c98532b6acc80fd4e",
-    "current": "f6808b9c904598e13d62d2347f37ff93a99e3664dc14078c98532b6acc80fd4e"
+    "previous": "2256554bdd643508294a1d9b9fd62518a970fef377009654c39c9c09b4c6c5d0",
+    "current": "2256554bdd643508294a1d9b9fd62518a970fef377009654c39c9c09b4c6c5d0"
   },
   "fonts": [
-    "dist/fonts/icono-arg_f6808b9c904598e13d62d2347f37ff93.ttf",
-    "dist/fonts/icono-arg_f6808b9c904598e13d62d2347f37ff93.svg",
-    "dist/fonts/icono-arg_f6808b9c904598e13d62d2347f37ff93.woff",
-    "dist/fonts/icono-arg_f6808b9c904598e13d62d2347f37ff93.eot",
-    "dist/fonts/icono-arg_f6808b9c904598e13d62d2347f37ff93.woff2"
+    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.ttf",
+    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.svg",
+    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.woff",
+    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.eot",
+    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2003,6 +2003,10 @@
       "codepoint": 62760,
       "source": "src/_icons/open-id.svg"
     },
+    "operativo-interministerial": {
+      "codepoint": 63095,
+      "source": "src/_icons/operativo-interministerial.svg"
+    },
     "operativo-sanitario-1": {
       "codepoint": 62612,
       "source": "src/_icons/operativo-sanitario-1.svg"
@@ -2686,6 +2690,10 @@
     "vacunas": {
       "codepoint": 62417,
       "source": "src/_icons/vacunas.svg"
+    },
+    "vacunatorio-movil": {
+      "codepoint": 63096,
+      "source": "src/_icons/vacunatorio-movil.svg"
     },
     "vademecum": {
       "codepoint": 62680,

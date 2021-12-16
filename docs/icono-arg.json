@@ -2492,6 +2492,11 @@
       },
     
       {
+        "nombre": "operativo-interministerial",
+        "clase": "icono-arg-operativo-interministerial"
+      },
+    
+      {
         "nombre": "operativo-sanitario-1",
         "clase": "icono-arg-operativo-sanitario-1"
       },
@@ -3344,6 +3349,11 @@
       {
         "nombre": "vacunas",
         "clase": "icono-arg-vacunas"
+      },
+    
+      {
+        "nombre": "vacunatorio-movil",
+        "clase": "icono-arg-vacunatorio-movil"
       },
     
       {
