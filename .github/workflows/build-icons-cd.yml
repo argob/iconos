@@ -18,22 +18,22 @@ jobs:
 
 
       - name: Checkout Poncho
-          uses: actions/checkout@master
-          with: 
-            repository: argob/poncho
-            token: ${{ secrets.ACTIONS_TOKEN }}
-            path: ./poncho
+        uses: actions/checkout@master
+        with: 
+          repository: argob/poncho
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          path: ./poncho
 
-        - name: Copy/Create file
-          run: |
-            echo "Copying $FILE"
-            cp -R ./iconos/dist/iconos-arg.css ./poncho/dist/css/
+      - name: Copy/Create file
+        run: |
+          echo "Copying $FILE"
+          cp -R ./iconos/dist/iconos-arg.css ./poncho/dist/css/
 
-        - name: Push Project B
-          run: |
-            cd ./poncho
-            git add .
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git commit -am "File Replicated from Iconos"
-            git push
+      - name: Push Project B
+        run: |
+          cd ./poncho
+          git add .
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "File Replicated from Iconos"
+          git push
