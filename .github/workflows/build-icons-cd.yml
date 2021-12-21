@@ -21,7 +21,6 @@ jobs:
         uses: actions/checkout@master
         with: 
           repository: argob/poncho
-          token: ${{ secrets.ACTIONS_TOKEN }}
           path: ./poncho
 
       - name: Copy/Create file
