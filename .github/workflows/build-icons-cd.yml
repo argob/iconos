@@ -27,7 +27,7 @@ jobs:
       - name: Copy/Create file
         run: |
           echo "Copying $FILE"
-          cp -R ./iconos/dist/iconos-arg.css ./poncho/dist/css/
+          cp -R ./iconos/dist/css/icono-arg.css ./poncho/dist/css/
 
       - name: Push Project B
         run: |
