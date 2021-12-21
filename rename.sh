@@ -1,1 +1,0 @@
-for f in src/_icons/*.svg; do mv "$f" "${f/Iconos_/}"; done
