@@ -49,8 +49,8 @@ jobs:
         working-directory: /tmp
         run: |
           git clone https://github.com/argob/poncho.git
-          echo "carpeta: ${GITHUB_ACTION_PATH}"
-          cp ${GITHUB_ACTION_PATH}/dist/css/iconos-arg.css poncho/dist/css/
+          echo "carpeta: $GITHUB_ACTION_PATH"
+          cp $GITHUB_ACTION_PATH/dist/css/iconos-arg.css poncho/dist/css/
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
