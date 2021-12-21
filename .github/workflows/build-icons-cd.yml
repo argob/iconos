@@ -56,7 +56,7 @@ jobs:
         run: |
           echo "Copying $FILE"
           cp -R ./iconos/dist/css/icono-arg.css ./poncho/dist/css/
-      - name: Push Project B
+#      - name: Push Project B
 #        run: |
 #          cd ./poncho
 #          git add .
