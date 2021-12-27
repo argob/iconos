@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "2256554bdd643508294a1d9b9fd62518a970fef377009654c39c9c09b4c6c5d0",
-    "current": "2256554bdd643508294a1d9b9fd62518a970fef377009654c39c9c09b4c6c5d0"
+    "previous": "1578c92d96208a51348edca73c0e1d4d82589bb20ae72a6ab75b34013a7367af",
+    "current": "1578c92d96208a51348edca73c0e1d4d82589bb20ae72a6ab75b34013a7367af"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.ttf",
-    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.svg",
-    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.woff",
-    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.eot",
-    "dist/fonts/icono-arg_2256554bdd643508294a1d9b9fd62518.woff2"
+    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.ttf",
+    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.svg",
+    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.woff",
+    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.eot",
+    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -370,6 +370,22 @@
     "bolsa-dinero": {
       "codepoint": 62838,
       "source": "src/_icons/bolsa-dinero.svg"
+    },
+    "bomberos-autobomba": {
+      "codepoint": 63097,
+      "source": "src/_icons/bomberos-autobomba.svg"
+    },
+    "bomberos-cuartel": {
+      "codepoint": 63098,
+      "source": "src/_icons/bomberos-cuartel.svg"
+    },
+    "bomberos-hombre": {
+      "codepoint": 63099,
+      "source": "src/_icons/bomberos-hombre.svg"
+    },
+    "bomberos-mujer": {
+      "codepoint": 63100,
+      "source": "src/_icons/bomberos-mujer.svg"
     },
     "bosques": {
       "codepoint": 62879,
@@ -1163,6 +1179,10 @@
       "codepoint": 62365,
       "source": "src/_icons/exterior.svg"
     },
+    "extinguidor": {
+      "codepoint": 63101,
+      "source": "src/_icons/extinguidor.svg"
+    },
     "facebook-f-": {
       "codepoint": 63003,
       "source": "src/_icons/facebook-f-.svg"
@@ -1698,6 +1718,10 @@
     "malvinas-argentinas": {
       "codepoint": 62933,
       "source": "src/_icons/malvinas-argentinas.svg"
+    },
+    "manguera": {
+      "codepoint": 63102,
+      "source": "src/_icons/manguera.svg"
     },
     "mano": {
       "codepoint": 62382,

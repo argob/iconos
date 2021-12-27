@@ -452,6 +452,26 @@
       },
     
       {
+        "nombre": "bomberos-autobomba",
+        "clase": "icono-arg-bomberos-autobomba"
+      },
+    
+      {
+        "nombre": "bomberos-cuartel",
+        "clase": "icono-arg-bomberos-cuartel"
+      },
+    
+      {
+        "nombre": "bomberos-hombre",
+        "clase": "icono-arg-bomberos-hombre"
+      },
+    
+      {
+        "nombre": "bomberos-mujer",
+        "clase": "icono-arg-bomberos-mujer"
+      },
+    
+      {
         "nombre": "bosques",
         "clase": "icono-arg-bosques"
       },
@@ -1442,6 +1462,11 @@
       },
     
       {
+        "nombre": "extinguidor",
+        "clase": "icono-arg-extinguidor"
+      },
+    
+      {
         "nombre": "facebook-f-",
         "clase": "icono-arg-facebook-f-"
       },
@@ -2109,6 +2134,11 @@
       {
         "nombre": "malvinas-argentinas",
         "clase": "icono-arg-malvinas-argentinas"
+      },
+    
+      {
+        "nombre": "manguera",
+        "clase": "icono-arg-manguera"
       },
     
       {
