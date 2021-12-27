@@ -23,7 +23,7 @@ jobs:
           git clone https://github.com/bramstein/sfnt2woff-zopfli.git sfnt2woff-zopfli && cd sfnt2woff-zopfli && make && mv sfnt2woff-zopfli /usr/local/bin/sfnt2woff
           git clone --recursive https://github.com/google/woff2.git && cd woff2 && make clean all && sudo mv woff2_compress /usr/local/bin/ && sudo mv woff2_decompress /usr/local/bin/
       - name: 🎩 Instalamos Fontcustom 
-        working-directory: ./
+        working-directory: ./iconos
         run: |
           sudo gem install bundler fontcustom
           sudo bundle install
@@ -33,10 +33,10 @@ jobs:
             rm -rf docs/*
           fi
       - name: 🎩 Compilamos los íconos
-        working-directory: ./
+        working-directory: ./iconos
         run: bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
-        working-directory: ./
+        working-directory: ./iconos
         run: |
           cp favicon.ico ./docs/.
       - name: 🧪 Deploy build
