@@ -40,6 +40,7 @@ jobs:
         run: |
           cp favicon.ico ./docs/.
       - name: 🧪 Deploy build
+        working-directory: ./iconos
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
