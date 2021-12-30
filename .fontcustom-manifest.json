@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "1578c92d96208a51348edca73c0e1d4d82589bb20ae72a6ab75b34013a7367af",
-    "current": "1578c92d96208a51348edca73c0e1d4d82589bb20ae72a6ab75b34013a7367af"
+    "previous": "ea8a8ae1eb184bfdb5bd1ca5b4a049f53a6b51940d96541d562d8d77c80177d2",
+    "current": "ea8a8ae1eb184bfdb5bd1ca5b4a049f53a6b51940d96541d562d8d77c80177d2"
   },
   "fonts": [
-    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.ttf",
-    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.svg",
-    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.woff",
-    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.eot",
-    "dist/fonts/icono-arg_1578c92d96208a51348edca73c0e1d4d.woff2"
+    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.ttf",
+    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.svg",
+    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.woff",
+    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.eot",
+    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -150,6 +150,10 @@
     "anlis-inevh": {
       "codepoint": 63084,
       "source": "src/_icons/anlis-inevh.svg"
+    },
+    "anlis-inmet": {
+      "codepoint": 63103,
+      "source": "src/_icons/anlis-inmet.svg"
     },
     "anlis-inp": {
       "codepoint": 63085,

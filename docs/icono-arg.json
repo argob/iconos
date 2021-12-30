@@ -177,6 +177,11 @@
       },
     
       {
+        "nombre": "anlis-inmet",
+        "clase": "icono-arg-anlis-inmet"
+      },
+    
+      {
         "nombre": "anlis-inp",
         "clase": "icono-arg-anlis-inp"
       },
