@@ -672,6 +672,11 @@
       },
     
       {
+        "nombre": "cck",
+        "clase": "icono-arg-cck"
+      },
+    
+      {
         "nombre": "cedula-azul",
         "clase": "icono-arg-cedula-azul"
       },
@@ -1442,6 +1447,11 @@
       },
     
       {
+        "nombre": "estado-verano",
+        "clase": "icono-arg-estado-verano"
+      },
+    
+      {
         "nombre": "estereo",
         "clase": "icono-arg-estereo"
       },
@@ -1514,6 +1524,11 @@
       {
         "nombre": "fertilizacion-asistida",
         "clase": "icono-arg-fertilizacion-asistida"
+      },
+    
+      {
+        "nombre": "festivales-argentina-florece",
+        "clase": "icono-arg-festivales-argentina-florece"
       },
     
       {
@@ -2707,6 +2722,11 @@
       },
     
       {
+        "nombre": "playas-deportivas",
+        "clase": "icono-arg-playas-deportivas"
+      },
+    
+      {
         "nombre": "poligono-de-tiro",
         "clase": "icono-arg-poligono-de-tiro"
       },
@@ -3439,6 +3459,16 @@
       {
         "nombre": "vencimiento-negativo",
         "clase": "icono-arg-vencimiento-negativo"
+      },
+    
+      {
+        "nombre": "verano-cuidado",
+        "clase": "icono-arg-verano-cuidado"
+      },
+    
+      {
+        "nombre": "verano-pami",
+        "clase": "icono-arg-verano-pami"
       },
     
       {

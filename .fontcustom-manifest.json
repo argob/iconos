@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "ea8a8ae1eb184bfdb5bd1ca5b4a049f53a6b51940d96541d562d8d77c80177d2",
-    "current": "ea8a8ae1eb184bfdb5bd1ca5b4a049f53a6b51940d96541d562d8d77c80177d2"
+    "previous": "8f489016f8f93529c314f22665a9f064d008ba6a367ffd4e97ed9fbacd0d657a",
+    "current": "8f489016f8f93529c314f22665a9f064d008ba6a367ffd4e97ed9fbacd0d657a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.ttf",
-    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.svg",
-    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.woff",
-    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.eot",
-    "dist/fonts/icono-arg_ea8a8ae1eb184bfdb5bd1ca5b4a049f5.woff2"
+    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.ttf",
+    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.svg",
+    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.woff",
+    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.eot",
+    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -546,6 +546,10 @@
     "caza": {
       "codepoint": 62750,
       "source": "src/_icons/caza.svg"
+    },
+    "cck": {
+      "codepoint": 63104,
+      "source": "src/_icons/cck.svg"
     },
     "cedula-azul": {
       "codepoint": 62722,
@@ -1163,6 +1167,10 @@
       "codepoint": 62425,
       "source": "src/_icons/estacion-trenes.svg"
     },
+    "estado-verano": {
+      "codepoint": 63105,
+      "source": "src/_icons/estado-verano.svg"
+    },
     "estereo": {
       "codepoint": 62536,
       "source": "src/_icons/estereo.svg"
@@ -1222,6 +1230,10 @@
     "fertilizacion-asistida": {
       "codepoint": 62369,
       "source": "src/_icons/fertilizacion-asistida.svg"
+    },
+    "festivales-argentina-florece": {
+      "codepoint": 63106,
+      "source": "src/_icons/festivales-argentina-florece.svg"
     },
     "fiestas-argentinas": {
       "codepoint": 63094,
@@ -2175,6 +2187,10 @@
       "codepoint": 62862,
       "source": "src/_icons/plataforma-offshore-2.svg"
     },
+    "playas-deportivas": {
+      "codepoint": 63107,
+      "source": "src/_icons/playas-deportivas.svg"
+    },
     "poligono-de-tiro": {
       "codepoint": 62764,
       "source": "src/_icons/poligono-de-tiro.svg"
@@ -2762,6 +2778,14 @@
     "vencimiento-negativo": {
       "codepoint": 62822,
       "source": "src/_icons/vencimiento-negativo.svg"
+    },
+    "verano-cuidado": {
+      "codepoint": 63108,
+      "source": "src/_icons/verano-cuidado.svg"
+    },
+    "verano-pami": {
+      "codepoint": 63109,
+      "source": "src/_icons/verano-pami.svg"
     },
     "viajero": {
       "codepoint": 62744,
