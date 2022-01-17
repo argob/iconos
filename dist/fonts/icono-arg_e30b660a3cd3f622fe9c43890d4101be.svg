@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20190801 at Mon Jan 17 12:32:56 2022
+Created by FontForge 20190801 at Mon Jan 17 12:34:50 2022
  By 
 
 </metadata>
@@ -22,7 +22,7 @@ Created by FontForge 20190801 at Mon Jan 17 12:32:56 2022
     bbox="-0.569219 -59 506 444"
     underline-thickness="38.4"
     underline-position="-76.8"
-    unicode-range="U+0020-F687"
+    unicode-range="U+0020-F688"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -4304,7 +4304,7 @@ c-3 -1 -9 -1 -12 -1s-9 0 -12 1c0 0 -5 3 -2 -2c5 -6 14 -11 22 -11h6zM225 120c-2 -
 c-3 -1 -8 -2 -11 -2c-2 0 -17 0 -36 28c-2 2 -4 7 -5 10c3 3 7 8 10 11c1 -4 4 -11 6 -14c4 -7 13 -16 19 -20c1 -1 4 -2 6 -2s5 0 7 1c7 2 17 8 23 13c4 4 11 11 13 16c3 6 6 16 8 23c2 9 4 24 4 33v5v2c-2 0 -6 -1 -8 -1v0h-8c-7 0 -18 1 -25 2c-8 1 -21 5 -29 8
 c-1 5 -1 10 -2 15zM205 80c0 0 -4 -3 -2 1c4 6 12 11 19 11c1 0 4 -1 5 -1c8 -2 15 -9 17 -17c0 -5 3 -5 -2 -2s-13 7 -18 8c-2 0 -6 1 -8 1c-3 0 -8 0 -11 -1zM69 357c-4 0 -7 3 -7 7v0v30c0 4 3 7 7 7h220c4 0 6 -3 6 -7v-30c0 -4 -2 -7 -6 -7s-7 3 -7 7v23h-206v-24
 c0 -4 -3 -6 -7 -6z" />
-    <glyph glyph-name="tecnopolis-B" unicode="&#xf687;" horiz-adv-x="497" 
+    <glyph glyph-name="tecnopolis" unicode="&#xf688;" horiz-adv-x="497" 
 d="M495 235c2 -3 2 -8 -1 -11l-238 -225c-2 -1 -3 -2 -5 -2s-4 1 -6 2l-242 225c-3 3 -3 8 -1 11l112 149c2 3 7 4 10 2l82 -47c1 0 0 -1 1 -1l44 -26l122 74c3 2 8 1 10 -2zM436 288l-33 43v-171l33 30v98zM375 369l-20 -12v-243l33 31v207zM211 317v-265l32 -30v277z
 M195 67v260l-32 18v-248zM259 299v-276l32 31v265zM307 328v-259l32 31v248zM122 369l-7 -10v-217l32 -30v243zM99 156v182l-31 -42v-111zM52 276l-34 -45l34 -31v76zM451 205l27 26l-27 36v-62z" />
     <glyph glyph-name="tecnovigilancia" unicode="&#xf4d7;" horiz-adv-x="428" 

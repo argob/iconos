@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "dc710c7a2b5251b04de8497bcbeb7633fc1fb1a8b0397836d377ac65a50ed02b",
-    "current": "dc710c7a2b5251b04de8497bcbeb7633fc1fb1a8b0397836d377ac65a50ed02b"
+    "previous": "e30b660a3cd3f622fe9c43890d4101bec01d847bfae6db115f088f3afd5670f7",
+    "current": "e30b660a3cd3f622fe9c43890d4101bec01d847bfae6db115f088f3afd5670f7"
   },
   "fonts": [
-    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.ttf",
-    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.svg",
-    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.woff",
-    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.eot",
-    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.woff2"
+    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.ttf",
+    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.svg",
+    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.woff",
+    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.eot",
+    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2523,9 +2523,9 @@
       "codepoint": 62410,
       "source": "src/_icons/teatro-archivo.svg"
     },
-    "tecnopolis-B": {
-      "codepoint": 63111,
-      "source": "src/_icons/tecnopolis-B.svg"
+    "tecnopolis": {
+      "codepoint": 63112,
+      "source": "src/_icons/tecnopolis.svg"
     },
     "tecnovigilancia": {
       "codepoint": 62679,
