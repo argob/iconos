@@ -1917,6 +1917,11 @@
       },
     
       {
+        "nombre": "innovacion-tecnologica",
+        "clase": "icono-arg-innovacion-tecnologica"
+      },
+    
+      {
         "nombre": "instagram",
         "clase": "icono-arg-instagram"
       },
@@ -3134,6 +3139,11 @@
       {
         "nombre": "teatro-archivo",
         "clase": "icono-arg-teatro-archivo"
+      },
+    
+      {
+        "nombre": "tecnopolis-B",
+        "clase": "icono-arg-tecnopolis-B"
       },
     
       {

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8f489016f8f93529c314f22665a9f064d008ba6a367ffd4e97ed9fbacd0d657a",
-    "current": "8f489016f8f93529c314f22665a9f064d008ba6a367ffd4e97ed9fbacd0d657a"
+    "previous": "dc710c7a2b5251b04de8497bcbeb7633fc1fb1a8b0397836d377ac65a50ed02b",
+    "current": "dc710c7a2b5251b04de8497bcbeb7633fc1fb1a8b0397836d377ac65a50ed02b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.ttf",
-    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.svg",
-    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.woff",
-    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.eot",
-    "dist/fonts/icono-arg_8f489016f8f93529c314f22665a9f064.woff2"
+    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.ttf",
+    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.svg",
+    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.woff",
+    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.eot",
+    "dist/fonts/icono-arg_dc710c7a2b5251b04de8497bcbeb7633.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1543,6 +1543,10 @@
       "codepoint": 62630,
       "source": "src/_icons/informes-y-estadisticas.svg"
     },
+    "innovacion-tecnologica": {
+      "codepoint": 63110,
+      "source": "src/_icons/innovacion-tecnologica.svg"
+    },
     "instagram": {
       "codepoint": 63009,
       "source": "src/_icons/instagram.svg"
@@ -2518,6 +2522,10 @@
     "teatro-archivo": {
       "codepoint": 62410,
       "source": "src/_icons/teatro-archivo.svg"
+    },
+    "tecnopolis-B": {
+      "codepoint": 63111,
+      "source": "src/_icons/tecnopolis-B.svg"
     },
     "tecnovigilancia": {
       "codepoint": 62679,
