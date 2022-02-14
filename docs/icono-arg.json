@@ -2112,6 +2112,11 @@
       },
     
       {
+        "nombre": "madres",
+        "clase": "icono-arg-madres"
+      },
+    
+      {
         "nombre": "magnetometria",
         "clase": "icono-arg-magnetometria"
       },

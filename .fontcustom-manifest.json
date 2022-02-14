@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e30b660a3cd3f622fe9c43890d4101bec01d847bfae6db115f088f3afd5670f7",
-    "current": "e30b660a3cd3f622fe9c43890d4101bec01d847bfae6db115f088f3afd5670f7"
+    "previous": "6ee00f3cb0819ae43a1cf216ea9a6af338e8fbcb9e8d54384089fb22079348bd",
+    "current": "6ee00f3cb0819ae43a1cf216ea9a6af338e8fbcb9e8d54384089fb22079348bd"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.ttf",
-    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.svg",
-    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.woff",
-    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.eot",
-    "dist/fonts/icono-arg_e30b660a3cd3f622fe9c43890d4101be.woff2"
+    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.ttf",
+    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.svg",
+    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.woff",
+    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.eot",
+    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1698,6 +1698,10 @@
     "lupa": {
       "codepoint": 62380,
       "source": "src/_icons/lupa.svg"
+    },
+    "madres": {
+      "codepoint": 63113,
+      "source": "src/_icons/madres.svg"
     },
     "magnetometria": {
       "codepoint": 62381,
