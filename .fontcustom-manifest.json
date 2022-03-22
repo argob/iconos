@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "6ee00f3cb0819ae43a1cf216ea9a6af338e8fbcb9e8d54384089fb22079348bd",
-    "current": "6ee00f3cb0819ae43a1cf216ea9a6af338e8fbcb9e8d54384089fb22079348bd"
+    "previous": "611beb4c0ab0c2adad409b85c0ac2bd4849a3d40843bee638fa93261fa135797",
+    "current": "611beb4c0ab0c2adad409b85c0ac2bd4849a3d40843bee638fa93261fa135797"
   },
   "fonts": [
-    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.ttf",
-    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.svg",
-    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.woff",
-    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.eot",
-    "dist/fonts/icono-arg_6ee00f3cb0819ae43a1cf216ea9a6af3.woff2"
+    "dist/fonts/icono-arg_611beb4c0ab0c2adad409b85c0ac2bd4.ttf",
+    "dist/fonts/icono-arg_611beb4c0ab0c2adad409b85c0ac2bd4.svg",
+    "dist/fonts/icono-arg_611beb4c0ab0c2adad409b85c0ac2bd4.woff",
+    "dist/fonts/icono-arg_611beb4c0ab0c2adad409b85c0ac2bd4.eot",
+    "dist/fonts/icono-arg_611beb4c0ab0c2adad409b85c0ac2bd4.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -598,6 +598,10 @@
     "centro-atomico-neg": {
       "codepoint": 62685,
       "source": "src/_icons/centro-atomico-neg.svg"
+    },
+    "centro-de-generos-en-tecnologia": {
+      "codepoint": 63114,
+      "source": "src/_icons/centro-de-generos-en-tecnologia.svg"
     },
     "cerdo": {
       "codepoint": 62709,
@@ -2258,6 +2262,10 @@
     "puentes": {
       "codepoint": 63062,
       "source": "src/_icons/puentes.svg"
+    },
+    "pulsar": {
+      "codepoint": 63115,
+      "source": "src/_icons/pulsar.svg"
     },
     "radar-meteorologico": {
       "codepoint": 62857,
