@@ -1472,8 +1472,23 @@
       },
     
       {
+        "nombre": "etiquetado",
+        "clase": "icono-arg-etiquetado"
+      },
+    
+      {
         "nombre": "exporta-facil",
         "clase": "icono-arg-exporta-facil"
+      },
+    
+      {
+        "nombre": "exportaciones-certificadas-general",
+        "clase": "icono-arg-exportaciones-certificadas-general"
+      },
+    
+      {
+        "nombre": "exportaciones-certificadas-optimo-especifico",
+        "clase": "icono-arg-exportaciones-certificadas-optimo-especifico"
       },
     
       {

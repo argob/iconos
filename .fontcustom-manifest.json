@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "0fa80d8dee2f874556a23f219197f450696949e9630bb3a6acfb2b23aef3c938",
-    "current": "0fa80d8dee2f874556a23f219197f450696949e9630bb3a6acfb2b23aef3c938"
+    "previous": "6c719ba8d9dfafc20d073b0576240a85eb68b2daa4b508e11ffa35e149c3377a",
+    "current": "6c719ba8d9dfafc20d073b0576240a85eb68b2daa4b508e11ffa35e149c3377a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0fa80d8dee2f874556a23f219197f450.ttf",
-    "dist/fonts/icono-arg_0fa80d8dee2f874556a23f219197f450.svg",
-    "dist/fonts/icono-arg_0fa80d8dee2f874556a23f219197f450.woff",
-    "dist/fonts/icono-arg_0fa80d8dee2f874556a23f219197f450.eot",
-    "dist/fonts/icono-arg_0fa80d8dee2f874556a23f219197f450.woff2"
+    "dist/fonts/icono-arg_6c719ba8d9dfafc20d073b0576240a85.ttf",
+    "dist/fonts/icono-arg_6c719ba8d9dfafc20d073b0576240a85.svg",
+    "dist/fonts/icono-arg_6c719ba8d9dfafc20d073b0576240a85.woff",
+    "dist/fonts/icono-arg_6c719ba8d9dfafc20d073b0576240a85.eot",
+    "dist/fonts/icono-arg_6c719ba8d9dfafc20d073b0576240a85.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1187,9 +1187,21 @@
       "codepoint": 62570,
       "source": "src/_icons/etiqueta-eficiencia.svg"
     },
+    "etiquetado": {
+      "codepoint": 63116,
+      "source": "src/_icons/etiquetado.svg"
+    },
     "exporta-facil": {
       "codepoint": 62627,
       "source": "src/_icons/exporta-facil.svg"
+    },
+    "exportaciones-certificadas-general": {
+      "codepoint": 63117,
+      "source": "src/_icons/exportaciones-certificadas-general.svg"
+    },
+    "exportaciones-certificadas-optimo-especifico": {
+      "codepoint": 63118,
+      "source": "src/_icons/exportaciones-certificadas-optimo-especifico.svg"
     },
     "exterior": {
       "codepoint": 62365,
