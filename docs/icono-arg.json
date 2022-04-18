@@ -3072,6 +3072,11 @@
       },
     
       {
+        "nombre": "sintra",
+        "clase": "icono-arg-sintra"
+      },
+    
+      {
         "nombre": "sistema-de-consulta-aprender",
         "clase": "icono-arg-sistema-de-consulta-aprender"
       },
