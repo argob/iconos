@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "891031b50cb8b16a2c26fae5db2695cbd932aafb3d7efed5700321dd874a0bb5",
-    "current": "891031b50cb8b16a2c26fae5db2695cbd932aafb3d7efed5700321dd874a0bb5"
+    "previous": "939f94464b9e15266f3065385d7af6981eb8350b24b8897b96acb758772dc669",
+    "current": "939f94464b9e15266f3065385d7af6981eb8350b24b8897b96acb758772dc669"
   },
   "fonts": [
-    "dist/fonts/icono-arg_891031b50cb8b16a2c26fae5db2695cb.ttf",
-    "dist/fonts/icono-arg_891031b50cb8b16a2c26fae5db2695cb.svg",
-    "dist/fonts/icono-arg_891031b50cb8b16a2c26fae5db2695cb.woff",
-    "dist/fonts/icono-arg_891031b50cb8b16a2c26fae5db2695cb.eot",
-    "dist/fonts/icono-arg_891031b50cb8b16a2c26fae5db2695cb.woff2"
+    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.ttf",
+    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.svg",
+    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.woff",
+    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.eot",
+    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -654,6 +654,10 @@
     "cluse": {
       "codepoint": 62349,
       "source": "src/_icons/cluse.svg"
+    },
+    "cnea": {
+      "codepoint": 63120,
+      "source": "src/_icons/cnea.svg"
     },
     "cobro-pago": {
       "codepoint": 62842,

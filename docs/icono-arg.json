@@ -807,6 +807,11 @@
       },
     
       {
+        "nombre": "cnea",
+        "clase": "icono-arg-cnea"
+      },
+    
+      {
         "nombre": "cobro-pago",
         "clase": "icono-arg-cobro-pago"
       },
