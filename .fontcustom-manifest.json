@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "b04975e255cdea9b23d21355db064a8f5b2c04c3916c12abddc8bf12175c3db6",
-    "current": "b04975e255cdea9b23d21355db064a8f5b2c04c3916c12abddc8bf12175c3db6"
+    "previous": "a3e7e3fe7396d7f86174e89a1e56101b3b365d120219234c5889e7a51fa99adf",
+    "current": "a3e7e3fe7396d7f86174e89a1e56101b3b365d120219234c5889e7a51fa99adf"
   },
   "fonts": [
-    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.ttf",
-    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.svg",
-    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.woff",
-    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.eot",
-    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.woff2"
+    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.ttf",
+    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.svg",
+    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.woff",
+    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.eot",
+    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1362,6 +1362,10 @@
     "genero": {
       "codepoint": 62476,
       "source": "src/_icons/genero.svg"
+    },
+    "genero-obras-publicas": {
+      "codepoint": 63122,
+      "source": "src/_icons/genero-obras-publicas.svg"
     },
     "genetica": {
       "codepoint": 62371,

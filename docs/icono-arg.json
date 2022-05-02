@@ -1692,6 +1692,11 @@
       },
     
       {
+        "nombre": "genero-obras-publicas",
+        "clase": "icono-arg-genero-obras-publicas"
+      },
+    
+      {
         "nombre": "genetica",
         "clase": "icono-arg-genetica"
       },
