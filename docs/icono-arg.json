@@ -2137,6 +2137,11 @@
       },
     
       {
+        "nombre": "lupa-engranaje",
+        "clase": "icono-arg-lupa-engranaje"
+      },
+    
+      {
         "nombre": "madres",
         "clase": "icono-arg-madres"
       },

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "939f94464b9e15266f3065385d7af6981eb8350b24b8897b96acb758772dc669",
-    "current": "939f94464b9e15266f3065385d7af6981eb8350b24b8897b96acb758772dc669"
+    "previous": "b04975e255cdea9b23d21355db064a8f5b2c04c3916c12abddc8bf12175c3db6",
+    "current": "b04975e255cdea9b23d21355db064a8f5b2c04c3916c12abddc8bf12175c3db6"
   },
   "fonts": [
-    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.ttf",
-    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.svg",
-    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.woff",
-    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.eot",
-    "dist/fonts/icono-arg_939f94464b9e15266f3065385d7af698.woff2"
+    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.ttf",
+    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.svg",
+    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.woff",
+    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.eot",
+    "dist/fonts/icono-arg_b04975e255cdea9b23d21355db064a8f.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1718,6 +1718,10 @@
     "lupa": {
       "codepoint": 62380,
       "source": "src/_icons/lupa.svg"
+    },
+    "lupa-engranaje": {
+      "codepoint": 63121,
+      "source": "src/_icons/lupa-engranaje.svg"
     },
     "madres": {
       "codepoint": 63113,
