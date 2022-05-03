@@ -2687,6 +2687,11 @@
       },
     
       {
+        "nombre": "pav",
+        "clase": "icono-arg-pav"
+      },
+    
+      {
         "nombre": "pd-punto-digital",
         "clase": "icono-arg-pd-punto-digital"
       },

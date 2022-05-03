@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "a3e7e3fe7396d7f86174e89a1e56101b3b365d120219234c5889e7a51fa99adf",
-    "current": "a3e7e3fe7396d7f86174e89a1e56101b3b365d120219234c5889e7a51fa99adf"
+    "previous": "e9eab97586d835b7a131cf1e16c45ca1daf8eecf5f15a9490f49221e14fa6783",
+    "current": "e9eab97586d835b7a131cf1e16c45ca1daf8eecf5f15a9490f49221e14fa6783"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.ttf",
-    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.svg",
-    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.woff",
-    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.eot",
-    "dist/fonts/icono-arg_a3e7e3fe7396d7f86174e89a1e56101b.woff2"
+    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.ttf",
+    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.svg",
+    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.woff",
+    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.eot",
+    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2158,6 +2158,10 @@
     "patrones-de-uso": {
       "codepoint": 62936,
       "source": "src/_icons/patrones-de-uso.svg"
+    },
+    "pav": {
+      "codepoint": 63123,
+      "source": "src/_icons/pav.svg"
     },
     "pd-punto-digital": {
       "codepoint": 62966,
