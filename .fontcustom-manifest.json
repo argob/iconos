@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e9eab97586d835b7a131cf1e16c45ca1daf8eecf5f15a9490f49221e14fa6783",
-    "current": "e9eab97586d835b7a131cf1e16c45ca1daf8eecf5f15a9490f49221e14fa6783"
+    "previous": "3d97014bc6cc4d51ef7982f170fdc7472b03a61ccf6a12be63c0de781a8e834e",
+    "current": "3d97014bc6cc4d51ef7982f170fdc7472b03a61ccf6a12be63c0de781a8e834e"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.ttf",
-    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.svg",
-    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.woff",
-    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.eot",
-    "dist/fonts/icono-arg_e9eab97586d835b7a131cf1e16c45ca1.woff2"
+    "dist/fonts/icono-arg_3d97014bc6cc4d51ef7982f170fdc747.ttf",
+    "dist/fonts/icono-arg_3d97014bc6cc4d51ef7982f170fdc747.svg",
+    "dist/fonts/icono-arg_3d97014bc6cc4d51ef7982f170fdc747.woff",
+    "dist/fonts/icono-arg_3d97014bc6cc4d51ef7982f170fdc747.eot",
+    "dist/fonts/icono-arg_3d97014bc6cc4d51ef7982f170fdc747.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1886,6 +1886,14 @@
     "microscopio": {
       "codepoint": 62675,
       "source": "src/_icons/microscopio.svg"
+    },
+    "mirarnos": {
+      "codepoint": 63124,
+      "source": "src/_icons/mirarnos.svg"
+    },
+    "mirarnos-negativo": {
+      "codepoint": 63125,
+      "source": "src/_icons/mirarnos-negativo.svg"
     },
     "mis-cobros": {
       "codepoint": 62949,

@@ -2347,6 +2347,16 @@
       },
     
       {
+        "nombre": "mirarnos",
+        "clase": "icono-arg-mirarnos"
+      },
+    
+      {
+        "nombre": "mirarnos-negativo",
+        "clase": "icono-arg-mirarnos-negativo"
+      },
+    
+      {
         "nombre": "mis-cobros",
         "clase": "icono-arg-mis-cobros"
       },
