@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "d0a3dfc1dd69483b1fd4db94acae1543d77fe428b4b7d33326b1483eb3a2673e",
-    "current": "d0a3dfc1dd69483b1fd4db94acae1543d77fe428b4b7d33326b1483eb3a2673e"
+    "previous": "8154a16a903904c5256d679f3488c015c533de6eb9b8af1cc2c25eaf5e258495",
+    "current": "8154a16a903904c5256d679f3488c015c533de6eb9b8af1cc2c25eaf5e258495"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d0a3dfc1dd69483b1fd4db94acae1543.ttf",
-    "dist/fonts/icono-arg_d0a3dfc1dd69483b1fd4db94acae1543.svg",
-    "dist/fonts/icono-arg_d0a3dfc1dd69483b1fd4db94acae1543.woff",
-    "dist/fonts/icono-arg_d0a3dfc1dd69483b1fd4db94acae1543.eot",
-    "dist/fonts/icono-arg_d0a3dfc1dd69483b1fd4db94acae1543.woff2"
+    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.ttf",
+    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.svg",
+    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.woff",
+    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.eot",
+    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -778,6 +778,10 @@
     "control-arcade": {
       "codepoint": 63032,
       "source": "src/_icons/control-arcade.svg"
+    },
+    "copa-menstrual": {
+      "codepoint": 63126,
+      "source": "src/_icons/copa-menstrual.svg"
     },
     "corazon": {
       "codepoint": 62925,
@@ -2502,6 +2506,10 @@
     "sitios-accesibles": {
       "codepoint": 62937,
       "source": "src/_icons/sitios-accesibles.svg"
+    },
+    "soberania-alimentaria": {
+      "codepoint": 63127,
+      "source": "src/_icons/soberania-alimentaria.svg"
     },
     "social": {
       "codepoint": 62406,
