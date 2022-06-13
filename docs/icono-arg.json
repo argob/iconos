@@ -1297,6 +1297,11 @@
       },
     
       {
+        "nombre": "economias-regionales",
+        "clase": "icono-arg-economias-regionales"
+      },
+    
+      {
         "nombre": "editorial-manuel-belgrano",
         "clase": "icono-arg-editorial-manuel-belgrano"
       },
@@ -3014,6 +3019,11 @@
       {
         "nombre": "salud-escudo",
         "clase": "icono-arg-salud-escudo"
+      },
+    
+      {
+        "nombre": "salud-gota-sangre",
+        "clase": "icono-arg-salud-gota-sangre"
       },
     
       {

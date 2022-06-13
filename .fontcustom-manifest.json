@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8154a16a903904c5256d679f3488c015c533de6eb9b8af1cc2c25eaf5e258495",
-    "current": "8154a16a903904c5256d679f3488c015c533de6eb9b8af1cc2c25eaf5e258495"
+    "previous": "d5352a6ba85fdaa5a83cde34b223f9be1335053763950cfc55ff5f44c1bebf4c",
+    "current": "d5352a6ba85fdaa5a83cde34b223f9be1335053763950cfc55ff5f44c1bebf4c"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.ttf",
-    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.svg",
-    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.woff",
-    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.eot",
-    "dist/fonts/icono-arg_8154a16a903904c5256d679f3488c015.woff2"
+    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.ttf",
+    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.svg",
+    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.woff",
+    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.eot",
+    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1046,6 +1046,10 @@
     "economia-circular-negativo": {
       "codepoint": 62976,
       "source": "src/_icons/economia-circular-negativo.svg"
+    },
+    "economias-regionales": {
+      "codepoint": 63128,
+      "source": "src/_icons/economias-regionales.svg"
     },
     "editorial-manuel-belgrano": {
       "codepoint": 62982,
@@ -2422,6 +2426,10 @@
     "salud-escudo": {
       "codepoint": 62531,
       "source": "src/_icons/salud-escudo.svg"
+    },
+    "salud-gota-sangre": {
+      "codepoint": 63129,
+      "source": "src/_icons/salud-gota-sangre.svg"
     },
     "salud-reproductiva-y-sexual": {
       "codepoint": 62402,
