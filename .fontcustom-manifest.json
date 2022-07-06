@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "d5352a6ba85fdaa5a83cde34b223f9be1335053763950cfc55ff5f44c1bebf4c",
-    "current": "d5352a6ba85fdaa5a83cde34b223f9be1335053763950cfc55ff5f44c1bebf4c"
+    "previous": "815efdf9e148453654c7fb7ab3f2f69ba17245b82f623506b0e54fc6dc99a04a",
+    "current": "815efdf9e148453654c7fb7ab3f2f69ba17245b82f623506b0e54fc6dc99a04a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.ttf",
-    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.svg",
-    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.woff",
-    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.eot",
-    "dist/fonts/icono-arg_d5352a6ba85fdaa5a83cde34b223f9be.woff2"
+    "dist/fonts/icono-arg_815efdf9e148453654c7fb7ab3f2f69b.ttf",
+    "dist/fonts/icono-arg_815efdf9e148453654c7fb7ab3f2f69b.svg",
+    "dist/fonts/icono-arg_815efdf9e148453654c7fb7ab3f2f69b.woff",
+    "dist/fonts/icono-arg_815efdf9e148453654c7fb7ab3f2f69b.eot",
+    "dist/fonts/icono-arg_815efdf9e148453654c7fb7ab3f2f69b.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -983,6 +983,10 @@
       "codepoint": 63035,
       "source": "src/_icons/discord.svg"
     },
+    "discurso": {
+      "codepoint": 63130,
+      "source": "src/_icons/discurso.svg"
+    },
     "dispositivo-vr": {
       "codepoint": 63036,
       "source": "src/_icons/dispositivo-vr.svg"
@@ -1222,6 +1226,10 @@
     "extinguidor": {
       "codepoint": 63101,
       "source": "src/_icons/extinguidor.svg"
+    },
+    "facebook-circular": {
+      "codepoint": 63131,
+      "source": "src/_icons/facebook-circular.svg"
     },
     "facebook-f-": {
       "codepoint": 63003,
@@ -1582,6 +1590,10 @@
     "instagram": {
       "codepoint": 63009,
       "source": "src/_icons/instagram.svg"
+    },
+    "instagram-circular": {
+      "codepoint": 63132,
+      "source": "src/_icons/instagram-circular.svg"
     },
     "institucion": {
       "codepoint": 62376,
@@ -2779,6 +2791,10 @@
       "codepoint": 62582,
       "source": "src/_icons/turno-negativo.svg"
     },
+    "twiter-circular": {
+      "codepoint": 63133,
+      "source": "src/_icons/twiter-circular.svg"
+    },
     "twitter-pajaro": {
       "codepoint": 63005,
       "source": "src/_icons/twitter-pajaro.svg"
@@ -2930,6 +2946,10 @@
     "youtube": {
       "codepoint": 63015,
       "source": "src/_icons/youtube.svg"
+    },
+    "youtube-circular": {
+      "codepoint": 63134,
+      "source": "src/_icons/youtube-circular.svg"
     },
     "zanahorias": {
       "codepoint": 62660,

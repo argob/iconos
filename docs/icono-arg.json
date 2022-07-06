@@ -1217,6 +1217,11 @@
       },
     
       {
+        "nombre": "discurso",
+        "clase": "icono-arg-discurso"
+      },
+    
+      {
         "nombre": "dispositivo-vr",
         "clase": "icono-arg-dispositivo-vr"
       },
@@ -1514,6 +1519,11 @@
       {
         "nombre": "extinguidor",
         "clase": "icono-arg-extinguidor"
+      },
+    
+      {
+        "nombre": "facebook-circular",
+        "clase": "icono-arg-facebook-circular"
       },
     
       {
@@ -1964,6 +1974,11 @@
       {
         "nombre": "instagram",
         "clase": "icono-arg-instagram"
+      },
+    
+      {
+        "nombre": "instagram-circular",
+        "clase": "icono-arg-instagram-circular"
       },
     
       {
@@ -3462,6 +3477,11 @@
       },
     
       {
+        "nombre": "twiter-circular",
+        "clase": "icono-arg-twiter-circular"
+      },
+    
+      {
         "nombre": "twitter-pajaro",
         "clase": "icono-arg-twitter-pajaro"
       },
@@ -3649,6 +3669,11 @@
       {
         "nombre": "youtube",
         "clase": "icono-arg-youtube"
+      },
+    
+      {
+        "nombre": "youtube-circular",
+        "clase": "icono-arg-youtube-circular"
       },
     
       {
