@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "46b3930a3e655a9f886533f1f19e3dd477cc497f0760d85d490a7e250983dd5a",
-    "current": "46b3930a3e655a9f886533f1f19e3dd477cc497f0760d85d490a7e250983dd5a"
+    "previous": "f38744a2e797d60127f813242278d9a115f8cf3ff38abe791c85d5b526800f89",
+    "current": "f38744a2e797d60127f813242278d9a115f8cf3ff38abe791c85d5b526800f89"
   },
   "fonts": [
-    "dist/fonts/icono-arg_46b3930a3e655a9f886533f1f19e3dd4.ttf",
-    "dist/fonts/icono-arg_46b3930a3e655a9f886533f1f19e3dd4.svg",
-    "dist/fonts/icono-arg_46b3930a3e655a9f886533f1f19e3dd4.woff",
-    "dist/fonts/icono-arg_46b3930a3e655a9f886533f1f19e3dd4.eot",
-    "dist/fonts/icono-arg_46b3930a3e655a9f886533f1f19e3dd4.woff2"
+    "dist/fonts/icono-arg_f38744a2e797d60127f813242278d9a1.ttf",
+    "dist/fonts/icono-arg_f38744a2e797d60127f813242278d9a1.svg",
+    "dist/fonts/icono-arg_f38744a2e797d60127f813242278d9a1.woff",
+    "dist/fonts/icono-arg_f38744a2e797d60127f813242278d9a1.eot",
+    "dist/fonts/icono-arg_f38744a2e797d60127f813242278d9a1.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -902,6 +902,10 @@
     "deporte": {
       "codepoint": 62356,
       "source": "src/_icons/deporte.svg"
+    },
+    "deportes-hay-equipo": {
+      "codepoint": 63135,
+      "source": "src/_icons/deportes-hay-equipo.svg"
     },
     "derechos-de-autor": {
       "codepoint": 62634,

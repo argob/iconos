@@ -1117,6 +1117,11 @@
       },
     
       {
+        "nombre": "deportes-hay-equipo",
+        "clase": "icono-arg-deportes-hay-equipo"
+      },
+    
+      {
         "nombre": "derechos-de-autor",
         "clase": "icono-arg-derechos-de-autor"
       },
