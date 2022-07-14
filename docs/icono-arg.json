@@ -857,6 +857,11 @@
       },
     
       {
+        "nombre": "cola-de-espera",
+        "clase": "icono-arg-cola-de-espera"
+      },
+    
+      {
         "nombre": "colores-tipografia",
         "clase": "icono-arg-colores-tipografia"
       },
@@ -2874,6 +2879,126 @@
       {
         "nombre": "promocion-comercial",
         "clase": "icono-arg-promocion-comercial"
+      },
+    
+      {
+        "nombre": "provincia-buenosaires",
+        "clase": "icono-arg-provincia-buenosaires"
+      },
+    
+      {
+        "nombre": "provincia-caba",
+        "clase": "icono-arg-provincia-caba"
+      },
+    
+      {
+        "nombre": "provincia-catamarca",
+        "clase": "icono-arg-provincia-catamarca"
+      },
+    
+      {
+        "nombre": "provincia-chaco",
+        "clase": "icono-arg-provincia-chaco"
+      },
+    
+      {
+        "nombre": "provincia-chubut",
+        "clase": "icono-arg-provincia-chubut"
+      },
+    
+      {
+        "nombre": "provincia-cordoba",
+        "clase": "icono-arg-provincia-cordoba"
+      },
+    
+      {
+        "nombre": "provincia-corrientes",
+        "clase": "icono-arg-provincia-corrientes"
+      },
+    
+      {
+        "nombre": "provincia-entrerios",
+        "clase": "icono-arg-provincia-entrerios"
+      },
+    
+      {
+        "nombre": "provincia-formosa",
+        "clase": "icono-arg-provincia-formosa"
+      },
+    
+      {
+        "nombre": "provincia-jujuy",
+        "clase": "icono-arg-provincia-jujuy"
+      },
+    
+      {
+        "nombre": "provincia-lapampa",
+        "clase": "icono-arg-provincia-lapampa"
+      },
+    
+      {
+        "nombre": "provincia-larioja",
+        "clase": "icono-arg-provincia-larioja"
+      },
+    
+      {
+        "nombre": "provincia-mendoza",
+        "clase": "icono-arg-provincia-mendoza"
+      },
+    
+      {
+        "nombre": "provincia-misiones",
+        "clase": "icono-arg-provincia-misiones"
+      },
+    
+      {
+        "nombre": "provincia-neuquen",
+        "clase": "icono-arg-provincia-neuquen"
+      },
+    
+      {
+        "nombre": "provincia-rionegro",
+        "clase": "icono-arg-provincia-rionegro"
+      },
+    
+      {
+        "nombre": "provincia-salta",
+        "clase": "icono-arg-provincia-salta"
+      },
+    
+      {
+        "nombre": "provincia-sanjuan",
+        "clase": "icono-arg-provincia-sanjuan"
+      },
+    
+      {
+        "nombre": "provincia-sanluis",
+        "clase": "icono-arg-provincia-sanluis"
+      },
+    
+      {
+        "nombre": "provincia-santacruz",
+        "clase": "icono-arg-provincia-santacruz"
+      },
+    
+      {
+        "nombre": "provincia-santafe",
+        "clase": "icono-arg-provincia-santafe"
+      },
+    
+      {
+        "nombre": "provincia-santiagodelestero",
+        "clase": "icono-arg-provincia-santiagodelestero"
+      },
+    
+      {
+        "nombre": "provincia-tierradelfuego",
+        "clase": "icono-arg-provincia-tierradelfuego"
+      },
+    
+      {
+        "nombre": "provincia-tucuman",
+        "clase": "icono-arg-provincia-tucuman"
       },
     
       {

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "7ae20be74bc4523a04e072bc869b19e6ecc87ae1b0546cfb87581560b7e6b39e",
-    "current": "7ae20be74bc4523a04e072bc869b19e6ecc87ae1b0546cfb87581560b7e6b39e"
+    "previous": "c1809b5d1681a8408e75ce36ed69242d39e9b28829fe53045c44e1bf8b88ed43",
+    "current": "c1809b5d1681a8408e75ce36ed69242d39e9b28829fe53045c44e1bf8b88ed43"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7ae20be74bc4523a04e072bc869b19e6.ttf",
-    "dist/fonts/icono-arg_7ae20be74bc4523a04e072bc869b19e6.svg",
-    "dist/fonts/icono-arg_7ae20be74bc4523a04e072bc869b19e6.woff",
-    "dist/fonts/icono-arg_7ae20be74bc4523a04e072bc869b19e6.eot",
-    "dist/fonts/icono-arg_7ae20be74bc4523a04e072bc869b19e6.woff2"
+    "dist/fonts/icono-arg_c1809b5d1681a8408e75ce36ed69242d.ttf",
+    "dist/fonts/icono-arg_c1809b5d1681a8408e75ce36ed69242d.svg",
+    "dist/fonts/icono-arg_c1809b5d1681a8408e75ce36ed69242d.woff",
+    "dist/fonts/icono-arg_c1809b5d1681a8408e75ce36ed69242d.eot",
+    "dist/fonts/icono-arg_c1809b5d1681a8408e75ce36ed69242d.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -694,6 +694,10 @@
     "codigo-qr": {
       "codepoint": 62844,
       "source": "src/_icons/codigo-qr.svg"
+    },
+    "cola-de-espera": {
+      "codepoint": 63136,
+      "source": "src/_icons/cola-de-espera.svg"
     },
     "colores-tipografia": {
       "codepoint": 62955,
@@ -2310,6 +2314,102 @@
     "promocion-comercial": {
       "codepoint": 62632,
       "source": "src/_icons/promocion-comercial.svg"
+    },
+    "provincia-buenosaires": {
+      "codepoint": 63137,
+      "source": "src/_icons/provincia-buenosaires.svg"
+    },
+    "provincia-caba": {
+      "codepoint": 63138,
+      "source": "src/_icons/provincia-caba.svg"
+    },
+    "provincia-catamarca": {
+      "codepoint": 63139,
+      "source": "src/_icons/provincia-catamarca.svg"
+    },
+    "provincia-chaco": {
+      "codepoint": 63140,
+      "source": "src/_icons/provincia-chaco.svg"
+    },
+    "provincia-chubut": {
+      "codepoint": 63141,
+      "source": "src/_icons/provincia-chubut.svg"
+    },
+    "provincia-cordoba": {
+      "codepoint": 63142,
+      "source": "src/_icons/provincia-cordoba.svg"
+    },
+    "provincia-corrientes": {
+      "codepoint": 63143,
+      "source": "src/_icons/provincia-corrientes.svg"
+    },
+    "provincia-entrerios": {
+      "codepoint": 63144,
+      "source": "src/_icons/provincia-entrerios.svg"
+    },
+    "provincia-formosa": {
+      "codepoint": 63145,
+      "source": "src/_icons/provincia-formosa.svg"
+    },
+    "provincia-jujuy": {
+      "codepoint": 63146,
+      "source": "src/_icons/provincia-jujuy.svg"
+    },
+    "provincia-lapampa": {
+      "codepoint": 63147,
+      "source": "src/_icons/provincia-lapampa.svg"
+    },
+    "provincia-larioja": {
+      "codepoint": 63148,
+      "source": "src/_icons/provincia-larioja.svg"
+    },
+    "provincia-mendoza": {
+      "codepoint": 63149,
+      "source": "src/_icons/provincia-mendoza.svg"
+    },
+    "provincia-misiones": {
+      "codepoint": 63150,
+      "source": "src/_icons/provincia-misiones.svg"
+    },
+    "provincia-neuquen": {
+      "codepoint": 63151,
+      "source": "src/_icons/provincia-neuquen.svg"
+    },
+    "provincia-rionegro": {
+      "codepoint": 63152,
+      "source": "src/_icons/provincia-rionegro.svg"
+    },
+    "provincia-salta": {
+      "codepoint": 63153,
+      "source": "src/_icons/provincia-salta.svg"
+    },
+    "provincia-sanjuan": {
+      "codepoint": 63154,
+      "source": "src/_icons/provincia-sanjuan.svg"
+    },
+    "provincia-sanluis": {
+      "codepoint": 63155,
+      "source": "src/_icons/provincia-sanluis.svg"
+    },
+    "provincia-santacruz": {
+      "codepoint": 63156,
+      "source": "src/_icons/provincia-santacruz.svg"
+    },
+    "provincia-santafe": {
+      "codepoint": 63157,
+      "source": "src/_icons/provincia-santafe.svg"
+    },
+    "provincia-santiagodelestero": {
+      "codepoint": 63158,
+      "source": "src/_icons/provincia-santiagodelestero.svg"
+    },
+    "provincia-tierradelfuego": {
+      "codepoint": 63159,
+      "source": "src/_icons/provincia-tierradelfuego.svg"
+    },
+    "provincia-tucuman": {
+      "codepoint": 63160,
+      "source": "src/_icons/provincia-tucuman.svg"
     },
     "prueba": {
       "codepoint": 62871,
