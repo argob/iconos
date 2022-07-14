@@ -3347,6 +3347,11 @@
       },
     
       {
+        "nombre": "talleres-pais-digital",
+        "clase": "icono-arg-talleres-pais-digital"
+      },
+    
+      {
         "nombre": "tambo",
         "clase": "icono-arg-tambo"
       },
