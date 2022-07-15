@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8f116d5fffdd7a3739f210b97ce87dc6736d716d60eeccd280313c3b84b54ce0",
-    "current": "8f116d5fffdd7a3739f210b97ce87dc6736d716d60eeccd280313c3b84b54ce0"
+    "previous": "946a8feec1e2ff288b5ddd5bc497f00823a7e0808681635788abf4b0ab22ef23",
+    "current": "946a8feec1e2ff288b5ddd5bc497f00823a7e0808681635788abf4b0ab22ef23"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8f116d5fffdd7a3739f210b97ce87dc6.ttf",
-    "dist/fonts/icono-arg_8f116d5fffdd7a3739f210b97ce87dc6.svg",
-    "dist/fonts/icono-arg_8f116d5fffdd7a3739f210b97ce87dc6.woff",
-    "dist/fonts/icono-arg_8f116d5fffdd7a3739f210b97ce87dc6.eot",
-    "dist/fonts/icono-arg_8f116d5fffdd7a3739f210b97ce87dc6.woff2"
+    "dist/fonts/icono-arg_946a8feec1e2ff288b5ddd5bc497f008.ttf",
+    "dist/fonts/icono-arg_946a8feec1e2ff288b5ddd5bc497f008.svg",
+    "dist/fonts/icono-arg_946a8feec1e2ff288b5ddd5bc497f008.woff",
+    "dist/fonts/icono-arg_946a8feec1e2ff288b5ddd5bc497f008.eot",
+    "dist/fonts/icono-arg_946a8feec1e2ff288b5ddd5bc497f008.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2538,6 +2538,18 @@
     "salero-prohibido": {
       "codepoint": 62656,
       "source": "src/_icons/salero-prohibido.svg"
+    },
+    "salud-bucal": {
+      "codepoint": 63162,
+      "source": "src/_icons/salud-bucal.svg"
+    },
+    "salud-cigarrillo-fumar": {
+      "codepoint": 63163,
+      "source": "src/_icons/salud-cigarrillo-fumar.svg"
+    },
+    "salud-cigarrillo-no-fumar": {
+      "codepoint": 63164,
+      "source": "src/_icons/salud-cigarrillo-no-fumar.svg"
     },
     "salud-escudo": {
       "codepoint": 62531,

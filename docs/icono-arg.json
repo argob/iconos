@@ -3162,6 +3162,21 @@
       },
     
       {
+        "nombre": "salud-bucal",
+        "clase": "icono-arg-salud-bucal"
+      },
+    
+      {
+        "nombre": "salud-cigarrillo-fumar",
+        "clase": "icono-arg-salud-cigarrillo-fumar"
+      },
+    
+      {
+        "nombre": "salud-cigarrillo-no-fumar",
+        "clase": "icono-arg-salud-cigarrillo-no-fumar"
+      },
+    
+      {
         "nombre": "salud-escudo",
         "clase": "icono-arg-salud-escudo"
       },
