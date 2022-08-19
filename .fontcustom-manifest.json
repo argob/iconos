@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "24e8a804ac13ace29245ccfad9ee186e3b2b6bd4a66b93d74a0506175c93d6fc",
-    "current": "24e8a804ac13ace29245ccfad9ee186e3b2b6bd4a66b93d74a0506175c93d6fc"
+    "previous": "78c90e756a5a44b46c4ec901f350c3faa041d6bbd8082aa8cbfe68697ed1f88f",
+    "current": "78c90e756a5a44b46c4ec901f350c3faa041d6bbd8082aa8cbfe68697ed1f88f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_24e8a804ac13ace29245ccfad9ee186e.ttf",
-    "dist/fonts/icono-arg_24e8a804ac13ace29245ccfad9ee186e.svg",
-    "dist/fonts/icono-arg_24e8a804ac13ace29245ccfad9ee186e.woff",
-    "dist/fonts/icono-arg_24e8a804ac13ace29245ccfad9ee186e.eot",
-    "dist/fonts/icono-arg_24e8a804ac13ace29245ccfad9ee186e.woff2"
+    "dist/fonts/icono-arg_78c90e756a5a44b46c4ec901f350c3fa.ttf",
+    "dist/fonts/icono-arg_78c90e756a5a44b46c4ec901f350c3fa.svg",
+    "dist/fonts/icono-arg_78c90e756a5a44b46c4ec901f350c3fa.woff",
+    "dist/fonts/icono-arg_78c90e756a5a44b46c4ec901f350c3fa.eot",
+    "dist/fonts/icono-arg_78c90e756a5a44b46c4ec901f350c3fa.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -774,6 +774,10 @@
     "consulta": {
       "codepoint": 62351,
       "source": "src/_icons/consulta.svg"
+    },
+    "consultar-puntos": {
+      "codepoint": 63165,
+      "source": "src/_icons/consultar-puntos.svg"
     },
     "control-accesible": {
       "codepoint": 63031,
@@ -2462,6 +2466,10 @@
     "reclamo-demora": {
       "codepoint": 62398,
       "source": "src/_icons/reclamo-demora.svg"
+    },
+    "recuperar-puntos": {
+      "codepoint": 63166,
+      "source": "src/_icons/recuperar-puntos.svg"
     },
     "recursos-origen": {
       "codepoint": 62859,

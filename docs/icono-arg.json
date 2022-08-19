@@ -957,6 +957,11 @@
       },
     
       {
+        "nombre": "consultar-puntos",
+        "clase": "icono-arg-consultar-puntos"
+      },
+    
+      {
         "nombre": "control-accesible",
         "clase": "icono-arg-control-accesible"
       },
@@ -3064,6 +3069,11 @@
       {
         "nombre": "reclamo-demora",
         "clase": "icono-arg-reclamo-demora"
+      },
+    
+      {
+        "nombre": "recuperar-puntos",
+        "clase": "icono-arg-recuperar-puntos"
       },
     
       {
