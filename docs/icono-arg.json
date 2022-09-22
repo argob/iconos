@@ -62,6 +62,11 @@
       },
     
       {
+        "nombre": "ahora12",
+        "clase": "icono-arg-ahora12"
+      },
+    
+      {
         "nombre": "ahorro",
         "clase": "icono-arg-ahorro"
       },
@@ -1107,6 +1112,11 @@
       },
     
       {
+        "nombre": "defensa",
+        "clase": "icono-arg-defensa"
+      },
+    
+      {
         "nombre": "deficit-habitacional",
         "clase": "icono-arg-deficit-habitacional"
       },
@@ -1919,6 +1929,11 @@
       {
         "nombre": "identidad-federada",
         "clase": "icono-arg-identidad-federada"
+      },
+    
+      {
+        "nombre": "importaciones",
+        "clase": "icono-arg-importaciones"
       },
     
       {
@@ -2834,6 +2849,11 @@
       {
         "nombre": "portal-educativo",
         "clase": "icono-arg-portal-educativo"
+      },
+    
+      {
+        "nombre": "precioscuidados",
+        "clase": "icono-arg-precioscuidados"
       },
     
       {

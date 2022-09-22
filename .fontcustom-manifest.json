@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "01f668a71fa75308bd68a062445f51314f898148c38fb638f638846d3dac5112",
-    "current": "01f668a71fa75308bd68a062445f51314f898148c38fb638f638846d3dac5112"
+    "previous": "aadc9f7b06fd63e1722031f0dda8127ae924b6ff80796ed67b67cf23c6a15f8b",
+    "current": "aadc9f7b06fd63e1722031f0dda8127ae924b6ff80796ed67b67cf23c6a15f8b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_01f668a71fa75308bd68a062445f5131.ttf",
-    "dist/fonts/icono-arg_01f668a71fa75308bd68a062445f5131.svg",
-    "dist/fonts/icono-arg_01f668a71fa75308bd68a062445f5131.woff",
-    "dist/fonts/icono-arg_01f668a71fa75308bd68a062445f5131.eot",
-    "dist/fonts/icono-arg_01f668a71fa75308bd68a062445f5131.woff2"
+    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.ttf",
+    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.svg",
+    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.woff",
+    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.eot",
+    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -58,6 +58,10 @@
     "agua-contaminada": {
       "codepoint": 62777,
       "source": "src/_icons/agua-contaminada.svg"
+    },
+    "ahora12": {
+      "codepoint": 63167,
+      "source": "src/_icons/ahora12.svg"
     },
     "ahorro": {
       "codepoint": 62826,
@@ -895,6 +899,10 @@
       "codepoint": 62846,
       "source": "src/_icons/declaracion-jurada-rectificativa.svg"
     },
+    "defensa": {
+      "codepoint": 63168,
+      "source": "src/_icons/defensa.svg"
+    },
     "deficit-habitacional": {
       "codepoint": 62452,
       "source": "src/_icons/deficit-habitacional.svg"
@@ -1546,6 +1554,10 @@
     "identidad-federada": {
       "codepoint": 62752,
       "source": "src/_icons/identidad-federada.svg"
+    },
+    "importaciones": {
+      "codepoint": 63169,
+      "source": "src/_icons/importaciones.svg"
     },
     "incendios-forestales": {
       "codepoint": 62548,
@@ -2278,6 +2290,10 @@
     "portal-educativo": {
       "codepoint": 62694,
       "source": "src/_icons/portal-educativo.svg"
+    },
+    "precioscuidados": {
+      "codepoint": 63170,
+      "source": "src/_icons/precioscuidados.svg"
     },
     "preservativo": {
       "codepoint": 62611,
