@@ -942,6 +942,11 @@
       },
     
       {
+        "nombre": "congreso",
+        "clase": "icono-arg-congreso"
+      },
+    
+      {
         "nombre": "consejo-economico-y-social",
         "clase": "icono-arg-consejo-economico-y-social"
       },
@@ -3834,6 +3839,11 @@
       {
         "nombre": "votar",
         "clase": "icono-arg-votar"
+      },
+    
+      {
+        "nombre": "vuce",
+        "clase": "icono-arg-vuce"
       },
     
       {

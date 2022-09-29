@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "aadc9f7b06fd63e1722031f0dda8127ae924b6ff80796ed67b67cf23c6a15f8b",
-    "current": "aadc9f7b06fd63e1722031f0dda8127ae924b6ff80796ed67b67cf23c6a15f8b"
+    "previous": "29f86c259abeb9daeef476ee3ac67b57e041012189bcfd39d7efb0e641ae30b8",
+    "current": "29f86c259abeb9daeef476ee3ac67b57e041012189bcfd39d7efb0e641ae30b8"
   },
   "fonts": [
-    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.ttf",
-    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.svg",
-    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.woff",
-    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.eot",
-    "dist/fonts/icono-arg_aadc9f7b06fd63e1722031f0dda8127a.woff2"
+    "dist/fonts/icono-arg_29f86c259abeb9daeef476ee3ac67b57.ttf",
+    "dist/fonts/icono-arg_29f86c259abeb9daeef476ee3ac67b57.svg",
+    "dist/fonts/icono-arg_29f86c259abeb9daeef476ee3ac67b57.woff",
+    "dist/fonts/icono-arg_29f86c259abeb9daeef476ee3ac67b57.eot",
+    "dist/fonts/icono-arg_29f86c259abeb9daeef476ee3ac67b57.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -762,6 +762,10 @@
     "conexion": {
       "codepoint": 62493,
       "source": "src/_icons/conexion.svg"
+    },
+    "congreso": {
+      "codepoint": 63171,
+      "source": "src/_icons/congreso.svg"
     },
     "consejo-economico-y-social": {
       "codepoint": 63059,
@@ -3078,6 +3082,10 @@
     "votar": {
       "codepoint": 63067,
       "source": "src/_icons/votar.svg"
+    },
+    "vuce": {
+      "codepoint": 63172,
+      "source": "src/_icons/vuce.svg"
     },
     "whatsapp-telefono": {
       "codepoint": 63006,
