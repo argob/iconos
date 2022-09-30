@@ -51,6 +51,6 @@ bundle install
 ### Para compilar
 
 ```sh
-fontcustom compile             # Compila la tipografía y templates
-fontcustom watch               # Compila cuando las imágenes svg se cambian / agregan / eliminan
+bundle exec fontcustom compile -F     # Compila la tipografía y templates
+bundle exec fontcustom watch          # Compila cuando las imágenes svg se cambian / agregan / eliminan
 ```
