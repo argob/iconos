@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/argob/fontcustom.git
-  revision: f49215b7d856103e11f1ab2c41d02d318f039cdb
+  revision: ed4518dd38bd6ffbd240ba11e0a54c36ca4c4019
   branch: upgrade_json_gem
   specs:
     fontcustom (2.1.0)
@@ -11,12 +11,12 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    ffi (1.15.4)
-    json (2.6.1)
-    listen (3.7.0)
+    ffi (1.15.5)
+    json (2.6.2)
+    listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    rb-fsevent (0.11.0)
+    rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     thor (0.20.3)
@@ -31,4 +31,4 @@ DEPENDENCIES
   fontcustom!
 
 BUNDLED WITH
-   2.3.0
+   2.3.14
