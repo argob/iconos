@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "83450d8c48f30e4b031211885b6b09ef451b40328424b6aee10b86fe4acb232c",
-    "current": "83450d8c48f30e4b031211885b6b09ef451b40328424b6aee10b86fe4acb232c"
+    "previous": "3b2627b70133646d6f94b2bc114ffe0c7bf42b56c423767077b5397978275f33",
+    "current": "3b2627b70133646d6f94b2bc114ffe0c7bf42b56c423767077b5397978275f33"
   },
   "fonts": [
-    "dist/fonts/icono-arg_83450d8c48f30e4b031211885b6b09ef.ttf",
-    "dist/fonts/icono-arg_83450d8c48f30e4b031211885b6b09ef.svg",
-    "dist/fonts/icono-arg_83450d8c48f30e4b031211885b6b09ef.woff",
-    "dist/fonts/icono-arg_83450d8c48f30e4b031211885b6b09ef.eot",
-    "dist/fonts/icono-arg_83450d8c48f30e4b031211885b6b09ef.woff2"
+    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.ttf",
+    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.svg",
+    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.woff",
+    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.eot",
+    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2826,6 +2826,14 @@
     "tiktok": {
       "codepoint": 63012,
       "source": "src/_icons/tiktok.svg"
+    },
+    "tina": {
+      "codepoint": 63174,
+      "source": "src/_icons/tina.svg"
+    },
+    "tina-2": {
+      "codepoint": 63175,
+      "source": "src/_icons/tina-2.svg"
     },
     "tomate": {
       "codepoint": 62658,

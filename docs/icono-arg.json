@@ -3522,6 +3522,16 @@
       },
     
       {
+        "nombre": "tina",
+        "clase": "icono-arg-tina"
+      },
+    
+      {
+        "nombre": "tina-2",
+        "clase": "icono-arg-tina-2"
+      },
+    
+      {
         "nombre": "tomate",
         "clase": "icono-arg-tomate"
       },
