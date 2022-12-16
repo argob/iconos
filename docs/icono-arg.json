@@ -47,6 +47,11 @@
       },
     
       {
+        "nombre": "agencia-i-d-i",
+        "clase": "icono-arg-agencia-i-d-i"
+      },
+    
+      {
         "nombre": "agricultura",
         "clase": "icono-arg-agricultura"
       },
@@ -747,6 +752,11 @@
       },
     
       {
+        "nombre": "centro-investigacion",
+        "clase": "icono-arg-centro-investigacion"
+      },
+    
+      {
         "nombre": "cerdo",
         "clase": "icono-arg-cerdo"
       },
@@ -782,6 +792,11 @@
       },
     
       {
+        "nombre": "ciencia",
+        "clase": "icono-arg-ciencia"
+      },
+    
+      {
         "nombre": "ciencia-apoyo-economico",
         "clase": "icono-arg-ciencia-apoyo-economico"
       },
@@ -789,6 +804,11 @@
       {
         "nombre": "ciencia-publicacion",
         "clase": "icono-arg-ciencia-publicacion"
+      },
+    
+      {
+        "nombre": "ciencia-tecnologia",
+        "clase": "icono-arg-ciencia-tecnologia"
       },
     
       {
@@ -1459,6 +1479,11 @@
       {
         "nombre": "envio-terrestre-1",
         "clase": "icono-arg-envio-terrestre-1"
+      },
+    
+      {
+        "nombre": "equipo",
+        "clase": "icono-arg-equipo"
       },
     
       {
@@ -2787,6 +2812,16 @@
       },
     
       {
+        "nombre": "persona-1",
+        "clase": "icono-arg-persona-1"
+      },
+    
+      {
+        "nombre": "persona-2",
+        "clase": "icono-arg-persona-2"
+      },
+    
+      {
         "nombre": "pesca-con-red",
         "clase": "icono-arg-pesca-con-red"
       },
@@ -3382,6 +3417,11 @@
       },
     
       {
+        "nombre": "sudamerica",
+        "clase": "icono-arg-sudamerica"
+      },
+    
+      {
         "nombre": "surtidor",
         "clase": "icono-arg-surtidor"
       },
@@ -3429,6 +3469,11 @@
       {
         "nombre": "teatro-archivo",
         "clase": "icono-arg-teatro-archivo"
+      },
+    
+      {
+        "nombre": "tecnologia",
+        "clase": "icono-arg-tecnologia"
       },
     
       {

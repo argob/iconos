@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "3b2627b70133646d6f94b2bc114ffe0c7bf42b56c423767077b5397978275f33",
-    "current": "3b2627b70133646d6f94b2bc114ffe0c7bf42b56c423767077b5397978275f33"
+    "previous": "24cbed77f5c17d94c9d60c6a768d83db7bdd2421e3e4c86efbec46040076f05b",
+    "current": "24cbed77f5c17d94c9d60c6a768d83db7bdd2421e3e4c86efbec46040076f05b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.ttf",
-    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.svg",
-    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.woff",
-    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.eot",
-    "dist/fonts/icono-arg_3b2627b70133646d6f94b2bc114ffe0c.woff2"
+    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.ttf",
+    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.svg",
+    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.woff",
+    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.eot",
+    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -46,6 +46,10 @@
     "aeropuerto": {
       "codepoint": 62719,
       "source": "src/_icons/aeropuerto.svg"
+    },
+    "agencia-i-d-i": {
+      "codepoint": 63176,
+      "source": "src/_icons/agencia-i-d-i.svg"
     },
     "agricultura": {
       "codepoint": 62321,
@@ -607,6 +611,10 @@
       "codepoint": 63114,
       "source": "src/_icons/centro-de-generos-en-tecnologia.svg"
     },
+    "centro-investigacion": {
+      "codepoint": 63177,
+      "source": "src/_icons/centro-investigacion.svg"
+    },
     "cerdo": {
       "codepoint": 62709,
       "source": "src/_icons/cerdo.svg"
@@ -635,6 +643,10 @@
       "codepoint": 62942,
       "source": "src/_icons/ciclo-energia-nuclear.svg"
     },
+    "ciencia": {
+      "codepoint": 63178,
+      "source": "src/_icons/ciencia.svg"
+    },
     "ciencia-apoyo-economico": {
       "codepoint": 62347,
       "source": "src/_icons/ciencia-apoyo-economico.svg"
@@ -642,6 +654,10 @@
     "ciencia-publicacion": {
       "codepoint": 62348,
       "source": "src/_icons/ciencia-publicacion.svg"
+    },
+    "ciencia-tecnologia": {
+      "codepoint": 63179,
+      "source": "src/_icons/ciencia-tecnologia.svg"
     },
     "cine": {
       "codepoint": 62646,
@@ -1178,6 +1194,10 @@
     "envio-terrestre-1": {
       "codepoint": 62848,
       "source": "src/_icons/envio-terrestre-1.svg"
+    },
+    "equipo": {
+      "codepoint": 63180,
+      "source": "src/_icons/equipo.svg"
     },
     "erupciones-volcanicas": {
       "codepoint": 62546,
@@ -2239,6 +2259,14 @@
       "codepoint": 62654,
       "source": "src/_icons/pera.svg"
     },
+    "persona-1": {
+      "codepoint": 63181,
+      "source": "src/_icons/persona-1.svg"
+    },
+    "persona-2": {
+      "codepoint": 63182,
+      "source": "src/_icons/persona-2.svg"
+    },
     "pesca-con-red": {
       "codepoint": 62761,
       "source": "src/_icons/pesca-con-red.svg"
@@ -2715,6 +2743,10 @@
       "codepoint": 62938,
       "source": "src/_icons/submarino-02.svg"
     },
+    "sudamerica": {
+      "codepoint": 63183,
+      "source": "src/_icons/sudamerica.svg"
+    },
     "surtidor": {
       "codepoint": 62485,
       "source": "src/_icons/surtidor.svg"
@@ -2754,6 +2786,10 @@
     "teatro-archivo": {
       "codepoint": 62410,
       "source": "src/_icons/teatro-archivo.svg"
+    },
+    "tecnologia": {
+      "codepoint": 63184,
+      "source": "src/_icons/tecnologia.svg"
     },
     "tecnopolis": {
       "codepoint": 63112,
