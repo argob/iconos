@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "24cbed77f5c17d94c9d60c6a768d83db7bdd2421e3e4c86efbec46040076f05b",
-    "current": "24cbed77f5c17d94c9d60c6a768d83db7bdd2421e3e4c86efbec46040076f05b"
+    "previous": "b0190eeb58510adce261db75557e7d24b853126136b6f7a618f4cba05ede4725",
+    "current": "b0190eeb58510adce261db75557e7d24b853126136b6f7a618f4cba05ede4725"
   },
   "fonts": [
-    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.ttf",
-    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.svg",
-    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.woff",
-    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.eot",
-    "dist/fonts/icono-arg_24cbed77f5c17d94c9d60c6a768d83db.woff2"
+    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.ttf",
+    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.svg",
+    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.woff",
+    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.eot",
+    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2202,6 +2202,10 @@
     "paloma": {
       "codepoint": 62477,
       "source": "src/_icons/paloma.svg"
+    },
+    "panelsolar": {
+      "codepoint": 63185,
+      "source": "src/_icons/panelsolar.svg"
     },
     "pareja": {
       "codepoint": 62391,
