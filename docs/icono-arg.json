@@ -987,6 +987,11 @@
       },
     
       {
+        "nombre": "consulta-publica",
+        "clase": "icono-arg-consulta-publica"
+      },
+    
+      {
         "nombre": "consultar-puntos",
         "clase": "icono-arg-consultar-puntos"
       },
@@ -1814,6 +1819,11 @@
       {
         "nombre": "globo-terraqueo",
         "clase": "icono-arg-globo-terraqueo"
+      },
+    
+      {
+        "nombre": "gobierno-abierto",
+        "clase": "icono-arg-gobierno-abierto"
       },
     
       {

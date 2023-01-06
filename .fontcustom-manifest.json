@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "b0190eeb58510adce261db75557e7d24b853126136b6f7a618f4cba05ede4725",
-    "current": "b0190eeb58510adce261db75557e7d24b853126136b6f7a618f4cba05ede4725"
+    "previous": "79b0e729cadf3b5aeadaca4a0897b243a1c8a377f5cf46e7b671fc71f2aeb3da",
+    "current": "79b0e729cadf3b5aeadaca4a0897b243a1c8a377f5cf46e7b671fc71f2aeb3da"
   },
   "fonts": [
-    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.ttf",
-    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.svg",
-    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.woff",
-    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.eot",
-    "dist/fonts/icono-arg_b0190eeb58510adce261db75557e7d24.woff2"
+    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.ttf",
+    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.svg",
+    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.woff",
+    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.eot",
+    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -799,6 +799,10 @@
       "codepoint": 62351,
       "source": "src/_icons/consulta.svg"
     },
+    "consulta-publica": {
+      "codepoint": 63186,
+      "source": "src/_icons/consulta-publica.svg"
+    },
     "consultar-puntos": {
       "codepoint": 63165,
       "source": "src/_icons/consultar-puntos.svg"
@@ -1462,6 +1466,10 @@
     "globo-terraqueo": {
       "codepoint": 62504,
       "source": "src/_icons/globo-terraqueo.svg"
+    },
+    "gobierno-abierto": {
+      "codepoint": 63187,
+      "source": "src/_icons/gobierno-abierto.svg"
     },
     "graduada": {
       "codepoint": 62530,
