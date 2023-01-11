@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "79b0e729cadf3b5aeadaca4a0897b243a1c8a377f5cf46e7b671fc71f2aeb3da",
-    "current": "79b0e729cadf3b5aeadaca4a0897b243a1c8a377f5cf46e7b671fc71f2aeb3da"
+    "previous": "4932fd7a5d04d4712a386ceb3cc5b4ae5d536e04e7ffa1b247c9403d016074cf",
+    "current": "4932fd7a5d04d4712a386ceb3cc5b4ae5d536e04e7ffa1b247c9403d016074cf"
   },
   "fonts": [
-    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.ttf",
-    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.svg",
-    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.woff",
-    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.eot",
-    "dist/fonts/icono-arg_79b0e729cadf3b5aeadaca4a0897b243.woff2"
+    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.ttf",
+    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.svg",
+    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.woff",
+    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.eot",
+    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1954,6 +1954,10 @@
     "mi-argentina": {
       "codepoint": 62674,
       "source": "src/_icons/mi-argentina.svg"
+    },
+    "mi-pueblo-conectado": {
+      "codepoint": 63188,
+      "source": "src/_icons/mi-pueblo-conectado.svg"
     },
     "micro": {
       "codepoint": 62574,

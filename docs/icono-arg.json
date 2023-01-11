@@ -2432,6 +2432,11 @@
       },
     
       {
+        "nombre": "mi-pueblo-conectado",
+        "clase": "icono-arg-mi-pueblo-conectado"
+      },
+    
+      {
         "nombre": "micro",
         "clase": "icono-arg-micro"
       },
