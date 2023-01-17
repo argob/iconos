@@ -3272,6 +3272,11 @@
       },
     
       {
+        "nombre": "salud-donasur",
+        "clase": "icono-arg-salud-donasur"
+      },
+    
+      {
         "nombre": "salud-escudo",
         "clase": "icono-arg-salud-escudo"
       },
@@ -3279,6 +3284,11 @@
       {
         "nombre": "salud-gota-sangre",
         "clase": "icono-arg-salud-gota-sangre"
+      },
+    
+      {
+        "nombre": "salud-procurar",
+        "clase": "icono-arg-salud-procurar"
       },
     
       {

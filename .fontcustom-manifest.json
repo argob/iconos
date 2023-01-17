@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "4932fd7a5d04d4712a386ceb3cc5b4ae5d536e04e7ffa1b247c9403d016074cf",
-    "current": "4932fd7a5d04d4712a386ceb3cc5b4ae5d536e04e7ffa1b247c9403d016074cf"
+    "previous": "5a990ae6a05049175c77f70be468efd87cce9aca26b1b3ea3084220aee393445",
+    "current": "5a990ae6a05049175c77f70be468efd87cce9aca26b1b3ea3084220aee393445"
   },
   "fonts": [
-    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.ttf",
-    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.svg",
-    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.woff",
-    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.eot",
-    "dist/fonts/icono-arg_4932fd7a5d04d4712a386ceb3cc5b4ae.woff2"
+    "dist/fonts/icono-arg_5a990ae6a05049175c77f70be468efd8.ttf",
+    "dist/fonts/icono-arg_5a990ae6a05049175c77f70be468efd8.svg",
+    "dist/fonts/icono-arg_5a990ae6a05049175c77f70be468efd8.woff",
+    "dist/fonts/icono-arg_5a990ae6a05049175c77f70be468efd8.eot",
+    "dist/fonts/icono-arg_5a990ae6a05049175c77f70be468efd8.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -2627,6 +2627,10 @@
       "codepoint": 63164,
       "source": "src/_icons/salud-cigarrillo-no-fumar.svg"
     },
+    "salud-donasur": {
+      "codepoint": 63189,
+      "source": "src/_icons/salud-donasur.svg"
+    },
     "salud-escudo": {
       "codepoint": 62531,
       "source": "src/_icons/salud-escudo.svg"
@@ -2634,6 +2638,10 @@
     "salud-gota-sangre": {
       "codepoint": 63129,
       "source": "src/_icons/salud-gota-sangre.svg"
+    },
+    "salud-procurar": {
+      "codepoint": 63190,
+      "source": "src/_icons/salud-procurar.svg"
     },
     "salud-reproductiva-y-sexual": {
       "codepoint": 62402,
