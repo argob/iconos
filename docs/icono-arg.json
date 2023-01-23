@@ -567,6 +567,11 @@
       },
     
       {
+        "nombre": "calzado-deportivo",
+        "clase": "icono-arg-calzado-deportivo"
+      },
+    
+      {
         "nombre": "camara-vigilancia",
         "clase": "icono-arg-camara-vigilancia"
       },

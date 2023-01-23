@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8517fad26be5a5c9c79c5b0b1230613317d58f2913cb5c69dddf040ab8c0525b",
-    "current": "8517fad26be5a5c9c79c5b0b1230613317d58f2913cb5c69dddf040ab8c0525b"
+    "previous": "b439007cfa582ecbf40a27079551d1b07845a454fd09a00c67c7f21f07c5047b",
+    "current": "b439007cfa582ecbf40a27079551d1b07845a454fd09a00c67c7f21f07c5047b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8517fad26be5a5c9c79c5b0b12306133.ttf",
-    "dist/fonts/icono-arg_8517fad26be5a5c9c79c5b0b12306133.svg",
-    "dist/fonts/icono-arg_8517fad26be5a5c9c79c5b0b12306133.woff",
-    "dist/fonts/icono-arg_8517fad26be5a5c9c79c5b0b12306133.eot",
-    "dist/fonts/icono-arg_8517fad26be5a5c9c79c5b0b12306133.woff2"
+    "dist/fonts/icono-arg_b439007cfa582ecbf40a27079551d1b0.ttf",
+    "dist/fonts/icono-arg_b439007cfa582ecbf40a27079551d1b0.svg",
+    "dist/fonts/icono-arg_b439007cfa582ecbf40a27079551d1b0.woff",
+    "dist/fonts/icono-arg_b439007cfa582ecbf40a27079551d1b0.eot",
+    "dist/fonts/icono-arg_b439007cfa582ecbf40a27079551d1b0.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -462,6 +462,10 @@
     "calidad-cert": {
       "codepoint": 62342,
       "source": "src/_icons/calidad-cert.svg"
+    },
+    "calzado-deportivo": {
+      "codepoint": 63191,
+      "source": "src/_icons/calzado-deportivo.svg"
     },
     "camara-vigilancia": {
       "codepoint": 62840,
