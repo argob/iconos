@@ -1942,6 +1942,11 @@
       },
     
       {
+        "nombre": "hospital-bonaparte",
+        "clase": "icono-arg-hospital-bonaparte"
+      },
+    
+      {
         "nombre": "hosting",
         "clase": "icono-arg-hosting"
       },
