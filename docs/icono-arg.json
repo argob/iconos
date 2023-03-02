@@ -337,6 +337,11 @@
       },
     
       {
+        "nombre": "auto-B1",
+        "clase": "icono-arg-auto-B1"
+      },
+    
+      {
         "nombre": "auto-informe",
         "clase": "icono-arg-auto-informe"
       },
@@ -597,8 +602,33 @@
       },
     
       {
+        "nombre": "camion-01",
+        "clase": "icono-arg-camion-01"
+      },
+    
+      {
+        "nombre": "camion-02",
+        "clase": "icono-arg-camion-02"
+      },
+    
+      {
+        "nombre": "camion-C1",
+        "clase": "icono-arg-camion-C1"
+      },
+    
+      {
         "nombre": "camion-construccion",
         "clase": "icono-arg-camion-construccion"
+      },
+    
+      {
+        "nombre": "camion-sisterna",
+        "clase": "icono-arg-camion-sisterna"
+      },
+    
+      {
+        "nombre": "camioneta",
+        "clase": "icono-arg-camioneta"
       },
     
       {
@@ -674,6 +704,16 @@
       {
         "nombre": "casco-urbano",
         "clase": "icono-arg-casco-urbano"
+      },
+    
+      {
+        "nombre": "casilla-rodante-01",
+        "clase": "icono-arg-casilla-rodante-01"
+      },
+    
+      {
+        "nombre": "casilla-rodante-02",
+        "clase": "icono-arg-casilla-rodante-02"
       },
     
       {
@@ -894,6 +934,21 @@
       {
         "nombre": "colores-tipografia",
         "clase": "icono-arg-colores-tipografia"
+      },
+    
+      {
+        "nombre": "combi-01",
+        "clase": "icono-arg-combi-01"
+      },
+    
+      {
+        "nombre": "combi-02",
+        "clase": "icono-arg-combi-02"
+      },
+    
+      {
+        "nombre": "combi-03",
+        "clase": "icono-arg-combi-03"
       },
     
       {
@@ -1414,6 +1469,11 @@
       {
         "nombre": "embarcacion-pago",
         "clase": "icono-arg-embarcacion-pago"
+      },
+    
+      {
+        "nombre": "emergencia-D4",
+        "clase": "icono-arg-emergencia-D4"
       },
     
       {
@@ -2352,6 +2412,21 @@
       },
     
       {
+        "nombre": "maquinaria-E2",
+        "clase": "icono-arg-maquinaria-E2"
+      },
+    
+      {
+        "nombre": "maquinaria-G2",
+        "clase": "icono-arg-maquinaria-G2"
+      },
+    
+      {
+        "nombre": "maquinaria-G3",
+        "clase": "icono-arg-maquinaria-G3"
+      },
+    
+      {
         "nombre": "marcador-centro-de-salud-1",
         "clase": "icono-arg-marcador-centro-de-salud-1"
       },
@@ -2494,6 +2569,21 @@
       {
         "nombre": "mosquito",
         "clase": "icono-arg-mosquito"
+      },
+    
+      {
+        "nombre": "moto",
+        "clase": "icono-arg-moto"
+      },
+    
+      {
+        "nombre": "moto-A1-1",
+        "clase": "icono-arg-moto-A1-1"
+      },
+    
+      {
+        "nombre": "moto-A1-2",
+        "clase": "icono-arg-moto-A1-2"
       },
     
       {
@@ -3197,6 +3287,11 @@
       },
     
       {
+        "nombre": "remolque-E1",
+        "clase": "icono-arg-remolque-E1"
+      },
+    
+      {
         "nombre": "represa-hidroelectrica",
         "clase": "icono-arg-represa-hidroelectrica"
       },
@@ -3667,6 +3762,11 @@
       },
     
       {
+        "nombre": "tractor-G1",
+        "clase": "icono-arg-tractor-G1"
+      },
+    
+      {
         "nombre": "tramite",
         "clase": "icono-arg-tramite"
       },
@@ -3697,8 +3797,23 @@
       },
     
       {
+        "nombre": "transporte-D1",
+        "clase": "icono-arg-transporte-D1"
+      },
+    
+      {
+        "nombre": "transporte-D2",
+        "clase": "icono-arg-transporte-D2"
+      },
+    
+      {
         "nombre": "transporte-licencia",
         "clase": "icono-arg-transporte-licencia"
+      },
+    
+      {
+        "nombre": "transporte-pasajeros-D3",
+        "clase": "icono-arg-transporte-pasajeros-D3"
       },
     
       {
@@ -3719,6 +3834,16 @@
       {
         "nombre": "tren",
         "clase": "icono-arg-tren"
+      },
+    
+      {
+        "nombre": "triciclo-A2",
+        "clase": "icono-arg-triciclo-A2"
+      },
+    
+      {
+        "nombre": "triciclo-cabina-A3",
+        "clase": "icono-arg-triciclo-cabina-A3"
       },
     
       {

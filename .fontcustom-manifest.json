@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "a64ccb7d5891858d9a9991d5f0ce3b82946cd0b78bfc4f2bf411bc872f09e66a",
-    "current": "a64ccb7d5891858d9a9991d5f0ce3b82946cd0b78bfc4f2bf411bc872f09e66a"
+    "previous": "7a08a5389f6ce7fe0661d7c42c403f7c0f4e510206597a66fcb90f0addf6b97d",
+    "current": "7a08a5389f6ce7fe0661d7c42c403f7c0f4e510206597a66fcb90f0addf6b97d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a64ccb7d5891858d9a9991d5f0ce3b82.ttf",
-    "dist/fonts/icono-arg_a64ccb7d5891858d9a9991d5f0ce3b82.svg",
-    "dist/fonts/icono-arg_a64ccb7d5891858d9a9991d5f0ce3b82.woff",
-    "dist/fonts/icono-arg_a64ccb7d5891858d9a9991d5f0ce3b82.eot",
-    "dist/fonts/icono-arg_a64ccb7d5891858d9a9991d5f0ce3b82.woff2"
+    "dist/fonts/icono-arg_7a08a5389f6ce7fe0661d7c42c403f7c.ttf",
+    "dist/fonts/icono-arg_7a08a5389f6ce7fe0661d7c42c403f7c.svg",
+    "dist/fonts/icono-arg_7a08a5389f6ce7fe0661d7c42c403f7c.woff",
+    "dist/fonts/icono-arg_7a08a5389f6ce7fe0661d7c42c403f7c.eot",
+    "dist/fonts/icono-arg_7a08a5389f6ce7fe0661d7c42c403f7c.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -279,6 +279,10 @@
       "codepoint": 62333,
       "source": "src/_icons/auto.svg"
     },
+    "auto-B1": {
+      "codepoint": 63193,
+      "source": "src/_icons/auto-B1.svg"
+    },
     "auto-informe": {
       "codepoint": 62334,
       "source": "src/_icons/auto-informe.svg"
@@ -487,9 +491,29 @@
       "codepoint": 62645,
       "source": "src/_icons/caminar.svg"
     },
+    "camion-01": {
+      "codepoint": 63194,
+      "source": "src/_icons/camion-01.svg"
+    },
+    "camion-02": {
+      "codepoint": 63195,
+      "source": "src/_icons/camion-02.svg"
+    },
+    "camion-C1": {
+      "codepoint": 63196,
+      "source": "src/_icons/camion-C1.svg"
+    },
     "camion-construccion": {
       "codepoint": 62449,
       "source": "src/_icons/camion-construccion.svg"
+    },
+    "camion-sisterna": {
+      "codepoint": 63197,
+      "source": "src/_icons/camion-sisterna.svg"
+    },
+    "camioneta": {
+      "codepoint": 63198,
+      "source": "src/_icons/camioneta.svg"
     },
     "candado-abierto": {
       "codepoint": 62748,
@@ -550,6 +574,14 @@
     "casco-urbano": {
       "codepoint": 62482,
       "source": "src/_icons/casco-urbano.svg"
+    },
+    "casilla-rodante-01": {
+      "codepoint": 63199,
+      "source": "src/_icons/casilla-rodante-01.svg"
+    },
+    "casilla-rodante-02": {
+      "codepoint": 63200,
+      "source": "src/_icons/casilla-rodante-02.svg"
     },
     "cataratas": {
       "codepoint": 62888,
@@ -726,6 +758,18 @@
     "colores-tipografia": {
       "codepoint": 62955,
       "source": "src/_icons/colores-tipografia.svg"
+    },
+    "combi-01": {
+      "codepoint": 63201,
+      "source": "src/_icons/combi-01.svg"
+    },
+    "combi-02": {
+      "codepoint": 63202,
+      "source": "src/_icons/combi-02.svg"
+    },
+    "combi-03": {
+      "codepoint": 63203,
+      "source": "src/_icons/combi-03.svg"
     },
     "comercio": {
       "codepoint": 63016,
@@ -1142,6 +1186,10 @@
     "embarcacion-pago": {
       "codepoint": 62364,
       "source": "src/_icons/embarcacion-pago.svg"
+    },
+    "emergencia-D4": {
+      "codepoint": 63204,
+      "source": "src/_icons/emergencia-D4.svg"
     },
     "empleo-2": {
       "codepoint": 62527,
@@ -1891,6 +1939,18 @@
       "codepoint": 62715,
       "source": "src/_icons/maquina-agricola.svg"
     },
+    "maquinaria-E2": {
+      "codepoint": 63205,
+      "source": "src/_icons/maquinaria-E2.svg"
+    },
+    "maquinaria-G2": {
+      "codepoint": 63206,
+      "source": "src/_icons/maquinaria-G2.svg"
+    },
+    "maquinaria-G3": {
+      "codepoint": 63207,
+      "source": "src/_icons/maquinaria-G3.svg"
+    },
     "marcador-centro-de-salud-1": {
       "codepoint": 62509,
       "source": "src/_icons/marcador-centro-de-salud-1.svg"
@@ -2006,6 +2066,18 @@
     "mosquito": {
       "codepoint": 62785,
       "source": "src/_icons/mosquito.svg"
+    },
+    "moto": {
+      "codepoint": 63208,
+      "source": "src/_icons/moto.svg"
+    },
+    "moto-A1-1": {
+      "codepoint": 63209,
+      "source": "src/_icons/moto-A1-1.svg"
+    },
+    "moto-A1-2": {
+      "codepoint": 63210,
+      "source": "src/_icons/moto-A1-2.svg"
     },
     "motocicleta-lineal": {
       "codepoint": 62970,
@@ -2567,6 +2639,10 @@
       "codepoint": 62399,
       "source": "src/_icons/reloj.svg"
     },
+    "remolque-E1": {
+      "codepoint": 63211,
+      "source": "src/_icons/remolque-E1.svg"
+    },
     "represa-hidroelectrica": {
       "codepoint": 62520,
       "source": "src/_icons/represa-hidroelectrica.svg"
@@ -2943,6 +3019,10 @@
       "codepoint": 63013,
       "source": "src/_icons/trabajo-sostenible.svg"
     },
+    "tractor-G1": {
+      "codepoint": 63212,
+      "source": "src/_icons/tractor-G1.svg"
+    },
     "tramite": {
       "codepoint": 62579,
       "source": "src/_icons/tramite.svg"
@@ -2967,9 +3047,21 @@
       "codepoint": 62743,
       "source": "src/_icons/transplante-negativo.svg"
     },
+    "transporte-D1": {
+      "codepoint": 63213,
+      "source": "src/_icons/transporte-D1.svg"
+    },
+    "transporte-D2": {
+      "codepoint": 63214,
+      "source": "src/_icons/transporte-D2.svg"
+    },
     "transporte-licencia": {
       "codepoint": 62415,
       "source": "src/_icons/transporte-licencia.svg"
+    },
+    "transporte-pasajeros-D3": {
+      "codepoint": 63215,
+      "source": "src/_icons/transporte-pasajeros-D3.svg"
     },
     "transporte-publico-01": {
       "codepoint": 62907,
@@ -2986,6 +3078,14 @@
     "tren": {
       "codepoint": 63063,
       "source": "src/_icons/tren.svg"
+    },
+    "triciclo-A2": {
+      "codepoint": 63216,
+      "source": "src/_icons/triciclo-A2.svg"
+    },
+    "triciclo-cabina-A3": {
+      "codepoint": 63217,
+      "source": "src/_icons/triciclo-cabina-A3.svg"
     },
     "trigo": {
       "codepoint": 62523,
