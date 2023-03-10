@@ -2402,6 +2402,11 @@
       },
     
       {
+        "nombre": "mapa-lupa",
+        "clase": "icono-arg-mapa-lupa"
+      },
+    
+      {
         "nombre": "maps",
         "clase": "icono-arg-maps"
       },

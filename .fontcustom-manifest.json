@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "3333e2362b73e076060872b7f310d4ee340174219f3aa5eb5159dd0bdd5c302b",
-    "current": "3333e2362b73e076060872b7f310d4ee340174219f3aa5eb5159dd0bdd5c302b"
+    "previous": "b1cc23fec84b48263a64acdb60b65a15e8b4c04e5956ca29c165ddab499a43a3",
+    "current": "b1cc23fec84b48263a64acdb60b65a15e8b4c04e5956ca29c165ddab499a43a3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_3333e2362b73e076060872b7f310d4ee.ttf",
-    "dist/fonts/icono-arg_3333e2362b73e076060872b7f310d4ee.svg",
-    "dist/fonts/icono-arg_3333e2362b73e076060872b7f310d4ee.woff",
-    "dist/fonts/icono-arg_3333e2362b73e076060872b7f310d4ee.eot",
-    "dist/fonts/icono-arg_3333e2362b73e076060872b7f310d4ee.woff2"
+    "dist/fonts/icono-arg_b1cc23fec84b48263a64acdb60b65a15.ttf",
+    "dist/fonts/icono-arg_b1cc23fec84b48263a64acdb60b65a15.svg",
+    "dist/fonts/icono-arg_b1cc23fec84b48263a64acdb60b65a15.woff",
+    "dist/fonts/icono-arg_b1cc23fec84b48263a64acdb60b65a15.eot",
+    "dist/fonts/icono-arg_b1cc23fec84b48263a64acdb60b65a15.woff2"
   ],
   "glyphs": {
     "aaip": {
@@ -1930,6 +1930,10 @@
     "mapa-argentina": {
       "codepoint": 62631,
       "source": "src/_icons/mapa-argentina.svg"
+    },
+    "mapa-lupa": {
+      "codepoint": 63218,
+      "source": "src/_icons/mapa-lupa.svg"
     },
     "maps": {
       "codepoint": 63019,
