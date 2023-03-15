@@ -2,8 +2,8 @@
   "iconos": [
     
       {
-        "nombre": "ENI_Completo",
-        "clase": "icono-arg-ENI_Completo"
+        "nombre": "ENI-Completo",
+        "clase": "icono-arg-ENI-Completo"
       },
     
       {
@@ -12,8 +12,8 @@
       },
     
       {
-        "nombre": "PNC_Solo",
-        "clase": "icono-arg-PNC_Solo"
+        "nombre": "PNC-Solo",
+        "clase": "icono-arg-PNC-Solo"
       },
     
       {
@@ -37,8 +37,8 @@
       },
     
       {
-        "nombre": "acercar_lupa",
-        "clase": "icono-arg-acercar_lupa"
+        "nombre": "acercar-lupa",
+        "clase": "icono-arg-acercar-lupa"
       },
     
       {

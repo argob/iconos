@@ -1,27 +1,27 @@
 {
   "checksum": {
-    "previous": "141db90752c9c9686758e3dc027e2d9cad60467ef4337b5baca8613f5bb86d3e",
-    "current": "141db90752c9c9686758e3dc027e2d9cad60467ef4337b5baca8613f5bb86d3e"
+    "previous": "8721824dd06616088a62bb838b0accf1c938491ca7eaa377a0153b45e281ea25",
+    "current": "8721824dd06616088a62bb838b0accf1c938491ca7eaa377a0153b45e281ea25"
   },
   "fonts": [
-    "dist/fonts/icono-arg_141db90752c9c9686758e3dc027e2d9c.ttf",
-    "dist/fonts/icono-arg_141db90752c9c9686758e3dc027e2d9c.svg",
-    "dist/fonts/icono-arg_141db90752c9c9686758e3dc027e2d9c.woff",
-    "dist/fonts/icono-arg_141db90752c9c9686758e3dc027e2d9c.eot",
-    "dist/fonts/icono-arg_141db90752c9c9686758e3dc027e2d9c.woff2"
+    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.ttf",
+    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.svg",
+    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.woff",
+    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.eot",
+    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.woff2"
   ],
   "glyphs": {
-    "ENI_Completo": {
-      "codepoint": 63219,
-      "source": "src/_icons/ENI_Completo.svg"
+    "ENI-Completo": {
+      "codepoint": 63223,
+      "source": "src/_icons/ENI-Completo.svg"
     },
     "MAE": {
       "codepoint": 63220,
       "source": "src/_icons/MAE.svg"
     },
-    "PNC_Solo": {
-      "codepoint": 63221,
-      "source": "src/_icons/PNC_Solo.svg"
+    "PNC-Solo": {
+      "codepoint": 63224,
+      "source": "src/_icons/PNC-Solo.svg"
     },
     "aaip": {
       "codepoint": 62929,
@@ -39,9 +39,9 @@
       "codepoint": 63049,
       "source": "src/_icons/acceso-a-especialistas.svg"
     },
-    "acercar_lupa": {
-      "codepoint": 63222,
-      "source": "src/_icons/acercar_lupa.svg"
+    "acercar-lupa": {
+      "codepoint": 63225,
+      "source": "src/_icons/acercar-lupa.svg"
     },
     "achatar-curva": {
       "codepoint": 63018,
