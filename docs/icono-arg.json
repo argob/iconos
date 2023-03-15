@@ -2,6 +2,21 @@
   "iconos": [
     
       {
+        "nombre": "ENI_Completo",
+        "clase": "icono-arg-ENI_Completo"
+      },
+    
+      {
+        "nombre": "MAE",
+        "clase": "icono-arg-MAE"
+      },
+    
+      {
+        "nombre": "PNC_Solo",
+        "clase": "icono-arg-PNC_Solo"
+      },
+    
+      {
         "nombre": "aaip",
         "clase": "icono-arg-aaip"
       },
@@ -19,6 +34,11 @@
       {
         "nombre": "acceso-a-especialistas",
         "clase": "icono-arg-acceso-a-especialistas"
+      },
+    
+      {
+        "nombre": "acercar_lupa",
+        "clase": "icono-arg-acercar_lupa"
       },
     
       {
