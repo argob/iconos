@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8721824dd06616088a62bb838b0accf1c938491ca7eaa377a0153b45e281ea25",
-    "current": "8721824dd06616088a62bb838b0accf1c938491ca7eaa377a0153b45e281ea25"
+    "previous": "8d3b7d80590400f688baac30b1f5d672ba9e0b4a5654e45135b9afacb1a972cc",
+    "current": "8d3b7d80590400f688baac30b1f5d672ba9e0b4a5654e45135b9afacb1a972cc"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.ttf",
-    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.svg",
-    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.woff",
-    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.eot",
-    "dist/fonts/icono-arg_8721824dd06616088a62bb838b0accf1.woff2"
+    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.ttf",
+    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.svg",
+    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.woff",
+    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.eot",
+    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.woff2"
   ],
   "glyphs": {
     "ENI-Completo": {
@@ -18,6 +18,10 @@
     "MAE": {
       "codepoint": 63220,
       "source": "src/_icons/MAE.svg"
+    },
+    "ODS": {
+      "codepoint": 63226,
+      "source": "src/_icons/ODS.svg"
     },
     "PNC-Solo": {
       "codepoint": 63224,

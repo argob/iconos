@@ -12,6 +12,11 @@
       },
     
       {
+        "nombre": "ODS",
+        "clase": "icono-arg-ODS"
+      },
+    
+      {
         "nombre": "PNC-Solo",
         "clase": "icono-arg-PNC-Solo"
       },
