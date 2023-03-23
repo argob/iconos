@@ -2,26 +2,6 @@
   "iconos": [
     
       {
-        "nombre": "ENI-Completo",
-        "clase": "icono-arg-ENI-Completo"
-      },
-    
-      {
-        "nombre": "MAE",
-        "clase": "icono-arg-MAE"
-      },
-    
-      {
-        "nombre": "ODS",
-        "clase": "icono-arg-ODS"
-      },
-    
-      {
-        "nombre": "PNC-Solo",
-        "clase": "icono-arg-PNC-Solo"
-      },
-    
-      {
         "nombre": "aaip",
         "clase": "icono-arg-aaip"
       },
@@ -39,11 +19,6 @@
       {
         "nombre": "acceso-a-especialistas",
         "clase": "icono-arg-acceso-a-especialistas"
-      },
-    
-      {
-        "nombre": "acercar-lupa",
-        "clase": "icono-arg-acercar-lupa"
       },
     
       {
@@ -1637,6 +1612,11 @@
       },
     
       {
+        "nombre": "estrategia-nacional-integridad",
+        "clase": "icono-arg-estrategia-nacional-integridad"
+      },
+    
+      {
         "nombre": "etiqueta-eficiencia",
         "clase": "icono-arg-etiqueta-eficiencia"
       },
@@ -2422,6 +2402,11 @@
       },
     
       {
+        "nombre": "mapa-accion-estatal",
+        "clase": "icono-arg-mapa-accion-estatal"
+      },
+    
+      {
         "nombre": "mapa-argentina",
         "clase": "icono-arg-mapa-argentina"
       },
@@ -2792,6 +2777,11 @@
       },
     
       {
+        "nombre": "ods",
+        "clase": "icono-arg-ods"
+      },
+    
+      {
         "nombre": "ola-de-calor",
         "clase": "icono-arg-ola-de-calor"
       },
@@ -3022,6 +3012,11 @@
       },
     
       {
+        "nombre": "plataforma-acercar",
+        "clase": "icono-arg-plataforma-acercar"
+      },
+    
+      {
         "nombre": "plataforma-offshore",
         "clase": "icono-arg-plataforma-offshore"
       },
@@ -3049,6 +3044,11 @@
       {
         "nombre": "precioscuidados",
         "clase": "icono-arg-precioscuidados"
+      },
+    
+      {
+        "nombre": "premio-nacional-calidad",
+        "clase": "icono-arg-premio-nacional-calidad"
       },
     
       {

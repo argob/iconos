@@ -1,32 +1,16 @@
 {
   "checksum": {
-    "previous": "8d3b7d80590400f688baac30b1f5d672ba9e0b4a5654e45135b9afacb1a972cc",
-    "current": "8d3b7d80590400f688baac30b1f5d672ba9e0b4a5654e45135b9afacb1a972cc"
+    "previous": "168425d1ad25b995bcdd9508a4ee26166b767fc452ad078766f17a86982c5583",
+    "current": "168425d1ad25b995bcdd9508a4ee26166b767fc452ad078766f17a86982c5583"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.ttf",
-    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.svg",
-    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.woff",
-    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.eot",
-    "dist/fonts/icono-arg_8d3b7d80590400f688baac30b1f5d672.woff2"
+    "dist/fonts/icono-arg_168425d1ad25b995bcdd9508a4ee2616.ttf",
+    "dist/fonts/icono-arg_168425d1ad25b995bcdd9508a4ee2616.svg",
+    "dist/fonts/icono-arg_168425d1ad25b995bcdd9508a4ee2616.woff",
+    "dist/fonts/icono-arg_168425d1ad25b995bcdd9508a4ee2616.eot",
+    "dist/fonts/icono-arg_168425d1ad25b995bcdd9508a4ee2616.woff2"
   ],
   "glyphs": {
-    "ENI-Completo": {
-      "codepoint": 63223,
-      "source": "src/_icons/ENI-Completo.svg"
-    },
-    "MAE": {
-      "codepoint": 63220,
-      "source": "src/_icons/MAE.svg"
-    },
-    "ODS": {
-      "codepoint": 63226,
-      "source": "src/_icons/ODS.svg"
-    },
-    "PNC-Solo": {
-      "codepoint": 63224,
-      "source": "src/_icons/PNC-Solo.svg"
-    },
     "aaip": {
       "codepoint": 62929,
       "source": "src/_icons/aaip.svg"
@@ -42,10 +26,6 @@
     "acceso-a-especialistas": {
       "codepoint": 63049,
       "source": "src/_icons/acceso-a-especialistas.svg"
-    },
-    "acercar-lupa": {
-      "codepoint": 63225,
-      "source": "src/_icons/acercar-lupa.svg"
     },
     "achatar-curva": {
       "codepoint": 63018,
@@ -1319,6 +1299,10 @@
       "codepoint": 62501,
       "source": "src/_icons/estetoscopio.svg"
     },
+    "estrategia-nacional-integridad": {
+      "codepoint": 63227,
+      "source": "src/_icons/estrategia-nacional-integridad.svg"
+    },
     "etiqueta-eficiencia": {
       "codepoint": 62570,
       "source": "src/_icons/etiqueta-eficiencia.svg"
@@ -1947,6 +1931,10 @@
       "codepoint": 62820,
       "source": "src/_icons/mapa-2-negativo.svg"
     },
+    "mapa-accion-estatal": {
+      "codepoint": 63228,
+      "source": "src/_icons/mapa-accion-estatal.svg"
+    },
     "mapa-argentina": {
       "codepoint": 62631,
       "source": "src/_icons/mapa-argentina.svg"
@@ -2243,6 +2231,10 @@
       "codepoint": 62989,
       "source": "src/_icons/observatorio-de-politicas-de-genero.svg"
     },
+    "ods": {
+      "codepoint": 63229,
+      "source": "src/_icons/ods.svg"
+    },
     "ola-de-calor": {
       "codepoint": 62552,
       "source": "src/_icons/ola-de-calor.svg"
@@ -2427,6 +2419,10 @@
       "codepoint": 62956,
       "source": "src/_icons/plantillas.svg"
     },
+    "plataforma-acercar": {
+      "codepoint": 63230,
+      "source": "src/_icons/plataforma-acercar.svg"
+    },
     "plataforma-offshore": {
       "codepoint": 62797,
       "source": "src/_icons/plataforma-offshore.svg"
@@ -2450,6 +2446,10 @@
     "precioscuidados": {
       "codepoint": 63170,
       "source": "src/_icons/precioscuidados.svg"
+    },
+    "premio-nacional-calidad": {
+      "codepoint": 63231,
+      "source": "src/_icons/premio-nacional-calidad.svg"
     },
     "preservativo": {
       "codepoint": 62611,
