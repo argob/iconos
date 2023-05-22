@@ -3092,6 +3092,11 @@
       },
     
       {
+        "nombre": "programa-enviar",
+        "clase": "icono-arg-programa-enviar"
+      },
+    
+      {
         "nombre": "prohibido-celular",
         "clase": "icono-arg-prohibido-celular"
       },
