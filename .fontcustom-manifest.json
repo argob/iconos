@@ -1,20 +1,16 @@
 {
   "checksum": {
-    "previous": "f1772a22a0b9281be5560c1876961b16e87d8a4a87397e9617287e112d2e6dc7",
-    "current": "f1772a22a0b9281be5560c1876961b16e87d8a4a87397e9617287e112d2e6dc7"
+    "previous": "263df6704da7b8c1366037d77013010e01b072178425d275a9faf2524d0cc619",
+    "current": "263df6704da7b8c1366037d77013010e01b072178425d275a9faf2524d0cc619"
   },
   "fonts": [
-    "dist/fonts/icono-arg_f1772a22a0b9281be5560c1876961b16.ttf",
-    "dist/fonts/icono-arg_f1772a22a0b9281be5560c1876961b16.svg",
-    "dist/fonts/icono-arg_f1772a22a0b9281be5560c1876961b16.woff",
-    "dist/fonts/icono-arg_f1772a22a0b9281be5560c1876961b16.eot",
-    "dist/fonts/icono-arg_f1772a22a0b9281be5560c1876961b16.woff2"
+    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.ttf",
+    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.svg",
+    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.woff",
+    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.eot",
+    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.woff2"
   ],
   "glyphs": {
-    "aaip": {
-      "codepoint": 62929,
-      "source": "src/_icons/aaip.svg"
-    },
     "abeja": {
       "codepoint": 62708,
       "source": "src/_icons/abeja.svg"
@@ -834,6 +830,10 @@
     "consejo-economico-y-social": {
       "codepoint": 63059,
       "source": "src/_icons/consejo-economico-y-social.svg"
+    },
+    "consejo-federal-transparencia": {
+      "codepoint": 63233,
+      "source": "src/_icons/consejo-federal-transparencia.svg"
     },
     "consola-videojuego": {
       "codepoint": 63030,

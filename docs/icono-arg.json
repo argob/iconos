@@ -2,11 +2,6 @@
   "iconos": [
     
       {
-        "nombre": "aaip",
-        "clase": "icono-arg-aaip"
-      },
-    
-      {
         "nombre": "abeja",
         "clase": "icono-arg-abeja"
       },
@@ -1029,6 +1024,11 @@
       {
         "nombre": "consejo-economico-y-social",
         "clase": "icono-arg-consejo-economico-y-social"
+      },
+    
+      {
+        "nombre": "consejo-federal-transparencia",
+        "clase": "icono-arg-consejo-federal-transparencia"
       },
     
       {
