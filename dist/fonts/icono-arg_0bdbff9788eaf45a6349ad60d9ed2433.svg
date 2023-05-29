@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2023-5-24: Created with FontForge (http://fontforge.org)
+2023-5-29: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20201107 at Wed May 24 13:50:04 2023
+Created by FontForge 20201107 at Mon May 29 23:50:53 2023
  By 
 
 </metadata>
@@ -22,11 +22,15 @@ Created by FontForge 20201107 at Wed May 24 13:50:04 2023
     bbox="-0.636599 -59 508 444"
     underline-thickness="38.4"
     underline-position="-76.8"
-    unicode-range="U+0020-F701"
+    unicode-range="U+0020-F702"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
  />
+    <glyph glyph-name="aaip-logo" unicode="&#xf702;" horiz-adv-x="241" 
+d="M136 0h1c27 0 39 20 39 41v97v136v58c0 5 2 12 -6 13h-2c-27 0 -39 -21 -39 -42v-29v-136v-125c0 -5 -1 -12 7 -13zM105 384h-1c-27 0 -39 -20 -39 -41v-20v-43v50v-27v-33v-14v-178c0 -21 12 -41 39 -41h1c8 1 7 8 7 13v181v72v36v-88v72v48c0 5 1 12 -7 13zM201 38h1
+c27 0 39 21 39 42v19v93v36c0 5 2 12 -6 13h-2c-27 0 -39 -21 -39 -42v-7v-93v-48c0 -5 -1 -12 7 -13zM194 323v48c0 5 -1 12 7 13h1c27 0 39 -20 39 -41v-20v24v-17v-27v33v-27v-13c0 -21 -12 -41 -39 -41h-1c-8 1 -7 8 -7 13v44v58v-31zM40 318h-1c-27 0 -39 -20 -39 -41
+v-39v10v-57v24v-34v-14v-23c0 -21 12 -42 39 -42h1c8 1 7 8 7 13v42v-2v36v29v73v12c0 5 1 12 -7 13z" />
     <glyph glyph-name="abeja" unicode="&#xf4f4;" horiz-adv-x="403" 
 d="M129 172c2 -1 3 -3 3 -5v-1v-2c-2 -4 -6 -7 -10 -8h-1c-2 0 -3 -1 -5 -1c-3 0 -5 0 -7 1c-6 2 -11 9 -11 16c0 2 1 4 1 5c1 2 3 3 5 3h1c2 -1 4 -3 4 -5v-2c0 -1 -1 0 -1 -1c0 -3 2 -6 5 -7h3h3c2 1 2 2 3 3c1 2 3 4 6 4h1zM366 15c0 0 1 1 2 1c2 0 4 -2 5 -4v-1
 c0 -2 -1 -4 -3 -5c-8 -3 -16 -5 -25 -5h-1c-7 0 -15 2 -21 6c-9 6 -16 15 -18 26h-4c0 -3 -1 -6 -1 -9c0 -11 4 -22 9 -31c7 -10 18 -15 31 -16c3 0 5 -2 5 -5s-2 -5 -5 -5h-1v0c-16 1 -29 8 -38 20c-7 11 -11 24 -11 37c0 3 1 5 1 8h-5h-126c-64 0 -116 52 -116 116v9

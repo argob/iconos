@@ -1,16 +1,20 @@
 {
   "checksum": {
-    "previous": "263df6704da7b8c1366037d77013010e01b072178425d275a9faf2524d0cc619",
-    "current": "263df6704da7b8c1366037d77013010e01b072178425d275a9faf2524d0cc619"
+    "previous": "0bdbff9788eaf45a6349ad60d9ed24337f7b0f757f8c28a1c398aba361c8ce2a",
+    "current": "0bdbff9788eaf45a6349ad60d9ed24337f7b0f757f8c28a1c398aba361c8ce2a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.ttf",
-    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.svg",
-    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.woff",
-    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.eot",
-    "dist/fonts/icono-arg_263df6704da7b8c1366037d77013010e.woff2"
+    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.ttf",
+    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.svg",
+    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.woff",
+    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.eot",
+    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.woff2"
   ],
   "glyphs": {
+    "aaip-logo": {
+      "codepoint": 63234,
+      "source": "src/_icons/aaip-logo.svg"
+    },
     "abeja": {
       "codepoint": 62708,
       "source": "src/_icons/abeja.svg"

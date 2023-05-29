@@ -2,6 +2,11 @@
   "iconos": [
     
       {
+        "nombre": "aaip-logo",
+        "clase": "icono-arg-aaip-logo"
+      },
+    
+      {
         "nombre": "abeja",
         "clase": "icono-arg-abeja"
       },
