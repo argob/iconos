@@ -2527,6 +2527,11 @@
       },
     
       {
+        "nombre": "mercados-multiplicar",
+        "clase": "icono-arg-mercados-multiplicar"
+      },
+    
+      {
         "nombre": "messenger",
         "clase": "icono-arg-messenger"
       },

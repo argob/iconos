@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "0bdbff9788eaf45a6349ad60d9ed24337f7b0f757f8c28a1c398aba361c8ce2a",
-    "current": "0bdbff9788eaf45a6349ad60d9ed24337f7b0f757f8c28a1c398aba361c8ce2a"
+    "previous": "dc89c59c6fdd4f5fc5078d129417df3827e77342d4443e74946ec937ced374d8",
+    "current": "dc89c59c6fdd4f5fc5078d129417df3827e77342d4443e74946ec937ced374d8"
   },
   "fonts": [
-    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.ttf",
-    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.svg",
-    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.woff",
-    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.eot",
-    "dist/fonts/icono-arg_0bdbff9788eaf45a6349ad60d9ed2433.woff2"
+    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.ttf",
+    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.svg",
+    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.woff",
+    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.eot",
+    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -2030,6 +2030,10 @@
     "medula-osea": {
       "codepoint": 62774,
       "source": "src/_icons/medula-osea.svg"
+    },
+    "mercados-multiplicar": {
+      "codepoint": 63235,
+      "source": "src/_icons/mercados-multiplicar.svg"
     },
     "messenger": {
       "codepoint": 62928,
