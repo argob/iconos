@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "dc89c59c6fdd4f5fc5078d129417df3827e77342d4443e74946ec937ced374d8",
-    "current": "dc89c59c6fdd4f5fc5078d129417df3827e77342d4443e74946ec937ced374d8"
+    "previous": "604722dc0db410f12af802f3cb277860bae57146a9cc545bf27fdff39b057934",
+    "current": "604722dc0db410f12af802f3cb277860bae57146a9cc545bf27fdff39b057934"
   },
   "fonts": [
-    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.ttf",
-    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.svg",
-    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.woff",
-    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.eot",
-    "dist/fonts/icono-arg_dc89c59c6fdd4f5fc5078d129417df38.woff2"
+    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.ttf",
+    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.svg",
+    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.woff",
+    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.eot",
+    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -910,6 +910,10 @@
     "cruz-medicina-negativo": {
       "codepoint": 62812,
       "source": "src/_icons/cruz-medicina-negativo.svg"
+    },
+    "cuarto-oscuro-accesible": {
+      "codepoint": 63236,
+      "source": "src/_icons/cuarto-oscuro-accesible.svg"
     },
     "cud": {
       "codepoint": 62726,
@@ -1819,6 +1823,10 @@
       "codepoint": 62652,
       "source": "src/_icons/lechuga.svg"
     },
+    "lenguaje-senias": {
+      "codepoint": 63237,
+      "source": "src/_icons/lenguaje-senias.svg"
+    },
     "libre-de-gluten": {
       "codepoint": 62855,
       "source": "src/_icons/libre-de-gluten.svg"
@@ -2379,6 +2387,10 @@
       "codepoint": 62654,
       "source": "src/_icons/pera.svg"
     },
+    "perro-asistencia": {
+      "codepoint": 63238,
+      "source": "src/_icons/perro-asistencia.svg"
+    },
     "persona-1": {
       "codepoint": 63181,
       "source": "src/_icons/persona-1.svg"
@@ -2386,6 +2398,18 @@
     "persona-2": {
       "codepoint": 63182,
       "source": "src/_icons/persona-2.svg"
+    },
+    "persona-gestante": {
+      "codepoint": 63239,
+      "source": "src/_icons/persona-gestante.svg"
+    },
+    "persona-limitaciones-permanentes-transitorias": {
+      "codepoint": 63240,
+      "source": "src/_icons/persona-limitaciones-permanentes-transitorias.svg"
+    },
+    "persona-menor": {
+      "codepoint": 63241,
+      "source": "src/_icons/persona-menor.svg"
     },
     "pesca-con-red": {
       "codepoint": 62761,
@@ -2422,6 +2446,10 @@
     "planta-exotica-2": {
       "codepoint": 62599,
       "source": "src/_icons/planta-exotica-2.svg"
+    },
+    "plantilla-guia": {
+      "codepoint": 63242,
+      "source": "src/_icons/plantilla-guia.svg"
     },
     "plantillas": {
       "codepoint": 62956,
@@ -2466,6 +2494,10 @@
     "presupuesto": {
       "codepoint": 62835,
       "source": "src/_icons/presupuesto.svg"
+    },
+    "prioridad-voto": {
+      "codepoint": 63243,
+      "source": "src/_icons/prioridad-voto.svg"
     },
     "probeta": {
       "codepoint": 62676,
@@ -3298,6 +3330,10 @@
     "votar": {
       "codepoint": 63067,
       "source": "src/_icons/votar.svg"
+    },
+    "voto-asistido": {
+      "codepoint": 63244,
+      "source": "src/_icons/voto-asistido.svg"
     },
     "vuce": {
       "codepoint": 63172,

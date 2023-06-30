@@ -1127,6 +1127,11 @@
       },
     
       {
+        "nombre": "cuarto-oscuro-accesible",
+        "clase": "icono-arg-cuarto-oscuro-accesible"
+      },
+    
+      {
         "nombre": "cud",
         "clase": "icono-arg-cud"
       },
@@ -2262,6 +2267,11 @@
       },
     
       {
+        "nombre": "lenguaje-senias",
+        "clase": "icono-arg-lenguaje-senias"
+      },
+    
+      {
         "nombre": "libre-de-gluten",
         "clase": "icono-arg-libre-de-gluten"
       },
@@ -2962,6 +2972,11 @@
       },
     
       {
+        "nombre": "perro-asistencia",
+        "clase": "icono-arg-perro-asistencia"
+      },
+    
+      {
         "nombre": "persona-1",
         "clase": "icono-arg-persona-1"
       },
@@ -2969,6 +2984,21 @@
       {
         "nombre": "persona-2",
         "clase": "icono-arg-persona-2"
+      },
+    
+      {
+        "nombre": "persona-gestante",
+        "clase": "icono-arg-persona-gestante"
+      },
+    
+      {
+        "nombre": "persona-limitaciones-permanentes-transitorias",
+        "clase": "icono-arg-persona-limitaciones-permanentes-transitorias"
+      },
+    
+      {
+        "nombre": "persona-menor",
+        "clase": "icono-arg-persona-menor"
       },
     
       {
@@ -3014,6 +3044,11 @@
       {
         "nombre": "planta-exotica-2",
         "clase": "icono-arg-planta-exotica-2"
+      },
+    
+      {
+        "nombre": "plantilla-guia",
+        "clase": "icono-arg-plantilla-guia"
       },
     
       {
@@ -3069,6 +3104,11 @@
       {
         "nombre": "presupuesto",
         "clase": "icono-arg-presupuesto"
+      },
+    
+      {
+        "nombre": "prioridad-voto",
+        "clase": "icono-arg-prioridad-voto"
       },
     
       {
@@ -4109,6 +4149,11 @@
       {
         "nombre": "votar",
         "clase": "icono-arg-votar"
+      },
+    
+      {
+        "nombre": "voto-asistido",
+        "clase": "icono-arg-voto-asistido"
       },
     
       {
