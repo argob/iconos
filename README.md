@@ -41,7 +41,9 @@ gem install fontcustom
 bundle install
 
 # En Linux
-sudo apt-get install zlib1g-dev fontforge
+sudo apt-get install libjpeg-dev libtiff5-dev libpng-dev libfreetype6-dev libgif-dev libgtk-3-dev libxml2-dev libpango1.0-dev libcairo2-dev libspiro-dev python3-dev ninja-build cmake build-essential gettext
+sudo apt-get install zlib1g-dev
+git clone https://github.com/fontforge/fontforge.git fontforge && cd fontforge && mkdir build && cd build && cmake -GNinja .. && ninja && ninja install
 git clone https://github.com/bramstein/sfnt2woff-zopfli.git sfnt2woff-zopfli && cd sfnt2woff-zopfli && make && mv sfnt2woff-zopfli /usr/local/bin/sfnt2woff
 git clone --recursive https://github.com/google/woff2.git && cd woff2 && make clean all && sudo mv woff2_compress /usr/local/bin/ && sudo mv woff2_decompress /usr/local/bin/
 gem install fontcustom

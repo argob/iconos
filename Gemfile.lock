@@ -12,8 +12,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     ffi (1.15.5)
-    json (2.6.2)
-    listen (3.7.1)
+    json (2.6.3)
+    listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     rb-fsevent (0.11.2)
