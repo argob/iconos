@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "604722dc0db410f12af802f3cb277860bae57146a9cc545bf27fdff39b057934",
-    "current": "604722dc0db410f12af802f3cb277860bae57146a9cc545bf27fdff39b057934"
+    "previous": "a6cc69d556789499dda37d7617476d6b1abda6e054e6e542562ea4c09589f8bc",
+    "current": "a6cc69d556789499dda37d7617476d6b1abda6e054e6e542562ea4c09589f8bc"
   },
   "fonts": [
-    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.ttf",
-    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.svg",
-    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.woff",
-    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.eot",
-    "dist/fonts/icono-arg_604722dc0db410f12af802f3cb277860.woff2"
+    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.ttf",
+    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.svg",
+    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.woff",
+    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.eot",
+    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -1478,6 +1478,10 @@
     "gaseosa-prohibida": {
       "codepoint": 62650,
       "source": "src/_icons/gaseosa-prohibida.svg"
+    },
+    "gasoducto-NK": {
+      "codepoint": 63245,
+      "source": "src/_icons/gasoducto-NK.svg"
     },
     "gastos": {
       "codepoint": 62831,
