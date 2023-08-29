@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "9fcf775e5ee40d6fce2b48d6927ec4611033aa50a851d5397b2f1cf23aadd655",
-    "current": "9fcf775e5ee40d6fce2b48d6927ec4611033aa50a851d5397b2f1cf23aadd655"
+    "previous": "4fb1e732b191a5f632846c89b6a2e46dece65d87f8ac0b6c890959655cac9926",
+    "current": "4fb1e732b191a5f632846c89b6a2e46dece65d87f8ac0b6c890959655cac9926"
   },
   "fonts": [
-    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.ttf",
-    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.svg",
-    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.woff",
-    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.eot",
-    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.woff2"
+    "dist/fonts/icono-arg_4fb1e732b191a5f632846c89b6a2e46d.ttf",
+    "dist/fonts/icono-arg_4fb1e732b191a5f632846c89b6a2e46d.svg",
+    "dist/fonts/icono-arg_4fb1e732b191a5f632846c89b6a2e46d.woff",
+    "dist/fonts/icono-arg_4fb1e732b191a5f632846c89b6a2e46d.eot",
+    "dist/fonts/icono-arg_4fb1e732b191a5f632846c89b6a2e46d.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -1027,6 +1027,10 @@
       "codepoint": 62590,
       "source": "src/_icons/desierto.svg"
     },
+    "diagnostico-nuclear": {
+      "codepoint": 63248,
+      "source": "src/_icons/diagnostico-nuclear.svg"
+    },
     "dialogo": {
       "codepoint": 62357,
       "source": "src/_icons/dialogo.svg"
@@ -2039,6 +2043,10 @@
       "codepoint": 62550,
       "source": "src/_icons/medicina-2.svg"
     },
+    "medicina-nuclear": {
+      "codepoint": 63249,
+      "source": "src/_icons/medicina-nuclear.svg"
+    },
     "medico": {
       "codepoint": 62513,
       "source": "src/_icons/medico.svg"
@@ -2662,6 +2670,10 @@
     "radar-meteorologico": {
       "codepoint": 62857,
       "source": "src/_icons/radar-meteorologico.svg"
+    },
+    "radiocirugia": {
+      "codepoint": 63250,
+      "source": "src/_icons/radiocirugia.svg"
     },
     "radiofarmacia": {
       "codepoint": 62943,

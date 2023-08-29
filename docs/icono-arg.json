@@ -1272,6 +1272,11 @@
       },
     
       {
+        "nombre": "diagnostico-nuclear",
+        "clase": "icono-arg-diagnostico-nuclear"
+      },
+    
+      {
         "nombre": "dialogo",
         "clase": "icono-arg-dialogo"
       },
@@ -2537,6 +2542,11 @@
       },
     
       {
+        "nombre": "medicina-nuclear",
+        "clase": "icono-arg-medicina-nuclear"
+      },
+    
+      {
         "nombre": "medico",
         "clase": "icono-arg-medico"
       },
@@ -3314,6 +3324,11 @@
       {
         "nombre": "radar-meteorologico",
         "clase": "icono-arg-radar-meteorologico"
+      },
+    
+      {
+        "nombre": "radiocirugia",
+        "clase": "icono-arg-radiocirugia"
       },
     
       {
