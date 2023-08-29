@@ -1022,6 +1022,11 @@
       },
     
       {
+        "nombre": "conferencia",
+        "clase": "icono-arg-conferencia"
+      },
+    
+      {
         "nombre": "congreso",
         "clase": "icono-arg-congreso"
       },
@@ -2539,6 +2544,11 @@
       {
         "nombre": "medula-osea",
         "clase": "icono-arg-medula-osea"
+      },
+    
+      {
+        "nombre": "megafono",
+        "clase": "icono-arg-megafono"
       },
     
       {

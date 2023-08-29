@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "a6cc69d556789499dda37d7617476d6b1abda6e054e6e542562ea4c09589f8bc",
-    "current": "a6cc69d556789499dda37d7617476d6b1abda6e054e6e542562ea4c09589f8bc"
+    "previous": "9fcf775e5ee40d6fce2b48d6927ec4611033aa50a851d5397b2f1cf23aadd655",
+    "current": "9fcf775e5ee40d6fce2b48d6927ec4611033aa50a851d5397b2f1cf23aadd655"
   },
   "fonts": [
-    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.ttf",
-    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.svg",
-    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.woff",
-    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.eot",
-    "dist/fonts/icono-arg_a6cc69d556789499dda37d7617476d6b.woff2"
+    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.ttf",
+    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.svg",
+    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.woff",
+    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.eot",
+    "dist/fonts/icono-arg_9fcf775e5ee40d6fce2b48d6927ec461.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -826,6 +826,10 @@
     "conexion": {
       "codepoint": 62493,
       "source": "src/_icons/conexion.svg"
+    },
+    "conferencia": {
+      "codepoint": 63246,
+      "source": "src/_icons/conferencia.svg"
     },
     "congreso": {
       "codepoint": 63171,
@@ -2042,6 +2046,10 @@
     "medula-osea": {
       "codepoint": 62774,
       "source": "src/_icons/medula-osea.svg"
+    },
+    "megafono": {
+      "codepoint": 63247,
+      "source": "src/_icons/megafono.svg"
     },
     "mercados-multiplicar": {
       "codepoint": 63235,
