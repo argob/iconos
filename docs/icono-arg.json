@@ -2037,6 +2037,11 @@
       },
     
       {
+        "nombre": "hospital-bonaparte-centro-cultural",
+        "clase": "icono-arg-hospital-bonaparte-centro-cultural"
+      },
+    
+      {
         "nombre": "hosting",
         "clase": "icono-arg-hosting"
       },
