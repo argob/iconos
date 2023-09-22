@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "4d4d793e6b345b564954e7af1c27ac6d5c4145b944dbac0d5ce8a69216fd01fe",
-    "current": "4d4d793e6b345b564954e7af1c27ac6d5c4145b944dbac0d5ce8a69216fd01fe"
+    "previous": "70ba83a7ba55a07ce1cc3c0e999e01b97f37e916274554d3d582396a36bf6d5f",
+    "current": "70ba83a7ba55a07ce1cc3c0e999e01b97f37e916274554d3d582396a36bf6d5f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.ttf",
-    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.svg",
-    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.woff",
-    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.eot",
-    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.woff2"
+    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.ttf",
+    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.svg",
+    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.woff",
+    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.eot",
+    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -2069,7 +2069,7 @@
     },
     "mesa-nacional-de-evaluacion-de-politicas-publicas": {
       "codepoint": 63252,
-      "source": "src/_icons/mesa-nacional-de-evaluacion-de-politicas publicas.svg"
+      "source": "src/_icons/mesa-nacional-de-evaluacion-de-politicas-publicas.svg"
     },
     "mesa-nacional-de-integridad-y-transparencia": {
       "codepoint": 63253,
