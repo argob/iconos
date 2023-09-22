@@ -2572,6 +2572,16 @@
       },
     
       {
+        "nombre": "mesa-nacional-de-evaluacion-de-politicas-publicas",
+        "clase": "icono-arg-mesa-nacional-de-evaluacion-de-politicas-publicas"
+      },
+    
+      {
+        "nombre": "mesa-nacional-de-integridad-y-transparencia",
+        "clase": "icono-arg-mesa-nacional-de-integridad-y-transparencia"
+      },
+    
+      {
         "nombre": "messenger",
         "clase": "icono-arg-messenger"
       },

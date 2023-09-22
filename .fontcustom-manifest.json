@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "55ca14c9b8a051396574195f270630d6a535b61728b0d5c46d01307ee3406e7f",
-    "current": "55ca14c9b8a051396574195f270630d6a535b61728b0d5c46d01307ee3406e7f"
+    "previous": "4d4d793e6b345b564954e7af1c27ac6d5c4145b944dbac0d5ce8a69216fd01fe",
+    "current": "4d4d793e6b345b564954e7af1c27ac6d5c4145b944dbac0d5ce8a69216fd01fe"
   },
   "fonts": [
-    "dist/fonts/icono-arg_55ca14c9b8a051396574195f270630d6.ttf",
-    "dist/fonts/icono-arg_55ca14c9b8a051396574195f270630d6.svg",
-    "dist/fonts/icono-arg_55ca14c9b8a051396574195f270630d6.woff",
-    "dist/fonts/icono-arg_55ca14c9b8a051396574195f270630d6.eot",
-    "dist/fonts/icono-arg_55ca14c9b8a051396574195f270630d6.woff2"
+    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.ttf",
+    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.svg",
+    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.woff",
+    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.eot",
+    "dist/fonts/icono-arg_4d4d793e6b345b564954e7af1c27ac6d.woff2"
   ],
   "glyphs": {
     "aaip-logo": {
@@ -2066,6 +2066,14 @@
     "mercados-multiplicar": {
       "codepoint": 63235,
       "source": "src/_icons/mercados-multiplicar.svg"
+    },
+    "mesa-nacional-de-evaluacion-de-politicas-publicas": {
+      "codepoint": 63252,
+      "source": "src/_icons/mesa-nacional-de-evaluacion-de-politicas publicas.svg"
+    },
+    "mesa-nacional-de-integridad-y-transparencia": {
+      "codepoint": 63253,
+      "source": "src/_icons/mesa-nacional-de-integridad-y-transparencia.svg"
     },
     "messenger": {
       "codepoint": 62928,
