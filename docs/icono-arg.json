@@ -2,6 +2,16 @@
   "iconos": [
     
       {
+        "nombre": "2030-legado",
+        "clase": "icono-arg-2030-legado"
+      },
+    
+      {
+        "nombre": "2030-legado-negativo",
+        "clase": "icono-arg-2030-legado-negativo"
+      },
+    
+      {
         "nombre": "aaip-logo",
         "clase": "icono-arg-aaip-logo"
       },

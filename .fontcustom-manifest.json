@@ -1,16 +1,24 @@
 {
   "checksum": {
-    "previous": "70ba83a7ba55a07ce1cc3c0e999e01b97f37e916274554d3d582396a36bf6d5f",
-    "current": "70ba83a7ba55a07ce1cc3c0e999e01b97f37e916274554d3d582396a36bf6d5f"
+    "previous": "3e4feda6d647ecafe61fabca9e11342f960fe2f6377fb6c33df85549fb3a827d",
+    "current": "3e4feda6d647ecafe61fabca9e11342f960fe2f6377fb6c33df85549fb3a827d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.ttf",
-    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.svg",
-    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.woff",
-    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.eot",
-    "dist/fonts/icono-arg_70ba83a7ba55a07ce1cc3c0e999e01b9.woff2"
+    "dist/fonts/icono-arg_3e4feda6d647ecafe61fabca9e11342f.ttf",
+    "dist/fonts/icono-arg_3e4feda6d647ecafe61fabca9e11342f.svg",
+    "dist/fonts/icono-arg_3e4feda6d647ecafe61fabca9e11342f.woff",
+    "dist/fonts/icono-arg_3e4feda6d647ecafe61fabca9e11342f.eot",
+    "dist/fonts/icono-arg_3e4feda6d647ecafe61fabca9e11342f.woff2"
   ],
   "glyphs": {
+    "2030-legado": {
+      "codepoint": 63254,
+      "source": "src/_icons/2030-legado.svg"
+    },
+    "2030-legado-negativo": {
+      "codepoint": 63255,
+      "source": "src/_icons/2030-legado-negativo.svg"
+    },
     "aaip-logo": {
       "codepoint": 63234,
       "source": "src/_icons/aaip-logo.svg"
