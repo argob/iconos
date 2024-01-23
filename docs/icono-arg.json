@@ -2152,6 +2152,11 @@
       },
     
       {
+        "nombre": "inn-log",
+        "clase": "icono-arg-inn-log"
+      },
+    
+      {
         "nombre": "innovacion-tecnologica",
         "clase": "icono-arg-innovacion-tecnologica"
       },
@@ -2699,6 +2704,11 @@
       {
         "nombre": "museo",
         "clase": "icono-arg-museo"
+      },
+    
+      {
+        "nombre": "nanotecnologia",
+        "clase": "icono-arg-nanotecnologia"
       },
     
       {

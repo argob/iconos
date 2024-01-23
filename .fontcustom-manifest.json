@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "fd6a1a52f5e93dec626957a8c11f466e03cc0677e5e7e9f0f30b2825b93fb233",
-    "current": "fd6a1a52f5e93dec626957a8c11f466e03cc0677e5e7e9f0f30b2825b93fb233"
+    "previous": "1bfa8b5a79a991cdaf7c0312b8491b940d90a2d5fdba36172477c8fc4d35c313",
+    "current": "1bfa8b5a79a991cdaf7c0312b8491b940d90a2d5fdba36172477c8fc4d35c313"
   },
   "fonts": [
-    "dist/fonts/icono-arg_fd6a1a52f5e93dec626957a8c11f466e.ttf",
-    "dist/fonts/icono-arg_fd6a1a52f5e93dec626957a8c11f466e.svg",
-    "dist/fonts/icono-arg_fd6a1a52f5e93dec626957a8c11f466e.woff",
-    "dist/fonts/icono-arg_fd6a1a52f5e93dec626957a8c11f466e.eot",
-    "dist/fonts/icono-arg_fd6a1a52f5e93dec626957a8c11f466e.woff2"
+    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.ttf",
+    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.svg",
+    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.woff",
+    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.eot",
+    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1731,6 +1731,10 @@
       "codepoint": 62630,
       "source": "src/_icons/informes-y-estadisticas.svg"
     },
+    "inn-log": {
+      "codepoint": 63256,
+      "source": "src/_icons/inn-log.svg"
+    },
     "innovacion-tecnologica": {
       "codepoint": 63110,
       "source": "src/_icons/innovacion-tecnologica.svg"
@@ -2170,6 +2174,10 @@
     "museo": {
       "codepoint": 62387,
       "source": "src/_icons/museo.svg"
+    },
+    "nanotecnologia": {
+      "codepoint": 63257,
+      "source": "src/_icons/nanotecnologia.svg"
     },
     "natacion": {
       "codepoint": 62388,
