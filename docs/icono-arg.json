@@ -802,6 +802,11 @@
       },
     
       {
+        "nombre": "centro-cultural-de-la-ciencia",
+        "clase": "icono-arg-centro-cultural-de-la-ciencia"
+      },
+    
+      {
         "nombre": "centro-de-generos-en-tecnologia",
         "clase": "icono-arg-centro-de-generos-en-tecnologia"
       },

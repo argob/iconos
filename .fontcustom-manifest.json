@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "1bfa8b5a79a991cdaf7c0312b8491b940d90a2d5fdba36172477c8fc4d35c313",
-    "current": "1bfa8b5a79a991cdaf7c0312b8491b940d90a2d5fdba36172477c8fc4d35c313"
+    "previous": "9fd8913a0f55b524cf2c5287f865d42587826681a1d365f3b02d2445df612b95",
+    "current": "9fd8913a0f55b524cf2c5287f865d42587826681a1d365f3b02d2445df612b95"
   },
   "fonts": [
-    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.ttf",
-    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.svg",
-    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.woff",
-    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.eot",
-    "dist/fonts/icono-arg_1bfa8b5a79a991cdaf7c0312b8491b94.woff2"
+    "dist/fonts/icono-arg_9fd8913a0f55b524cf2c5287f865d425.ttf",
+    "dist/fonts/icono-arg_9fd8913a0f55b524cf2c5287f865d425.svg",
+    "dist/fonts/icono-arg_9fd8913a0f55b524cf2c5287f865d425.woff",
+    "dist/fonts/icono-arg_9fd8913a0f55b524cf2c5287f865d425.eot",
+    "dist/fonts/icono-arg_9fd8913a0f55b524cf2c5287f865d425.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -650,6 +650,10 @@
     "centro-atomico-neg": {
       "codepoint": 62685,
       "source": "src/_icons/centro-atomico-neg.svg"
+    },
+    "centro-cultural-de-la-ciencia": {
+      "codepoint": 63258,
+      "source": "src/_icons/centro-cultural-de-la-ciencia.svg"
     },
     "centro-de-generos-en-tecnologia": {
       "codepoint": 63114,
