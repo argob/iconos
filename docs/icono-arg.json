@@ -12,6 +12,11 @@
       },
     
       {
+        "nombre": "SINTyS",
+        "clase": "icono-arg-SINTyS"
+      },
+    
+      {
         "nombre": "aaip-logo",
         "clase": "icono-arg-aaip-logo"
       },
