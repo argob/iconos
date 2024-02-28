@@ -1182,6 +1182,11 @@
       },
     
       {
+        "nombre": "cuota-simple",
+        "clase": "icono-arg-cuota-simple"
+      },
+    
+      {
         "nombre": "curita",
         "clase": "icono-arg-curita"
       },

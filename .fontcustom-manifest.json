@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "706d0704efabce8740dd9156ffefa795bc3b486035f83449375801410cd5a7e5",
-    "current": "706d0704efabce8740dd9156ffefa795bc3b486035f83449375801410cd5a7e5"
+    "previous": "764c5f9cc6cab2657d681ac2fbbb17f7f2427faaedb93e6e861c5f1a40e28874",
+    "current": "764c5f9cc6cab2657d681ac2fbbb17f7f2427faaedb93e6e861c5f1a40e28874"
   },
   "fonts": [
-    "dist/fonts/icono-arg_706d0704efabce8740dd9156ffefa795.ttf",
-    "dist/fonts/icono-arg_706d0704efabce8740dd9156ffefa795.svg",
-    "dist/fonts/icono-arg_706d0704efabce8740dd9156ffefa795.woff",
-    "dist/fonts/icono-arg_706d0704efabce8740dd9156ffefa795.eot",
-    "dist/fonts/icono-arg_706d0704efabce8740dd9156ffefa795.woff2"
+    "dist/fonts/icono-arg_764c5f9cc6cab2657d681ac2fbbb17f7.ttf",
+    "dist/fonts/icono-arg_764c5f9cc6cab2657d681ac2fbbb17f7.svg",
+    "dist/fonts/icono-arg_764c5f9cc6cab2657d681ac2fbbb17f7.woff",
+    "dist/fonts/icono-arg_764c5f9cc6cab2657d681ac2fbbb17f7.eot",
+    "dist/fonts/icono-arg_764c5f9cc6cab2657d681ac2fbbb17f7.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -954,6 +954,10 @@
     "cultura-imp": {
       "codepoint": 62354,
       "source": "src/_icons/cultura-imp.svg"
+    },
+    "cuota-simple": {
+      "codepoint": 63261,
+      "source": "src/_icons/cuota-simple.svg"
     },
     "curita": {
       "codepoint": 62494,
