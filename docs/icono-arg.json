@@ -412,6 +412,11 @@
       },
     
       {
+        "nombre": "banda",
+        "clase": "icono-arg-banda"
+      },
+    
+      {
         "nombre": "bandera",
         "clase": "icono-arg-bandera"
       },
@@ -699,6 +704,11 @@
       {
         "nombre": "casa-negativo",
         "clase": "icono-arg-casa-negativo"
+      },
+    
+      {
+        "nombre": "casa-rosada",
+        "clase": "icono-arg-casa-rosada"
       },
     
       {
@@ -1737,6 +1747,11 @@
       },
     
       {
+        "nombre": "faro",
+        "clase": "icono-arg-faro"
+      },
+    
+      {
         "nombre": "fertilizacion-asistida",
         "clase": "icono-arg-fertilizacion-asistida"
       },
@@ -1892,6 +1907,11 @@
       },
     
       {
+        "nombre": "genero-obras-publicas1",
+        "clase": "icono-arg-genero-obras-publicas1"
+      },
+    
+      {
         "nombre": "genetica",
         "clase": "icono-arg-genetica"
       },
@@ -2019,6 +2039,11 @@
       {
         "nombre": "herramientas-colaborativas",
         "clase": "icono-arg-herramientas-colaborativas"
+      },
+    
+      {
+        "nombre": "herramientas-colaborativas1",
+        "clase": "icono-arg-herramientas-colaborativas1"
       },
     
       {
@@ -2667,6 +2692,11 @@
       },
     
       {
+        "nombre": "monumento",
+        "clase": "icono-arg-monumento"
+      },
+    
+      {
         "nombre": "mosquito",
         "clase": "icono-arg-mosquito"
       },
@@ -3212,6 +3242,11 @@
       },
     
       {
+        "nombre": "profesionales-y-empresas1",
+        "clase": "icono-arg-profesionales-y-empresas1"
+      },
+    
+      {
         "nombre": "programa-enviar",
         "clase": "icono-arg-programa-enviar"
       },
@@ -3694,6 +3729,11 @@
       {
         "nombre": "soluciones-habitacionales",
         "clase": "icono-arg-soluciones-habitacionales"
+      },
+    
+      {
+        "nombre": "spotify-circular",
+        "clase": "icono-arg-spotify-circular"
       },
     
       {
