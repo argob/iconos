@@ -3512,6 +3512,11 @@
       },
     
       {
+        "nombre": "rnc",
+        "clase": "icono-arg-rnc"
+      },
+    
+      {
         "nombre": "robotica",
         "clase": "icono-arg-robotica"
       },

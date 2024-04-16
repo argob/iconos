@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "91ec5e6b5ad5a112141d8fc02212e40e6375f75bd5ad99d373a26eb395de996c",
-    "current": "91ec5e6b5ad5a112141d8fc02212e40e6375f75bd5ad99d373a26eb395de996c"
+    "previous": "264161c9ee7b79d62564fc0507d1a3e8fed4e6c46c435e9dced5f6800d8c4579",
+    "current": "264161c9ee7b79d62564fc0507d1a3e8fed4e6c46c435e9dced5f6800d8c4579"
   },
   "fonts": [
-    "dist/fonts/icono-arg_91ec5e6b5ad5a112141d8fc02212e40e.ttf",
-    "dist/fonts/icono-arg_91ec5e6b5ad5a112141d8fc02212e40e.svg",
-    "dist/fonts/icono-arg_91ec5e6b5ad5a112141d8fc02212e40e.woff",
-    "dist/fonts/icono-arg_91ec5e6b5ad5a112141d8fc02212e40e.eot",
-    "dist/fonts/icono-arg_91ec5e6b5ad5a112141d8fc02212e40e.woff2"
+    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.ttf",
+    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.svg",
+    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.woff",
+    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.eot",
+    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -2818,6 +2818,10 @@
     "riego-produccion": {
       "codepoint": 62460,
       "source": "src/_icons/riego-produccion.svg"
+    },
+    "rnc": {
+      "codepoint": 63270,
+      "source": "src/_icons/rnc.svg"
     },
     "robotica": {
       "codepoint": 63075,
