@@ -1107,6 +1107,11 @@
       },
     
       {
+        "nombre": "copa-menstrual-lupa",
+        "clase": "icono-arg-copa-menstrual-lupa"
+      },
+    
+      {
         "nombre": "corazon",
         "clase": "icono-arg-corazon"
       },

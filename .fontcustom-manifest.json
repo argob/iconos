@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "264161c9ee7b79d62564fc0507d1a3e8fed4e6c46c435e9dced5f6800d8c4579",
-    "current": "264161c9ee7b79d62564fc0507d1a3e8fed4e6c46c435e9dced5f6800d8c4579"
+    "previous": "7e86d8d8c79355273bbf35ee69a082d7122770d539167a80916ae0bf9116c9dd",
+    "current": "7e86d8d8c79355273bbf35ee69a082d7122770d539167a80916ae0bf9116c9dd"
   },
   "fonts": [
-    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.ttf",
-    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.svg",
-    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.woff",
-    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.eot",
-    "dist/fonts/icono-arg_264161c9ee7b79d62564fc0507d1a3e8.woff2"
+    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.ttf",
+    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.svg",
+    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.woff",
+    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.eot",
+    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -894,6 +894,10 @@
     "copa-menstrual": {
       "codepoint": 63126,
       "source": "src/_icons/copa-menstrual.svg"
+    },
+    "copa-menstrual-lupa": {
+      "codepoint": 63271,
+      "source": "src/_icons/copa-menstrual-lupa.svg"
     },
     "corazon": {
       "codepoint": 62925,
