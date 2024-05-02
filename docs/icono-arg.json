@@ -632,13 +632,13 @@
       },
     
       {
-        "nombre": "camion-construccion",
-        "clase": "icono-arg-camion-construccion"
+        "nombre": "camion-cisterna",
+        "clase": "icono-arg-camion-cisterna"
       },
     
       {
-        "nombre": "camion-sisterna",
-        "clase": "icono-arg-camion-sisterna"
+        "nombre": "camion-construccion",
+        "clase": "icono-arg-camion-construccion"
       },
     
       {

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "7e86d8d8c79355273bbf35ee69a082d7122770d539167a80916ae0bf9116c9dd",
-    "current": "7e86d8d8c79355273bbf35ee69a082d7122770d539167a80916ae0bf9116c9dd"
+    "previous": "20c2fea31e5b7c0707888dda9e224b90af8964b764ffa4b1d0972f8d1d43621b",
+    "current": "20c2fea31e5b7c0707888dda9e224b90af8964b764ffa4b1d0972f8d1d43621b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.ttf",
-    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.svg",
-    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.woff",
-    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.eot",
-    "dist/fonts/icono-arg_7e86d8d8c79355273bbf35ee69a082d7.woff2"
+    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.ttf",
+    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.svg",
+    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.woff",
+    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.eot",
+    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -515,13 +515,13 @@
       "codepoint": 63196,
       "source": "src/_icons/camion-C1.svg"
     },
+    "camion-cisterna": {
+      "codepoint": 63272,
+      "source": "src/_icons/camion-cisterna.svg"
+    },
     "camion-construccion": {
       "codepoint": 62449,
       "source": "src/_icons/camion-construccion.svg"
-    },
-    "camion-sisterna": {
-      "codepoint": 63197,
-      "source": "src/_icons/camion-sisterna.svg"
     },
     "camioneta": {
       "codepoint": 63198,
