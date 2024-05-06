@@ -897,6 +897,111 @@
       },
     
       {
+        "nombre": "clima-algo-nublado-dia",
+        "clase": "icono-arg-clima-algo-nublado-dia"
+      },
+    
+      {
+        "nombre": "clima-algo-nublado-noche",
+        "clase": "icono-arg-clima-algo-nublado-noche"
+      },
+    
+      {
+        "nombre": "clima-chaparrones-dia",
+        "clase": "icono-arg-clima-chaparrones-dia"
+      },
+    
+      {
+        "nombre": "clima-chaparrones-noche",
+        "clase": "icono-arg-clima-chaparrones-noche"
+      },
+    
+      {
+        "nombre": "clima-despejado-dia",
+        "clase": "icono-arg-clima-despejado-dia"
+      },
+    
+      {
+        "nombre": "clima-despejado-noche",
+        "clase": "icono-arg-clima-despejado-noche"
+      },
+    
+      {
+        "nombre": "clima-ligeramante-nublado-dia",
+        "clase": "icono-arg-clima-ligeramante-nublado-dia"
+      },
+    
+      {
+        "nombre": "clima-ligeramante-nublado-noche",
+        "clase": "icono-arg-clima-ligeramante-nublado-noche"
+      },
+    
+      {
+        "nombre": "clima-ligeramente-nublado-dia",
+        "clase": "icono-arg-clima-ligeramente-nublado-dia"
+      },
+    
+      {
+        "nombre": "clima-ligeramente-nublado-noche",
+        "clase": "icono-arg-clima-ligeramente-nublado-noche"
+      },
+    
+      {
+        "nombre": "clima-lloviznas",
+        "clase": "icono-arg-clima-lloviznas"
+      },
+    
+      {
+        "nombre": "clima-lluvias-aisladas",
+        "clase": "icono-arg-clima-lluvias-aisladas"
+      },
+    
+      {
+        "nombre": "clima-lluvias-fuertes",
+        "clase": "icono-arg-clima-lluvias-fuertes"
+      },
+    
+      {
+        "nombre": "clima-lluvias-y-nevadas",
+        "clase": "icono-arg-clima-lluvias-y-nevadas"
+      },
+    
+      {
+        "nombre": "clima-mayormente-nublado-dia",
+        "clase": "icono-arg-clima-mayormente-nublado-dia"
+      },
+    
+      {
+        "nombre": "clima-mayormente-nublado-noche",
+        "clase": "icono-arg-clima-mayormente-nublado-noche"
+      },
+    
+      {
+        "nombre": "clima-neblina",
+        "clase": "icono-arg-clima-neblina"
+      },
+    
+      {
+        "nombre": "clima-nevadas",
+        "clase": "icono-arg-clima-nevadas"
+      },
+    
+      {
+        "nombre": "clima-nublado",
+        "clase": "icono-arg-clima-nublado"
+      },
+    
+      {
+        "nombre": "clima-tormentas",
+        "clase": "icono-arg-clima-tormentas"
+      },
+    
+      {
+        "nombre": "clima-tormentas-aisladas",
+        "clase": "icono-arg-clima-tormentas-aisladas"
+      },
+    
+      {
         "nombre": "cluse",
         "clase": "icono-arg-cluse"
       },

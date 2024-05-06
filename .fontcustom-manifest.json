@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "20c2fea31e5b7c0707888dda9e224b90af8964b764ffa4b1d0972f8d1d43621b",
-    "current": "20c2fea31e5b7c0707888dda9e224b90af8964b764ffa4b1d0972f8d1d43621b"
+    "previous": "e725e76b8eeef11bb33e17aa8c58e2b8d4bf8e015614343d9d6bd0e151e36f77",
+    "current": "e725e76b8eeef11bb33e17aa8c58e2b8d4bf8e015614343d9d6bd0e151e36f77"
   },
   "fonts": [
-    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.ttf",
-    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.svg",
-    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.woff",
-    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.eot",
-    "dist/fonts/icono-arg_20c2fea31e5b7c0707888dda9e224b90.woff2"
+    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.ttf",
+    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.svg",
+    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.woff",
+    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.eot",
+    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -726,6 +726,90 @@
     "cinturon-seguridad-negativo": {
       "codepoint": 62700,
       "source": "src/_icons/cinturon-seguridad-negativo.svg"
+    },
+    "clima-algo-nublado-dia": {
+      "codepoint": 63273,
+      "source": "src/_icons/clima-algo-nublado-dia.svg"
+    },
+    "clima-algo-nublado-noche": {
+      "codepoint": 63274,
+      "source": "src/_icons/clima-algo-nublado-noche.svg"
+    },
+    "clima-chaparrones-dia": {
+      "codepoint": 63275,
+      "source": "src/_icons/clima-chaparrones-dia.svg"
+    },
+    "clima-chaparrones-noche": {
+      "codepoint": 63276,
+      "source": "src/_icons/clima-chaparrones-noche.svg"
+    },
+    "clima-despejado-dia": {
+      "codepoint": 63277,
+      "source": "src/_icons/clima-despejado-dia.svg"
+    },
+    "clima-despejado-noche": {
+      "codepoint": 63278,
+      "source": "src/_icons/clima-despejado-noche.svg"
+    },
+    "clima-ligeramante-nublado-dia": {
+      "codepoint": 63279,
+      "source": "src/_icons/clima-ligeramante-nublado-dia.svg"
+    },
+    "clima-ligeramante-nublado-noche": {
+      "codepoint": 63280,
+      "source": "src/_icons/clima-ligeramante-nublado-noche.svg"
+    },
+    "clima-ligeramente-nublado-dia": {
+      "codepoint": 63281,
+      "source": "src/_icons/clima-ligeramente-nublado-dia.svg"
+    },
+    "clima-ligeramente-nublado-noche": {
+      "codepoint": 63282,
+      "source": "src/_icons/clima-ligeramente-nublado-noche.svg"
+    },
+    "clima-lloviznas": {
+      "codepoint": 63283,
+      "source": "src/_icons/clima-lloviznas.svg"
+    },
+    "clima-lluvias-aisladas": {
+      "codepoint": 63284,
+      "source": "src/_icons/clima-lluvias-aisladas.svg"
+    },
+    "clima-lluvias-fuertes": {
+      "codepoint": 63285,
+      "source": "src/_icons/clima-lluvias-fuertes.svg"
+    },
+    "clima-lluvias-y-nevadas": {
+      "codepoint": 63286,
+      "source": "src/_icons/clima-lluvias-y-nevadas.svg"
+    },
+    "clima-mayormente-nublado-dia": {
+      "codepoint": 63287,
+      "source": "src/_icons/clima-mayormente-nublado-dia.svg"
+    },
+    "clima-mayormente-nublado-noche": {
+      "codepoint": 63288,
+      "source": "src/_icons/clima-mayormente-nublado-noche.svg"
+    },
+    "clima-neblina": {
+      "codepoint": 63289,
+      "source": "src/_icons/clima-neblina.svg"
+    },
+    "clima-nevadas": {
+      "codepoint": 63290,
+      "source": "src/_icons/clima-nevadas.svg"
+    },
+    "clima-nublado": {
+      "codepoint": 63291,
+      "source": "src/_icons/clima-nublado.svg"
+    },
+    "clima-tormentas": {
+      "codepoint": 63292,
+      "source": "src/_icons/clima-tormentas.svg"
+    },
+    "clima-tormentas-aisladas": {
+      "codepoint": 63293,
+      "source": "src/_icons/clima-tormentas-aisladas.svg"
     },
     "cluse": {
       "codepoint": 62349,
