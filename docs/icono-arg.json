@@ -937,16 +937,6 @@
       },
     
       {
-        "nombre": "clima-ligeramente-nublado-dia",
-        "clase": "icono-arg-clima-ligeramente-nublado-dia"
-      },
-    
-      {
-        "nombre": "clima-ligeramente-nublado-noche",
-        "clase": "icono-arg-clima-ligeramente-nublado-noche"
-      },
-    
-      {
         "nombre": "clima-lloviznas",
         "clase": "icono-arg-clima-lloviznas"
       },
@@ -989,6 +979,16 @@
       {
         "nombre": "clima-nublado",
         "clase": "icono-arg-clima-nublado"
+      },
+    
+      {
+        "nombre": "clima-parcialmente-nublado-dia",
+        "clase": "icono-arg-clima-parcialmente-nublado-dia"
+      },
+    
+      {
+        "nombre": "clima-parcialmente-nublado-noche",
+        "clase": "icono-arg-clima-parcialmente-nublado-noche"
       },
     
       {

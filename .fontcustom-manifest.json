@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e725e76b8eeef11bb33e17aa8c58e2b8d4bf8e015614343d9d6bd0e151e36f77",
-    "current": "e725e76b8eeef11bb33e17aa8c58e2b8d4bf8e015614343d9d6bd0e151e36f77"
+    "previous": "b1ad8c86572ef81926a0c34dfdd8586d75ff2de9889ea82e64cee9c3af31714f",
+    "current": "b1ad8c86572ef81926a0c34dfdd8586d75ff2de9889ea82e64cee9c3af31714f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.ttf",
-    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.svg",
-    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.woff",
-    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.eot",
-    "dist/fonts/icono-arg_e725e76b8eeef11bb33e17aa8c58e2b8.woff2"
+    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.ttf",
+    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.svg",
+    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.woff",
+    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.eot",
+    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -759,14 +759,6 @@
       "codepoint": 63280,
       "source": "src/_icons/clima-ligeramante-nublado-noche.svg"
     },
-    "clima-ligeramente-nublado-dia": {
-      "codepoint": 63281,
-      "source": "src/_icons/clima-ligeramente-nublado-dia.svg"
-    },
-    "clima-ligeramente-nublado-noche": {
-      "codepoint": 63282,
-      "source": "src/_icons/clima-ligeramente-nublado-noche.svg"
-    },
     "clima-lloviznas": {
       "codepoint": 63283,
       "source": "src/_icons/clima-lloviznas.svg"
@@ -802,6 +794,14 @@
     "clima-nublado": {
       "codepoint": 63291,
       "source": "src/_icons/clima-nublado.svg"
+    },
+    "clima-parcialmente-nublado-dia": {
+      "codepoint": 63294,
+      "source": "src/_icons/clima-parcialmente-nublado-dia.svg"
+    },
+    "clima-parcialmente-nublado-noche": {
+      "codepoint": 63295,
+      "source": "src/_icons/clima-parcialmente-nublado-noche.svg"
     },
     "clima-tormentas": {
       "codepoint": 63292,
