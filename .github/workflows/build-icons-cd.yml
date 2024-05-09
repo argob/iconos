@@ -61,6 +61,14 @@ jobs:
           echo "Copying..."
           cp -R ./iconos/dist/css/icono-arg.css ./poncho/dist/css/
           cp -R ./iconos/docs/icono-arg.json ./poncho/dist/jsons/icono-arg.json
+      - name: 🧪 Push Iconos Arg.
+        working-directory: ./poncho
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -am "🧪 Deploy iconos-arg with ${GITHUB_WORKFLOW}"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/argob/poncho.git
 
 #      - name: Push Project B
 #        run: |
