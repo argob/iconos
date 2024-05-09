@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: 🛎 Check out master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.1.5
         with:
           fetch-depth: 1
           path: ./iconos
@@ -50,14 +50,17 @@ jobs:
           git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
       - name: Checkout Poncho
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.1.5
         with: 
           repository: argob/poncho
+          path: ./poncho
 
-      - name: Copy/Create file
+      - name: Copiamos archivos generados en el otro repo
         run: |
-          echo "Copying $FILE"
+          echo "Copying..."
           cp -R ./iconos/dist/css/icono-arg.css ./poncho/dist/css/
+          cp -R ./iconos/docs/icono-arg.json ./poncho/dist/jsons/icono-arg.json
+
 #      - name: Push Project B
 #        run: |
 #          cd ./poncho
