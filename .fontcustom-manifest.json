@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "b1ad8c86572ef81926a0c34dfdd8586d75ff2de9889ea82e64cee9c3af31714f",
-    "current": "b1ad8c86572ef81926a0c34dfdd8586d75ff2de9889ea82e64cee9c3af31714f"
+    "previous": "bde316c2dce12c22c4381cecfe2251604ec8cfa53a33b7da371089c0f3c6c54a",
+    "current": "bde316c2dce12c22c4381cecfe2251604ec8cfa53a33b7da371089c0f3c6c54a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.ttf",
-    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.svg",
-    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.woff",
-    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.eot",
-    "dist/fonts/icono-arg_b1ad8c86572ef81926a0c34dfdd8586d.woff2"
+    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.ttf",
+    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.svg",
+    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.woff",
+    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.eot",
+    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -791,6 +791,10 @@
       "codepoint": 63290,
       "source": "src/_icons/clima-nevadas.svg"
     },
+    "clima-nevadas-fuertes": {
+      "codepoint": 63296,
+      "source": "src/_icons/clima-nevadas-fuertes.svg"
+    },
     "clima-nublado": {
       "codepoint": 63291,
       "source": "src/_icons/clima-nublado.svg"
@@ -810,6 +814,18 @@
     "clima-tormentas-aisladas": {
       "codepoint": 63293,
       "source": "src/_icons/clima-tormentas-aisladas.svg"
+    },
+    "clima-tormentas-fuertes": {
+      "codepoint": 63297,
+      "source": "src/_icons/clima-tormentas-fuertes.svg"
+    },
+    "clima-ventisca": {
+      "codepoint": 63298,
+      "source": "src/_icons/clima-ventisca.svg"
+    },
+    "clima-ventoso": {
+      "codepoint": 63299,
+      "source": "src/_icons/clima-ventoso.svg"
     },
     "cluse": {
       "codepoint": 62349,
