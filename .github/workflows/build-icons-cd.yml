@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: 🛎 Check out master
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
         with:
           fetch-depth: 1
           path: ./iconos
@@ -50,10 +50,10 @@ jobs:
           git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
       - name: Checkout Poncho
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
         with: 
           repository: argob/poncho
-          path: ./poncho
+          token: ${{ secrets.DEPLOY_TOKEN }}
 
       - name: Copy/Create file
         run: |
