@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "bde316c2dce12c22c4381cecfe2251604ec8cfa53a33b7da371089c0f3c6c54a",
-    "current": "bde316c2dce12c22c4381cecfe2251604ec8cfa53a33b7da371089c0f3c6c54a"
+    "previous": "62584f1d69ebd710fc7e1ea3cfa4bcebb67a45951b85514ab35d54b03fd9bc8d",
+    "current": "62584f1d69ebd710fc7e1ea3cfa4bcebb67a45951b85514ab35d54b03fd9bc8d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.ttf",
-    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.svg",
-    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.woff",
-    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.eot",
-    "dist/fonts/icono-arg_bde316c2dce12c22c4381cecfe225160.woff2"
+    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.ttf",
+    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.svg",
+    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.woff",
+    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.eot",
+    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3146,6 +3146,10 @@
     "talleres-pais-digital": {
       "codepoint": 63161,
       "source": "src/_icons/talleres-pais-digital.svg"
+    },
+    "talleres-ti": {
+      "codepoint": 63300,
+      "source": "src/_icons/talleres-ti.svg"
     },
     "tambo": {
       "codepoint": 62718,
