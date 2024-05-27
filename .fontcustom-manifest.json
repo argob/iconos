@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "62584f1d69ebd710fc7e1ea3cfa4bcebb67a45951b85514ab35d54b03fd9bc8d",
-    "current": "62584f1d69ebd710fc7e1ea3cfa4bcebb67a45951b85514ab35d54b03fd9bc8d"
+    "previous": "70e8bfb2c3d7c3cc5747699ae0c928cce4f1ea1e53ead03627b77f898a60365b",
+    "current": "70e8bfb2c3d7c3cc5747699ae0c928cce4f1ea1e53ead03627b77f898a60365b"
   },
   "fonts": [
-    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.ttf",
-    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.svg",
-    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.woff",
-    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.eot",
-    "dist/fonts/icono-arg_62584f1d69ebd710fc7e1ea3cfa4bceb.woff2"
+    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.ttf",
+    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.svg",
+    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.woff",
+    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.eot",
+    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -238,6 +238,10 @@
     "areas-vacantes": {
       "codepoint": 62488,
       "source": "src/_icons/areas-vacantes.svg"
+    },
+    "argentina-emerge": {
+      "codepoint": 63301,
+      "source": "src/_icons/argentina-emerge.svg"
     },
     "arma-antigua": {
       "codepoint": 62745,
