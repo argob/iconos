@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "70e8bfb2c3d7c3cc5747699ae0c928cce4f1ea1e53ead03627b77f898a60365b",
-    "current": "70e8bfb2c3d7c3cc5747699ae0c928cce4f1ea1e53ead03627b77f898a60365b"
+    "previous": "52d8fbd21bb25c0930c8953234accc4355ae6c6688d8ec75ce6cfc839a3974e3",
+    "current": "52d8fbd21bb25c0930c8953234accc4355ae6c6688d8ec75ce6cfc839a3974e3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.ttf",
-    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.svg",
-    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.woff",
-    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.eot",
-    "dist/fonts/icono-arg_70e8bfb2c3d7c3cc5747699ae0c928cc.woff2"
+    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.ttf",
+    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.svg",
+    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.woff",
+    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.eot",
+    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3354,6 +3354,10 @@
     "transporte-publico-licencia": {
       "codepoint": 62416,
       "source": "src/_icons/transporte-publico-licencia.svg"
+    },
+    "trekking": {
+      "codepoint": 63302,
+      "source": "src/_icons/trekking.svg"
     },
     "tren": {
       "codepoint": 63063,
