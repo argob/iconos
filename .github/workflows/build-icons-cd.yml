@@ -47,7 +47,7 @@ jobs:
         working-directory: ./iconos
         run: |
           rbenv local 3.1.6
-          gem install bundler
+          sudo gem install bundler
           ruby --version
           gem --version
           bundle --version
