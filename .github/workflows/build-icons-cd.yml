@@ -41,8 +41,11 @@ jobs:
       - name: 🎩 Instalamos Fontcustom 
         working-directory: ./iconos
         run: |
+          echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+          exec $SHELL
+          rbenv global 3.1.6
           sudo gem install bundler fontcustom
-          bundle install
+          sudo bundle install
       - name: 🧹 Clean site
         run: |
           if [ -d "docs" ]; then
