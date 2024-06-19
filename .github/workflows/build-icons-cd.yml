@@ -54,10 +54,7 @@ jobs:
           echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
           exec $SHELL
           rbenv global 3.1.6
-          sudo gem install bundler
-          ruby --version
-          gem --version
-          bundle --version
+          gem install bundler
           bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
         working-directory: ./iconos
