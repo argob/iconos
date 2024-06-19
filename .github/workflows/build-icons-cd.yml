@@ -63,6 +63,7 @@ jobs:
         working-directory: ./iconos
         run: |
           cp favicon.ico ./docs/.
+          cp src/_ilus dist/
       - name: 🧪 Deploy build
         working-directory: ./iconos
         run: |
