@@ -51,7 +51,6 @@ jobs:
       - name: 🎩 Compilamos los íconos
         working-directory: ./iconos
         run: |
-          rbenv local 3.1.6
           sudo gem install bundler
           ruby --version
           gem --version
