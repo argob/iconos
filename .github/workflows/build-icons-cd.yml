@@ -41,8 +41,8 @@ jobs:
       - name: 🎩 Instalamos Fontcustom 
         working-directory: ./iconos
         run: |
-          sudo gem install bundler fontcustom
-          sudo bundle install
+          gem install bundler fontcustom
+          bundle install
       - name: 🧹 Clean site
         run: |
           if [ -d "docs" ]; then
