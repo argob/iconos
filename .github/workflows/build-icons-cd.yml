@@ -45,7 +45,13 @@ jobs:
           fi
       - name: 🎩 Compilamos los íconos
         working-directory: ./iconos
-        run: bundle exec fontcustom compile -F
+        run: |
+          rbenv local 3.1.6
+          gem install bundler
+          ruby --version
+          gem --version
+          bundle --version
+          bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
         working-directory: ./iconos
         run: |
