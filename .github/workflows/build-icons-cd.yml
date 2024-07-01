@@ -65,7 +65,7 @@ jobs:
         run: |
           cp favicon.ico ./docs/.
           mkdir -p dist/ilustraciones
-          cp -r src/_ilus/* dist/ilustraciones/.
+          cp -r src/_ilustraciones/* dist/ilustraciones/.
       - name: Descargamos la metadata y generamos el JSON
         working-directory: ./docs
         run: |
