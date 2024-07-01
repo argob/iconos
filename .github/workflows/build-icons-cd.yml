@@ -67,12 +67,12 @@ jobs:
           mkdir -p dist/ilustraciones
           cp -r src/_ilustraciones/* dist/ilustraciones/.
       - name: Descargamos la metadata y generamos el JSON
-        working-directory: ./docs
+        working-directory: ./iconos
         run: |
           echo 'Descargamos de Google Sheets el JSON con la metadata'
-          wget -O ilus-google.json https://sheets.googleapis.com/v4/spreadsheets/13CLjNqMQlUXj849XYL_nGDaAkE90OOFT3mXL-Iag9xM/values/ilustraciones?alt=json&key=AIzaSyC4jEmhDrBl3bgEi6VEO4Ek5fl7vfHrQcQ
-          cat ilus-google.json | jq -r '.values as $vals |[ $vals[0] as $keys | $vals[1:][] | [ $keys, . ] | transpose | map({ (.[0]): .[1] }) | add ]' > ilus-arg.json
-          rm ilus-google.json
+          wget -O ./docs/ilus-google.json https://sheets.googleapis.com/v4/spreadsheets/13CLjNqMQlUXj849XYL_nGDaAkE90OOFT3mXL-Iag9xM/values/ilustraciones?alt=json&key=AIzaSyC4jEmhDrBl3bgEi6VEO4Ek5fl7vfHrQcQ
+          cat ./docs/ilus-google.json | jq -r '.values as $vals |[ $vals[0] as $keys | $vals[1:][] | [ $keys, . ] | transpose | map({ (.[0]): .[1] }) | add ]' > ./docs/ilus-arg.json
+          rm ./docs/ilus-google.json
       - name: 🧪 Deploy build
         working-directory: ./iconos
         run: |
