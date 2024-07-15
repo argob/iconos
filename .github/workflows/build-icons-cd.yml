@@ -60,7 +60,7 @@ jobs:
         run: |
           echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
           exec $SHELL
-          pwd
+          exec pwd
           rbenv global 3.1.6
           sudo gem install bundler
           sudo bundle exec fontcustom compile -F
