@@ -63,7 +63,7 @@ jobs:
           echo $SHELL
           exec $SHELL
           rbenv global 3.1.6
-          rbenv version
+          rbenv version | echo $1
           sudo gem install bundler
           sudo bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
