@@ -11,16 +11,21 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
-      - uses: actions/checkout@v4
+      - name: 🛎 Check out Iconos masters
+        uses: actions/checkout@v4
         with:
            fetch-depth: 1
            path: ./iconos
            ref: master
+#      - name: 🎩 Instalamos dependencias Ruby 3.1
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-      - run: bundle install
-      - run: bundle exec rake
+           ruby-version: '3.1' # Not needed with a .ruby-version file
+      - name: Install dependencies
+        run: bundle install
+      - name: Run tests
+        run: bundle exec rake
       - name: 🎩 Instalamos dependencias
         working-directory: /tmp
         run: |
