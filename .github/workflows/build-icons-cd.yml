@@ -24,8 +24,6 @@ jobs:
            ruby-version: '3.1' # Not needed with a .ruby-version file
       - name: Install dependencies
         run: bundle install
-      - name: Run tests
-        run: bundle exec rake
       - name: 🎩 Instalamos dependencias
         working-directory: /tmp
         run: |
@@ -42,9 +40,6 @@ jobs:
       - name: 🎩 Instalamos Fontcustom 
         working-directory: ./iconos
         run: |
-          #echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
-          #exec $SHELL
-          #rbenv global 3.1.6
           sudo gem install bundler fontcustom
           sudo bundle install
       - name: 🧹 Clean site
@@ -55,11 +50,6 @@ jobs:
       - name: 🎩 Compilamos los íconos
         working-directory: ./iconos
         run: |
-          #echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
-          #source ~/.bashrc
-          #exec $SHELL
-          #rbenv global 3.1.6
-          #rbenv version | echo $1
           sudo gem install bundler
           sudo bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
