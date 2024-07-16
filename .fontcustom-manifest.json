@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "52d8fbd21bb25c0930c8953234accc4355ae6c6688d8ec75ce6cfc839a3974e3",
-    "current": "52d8fbd21bb25c0930c8953234accc4355ae6c6688d8ec75ce6cfc839a3974e3"
+    "previous": "aafb4053b61275b05a9a4812f52853f22f5b506709a1cda97dfe759df74bb703",
+    "current": "aafb4053b61275b05a9a4812f52853f22f5b506709a1cda97dfe759df74bb703"
   },
   "fonts": [
-    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.ttf",
-    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.svg",
-    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.woff",
-    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.eot",
-    "dist/fonts/icono-arg_52d8fbd21bb25c0930c8953234accc43.woff2"
+    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.ttf",
+    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.svg",
+    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.woff",
+    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.eot",
+    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -395,6 +395,10 @@
       "codepoint": 62885,
       "source": "src/_icons/billetera-negativo.svg"
     },
+    "bio-tecno": {
+      "codepoint": 63303,
+      "source": "src/_icons/bio-tecno.svg"
+    },
     "bolsa-compras": {
       "codepoint": 62644,
       "source": "src/_icons/bolsa-compras.svg"
@@ -695,6 +699,10 @@
       "codepoint": 62345,
       "source": "src/_icons/chequeado.svg"
     },
+    "chip-ia": {
+      "codepoint": 63304,
+      "source": "src/_icons/chip-ia.svg"
+    },
     "chupete": {
       "codepoint": 62346,
       "source": "src/_icons/chupete.svg"
@@ -755,6 +763,10 @@
       "codepoint": 63278,
       "source": "src/_icons/clima-despejado-noche.svg"
     },
+    "clima-humo": {
+      "codepoint": 63305,
+      "source": "src/_icons/clima-humo.svg"
+    },
     "clima-ligeramante-nublado-dia": {
       "codepoint": 63279,
       "source": "src/_icons/clima-ligeramante-nublado-dia.svg"
@@ -766,6 +778,10 @@
     "clima-lloviznas": {
       "codepoint": 63283,
       "source": "src/_icons/clima-lloviznas.svg"
+    },
+    "clima-lluvia": {
+      "codepoint": 63306,
+      "source": "src/_icons/clima-lluvia.svg"
     },
     "clima-lluvias-aisladas": {
       "codepoint": 63284,
@@ -791,6 +807,10 @@
       "codepoint": 63289,
       "source": "src/_icons/clima-neblina.svg"
     },
+    "clima-neblina-baja": {
+      "codepoint": 63307,
+      "source": "src/_icons/clima-neblina-baja.svg"
+    },
     "clima-nevadas": {
       "codepoint": 63290,
       "source": "src/_icons/clima-nevadas.svg"
@@ -811,6 +831,10 @@
       "codepoint": 63295,
       "source": "src/_icons/clima-parcialmente-nublado-noche.svg"
     },
+    "clima-polvo": {
+      "codepoint": 63308,
+      "source": "src/_icons/clima-polvo.svg"
+    },
     "clima-tormentas": {
       "codepoint": 63292,
       "source": "src/_icons/clima-tormentas.svg"
@@ -826,6 +850,14 @@
     "clima-ventisca": {
       "codepoint": 63298,
       "source": "src/_icons/clima-ventisca.svg"
+    },
+    "clima-ventisca-alta": {
+      "codepoint": 63309,
+      "source": "src/_icons/clima-ventisca-alta.svg"
+    },
+    "clima-ventisca-baja": {
+      "codepoint": 63310,
+      "source": "src/_icons/clima-ventisca-baja.svg"
     },
     "clima-ventoso": {
       "codepoint": 63299,
@@ -1818,6 +1850,10 @@
     "importaciones": {
       "codepoint": 63169,
       "source": "src/_icons/importaciones.svg"
+    },
+    "inap-futuro": {
+      "codepoint": 63311,
+      "source": "src/_icons/inap-futuro.svg"
     },
     "incendios-forestales": {
       "codepoint": 62548,
@@ -3246,6 +3282,10 @@
     "terremoto": {
       "codepoint": 62554,
       "source": "src/_icons/terremoto.svg"
+    },
+    "tiempo": {
+      "codepoint": 63312,
+      "source": "src/_icons/tiempo.svg"
     },
     "tiktok": {
       "codepoint": 63012,
