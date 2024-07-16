@@ -34,11 +34,11 @@ jobs:
           git clone https://github.com/fontforge/fontforge.git fontforge && cd fontforge && mkdir build && cd build && sudo cmake -GNinja .. && sudo ninja && sudo ninja install
           cd ../../
           git clone https://github.com/bramstein/sfnt2woff-zopfli.git sfnt2woff-zopfli && cd sfnt2woff-zopfli && make && sudo mv sfnt2woff-zopfli /usr/local/bin/sfnt2woff
-          cd ../../
+          cd ../
           git clone --recursive https://github.com/google/woff2.git && cd woff2 && make clean all && sudo mv woff2_compress /usr/local/bin/ && sudo mv woff2_decompress /usr/local/bin/
           sudo apt install jq 
       - name: 🎩 Instalamos Fontcustom 
-        working-directory: ./iconos
+        working-directory: iconos
         run: |
           sudo gem install bundler fontcustom
           sudo bundle install
