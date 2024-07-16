@@ -50,8 +50,8 @@ jobs:
       - name: 🎩 Compilamos los íconos
 #        working-directory: ./iconos
         run: |
-          sudo gem install bundler
-          sudo bundle exec fontcustom compile -F
+          gem install bundler
+          bundle exec fontcustom compile -F
       - name: 🔨 Instalamos dependencias para la documentación
 #        working-directory: ./iconos
         run: |
