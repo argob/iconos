@@ -11,27 +11,19 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
-      - name: 🛎 Check out master
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 1
-          path: ./iconos
-          ref: master
+           fetch-depth: 1
+           path: ./iconos
+           ref: master
+      - uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
+        with:
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+      - run: bundle install
+      - run: bundle exec rake
       - name: 🎩 Instalamos dependencias
         working-directory: /tmp
         run: |
-          echo "Configuramos la versión necesaria de Ruby (3.1.x)."
-          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
-          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-          exec $SHELL
-          sudo apt remove ruby-build
-          git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
-          git -C "$(rbenv root)"/plugins/ruby-build pull
-          echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
-          exec $SHELL
-          rbenv install 3.1.6
-          rbenv global 3.1.6
           echo "Instalamos mas dependencias."
           sudo apt install libjpeg-dev libtiff5-dev libpng-dev libfreetype6-dev libgif-dev libgtk-3-dev libxml2-dev libpango1.0-dev libcairo2-dev libspiro-dev python3-dev ninja-build cmake build-essential gettext
           sudo apt install zlib1g-dev
@@ -87,7 +79,7 @@ jobs:
           git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
       - name: Checkout Poncho
-        uses: actions/checkout@v4.1.5
+        uses: actions/checkout@v4
         with: 
           repository: argob/poncho
           ref: 'release-1.x'
