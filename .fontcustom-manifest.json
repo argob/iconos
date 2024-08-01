@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "aafb4053b61275b05a9a4812f52853f22f5b506709a1cda97dfe759df74bb703",
-    "current": "aafb4053b61275b05a9a4812f52853f22f5b506709a1cda97dfe759df74bb703"
+    "previous": "e4d2410e1c8d43ed08903fcb0294071154b5e3f40af108a2df18ad0a939d7daa",
+    "current": "e4d2410e1c8d43ed08903fcb0294071154b5e3f40af108a2df18ad0a939d7daa"
   },
   "fonts": [
-    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.ttf",
-    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.svg",
-    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.woff",
-    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.eot",
-    "dist/fonts/icono-arg_aafb4053b61275b05a9a4812f52853f2.woff2"
+    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.ttf",
+    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.svg",
+    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.woff",
+    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.eot",
+    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3298,6 +3298,10 @@
     "tina-2": {
       "codepoint": 63175,
       "source": "src/_icons/tina-2.svg"
+    },
+    "titulo-universitario": {
+      "codepoint": 63313,
+      "source": "src/_icons/titulo-universitario.svg"
     },
     "tomate": {
       "codepoint": 62658,
