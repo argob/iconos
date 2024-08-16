@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e4d2410e1c8d43ed08903fcb0294071154b5e3f40af108a2df18ad0a939d7daa",
-    "current": "e4d2410e1c8d43ed08903fcb0294071154b5e3f40af108a2df18ad0a939d7daa"
+    "previous": "8b44cfe292679fcfdb57e66eac39747901f150313e08ab34bb88b1271f743298",
+    "current": "8b44cfe292679fcfdb57e66eac39747901f150313e08ab34bb88b1271f743298"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.ttf",
-    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.svg",
-    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.woff",
-    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.eot",
-    "dist/fonts/icono-arg_e4d2410e1c8d43ed08903fcb02940711.woff2"
+    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.ttf",
+    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.svg",
+    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.woff",
+    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.eot",
+    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1483,6 +1483,10 @@
       "codepoint": 63227,
       "source": "src/_icons/estrategia-nacional-integridad.svg"
     },
+    "estudiante": {
+      "codepoint": 63314,
+      "source": "src/_icons/estudiante.svg"
+    },
     "etiqueta-eficiencia": {
       "codepoint": 62570,
       "source": "src/_icons/etiqueta-eficiencia.svg"
@@ -2518,6 +2522,10 @@
     "operativo-sanitario-2": {
       "codepoint": 62613,
       "source": "src/_icons/operativo-sanitario-2.svg"
+    },
+    "orquesta": {
+      "codepoint": 63315,
+      "source": "src/_icons/orquesta.svg"
     },
     "pago": {
       "codepoint": 62390,
