@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8b44cfe292679fcfdb57e66eac39747901f150313e08ab34bb88b1271f743298",
-    "current": "8b44cfe292679fcfdb57e66eac39747901f150313e08ab34bb88b1271f743298"
+    "previous": "ddbd4e4ec14197871875bcd586e59ecdedeeb95960c90a6aad1dd79a5596d76d",
+    "current": "ddbd4e4ec14197871875bcd586e59ecdedeeb95960c90a6aad1dd79a5596d76d"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.ttf",
-    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.svg",
-    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.woff",
-    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.eot",
-    "dist/fonts/icono-arg_8b44cfe292679fcfdb57e66eac397479.woff2"
+    "dist/fonts/icono-arg_ddbd4e4ec14197871875bcd586e59ecd.ttf",
+    "dist/fonts/icono-arg_ddbd4e4ec14197871875bcd586e59ecd.svg",
+    "dist/fonts/icono-arg_ddbd4e4ec14197871875bcd586e59ecd.woff",
+    "dist/fonts/icono-arg_ddbd4e4ec14197871875bcd586e59ecd.eot",
+    "dist/fonts/icono-arg_ddbd4e4ec14197871875bcd586e59ecd.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -2770,6 +2770,10 @@
     "promocion-comercial": {
       "codepoint": 62632,
       "source": "src/_icons/promocion-comercial.svg"
+    },
+    "proteccion-a-la-poblacion": {
+      "codepoint": 63316,
+      "source": "src/_icons/proteccion-a-la-poblacion.svg"
     },
     "provincia-buenosaires": {
       "codepoint": 63137,
