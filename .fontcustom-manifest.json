@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "05e0a49aecd00f1b434343a19367255cd7706e8db9232f95a250feadf9f79b07",
-    "current": "05e0a49aecd00f1b434343a19367255cd7706e8db9232f95a250feadf9f79b07"
+    "previous": "c461e462c351916c8240bdd90042d26cde70ace8740ea266678c75ec38584efa",
+    "current": "c461e462c351916c8240bdd90042d26cde70ace8740ea266678c75ec38584efa"
   },
   "fonts": [
-    "dist/fonts/icono-arg_05e0a49aecd00f1b434343a19367255c.ttf",
-    "dist/fonts/icono-arg_05e0a49aecd00f1b434343a19367255c.svg",
-    "dist/fonts/icono-arg_05e0a49aecd00f1b434343a19367255c.woff",
-    "dist/fonts/icono-arg_05e0a49aecd00f1b434343a19367255c.eot",
-    "dist/fonts/icono-arg_05e0a49aecd00f1b434343a19367255c.woff2"
+    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.ttf",
+    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.svg",
+    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.woff",
+    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.eot",
+    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -58,6 +58,10 @@
     "agencia-i-d-i": {
       "codepoint": 63176,
       "source": "src/_icons/agencia-i-d-i.svg"
+    },
+    "agenda-deportiva": {
+      "codepoint": 63318,
+      "source": "src/_icons/agenda-deportiva.svg"
     },
     "agricultura": {
       "codepoint": 62321,
@@ -275,6 +279,10 @@
       "codepoint": 62914,
       "source": "src/_icons/asistencia-humanitaria.svg"
     },
+    "astroturismo": {
+      "codepoint": 63319,
+      "source": "src/_icons/astroturismo.svg"
+    },
     "audicion-accesible": {
       "codepoint": 63025,
       "source": "src/_icons/audicion-accesible.svg"
@@ -326,6 +334,10 @@
     "avion-negativo": {
       "codepoint": 62614,
       "source": "src/_icons/avion-negativo.svg"
+    },
+    "avistamiento": {
+      "codepoint": 63320,
+      "source": "src/_icons/avistamiento.svg"
     },
     "azafata": {
       "codepoint": 62720,
@@ -535,6 +547,10 @@
       "codepoint": 63198,
       "source": "src/_icons/camioneta.svg"
     },
+    "campamento": {
+      "codepoint": 63321,
+      "source": "src/_icons/campamento.svg"
+    },
     "candado-abierto": {
       "codepoint": 62748,
       "source": "src/_icons/candado-abierto.svg"
@@ -582,6 +598,10 @@
     "casa-negativo": {
       "codepoint": 62806,
       "source": "src/_icons/casa-negativo.svg"
+    },
+    "casa-rodante": {
+      "codepoint": 63322,
+      "source": "src/_icons/casa-rodante.svg"
     },
     "casa-rosada": {
       "codepoint": 63263,
@@ -706,6 +726,10 @@
     "chupete": {
       "codepoint": 62346,
       "source": "src/_icons/chupete.svg"
+    },
+    "ciclismo-rural": {
+      "codepoint": 63323,
+      "source": "src/_icons/ciclismo-rural.svg"
     },
     "ciclo-energia-nuclear": {
       "codepoint": 62942,
@@ -930,6 +954,10 @@
     "comercio": {
       "codepoint": 63016,
       "source": "src/_icons/comercio.svg"
+    },
+    "comida": {
+      "codepoint": 63324,
+      "source": "src/_icons/comida.svg"
     },
     "comisiones-cofefup-analisis": {
       "codepoint": 62983,
@@ -1495,6 +1523,14 @@
       "codepoint": 63116,
       "source": "src/_icons/etiquetado.svg"
     },
+    "excursiones-adultos": {
+      "codepoint": 63325,
+      "source": "src/_icons/excursiones-adultos.svg"
+    },
+    "excursiones-infantiles": {
+      "codepoint": 63326,
+      "source": "src/_icons/excursiones-infantiles.svg"
+    },
     "exporta-facil": {
       "codepoint": 62627,
       "source": "src/_icons/exporta-facil.svg"
@@ -1714,6 +1750,10 @@
     "glaciar-2": {
       "codepoint": 62891,
       "source": "src/_icons/glaciar-2.svg"
+    },
+    "glamping": {
+      "codepoint": 63327,
+      "source": "src/_icons/glamping.svg"
     },
     "globo-terraqueo": {
       "codepoint": 62504,
@@ -1978,6 +2018,10 @@
     "justicia-negativo": {
       "codepoint": 62639,
       "source": "src/_icons/justicia-negativo.svg"
+    },
+    "kayak": {
+      "codepoint": 63328,
+      "source": "src/_icons/kayak.svg"
     },
     "lactancia": {
       "codepoint": 62795,
@@ -2643,6 +2687,10 @@
       "codepoint": 63241,
       "source": "src/_icons/persona-menor.svg"
     },
+    "pesca": {
+      "codepoint": 63329,
+      "source": "src/_icons/pesca.svg"
+    },
     "pesca-con-red": {
       "codepoint": 62761,
       "source": "src/_icons/pesca-con-red.svg"
@@ -2710,6 +2758,10 @@
     "poligono-de-tiro": {
       "codepoint": 62764,
       "source": "src/_icons/poligono-de-tiro.svg"
+    },
+    "poncho": {
+      "codepoint": 63330,
+      "source": "src/_icons/poncho.svg"
     },
     "portal-educativo": {
       "codepoint": 62694,
@@ -2939,6 +2991,10 @@
       "codepoint": 62859,
       "source": "src/_icons/recursos-origen.svg"
     },
+    "refugio": {
+      "codepoint": 63331,
+      "source": "src/_icons/refugio.svg"
+    },
     "registro-donantes-medula-osea": {
       "codepoint": 62776,
       "source": "src/_icons/registro-donantes-medula-osea.svg"
@@ -3094,6 +3150,18 @@
     "semaforo": {
       "codepoint": 62423,
       "source": "src/_icons/semaforo.svg"
+    },
+    "senderismo": {
+      "codepoint": 63332,
+      "source": "src/_icons/senderismo.svg"
+    },
+    "senderismo-dificil": {
+      "codepoint": 63333,
+      "source": "src/_icons/senderismo-dificil.svg"
+    },
+    "senderismo-facil": {
+      "codepoint": 63334,
+      "source": "src/_icons/senderismo-facil.svg"
     },
     "serpiente": {
       "codepoint": 62601,
@@ -3586,6 +3654,10 @@
     "visa-negocios": {
       "codepoint": 62418,
       "source": "src/_icons/visa-negocios.svg"
+    },
+    "vivero": {
+      "codepoint": 63335,
+      "source": "src/_icons/vivero.svg"
     },
     "vivienda": {
       "codepoint": 62419,
