@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "c461e462c351916c8240bdd90042d26cde70ace8740ea266678c75ec38584efa",
-    "current": "c461e462c351916c8240bdd90042d26cde70ace8740ea266678c75ec38584efa"
+    "previous": "81303a500173c68a9b7842424edb73a04adf1b75e8170f072105899439ca3913",
+    "current": "81303a500173c68a9b7842424edb73a04adf1b75e8170f072105899439ca3913"
   },
   "fonts": [
-    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.ttf",
-    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.svg",
-    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.woff",
-    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.eot",
-    "dist/fonts/icono-arg_c461e462c351916c8240bdd90042d26c.woff2"
+    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.ttf",
+    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.svg",
+    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.woff",
+    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.eot",
+    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1602,6 +1602,10 @@
     "fiestas-argentinas": {
       "codepoint": 63094,
       "source": "src/_icons/fiestas-argentinas.svg"
+    },
+    "fiestas-nacionales": {
+      "codepoint": 63336,
+      "source": "src/_icons/fiestas-nacionales.svg"
     },
     "financiamiento": {
       "codepoint": 62628,
