@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "81303a500173c68a9b7842424edb73a04adf1b75e8170f072105899439ca3913",
-    "current": "81303a500173c68a9b7842424edb73a04adf1b75e8170f072105899439ca3913"
+    "previous": "702a023d3e55f10e12e2b65fee1378e37bbbb9e8427e7198306256325aa94de4",
+    "current": "702a023d3e55f10e12e2b65fee1378e37bbbb9e8427e7198306256325aa94de4"
   },
   "fonts": [
-    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.ttf",
-    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.svg",
-    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.woff",
-    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.eot",
-    "dist/fonts/icono-arg_81303a500173c68a9b7842424edb73a0.woff2"
+    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.ttf",
+    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.svg",
+    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.woff",
+    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.eot",
+    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1215,6 +1215,10 @@
       "codepoint": 62526,
       "source": "src/_icons/desarrollo.svg"
     },
+    "descarga": {
+      "codepoint": 63337,
+      "source": "src/_icons/descarga.svg"
+    },
     "desierto": {
       "codepoint": 62590,
       "source": "src/_icons/desierto.svg"
@@ -1950,6 +1954,10 @@
     "informes-y-estadisticas": {
       "codepoint": 62630,
       "source": "src/_icons/informes-y-estadisticas.svg"
+    },
+    "ingenieria-sismica": {
+      "codepoint": 63338,
+      "source": "src/_icons/ingenieria-sismica.svg"
     },
     "inn-log": {
       "codepoint": 63256,
@@ -2787,6 +2795,10 @@
       "codepoint": 62835,
       "source": "src/_icons/presupuesto.svg"
     },
+    "prevencion-sismica": {
+      "codepoint": 63339,
+      "source": "src/_icons/prevencion-sismica.svg"
+    },
     "prioridad-voto": {
       "codepoint": 63243,
       "source": "src/_icons/prioridad-voto.svg"
@@ -3198,6 +3210,10 @@
     "sintys": {
       "codepoint": 63260,
       "source": "src/_icons/sintys.svg"
+    },
+    "sismologia": {
+      "codepoint": 63340,
+      "source": "src/_icons/sismologia.svg"
     },
     "sistema-de-consulta-aprender": {
       "codepoint": 63053,
