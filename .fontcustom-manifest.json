@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "702a023d3e55f10e12e2b65fee1378e37bbbb9e8427e7198306256325aa94de4",
-    "current": "702a023d3e55f10e12e2b65fee1378e37bbbb9e8427e7198306256325aa94de4"
+    "previous": "02c1319743cdcf3da43dbf293119dc6cd6be246c316c6140d35b42383d0be528",
+    "current": "02c1319743cdcf3da43dbf293119dc6cd6be246c316c6140d35b42383d0be528"
   },
   "fonts": [
-    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.ttf",
-    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.svg",
-    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.woff",
-    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.eot",
-    "dist/fonts/icono-arg_702a023d3e55f10e12e2b65fee1378e3.woff2"
+    "dist/fonts/icono-arg_02c1319743cdcf3da43dbf293119dc6c.ttf",
+    "dist/fonts/icono-arg_02c1319743cdcf3da43dbf293119dc6c.svg",
+    "dist/fonts/icono-arg_02c1319743cdcf3da43dbf293119dc6c.woff",
+    "dist/fonts/icono-arg_02c1319743cdcf3da43dbf293119dc6c.eot",
+    "dist/fonts/icono-arg_02c1319743cdcf3da43dbf293119dc6c.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1603,6 +1603,10 @@
       "codepoint": 63106,
       "source": "src/_icons/festivales-argentina-florece.svg"
     },
+    "fibra-grano-canamo": {
+      "codepoint": 63341,
+      "source": "src/_icons/fibra-grano-canamo.svg"
+    },
     "fiestas-argentinas": {
       "codepoint": 63094,
       "source": "src/_icons/fiestas-argentinas.svg"
@@ -1638,6 +1642,10 @@
     "flickr": {
       "codepoint": 63007,
       "source": "src/_icons/flickr.svg"
+    },
+    "flor-canamo-biomasa": {
+      "codepoint": 63342,
+      "source": "src/_icons/flor-canamo-biomasa.svg"
     },
     "flor-ceibo": {
       "codepoint": 63008,
