@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "6bcb38bd0a5e9a903a569aefa8d481e67544838b63967d59bf011998320b9300",
-    "current": "6bcb38bd0a5e9a903a569aefa8d481e67544838b63967d59bf011998320b9300"
+    "previous": "eaddd0c5c216972f2ca260b5fa25cc918b5411c7cd800129b417ea64ac296b24",
+    "current": "eaddd0c5c216972f2ca260b5fa25cc918b5411c7cd800129b417ea64ac296b24"
   },
   "fonts": [
-    "dist/fonts/icono-arg_6bcb38bd0a5e9a903a569aefa8d481e6.ttf",
-    "dist/fonts/icono-arg_6bcb38bd0a5e9a903a569aefa8d481e6.svg",
-    "dist/fonts/icono-arg_6bcb38bd0a5e9a903a569aefa8d481e6.woff",
-    "dist/fonts/icono-arg_6bcb38bd0a5e9a903a569aefa8d481e6.eot",
-    "dist/fonts/icono-arg_6bcb38bd0a5e9a903a569aefa8d481e6.woff2"
+    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.ttf",
+    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.svg",
+    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.woff",
+    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.eot",
+    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -382,6 +382,10 @@
     "barrio": {
       "codepoint": 62873,
       "source": "src/_icons/barrio.svg"
+    },
+    "batimetrias": {
+      "codepoint": 63346,
+      "source": "src/_icons/batimetrias.svg"
     },
     "bebe-01": {
       "codepoint": 62923,
@@ -1847,6 +1851,10 @@
       "codepoint": 63266,
       "source": "src/_icons/herramientas-colaborativas1.svg"
     },
+    "hidrometros": {
+      "codepoint": 63347,
+      "source": "src/_icons/hidrometros.svg"
+    },
     "hogar-y-familia": {
       "codepoint": 62373,
       "source": "src/_icons/hogar-y-familia.svg"
@@ -2430,6 +2438,10 @@
     "natacion": {
       "codepoint": 62388,
       "source": "src/_icons/natacion.svg"
+    },
+    "navegacion": {
+      "codepoint": 63348,
+      "source": "src/_icons/navegacion.svg"
     },
     "nevadas": {
       "codepoint": 62551,
@@ -3186,6 +3198,10 @@
     "semaforo": {
       "codepoint": 62423,
       "source": "src/_icons/semaforo.svg"
+    },
+    "senalizacion": {
+      "codepoint": 63349,
+      "source": "src/_icons/senalizacion.svg"
     },
     "senderismo": {
       "codepoint": 63332,
