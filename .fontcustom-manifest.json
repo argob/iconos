@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "eaddd0c5c216972f2ca260b5fa25cc918b5411c7cd800129b417ea64ac296b24",
-    "current": "eaddd0c5c216972f2ca260b5fa25cc918b5411c7cd800129b417ea64ac296b24"
+    "previous": "e84c85e67a43cbb4bcb929bc3d0ed82b4a087d08c71abd9ca64b1b3689bbf5c4",
+    "current": "e84c85e67a43cbb4bcb929bc3d0ed82b4a087d08c71abd9ca64b1b3689bbf5c4"
   },
   "fonts": [
-    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.ttf",
-    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.svg",
-    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.woff",
-    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.eot",
-    "dist/fonts/icono-arg_eaddd0c5c216972f2ca260b5fa25cc91.woff2"
+    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.ttf",
+    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.svg",
+    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.woff",
+    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.eot",
+    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -694,6 +694,10 @@
     "centro-cultural-de-la-ciencia": {
       "codepoint": 63258,
       "source": "src/_icons/centro-cultural-de-la-ciencia.svg"
+    },
+    "centro-de-fronteras": {
+      "codepoint": 63350,
+      "source": "src/_icons/centro-de-fronteras.svg"
     },
     "centro-de-generos-en-tecnologia": {
       "codepoint": 63114,
