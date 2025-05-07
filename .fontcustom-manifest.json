@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "7404e6116b57f5d7090d739aba61b80656126f54a2b0cdfbdf9a13be2a2731df",
-    "current": "7404e6116b57f5d7090d739aba61b80656126f54a2b0cdfbdf9a13be2a2731df"
+    "previous": "3a7aa4ad1b5cd2b8728e129ec7c8714f7605bf2d0e38703b899ef0a9a5ee5aa8",
+    "current": "3a7aa4ad1b5cd2b8728e129ec7c8714f7605bf2d0e38703b899ef0a9a5ee5aa8"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.ttf",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.svg",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.woff",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.eot",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.woff2"
+    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.ttf",
+    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.svg",
+    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.woff",
+    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.eot",
+    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1898,6 +1898,10 @@
     "hospital-bonaparte-centro-cultural": {
       "codepoint": 63251,
       "source": "src/_icons/hospital-bonaparte-centro-cultural.svg"
+    },
+    "hospital-salud": {
+      "codepoint": 63354,
+      "source": "src/_icons/hospital-salud.svg"
     },
     "hosting": {
       "codepoint": 62734,

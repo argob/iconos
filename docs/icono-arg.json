@@ -2362,6 +2362,11 @@
       },
     
       {
+        "nombre": "hospital-salud",
+        "clase": "icono-arg-hospital-salud"
+      },
+    
+      {
         "nombre": "hosting",
         "clase": "icono-arg-hosting"
       },
