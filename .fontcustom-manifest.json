@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "3a7aa4ad1b5cd2b8728e129ec7c8714f7605bf2d0e38703b899ef0a9a5ee5aa8",
-    "current": "3a7aa4ad1b5cd2b8728e129ec7c8714f7605bf2d0e38703b899ef0a9a5ee5aa8"
+    "previous": "0c8d445a9e5c6f9ba718fc6948c211a8160abea3fa9f9f9ba25a9477e92b2372",
+    "current": "0c8d445a9e5c6f9ba718fc6948c211a8160abea3fa9f9f9ba25a9477e92b2372"
   },
   "fonts": [
-    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.ttf",
-    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.svg",
-    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.woff",
-    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.eot",
-    "dist/fonts/icono-arg_3a7aa4ad1b5cd2b8728e129ec7c8714f.woff2"
+    "dist/fonts/icono-arg_0c8d445a9e5c6f9ba718fc6948c211a8.ttf",
+    "dist/fonts/icono-arg_0c8d445a9e5c6f9ba718fc6948c211a8.svg",
+    "dist/fonts/icono-arg_0c8d445a9e5c6f9ba718fc6948c211a8.woff",
+    "dist/fonts/icono-arg_0c8d445a9e5c6f9ba718fc6948c211a8.eot",
+    "dist/fonts/icono-arg_0c8d445a9e5c6f9ba718fc6948c211a8.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1451,13 +1451,13 @@
       "codepoint": 62528,
       "source": "src/_icons/energia-sustentable-2.svg"
     },
-    "enfermera": {
-      "codepoint": 63351,
-      "source": "src/_icons/enfermera.svg"
+    "enfermera-salud": {
+      "codepoint": 63355,
+      "source": "src/_icons/enfermera-salud.svg"
     },
-    "enfermero": {
-      "codepoint": 63352,
-      "source": "src/_icons/enfermero.svg"
+    "enfermero-salud": {
+      "codepoint": 63356,
+      "source": "src/_icons/enfermero-salud.svg"
     },
     "entradas": {
       "codepoint": 62905,
@@ -2307,6 +2307,10 @@
       "codepoint": 63353,
       "source": "src/_icons/medica.svg"
     },
+    "medica-salud": {
+      "codepoint": 63357,
+      "source": "src/_icons/medica-salud.svg"
+    },
     "medicamentos": {
       "codepoint": 62385,
       "source": "src/_icons/medicamentos.svg"
@@ -2334,6 +2338,10 @@
     "medico": {
       "codepoint": 62513,
       "source": "src/_icons/medico.svg"
+    },
+    "medico-salud": {
+      "codepoint": 63358,
+      "source": "src/_icons/medico-salud.svg"
     },
     "medula-osea": {
       "codepoint": 62774,
