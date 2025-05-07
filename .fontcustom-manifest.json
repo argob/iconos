@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e84c85e67a43cbb4bcb929bc3d0ed82b4a087d08c71abd9ca64b1b3689bbf5c4",
-    "current": "e84c85e67a43cbb4bcb929bc3d0ed82b4a087d08c71abd9ca64b1b3689bbf5c4"
+    "previous": "7404e6116b57f5d7090d739aba61b80656126f54a2b0cdfbdf9a13be2a2731df",
+    "current": "7404e6116b57f5d7090d739aba61b80656126f54a2b0cdfbdf9a13be2a2731df"
   },
   "fonts": [
-    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.ttf",
-    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.svg",
-    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.woff",
-    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.eot",
-    "dist/fonts/icono-arg_e84c85e67a43cbb4bcb929bc3d0ed82b.woff2"
+    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.ttf",
+    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.svg",
+    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.woff",
+    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.eot",
+    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1451,6 +1451,14 @@
       "codepoint": 62528,
       "source": "src/_icons/energia-sustentable-2.svg"
     },
+    "enfermera": {
+      "codepoint": 63351,
+      "source": "src/_icons/enfermera.svg"
+    },
+    "enfermero": {
+      "codepoint": 63352,
+      "source": "src/_icons/enfermero.svg"
+    },
     "entradas": {
       "codepoint": 62905,
       "source": "src/_icons/entradas.svg"
@@ -2290,6 +2298,10 @@
     "mecedora": {
       "codepoint": 62573,
       "source": "src/_icons/mecedora.svg"
+    },
+    "medica": {
+      "codepoint": 63353,
+      "source": "src/_icons/medica.svg"
     },
     "medicamentos": {
       "codepoint": 62385,
