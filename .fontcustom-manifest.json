@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "7404e6116b57f5d7090d739aba61b80656126f54a2b0cdfbdf9a13be2a2731df",
-    "current": "7404e6116b57f5d7090d739aba61b80656126f54a2b0cdfbdf9a13be2a2731df"
+    "previous": "1e8583452431b945a69cc5f5acf25ce9555ddd64acabc9bb601aa43a55341606",
+    "current": "1e8583452431b945a69cc5f5acf25ce9555ddd64acabc9bb601aa43a55341606"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.ttf",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.svg",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.woff",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.eot",
-    "dist/fonts/icono-arg_7404e6116b57f5d7090d739aba61b806.woff2"
+    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.ttf",
+    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.svg",
+    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.woff",
+    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.eot",
+    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -398,6 +398,10 @@
     "biblioteca": {
       "codepoint": 62939,
       "source": "src/_icons/biblioteca.svg"
+    },
+    "bicicleta": {
+      "codepoint": 63361,
+      "source": "src/_icons/bicicleta.svg"
     },
     "bidon": {
       "codepoint": 62954,
