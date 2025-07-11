@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "1e8583452431b945a69cc5f5acf25ce9555ddd64acabc9bb601aa43a55341606",
-    "current": "1e8583452431b945a69cc5f5acf25ce9555ddd64acabc9bb601aa43a55341606"
+    "previous": "da6044edcfc0eb579123aa8518cdf9616593138bb83155e668ab0392bf0eea3e",
+    "current": "da6044edcfc0eb579123aa8518cdf9616593138bb83155e668ab0392bf0eea3e"
   },
   "fonts": [
-    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.ttf",
-    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.svg",
-    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.woff",
-    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.eot",
-    "dist/fonts/icono-arg_1e8583452431b945a69cc5f5acf25ce9.woff2"
+    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.ttf",
+    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.svg",
+    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.woff",
+    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.eot",
+    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -190,6 +190,10 @@
     "anlis-malbran": {
       "codepoint": 63088,
       "source": "src/_icons/anlis-malbran.svg"
+    },
+    "anlis-recursos-didacticos": {
+      "codepoint": 63362,
+      "source": "src/_icons/anlis-recursos-didacticos.svg"
     },
     "anlis-uoccb": {
       "codepoint": 63089,
