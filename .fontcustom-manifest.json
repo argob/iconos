@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "da6044edcfc0eb579123aa8518cdf9616593138bb83155e668ab0392bf0eea3e",
-    "current": "da6044edcfc0eb579123aa8518cdf9616593138bb83155e668ab0392bf0eea3e"
+    "previous": "d575b86ae6556e738fe950b6139dab3901e7b5174c47342bbba6d15479f213c0",
+    "current": "d575b86ae6556e738fe950b6139dab3901e7b5174c47342bbba6d15479f213c0"
   },
   "fonts": [
-    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.ttf",
-    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.svg",
-    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.woff",
-    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.eot",
-    "dist/fonts/icono-arg_da6044edcfc0eb579123aa8518cdf961.woff2"
+    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.ttf",
+    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.svg",
+    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.woff",
+    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.eot",
+    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3310,6 +3310,10 @@
     "spotify-circular": {
       "codepoint": 63269,
       "source": "src/_icons/spotify-circular.svg"
+    },
+    "streaming": {
+      "codepoint": 63363,
+      "source": "src/_icons/streaming.svg"
     },
     "sube": {
       "codepoint": 62408,
