@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "d575b86ae6556e738fe950b6139dab3901e7b5174c47342bbba6d15479f213c0",
-    "current": "d575b86ae6556e738fe950b6139dab3901e7b5174c47342bbba6d15479f213c0"
+    "previous": "d81f889b1c701ba6b8be417ab2d8c8dadacfbc364643b73308053573a5faf377",
+    "current": "d81f889b1c701ba6b8be417ab2d8c8dadacfbc364643b73308053573a5faf377"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.ttf",
-    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.svg",
-    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.woff",
-    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.eot",
-    "dist/fonts/icono-arg_d575b86ae6556e738fe950b6139dab39.woff2"
+    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.ttf",
+    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.svg",
+    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.woff",
+    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.eot",
+    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1443,6 +1443,18 @@
       "codepoint": 62499,
       "source": "src/_icons/energia-nuclear.svg"
     },
+    "energia-nuclear-chip": {
+      "codepoint": 63364,
+      "source": "src/_icons/energia-nuclear-chip.svg"
+    },
+    "energia-nuclear-ia": {
+      "codepoint": 63365,
+      "source": "src/_icons/energia-nuclear-ia.svg"
+    },
+    "energia-nuclear-rayo": {
+      "codepoint": 63366,
+      "source": "src/_icons/energia-nuclear-rayo.svg"
+    },
     "energia-solar": {
       "codepoint": 62621,
       "source": "src/_icons/energia-solar.svg"
@@ -2018,6 +2030,10 @@
     "instructor-de-tiro": {
       "codepoint": 62753,
       "source": "src/_icons/instructor-de-tiro.svg"
+    },
+    "inteligencia-artificial": {
+      "codepoint": 63367,
+      "source": "src/_icons/inteligencia-artificial.svg"
     },
     "interes-cultural": {
       "codepoint": 62377,
@@ -3010,6 +3026,10 @@
     "radar-meteorologico": {
       "codepoint": 62857,
       "source": "src/_icons/radar-meteorologico.svg"
+    },
+    "radiacion-nuclear": {
+      "codepoint": 63368,
+      "source": "src/_icons/radiacion-nuclear.svg"
     },
     "radiocirugia": {
       "codepoint": 63250,
