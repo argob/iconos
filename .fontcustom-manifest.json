@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "d81f889b1c701ba6b8be417ab2d8c8dadacfbc364643b73308053573a5faf377",
-    "current": "d81f889b1c701ba6b8be417ab2d8c8dadacfbc364643b73308053573a5faf377"
+    "previous": "5b399d2c1043c2e126417e9078038b93f68e226a6bb59c6be3883e936aeea5a8",
+    "current": "5b399d2c1043c2e126417e9078038b93f68e226a6bb59c6be3883e936aeea5a8"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.ttf",
-    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.svg",
-    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.woff",
-    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.eot",
-    "dist/fonts/icono-arg_d81f889b1c701ba6b8be417ab2d8c8da.woff2"
+    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.ttf",
+    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.svg",
+    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.woff",
+    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.eot",
+    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -2286,6 +2286,10 @@
     "maquinaria-G3": {
       "codepoint": 63207,
       "source": "src/_icons/maquinaria-G3.svg"
+    },
+    "marca-pais": {
+      "codepoint": 63369,
+      "source": "src/_icons/marca-pais.svg"
     },
     "marcador-centro-de-salud-1": {
       "codepoint": 62509,
