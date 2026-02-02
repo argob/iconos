@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "5b399d2c1043c2e126417e9078038b93f68e226a6bb59c6be3883e936aeea5a8",
-    "current": "5b399d2c1043c2e126417e9078038b93f68e226a6bb59c6be3883e936aeea5a8"
+    "previous": "2daf821cd75ae0b48310d59eca92ebad6e82dbf803cd2835ff35333326b6b748",
+    "current": "2daf821cd75ae0b48310d59eca92ebad6e82dbf803cd2835ff35333326b6b748"
   },
   "fonts": [
-    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.ttf",
-    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.svg",
-    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.woff",
-    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.eot",
-    "dist/fonts/icono-arg_5b399d2c1043c2e126417e9078038b93.woff2"
+    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.ttf",
+    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.svg",
+    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.woff",
+    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.eot",
+    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -402,6 +402,10 @@
     "biblioteca": {
       "codepoint": 62939,
       "source": "src/_icons/biblioteca.svg"
+    },
+    "biblioteca-2": {
+      "codepoint": 63370,
+      "source": "src/_icons/biblioteca-2.svg"
     },
     "bicicleta": {
       "codepoint": 63361,
@@ -2163,6 +2167,10 @@
       "codepoint": 63004,
       "source": "src/_icons/linkedin-in.svg"
     },
+    "litio": {
+      "codepoint": 63371,
+      "source": "src/_icons/litio.svg"
+    },
     "lluvias": {
       "codepoint": 62783,
       "source": "src/_icons/lluvias.svg"
@@ -2474,6 +2482,10 @@
     "museo": {
       "codepoint": 62387,
       "source": "src/_icons/museo.svg"
+    },
+    "museo-geologico": {
+      "codepoint": 63372,
+      "source": "src/_icons/museo-geologico.svg"
     },
     "nanotecnologia": {
       "codepoint": 63257,
@@ -3214,6 +3226,14 @@
     "satelite": {
       "codepoint": 62798,
       "source": "src/_icons/satelite.svg"
+    },
+    "segemar": {
+      "codepoint": 63373,
+      "source": "src/_icons/segemar.svg"
+    },
+    "segemar-120": {
+      "codepoint": 63374,
+      "source": "src/_icons/segemar-120.svg"
     },
     "seguridad": {
       "codepoint": 62403,
