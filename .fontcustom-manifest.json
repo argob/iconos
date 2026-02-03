@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "2daf821cd75ae0b48310d59eca92ebad6e82dbf803cd2835ff35333326b6b748",
-    "current": "2daf821cd75ae0b48310d59eca92ebad6e82dbf803cd2835ff35333326b6b748"
+    "previous": "dca92a2723b5a375d249ef43845e66649bf6699c395602970c8123393ce2370c",
+    "current": "dca92a2723b5a375d249ef43845e66649bf6699c395602970c8123393ce2370c"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.ttf",
-    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.svg",
-    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.woff",
-    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.eot",
-    "dist/fonts/icono-arg_2daf821cd75ae0b48310d59eca92ebad.woff2"
+    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.ttf",
+    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.svg",
+    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.woff",
+    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.eot",
+    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3414,6 +3414,10 @@
     "tarjeta-alimentar-negativo": {
       "codepoint": 62969,
       "source": "src/_icons/tarjeta-alimentar-negativo.svg"
+    },
+    "tasas-municipales": {
+      "codepoint": 63375,
+      "source": "src/_icons/tasas-municipales.svg"
     },
     "teatro": {
       "codepoint": 62409,
