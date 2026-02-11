@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "390ab478de6a4e9e8b69b6d455726615419989cf94999eef8f47b131374e21e3",
-    "current": "390ab478de6a4e9e8b69b6d455726615419989cf94999eef8f47b131374e21e3"
+    "previous": "da1a6dbfa2f7a7307cd0f216bde036c223a463be0abab4d9b295dec9972230e5",
+    "current": "da1a6dbfa2f7a7307cd0f216bde036c223a463be0abab4d9b295dec9972230e5"
   },
   "fonts": [
-    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.ttf",
-    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.svg",
-    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.woff",
-    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.eot",
-    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.woff2"
+    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.ttf",
+    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.svg",
+    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.woff",
+    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.eot",
+    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -114,6 +114,10 @@
     "alimentos-y-establecimientos-ok": {
       "codepoint": 62662,
       "source": "src/_icons/alimentos-y-establecimientos-ok.svg"
+    },
+    "amanecer": {
+      "codepoint": 63379,
+      "source": "src/_icons/amanecer.svg"
     },
     "ambiente": {
       "codepoint": 62322,
@@ -286,6 +290,10 @@
     "astroturismo": {
       "codepoint": 63319,
       "source": "src/_icons/astroturismo.svg"
+    },
+    "atardecer": {
+      "codepoint": 63380,
+      "source": "src/_icons/atardecer.svg"
     },
     "audicion-accesible": {
       "codepoint": 63025,
