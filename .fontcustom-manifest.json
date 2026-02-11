@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "dca92a2723b5a375d249ef43845e66649bf6699c395602970c8123393ce2370c",
-    "current": "dca92a2723b5a375d249ef43845e66649bf6699c395602970c8123393ce2370c"
+    "previous": "390ab478de6a4e9e8b69b6d455726615419989cf94999eef8f47b131374e21e3",
+    "current": "390ab478de6a4e9e8b69b6d455726615419989cf94999eef8f47b131374e21e3"
   },
   "fonts": [
-    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.ttf",
-    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.svg",
-    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.woff",
-    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.eot",
-    "dist/fonts/icono-arg_dca92a2723b5a375d249ef43845e6664.woff2"
+    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.ttf",
+    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.svg",
+    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.woff",
+    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.eot",
+    "dist/fonts/icono-arg_390ab478de6a4e9e8b69b6d455726615.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1763,6 +1763,10 @@
       "codepoint": 62851,
       "source": "src/_icons/gastos-recursos.svg"
     },
+    "gato": {
+      "codepoint": 63376,
+      "source": "src/_icons/gato.svg"
+    },
     "genero": {
       "codepoint": 62476,
       "source": "src/_icons/genero.svg"
@@ -2755,6 +2759,10 @@
       "codepoint": 62654,
       "source": "src/_icons/pera.svg"
     },
+    "perro": {
+      "codepoint": 63377,
+      "source": "src/_icons/perro.svg"
+    },
     "perro-asistencia": {
       "codepoint": 63238,
       "source": "src/_icons/perro-asistencia.svg"
@@ -3586,6 +3594,10 @@
     "transplante-negativo": {
       "codepoint": 62743,
       "source": "src/_icons/transplante-negativo.svg"
+    },
+    "transportadora-mascota": {
+      "codepoint": 63378,
+      "source": "src/_icons/transportadora-mascota.svg"
     },
     "transporte-D1": {
       "codepoint": 63213,
