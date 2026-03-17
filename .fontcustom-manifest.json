@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "da1a6dbfa2f7a7307cd0f216bde036c223a463be0abab4d9b295dec9972230e5",
-    "current": "da1a6dbfa2f7a7307cd0f216bde036c223a463be0abab4d9b295dec9972230e5"
+    "previous": "8e62d8b5a89d1f0b8e1fd3ab019743ec01dd5b42d4be22d412fbafb330a7297f",
+    "current": "8e62d8b5a89d1f0b8e1fd3ab019743ec01dd5b42d4be22d412fbafb330a7297f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.ttf",
-    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.svg",
-    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.woff",
-    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.eot",
-    "dist/fonts/icono-arg_da1a6dbfa2f7a7307cd0f216bde036c2.woff2"
+    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.ttf",
+    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.svg",
+    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.woff",
+    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.eot",
+    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -74,6 +74,10 @@
     "agua-contaminada": {
       "codepoint": 62777,
       "source": "src/_icons/agua-contaminada.svg"
+    },
+    "aguas-subterraneas": {
+      "codepoint": 63381,
+      "source": "src/_icons/aguas-subterraneas.svg"
     },
     "ahora12": {
       "codepoint": 63167,
@@ -3323,6 +3327,10 @@
       "codepoint": 62788,
       "source": "src/_icons/sin-mosquito.svg"
     },
+    "sinarame": {
+      "codepoint": 63382,
+      "source": "src/_icons/sinarame.svg"
+    },
     "sintra": {
       "codepoint": 63119,
       "source": "src/_icons/sintra.svg"
@@ -3342,6 +3350,10 @@
     "sitios-accesibles": {
       "codepoint": 62937,
       "source": "src/_icons/sitios-accesibles.svg"
+    },
+    "snih": {
+      "codepoint": 63383,
+      "source": "src/_icons/snih.svg"
     },
     "soberania-alimentaria": {
       "codepoint": 63127,
