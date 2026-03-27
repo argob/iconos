@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8e62d8b5a89d1f0b8e1fd3ab019743ec01dd5b42d4be22d412fbafb330a7297f",
-    "current": "8e62d8b5a89d1f0b8e1fd3ab019743ec01dd5b42d4be22d412fbafb330a7297f"
+    "previous": "2e2a8cc8279d0df18111063364ad6ebce9aeb4fd2ea230862d72d3aa5a8b2892",
+    "current": "2e2a8cc8279d0df18111063364ad6ebce9aeb4fd2ea230862d72d3aa5a8b2892"
   },
   "fonts": [
-    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.ttf",
-    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.svg",
-    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.woff",
-    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.eot",
-    "dist/fonts/icono-arg_8e62d8b5a89d1f0b8e1fd3ab019743ec.woff2"
+    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.ttf",
+    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.svg",
+    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.woff",
+    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.eot",
+    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1702,6 +1702,10 @@
     "flor-ceibo": {
       "codepoint": 63008,
       "source": "src/_icons/flor-ceibo.svg"
+    },
+    "formando-capital-humano": {
+      "codepoint": 63384,
+      "source": "src/_icons/formando-capital-humano.svg"
     },
     "fotografia": {
       "codepoint": 62941,
