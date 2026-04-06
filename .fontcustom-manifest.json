@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "2e2a8cc8279d0df18111063364ad6ebce9aeb4fd2ea230862d72d3aa5a8b2892",
-    "current": "2e2a8cc8279d0df18111063364ad6ebce9aeb4fd2ea230862d72d3aa5a8b2892"
+    "previous": "7640d133f4844282e60affce5e791ee15537c717343bbe9ce2022244ec22ed8f",
+    "current": "7640d133f4844282e60affce5e791ee15537c717343bbe9ce2022244ec22ed8f"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.ttf",
-    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.svg",
-    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.woff",
-    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.eot",
-    "dist/fonts/icono-arg_2e2a8cc8279d0df18111063364ad6ebc.woff2"
+    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.ttf",
+    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.svg",
+    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.woff",
+    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.eot",
+    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -2270,6 +2270,10 @@
     "mano-alt": {
       "codepoint": 62383,
       "source": "src/_icons/mano-alt.svg"
+    },
+    "mano-tablet": {
+      "codepoint": 63385,
+      "source": "src/_icons/mano-tablet.svg"
     },
     "manzana": {
       "codepoint": 62653,
