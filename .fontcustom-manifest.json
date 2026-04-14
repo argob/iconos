@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "7640d133f4844282e60affce5e791ee15537c717343bbe9ce2022244ec22ed8f",
-    "current": "7640d133f4844282e60affce5e791ee15537c717343bbe9ce2022244ec22ed8f"
+    "previous": "d655ba6fcc4821856b6119b1bf5a17af80637023c89806e9ef292ac369ceeab0",
+    "current": "d655ba6fcc4821856b6119b1bf5a17af80637023c89806e9ef292ac369ceeab0"
   },
   "fonts": [
-    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.ttf",
-    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.svg",
-    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.woff",
-    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.eot",
-    "dist/fonts/icono-arg_7640d133f4844282e60affce5e791ee1.woff2"
+    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.ttf",
+    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.svg",
+    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.woff",
+    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.eot",
+    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3426,6 +3426,10 @@
     "tabla-de-datos": {
       "codepoint": 62860,
       "source": "src/_icons/tabla-de-datos.svg"
+    },
+    "tableau": {
+      "codepoint": 63386,
+      "source": "src/_icons/tableau.svg"
     },
     "tablero-gestion": {
       "codepoint": 62740,
