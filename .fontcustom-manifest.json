@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "d655ba6fcc4821856b6119b1bf5a17af80637023c89806e9ef292ac369ceeab0",
-    "current": "d655ba6fcc4821856b6119b1bf5a17af80637023c89806e9ef292ac369ceeab0"
+    "previous": "76aae9f43654d484febffbccb95fc74bf01c175f34d99259063e3d0dfedef7e4",
+    "current": "76aae9f43654d484febffbccb95fc74bf01c175f34d99259063e3d0dfedef7e4"
   },
   "fonts": [
-    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.ttf",
-    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.svg",
-    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.woff",
-    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.eot",
-    "dist/fonts/icono-arg_d655ba6fcc4821856b6119b1bf5a17af.woff2"
+    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.ttf",
+    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.svg",
+    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.woff",
+    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.eot",
+    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -247,9 +247,21 @@
       "codepoint": 62328,
       "source": "src/_icons/arbol.svg"
     },
+    "archivo-comprimido": {
+      "codepoint": 63387,
+      "source": "src/_icons/archivo-comprimido.svg"
+    },
     "archivo-consulta": {
       "codepoint": 62329,
       "source": "src/_icons/archivo-consulta.svg"
+    },
+    "archivo-documento": {
+      "codepoint": 63388,
+      "source": "src/_icons/archivo-documento.svg"
+    },
+    "archivo-planilla": {
+      "codepoint": 63389,
+      "source": "src/_icons/archivo-planilla.svg"
     },
     "areas-vacantes": {
       "codepoint": 62488,
