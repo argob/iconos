@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "76aae9f43654d484febffbccb95fc74bf01c175f34d99259063e3d0dfedef7e4",
-    "current": "76aae9f43654d484febffbccb95fc74bf01c175f34d99259063e3d0dfedef7e4"
+    "previous": "2f14749c62b6d05b2ddf41e54ce4b4bdffcb44a019cd33cb0a313b3d8d31a08c",
+    "current": "2f14749c62b6d05b2ddf41e54ce4b4bdffcb44a019cd33cb0a313b3d8d31a08c"
   },
   "fonts": [
-    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.ttf",
-    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.svg",
-    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.woff",
-    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.eot",
-    "dist/fonts/icono-arg_76aae9f43654d484febffbccb95fc74b.woff2"
+    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.ttf",
+    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.svg",
+    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.woff",
+    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.eot",
+    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -2039,6 +2039,10 @@
       "codepoint": 62630,
       "source": "src/_icons/informes-y-estadisticas.svg"
     },
+    "infraestructura": {
+      "codepoint": 63390,
+      "source": "src/_icons/infraestructura.svg"
+    },
     "ingenieria-sismica": {
       "codepoint": 63338,
       "source": "src/_icons/ingenieria-sismica.svg"
@@ -2447,6 +2451,10 @@
       "codepoint": 62675,
       "source": "src/_icons/microscopio.svg"
     },
+    "mineria": {
+      "codepoint": 63391,
+      "source": "src/_icons/mineria.svg"
+    },
     "mirarnos": {
       "codepoint": 63124,
       "source": "src/_icons/mirarnos.svg"
@@ -2842,6 +2850,10 @@
     "petroleo": {
       "codepoint": 62396,
       "source": "src/_icons/petroleo.svg"
+    },
+    "petroleo-y-gas": {
+      "codepoint": 63392,
+      "source": "src/_icons/petroleo-y-gas.svg"
     },
     "piloto": {
       "codepoint": 62738,
@@ -3334,6 +3346,10 @@
     "servidor": {
       "codepoint": 62405,
       "source": "src/_icons/servidor.svg"
+    },
+    "siderurgia": {
+      "codepoint": 63393,
+      "source": "src/_icons/siderurgia.svg"
     },
     "silla-seguridad-auto": {
       "codepoint": 62696,
