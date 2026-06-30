@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "2f14749c62b6d05b2ddf41e54ce4b4bdffcb44a019cd33cb0a313b3d8d31a08c",
-    "current": "2f14749c62b6d05b2ddf41e54ce4b4bdffcb44a019cd33cb0a313b3d8d31a08c"
+    "previous": "ef69c8eae6d14940c7b681f1184455db048e42f7a05f4c4544e55e4f9517014c",
+    "current": "ef69c8eae6d14940c7b681f1184455db048e42f7a05f4c4544e55e4f9517014c"
   },
   "fonts": [
-    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.ttf",
-    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.svg",
-    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.woff",
-    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.eot",
-    "dist/fonts/icono-arg_2f14749c62b6d05b2ddf41e54ce4b4bd.woff2"
+    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.ttf",
+    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.svg",
+    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.woff",
+    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.eot",
+    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1026,6 +1026,10 @@
     "comisiones-cofefup-seguridad": {
       "codepoint": 62988,
       "source": "src/_icons/comisiones-cofefup-seguridad.svg"
+    },
+    "comite": {
+      "codepoint": 63394,
+      "source": "src/_icons/comite.svg"
     },
     "componentes": {
       "codepoint": 62930,
