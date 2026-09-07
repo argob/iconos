@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "ef69c8eae6d14940c7b681f1184455db048e42f7a05f4c4544e55e4f9517014c",
-    "current": "ef69c8eae6d14940c7b681f1184455db048e42f7a05f4c4544e55e4f9517014c"
+    "previous": "5f69023d5db5a8362a14b005995c20b943452bd0968abbf139511b16780eb3f2",
+    "current": "5f69023d5db5a8362a14b005995c20b943452bd0968abbf139511b16780eb3f2"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.ttf",
-    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.svg",
-    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.woff",
-    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.eot",
-    "dist/fonts/icono-arg_ef69c8eae6d14940c7b681f1184455db.woff2"
+    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.ttf",
+    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.svg",
+    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.woff",
+    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.eot",
+    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1450,6 +1450,10 @@
     "emergencia-D4": {
       "codepoint": 63204,
       "source": "src/_icons/emergencia-D4.svg"
+    },
+    "emergencia-ferroviaria": {
+      "codepoint": 63395,
+      "source": "src/_icons/emergencia-ferroviaria.svg"
     },
     "empleo-2": {
       "codepoint": 62527,
