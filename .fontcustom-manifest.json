@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "5f69023d5db5a8362a14b005995c20b943452bd0968abbf139511b16780eb3f2",
-    "current": "5f69023d5db5a8362a14b005995c20b943452bd0968abbf139511b16780eb3f2"
+    "previous": "ecf3b4af53f18715fa5be6194a826043683f07793023116aa9f7821505e24c8a",
+    "current": "ecf3b4af53f18715fa5be6194a826043683f07793023116aa9f7821505e24c8a"
   },
   "fonts": [
-    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.ttf",
-    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.svg",
-    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.woff",
-    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.eot",
-    "dist/fonts/icono-arg_5f69023d5db5a8362a14b005995c20b9.woff2"
+    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.ttf",
+    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.svg",
+    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.woff",
+    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.eot",
+    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -3702,6 +3702,10 @@
     "tren": {
       "codepoint": 63063,
       "source": "src/_icons/tren.svg"
+    },
+    "tren-carga": {
+      "codepoint": 63396,
+      "source": "src/_icons/tren-carga.svg"
     },
     "triciclo-A2": {
       "codepoint": 63216,
