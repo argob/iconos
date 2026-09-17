@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "ecf3b4af53f18715fa5be6194a826043683f07793023116aa9f7821505e24c8a",
-    "current": "ecf3b4af53f18715fa5be6194a826043683f07793023116aa9f7821505e24c8a"
+    "previous": "a15d4401d9c6d353b28a4feed1ccf8af1439714ab81f89e651bb0ee0435220fa",
+    "current": "a15d4401d9c6d353b28a4feed1ccf8af1439714ab81f89e651bb0ee0435220fa"
   },
   "fonts": [
-    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.ttf",
-    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.svg",
-    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.woff",
-    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.eot",
-    "dist/fonts/icono-arg_ecf3b4af53f18715fa5be6194a826043.woff2"
+    "dist/fonts/icono-arg_a15d4401d9c6d353b28a4feed1ccf8af.ttf",
+    "dist/fonts/icono-arg_a15d4401d9c6d353b28a4feed1ccf8af.svg",
+    "dist/fonts/icono-arg_a15d4401d9c6d353b28a4feed1ccf8af.woff",
+    "dist/fonts/icono-arg_a15d4401d9c6d353b28a4feed1ccf8af.eot",
+    "dist/fonts/icono-arg_a15d4401d9c6d353b28a4feed1ccf8af.woff2"
   ],
   "glyphs": {
     "2030-legado": {
@@ -1722,6 +1722,10 @@
     "flor-ceibo": {
       "codepoint": 63008,
       "source": "src/_icons/flor-ceibo.svg"
+    },
+    "fondos-asistencia-laboral": {
+      "codepoint": 63397,
+      "source": "src/_icons/fondos-asistencia-laboral.svg"
     },
     "formando-capital-humano": {
       "codepoint": 63384,
